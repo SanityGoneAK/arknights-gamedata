@@ -1,6 +1,6 @@
 {
-    "output_dir": "./",
-    "cache_dir": "./cache",
+    "output_dir": "../",
+    "cache_dir": "../cache",
     "fbs_dir": "./fbs",
     "unpack_mode": "unity_py",
     "flatc_path": "./flatc",

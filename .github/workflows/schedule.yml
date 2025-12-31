@@ -5,6 +5,9 @@ on:
   schedule:
     - cron: "*/30 * * * *"
 
+permissions:
+  contents: write
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -20,6 +23,10 @@ jobs:
         with:
           python-version: "3.12"
 
+      - uses: runsascoded/update-submodules@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Install Poetry
         uses: snok/install-poetry@v1
         with:
@@ -29,19 +36,19 @@ jobs:
           installer-parallel: true
 
       - name: Install Poetry Dependencies
-        run: poetry install
+        run: cd sanity-pack && poetry install
 
       - name: install flatbuffers
         run: |
           wget -O flatc https://raw.githubusercontent.com/MooncellWiki/torappu/refs/heads/main/bin/flatc
-          chmod +x flatc && && sudo mv flatc ./sanity-pack/flatc
+          chmod +x flatc && sudo mv flatc ./sanity-pack/flatc
 
       - name: Run Download GameData
         run: |
-          poetry run sanity-pack download -c ../config.fbs.json
-          poetry run sanity-pack unpack -c ../config.fbs.json
-          poetry run sanity-pack fbs download && ../poetry run sanity-pack fbs decode -c config.fbs.json
-          poetry run sanity-pack fbs compile -c ../config.fbs.json
+          cd sanity-pack
+          poetry run sanity-pack download -c ../config.json
+          poetry run sanity-pack unpack -c ../config.json
+          poetry run sanity-pack pipeline -c ../config.json
 
       - uses: stefanzweifel/git-auto-commit-action@v7
         with:
