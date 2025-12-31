@@ -1,0 +1,51 @@
+name: Update Gamedata
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Set up FFMPEG
+        uses: FedericoCarboni/setup-ffmpeg@v3
+
+      - name: Setup Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Poetry
+        uses: snok/install-poetry@v1
+        with:
+          version: 2.2.1
+          virtualenvs-create: true
+          virtualenvs-in-project: true
+          installer-parallel: true
+
+      - name: Install Poetry Dependencies
+        run: poetry install
+
+      - name: install flatbuffers
+        run: |
+          wget -O flatc https://raw.githubusercontent.com/MooncellWiki/torappu/refs/heads/main/bin/flatc
+          chmod +x flatc && && sudo mv flatc ./sanity-pack/flatc
+
+      - name: Run Download GameData
+        run: |
+          poetry run sanity-pack download -c ../config.fbs.json
+          poetry run sanity-pack unpack -c ../config.fbs.json
+          poetry run sanity-pack fbs download && ../poetry run sanity-pack fbs decode -c config.fbs.json
+          poetry run sanity-pack fbs compile -c ../config.fbs.json
+
+      - uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: "update(game-data): Updated Gamedata"
+          commit_author: "Sanity;Gone <actions@users.noreply.github.com>"
+          commit_user_name: "Sanity;Gone 0"
+          commit_author_email: "actions@users.noreply.github.com"
