@@ -1,0 +1,3 @@
+[submodule "sanity-pack"]
+	path = sanity-pack
+	url = https://github.com/SanityGoneAK/sanity-pack.git
