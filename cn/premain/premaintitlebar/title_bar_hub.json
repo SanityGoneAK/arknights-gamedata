@@ -44,6 +44,7 @@
     "snow",
     "summer_sightseer_marthe",
     "summer_yun",
+    "winter",
     "winter_sale_epoque"
   ],
   "_values": [
@@ -62,6 +63,7 @@
     "Premain/PremainTitleBar/snow",
     "Premain/PremainTitleBar/summer_sightseer_marthe",
     "Premain/PremainTitleBar/summer_yun",
+    "Premain/PremainTitleBar/winter",
     "Premain/PremainTitleBar/winter_sale_epoque"
   ]
 }
