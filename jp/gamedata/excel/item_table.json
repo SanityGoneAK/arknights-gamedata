@@ -948,6 +948,25 @@
             "voucherRelateList": null,
             "shopRelateInfoList": null
         },
+        "LMTGS_COIN_6401": {
+            "itemId": "LMTGS_COIN_6401",
+            "name": "限定契約証",
+            "description": "人材派遣会社との長期的かつ安定的な協力態勢の賜物。支出のコントロールに効果が期待できる。しかし、毎回この手段を使わざるを得ないような状況にはなってほしくないものだ。",
+            "rarity": "TIER_5",
+            "iconId": "LMTGS_COIN_6401",
+            "overrideBkg": null,
+            "stackIconId": null,
+            "sortId": 10322,
+            "usage": "新型採用契約による期限付きポイント。一定数溜まると対象スカウトのオペレーターを指名できる。",
+            "obtainApproach": "オペレーター入職時獲得",
+            "hideInItemGet": false,
+            "classifyType": "NORMAL",
+            "itemType": "LMTGS_COIN",
+            "stageDropList": [],
+            "buildingProductList": [],
+            "voucherRelateList": null,
+            "shopRelateInfoList": null
+        },
         "EPGS_COIN": {
             "itemId": "EPGS_COIN",
             "name": "特別引換証",
@@ -2715,6 +2734,25 @@
             "voucherRelateList": null,
             "shopRelateInfoList": null
         },
+        "LIMITED_TKT_GACHA_10_6401": {
+            "itemId": "LIMITED_TKT_GACHA_10_6401",
+            "name": "6周年記念10回スカウト券",
+            "description": "人材を広く確保するためにドクターの要求に応じて準備した応急手段。このようなスカウトは一定の方向性と時限性及び少々のリスクが伴う。",
+            "rarity": "TIER_5",
+            "iconId": "LIMITED_TKT_GACHA_10_6401",
+            "overrideBkg": null,
+            "stackIconId": null,
+            "sortId": 40003,
+            "usage": "ロドス人事部が発行した特殊人材用ヘッドハンティング許可証。節目のタイミングで行われる人材発掘にのみ使用できる。一回で10名のオペレーターをスカウトできる。",
+            "obtainApproach": "プレゼント",
+            "hideInItemGet": false,
+            "classifyType": "NORMAL",
+            "itemType": "LIMITED_TKT_GACHA_10",
+            "stageDropList": [],
+            "buildingProductList": [],
+            "voucherRelateList": null,
+            "shopRelateInfoList": null
+        },
         "7003": {
             "itemId": "7003",
             "name": "スカウト券",
@@ -3200,6 +3238,25 @@
             "stackIconId": null,
             "sortId": 50021,
             "usage": "ロドス人事部発行の★5オペレーター招聘用指名券。強力な助っ人を100パーセント確実に得るためには、事前に数多くの綿密な根回しが必要だ。",
+            "obtainApproach": "プレゼント",
+            "hideInItemGet": false,
+            "classifyType": "CONSUME",
+            "itemType": "VOUCHER_PICK",
+            "stageDropList": [],
+            "buildingProductList": [],
+            "voucherRelateList": null,
+            "shopRelateInfoList": null
+        },
+        "voucher_recruitR6_pick6401": {
+            "itemId": "voucher_recruitR6_pick6401",
+            "name": "特別★6招聘指名券",
+            "description": "サリア、バグパイプ、エイヤフィヤトラ、スルトの中から1名が選択可能なチケット。",
+            "rarity": "TIER_5",
+            "iconId": "voucher_recruitR6_pick6401",
+            "overrideBkg": null,
+            "stackIconId": null,
+            "sortId": 50017,
+            "usage": "ロドス人事部発行の★6オペレーター招聘用指名券。強力な助っ人を100パーセント確実に得るためには、事前に数多くの綿密な根回しが必要だ。",
             "obtainApproach": "プレゼント",
             "hideInItemGet": false,
             "classifyType": "CONSUME",
@@ -7137,12 +7194,7 @@
             "itemType": "MATERIAL",
             "stageDropList": [
                 {
-                    "stageId": "act15mini_03",
-                    "occPer": "OFTEN",
-                    "sortId": 0
-                },
-                {
-                    "stageId": "act19side_02",
+                    "stageId": "act15mini_02",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
@@ -7277,12 +7329,17 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act20side_01",
+                    "stageId": "act27side_01",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
                 {
-                    "stageId": "act27side_01",
+                    "stageId": "act19side_02",
+                    "occPer": "OFTEN",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act20side_01",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
@@ -7292,8 +7349,8 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act18side_01",
-                    "occPer": "OFTEN",
+                    "stageId": "act11mini_02",
+                    "occPer": "USUAL",
                     "sortId": 0
                 },
                 {
@@ -7362,12 +7419,12 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act14side_03",
+                    "stageId": "act15mini_04",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
                 {
-                    "stageId": "act14side_02",
+                    "stageId": "act14side_03",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
@@ -7432,12 +7489,17 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act11mini_02",
-                    "occPer": "USUAL",
+                    "stageId": "act18side_01",
+                    "occPer": "OFTEN",
                     "sortId": 0
                 },
                 {
-                    "stageId": "act15mini_04",
+                    "stageId": "act14side_02",
+                    "occPer": "OFTEN",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act15mini_03",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
@@ -7447,17 +7509,7 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act15mini_02",
-                    "occPer": "OFTEN",
-                    "sortId": 0
-                },
-                {
-                    "stageId": "act36side_01",
-                    "occPer": "OFTEN",
-                    "sortId": 0
-                },
-                {
-                    "stageId": "act37side_03",
+                    "stageId": "act15mini_01",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
@@ -7587,7 +7639,17 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act36side_02",
+                    "stageId": "act44side_02",
+                    "occPer": "OFTEN",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act44side_01",
+                    "occPer": "OFTEN",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act37side_03",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
@@ -7597,17 +7659,12 @@
                     "sortId": 0
                 },
                 {
+                    "stageId": "act36side_01",
+                    "occPer": "OFTEN",
+                    "sortId": 0
+                },
+                {
                     "stageId": "act17mini_01",
-                    "occPer": "OFTEN",
-                    "sortId": 0
-                },
-                {
-                    "stageId": "act17mini_03",
-                    "occPer": "OFTEN",
-                    "sortId": 0
-                },
-                {
-                    "stageId": "act15mini_01",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
@@ -7667,22 +7724,22 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act17mini_02",
-                    "occPer": "OFTEN",
-                    "sortId": 0
-                },
-                {
                     "stageId": "act16mini_02",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
                 {
-                    "stageId": "act31side_03",
+                    "stageId": "act16mini_01",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
                 {
-                    "stageId": "act31side_02",
+                    "stageId": "act36side_02",
+                    "occPer": "OFTEN",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act31side_03",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
@@ -7742,7 +7799,17 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act16mini_01",
+                    "stageId": "act17mini_03",
+                    "occPer": "OFTEN",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act17mini_02",
+                    "occPer": "OFTEN",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act31side_02",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
@@ -7785,6 +7852,11 @@
                 {
                     "stageId": "act31side_04",
                     "occPer": "OFTEN",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act29side_05",
+                    "occPer": "ALWAYS",
                     "sortId": 0
                 },
                 {
@@ -7833,12 +7905,12 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act29side_05",
-                    "occPer": "ALWAYS",
+                    "stageId": "act15side_04",
+                    "occPer": "ALMOST",
                     "sortId": 0
                 },
                 {
-                    "stageId": "act15side_04",
+                    "stageId": "act14side_04",
                     "occPer": "ALMOST",
                     "sortId": 0
                 },
@@ -7888,17 +7960,27 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act14side_04",
-                    "occPer": "ALMOST",
-                    "sortId": 0
-                },
-                {
                     "stageId": "act30side_05",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
                 {
+                    "stageId": "act4d0_03",
+                    "occPer": "ALMOST",
+                    "sortId": 0
+                },
+                {
                     "stageId": "a001_04",
+                    "occPer": "ALMOST",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act33side_03",
+                    "occPer": "OFTEN",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act44side_03",
                     "occPer": "ALMOST",
                     "sortId": 0
                 },
@@ -7908,13 +7990,8 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act19mini_06",
-                    "occPer": "ALWAYS",
-                    "sortId": 0
-                },
-                {
-                    "stageId": "act4d0_03",
-                    "occPer": "ALMOST",
+                    "stageId": "act43side_04",
+                    "occPer": "OFTEN",
                     "sortId": 0
                 },
                 {
@@ -7933,13 +8010,13 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act39side_03",
-                    "occPer": "ALMOST",
+                    "stageId": "act19mini_06",
+                    "occPer": "ALWAYS",
                     "sortId": 0
                 },
                 {
-                    "stageId": "act43side_04",
-                    "occPer": "OFTEN",
+                    "stageId": "act38side_07",
+                    "occPer": "USUAL",
                     "sortId": 0
                 },
                 {
@@ -7963,13 +8040,8 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act33side_03",
-                    "occPer": "OFTEN",
-                    "sortId": 0
-                },
-                {
-                    "stageId": "act38side_07",
-                    "occPer": "USUAL",
+                    "stageId": "act39side_03",
+                    "occPer": "ALMOST",
                     "sortId": 0
                 },
                 {
@@ -8110,6 +8182,11 @@
                 },
                 {
                     "stageId": "act42side_08",
+                    "occPer": "USUAL",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act44side_07",
                     "occPer": "USUAL",
                     "sortId": 0
                 },
@@ -8369,7 +8446,7 @@
             "itemType": "MATERIAL",
             "stageDropList": [
                 {
-                    "stageId": "act15mini_04",
+                    "stageId": "act15mini_03",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
@@ -8439,12 +8516,12 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act23side_02",
+                    "stageId": "act20side_01",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
                 {
-                    "stageId": "act23side_01",
+                    "stageId": "act23side_02",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
@@ -8509,18 +8586,23 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act20side_01",
+                    "stageId": "act27side_01",
+                    "occPer": "OFTEN",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act23side_01",
+                    "occPer": "OFTEN",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act15mini_04",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
                 {
                     "stageId": "act20side_02",
                     "occPer": "OFTEN",
-                    "sortId": 0
-                },
-                {
-                    "stageId": "act11mini_02",
-                    "occPer": "USUAL",
                     "sortId": 0
                 },
                 {
@@ -8594,8 +8676,8 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act27side_01",
-                    "occPer": "OFTEN",
+                    "stageId": "act11mini_02",
+                    "occPer": "USUAL",
                     "sortId": 0
                 },
                 {
@@ -8684,17 +8766,7 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act15mini_02",
-                    "occPer": "OFTEN",
-                    "sortId": 0
-                },
-                {
-                    "stageId": "act36side_01",
-                    "occPer": "OFTEN",
-                    "sortId": 0
-                },
-                {
-                    "stageId": "act37side_03",
+                    "stageId": "act15mini_01",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
@@ -8824,27 +8896,32 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act36side_02",
+                    "stageId": "act44side_02",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
                 {
-                    "stageId": "act15mini_03",
+                    "stageId": "act44side_01",
+                    "occPer": "OFTEN",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act37side_03",
+                    "occPer": "OFTEN",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act15mini_02",
+                    "occPer": "OFTEN",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act36side_01",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
                 {
                     "stageId": "act17mini_01",
-                    "occPer": "OFTEN",
-                    "sortId": 0
-                },
-                {
-                    "stageId": "act17mini_03",
-                    "occPer": "OFTEN",
-                    "sortId": 0
-                },
-                {
-                    "stageId": "act15mini_01",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
@@ -8904,22 +8981,22 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act17mini_02",
-                    "occPer": "OFTEN",
-                    "sortId": 0
-                },
-                {
                     "stageId": "act16mini_02",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
                 {
-                    "stageId": "act31side_03",
+                    "stageId": "act16mini_01",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
                 {
-                    "stageId": "act31side_02",
+                    "stageId": "act36side_02",
+                    "occPer": "OFTEN",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act31side_03",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
@@ -8979,7 +9056,17 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act16mini_01",
+                    "stageId": "act17mini_03",
+                    "occPer": "OFTEN",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act17mini_02",
+                    "occPer": "OFTEN",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act31side_02",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
@@ -9020,8 +9107,8 @@
             "itemType": "MATERIAL",
             "stageDropList": [
                 {
-                    "stageId": "act31side_04",
-                    "occPer": "ALMOST",
+                    "stageId": "act32side_05",
+                    "occPer": "OFTEN",
                     "sortId": 0
                 },
                 {
@@ -9140,8 +9227,8 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act4d0_04",
-                    "occPer": "ALWAYS",
+                    "stageId": "act31side_04",
+                    "occPer": "ALMOST",
                     "sortId": 0
                 },
                 {
@@ -9155,8 +9242,13 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act32side_05",
+                    "stageId": "act44side_05",
                     "occPer": "OFTEN",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act4d0_04",
+                    "occPer": "ALWAYS",
                     "sortId": 0
                 },
                 {
@@ -9180,13 +9272,13 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act38side_04",
-                    "occPer": "ALMOST",
+                    "stageId": "act42side_06",
+                    "occPer": "USUAL",
                     "sortId": 0
                 },
                 {
-                    "stageId": "act42side_06",
-                    "occPer": "USUAL",
+                    "stageId": "act38side_07",
+                    "occPer": "ALWAYS",
                     "sortId": 0
                 },
                 {
@@ -9215,8 +9307,8 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act38side_07",
-                    "occPer": "ALWAYS",
+                    "stageId": "act38side_04",
+                    "occPer": "ALMOST",
                     "sortId": 0
                 },
                 {
@@ -9586,7 +9678,7 @@
             "itemType": "MATERIAL",
             "stageDropList": [
                 {
-                    "stageId": "act27side_02",
+                    "stageId": "act27side_01",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
@@ -9656,12 +9748,12 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act18side_01",
+                    "stageId": "act22side_02",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
                 {
-                    "stageId": "act22side_02",
+                    "stageId": "act22side_01",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
@@ -9731,17 +9823,22 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act22side_01",
+                    "stageId": "act27side_03",
+                    "occPer": "OFTEN",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act18side_01",
+                    "occPer": "OFTEN",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act27side_02",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
                 {
                     "stageId": "act18side_02",
-                    "occPer": "OFTEN",
-                    "sortId": 0
-                },
-                {
-                    "stageId": "act16side_01",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
@@ -9896,7 +9993,7 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act27side_03",
+                    "stageId": "act16side_01",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
@@ -9911,18 +10008,8 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act15mini_04",
+                    "stageId": "act15mini_03",
                     "occPer": "USUAL",
-                    "sortId": 0
-                },
-                {
-                    "stageId": "act36side_02",
-                    "occPer": "OFTEN",
-                    "sortId": 0
-                },
-                {
-                    "stageId": "act36side_01",
-                    "occPer": "OFTEN",
                     "sortId": 0
                 },
                 {
@@ -9981,22 +10068,22 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act17mini_01",
-                    "occPer": "OFTEN",
-                    "sortId": 0
-                },
-                {
                     "stageId": "act18mini_01",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
                 {
-                    "stageId": "act40side_02",
+                    "stageId": "act40side_03",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
                 {
-                    "stageId": "act40side_01",
+                    "stageId": "act36side_01",
+                    "occPer": "OFTEN",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act40side_02",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
@@ -10056,28 +10143,33 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act40side_03",
+                    "stageId": "act44side_02",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
                 {
-                    "stageId": "act27side_01",
+                    "stageId": "act44side_01",
+                    "occPer": "OFTEN",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act40side_01",
+                    "occPer": "OFTEN",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act15mini_04",
+                    "occPer": "USUAL",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act36side_02",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
                 {
                     "stageId": "act17mini_02",
                     "occPer": "OFTEN",
-                    "sortId": 0
-                },
-                {
-                    "stageId": "act17mini_04",
-                    "occPer": "USUAL",
-                    "sortId": 0
-                },
-                {
-                    "stageId": "act15mini_03",
-                    "occPer": "USUAL",
                     "sortId": 0
                 },
                 {
@@ -10141,17 +10233,17 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act17mini_03",
-                    "occPer": "USUAL",
-                    "sortId": 0
-                },
-                {
                     "stageId": "act16mini_03",
                     "occPer": "USUAL",
                     "sortId": 0
                 },
                 {
-                    "stageId": "act16mini_01",
+                    "stageId": "act17mini_01",
+                    "occPer": "OFTEN",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act16mini_02",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
@@ -10161,47 +10253,17 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act31side_02",
-                    "occPer": "OFTEN",
+                    "stageId": "act17mini_03",
+                    "occPer": "USUAL",
                     "sortId": 0
                 },
                 {
-                    "stageId": "act31side_01",
-                    "occPer": "OFTEN",
+                    "stageId": "act17mini_04",
+                    "occPer": "USUAL",
                     "sortId": 0
                 },
                 {
-                    "stageId": "act32side_02",
-                    "occPer": "OFTEN",
-                    "sortId": 0
-                },
-                {
-                    "stageId": "act32side_01",
-                    "occPer": "OFTEN",
-                    "sortId": 0
-                },
-                {
-                    "stageId": "act33side_02",
-                    "occPer": "OFTEN",
-                    "sortId": 0
-                },
-                {
-                    "stageId": "act33side_01",
-                    "occPer": "OFTEN",
-                    "sortId": 0
-                },
-                {
-                    "stageId": "act34side_02",
-                    "occPer": "OFTEN",
-                    "sortId": 0
-                },
-                {
-                    "stageId": "act34side_01",
-                    "occPer": "OFTEN",
-                    "sortId": 0
-                },
-                {
-                    "stageId": "act35side_03",
+                    "stageId": "act35side_01",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
@@ -10211,12 +10273,52 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act35side_01",
+                    "stageId": "act35side_03",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
                 {
-                    "stageId": "act16mini_02",
+                    "stageId": "act16mini_01",
+                    "occPer": "OFTEN",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act34side_01",
+                    "occPer": "OFTEN",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act33side_01",
+                    "occPer": "OFTEN",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act33side_02",
+                    "occPer": "OFTEN",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act32side_01",
+                    "occPer": "OFTEN",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act32side_02",
+                    "occPer": "OFTEN",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act31side_01",
+                    "occPer": "OFTEN",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act31side_02",
+                    "occPer": "OFTEN",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act34side_02",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
@@ -10257,8 +10359,8 @@
             "itemType": "MATERIAL",
             "stageDropList": [
                 {
-                    "stageId": "act26side_05",
-                    "occPer": "ALWAYS",
+                    "stageId": "act27side_04",
+                    "occPer": "USUAL",
                     "sortId": 0
                 },
                 {
@@ -10382,7 +10484,7 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act6d5_04",
+                    "stageId": "act26side_05",
                     "occPer": "ALWAYS",
                     "sortId": 0
                 },
@@ -10397,6 +10499,11 @@
                     "sortId": 0
                 },
                 {
+                    "stageId": "act44side_03",
+                    "occPer": "USUAL",
+                    "sortId": 0
+                },
+                {
                     "stageId": "act42side_05",
                     "occPer": "USUAL",
                     "sortId": 0
@@ -10407,13 +10514,13 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act41side_03",
-                    "occPer": "USUAL",
+                    "stageId": "act6d5_04",
+                    "occPer": "ALWAYS",
                     "sortId": 0
                 },
                 {
-                    "stageId": "act27side_04",
-                    "occPer": "USUAL",
+                    "stageId": "act41side_05",
+                    "occPer": "ALWAYS",
                     "sortId": 0
                 },
                 {
@@ -10432,8 +10539,8 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act41side_05",
-                    "occPer": "ALWAYS",
+                    "stageId": "act41side_03",
+                    "occPer": "USUAL",
                     "sortId": 0
                 },
                 {
@@ -10853,7 +10960,7 @@
             "itemType": "MATERIAL",
             "stageDropList": [
                 {
-                    "stageId": "act15mini_04",
+                    "stageId": "act15mini_03",
                     "occPer": "USUAL",
                     "sortId": 0
                 },
@@ -10923,12 +11030,12 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act23side_03",
+                    "stageId": "act20side_02",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
                 {
-                    "stageId": "act23side_02",
+                    "stageId": "act23side_03",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
@@ -10993,18 +11100,23 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act20side_02",
+                    "stageId": "act27side_02",
+                    "occPer": "OFTEN",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act23side_02",
+                    "occPer": "OFTEN",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act27side_01",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
                 {
                     "stageId": "act11mini_01",
                     "occPer": "ALMOST",
-                    "sortId": 0
-                },
-                {
-                    "stageId": "act11mini_03",
-                    "occPer": "ALWAYS",
                     "sortId": 0
                 },
                 {
@@ -11078,8 +11190,8 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act27side_02",
-                    "occPer": "OFTEN",
+                    "stageId": "act11mini_03",
+                    "occPer": "ALWAYS",
                     "sortId": 0
                 },
                 {
@@ -11158,8 +11270,8 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act27side_01",
-                    "occPer": "OFTEN",
+                    "stageId": "act15mini_04",
+                    "occPer": "USUAL",
                     "sortId": 0
                 },
                 {
@@ -11168,12 +11280,7 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act15mini_03",
-                    "occPer": "USUAL",
-                    "sortId": 0
-                },
-                {
-                    "stageId": "act36side_01",
+                    "stageId": "act15mini_02",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
@@ -11243,12 +11350,12 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act40side_02",
+                    "stageId": "act36side_01",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
                 {
-                    "stageId": "act40side_01",
+                    "stageId": "act40side_02",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
@@ -11308,7 +11415,17 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act36side_02",
+                    "stageId": "act44side_02",
+                    "occPer": "OFTEN",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act44side_01",
+                    "occPer": "OFTEN",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act40side_01",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
@@ -11318,17 +11435,12 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act17mini_01",
+                    "stageId": "act36side_02",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
                 {
-                    "stageId": "act17mini_03",
-                    "occPer": "USUAL",
-                    "sortId": 0
-                },
-                {
-                    "stageId": "act15mini_02",
+                    "stageId": "act17mini_02",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
@@ -11393,17 +11505,17 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act17mini_02",
-                    "occPer": "OFTEN",
-                    "sortId": 0
-                },
-                {
                     "stageId": "act16mini_02",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
                 {
-                    "stageId": "act31side_03",
+                    "stageId": "act17mini_01",
+                    "occPer": "OFTEN",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act16mini_01",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
@@ -11468,7 +11580,12 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act16mini_01",
+                    "stageId": "act17mini_03",
+                    "occPer": "USUAL",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act31side_03",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
@@ -11509,8 +11626,8 @@
             "itemType": "MATERIAL",
             "stageDropList": [
                 {
-                    "stageId": "act29side_05",
-                    "occPer": "USUAL",
+                    "stageId": "act30side_04",
+                    "occPer": "ALWAYS",
                     "sortId": 0
                 },
                 {
@@ -11614,8 +11731,8 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act7d5_03",
-                    "occPer": "ALWAYS",
+                    "stageId": "act29side_05",
+                    "occPer": "USUAL",
                     "sortId": 0
                 },
                 {
@@ -11629,18 +11746,23 @@
                     "sortId": 0
                 },
                 {
+                    "stageId": "act44side_05",
+                    "occPer": "ALWAYS",
+                    "sortId": 0
+                },
+                {
                     "stageId": "act43side_04",
                     "occPer": "ALWAYS",
                     "sortId": 0
                 },
                 {
-                    "stageId": "act43side_05",
-                    "occPer": "USUAL",
+                    "stageId": "act7d5_03",
+                    "occPer": "ALWAYS",
                     "sortId": 0
                 },
                 {
-                    "stageId": "act30side_04",
-                    "occPer": "ALWAYS",
+                    "stageId": "act42side_07",
+                    "occPer": "USUAL",
                     "sortId": 0
                 },
                 {
@@ -11654,12 +11776,12 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act38side_06",
-                    "occPer": "ALWAYS",
+                    "stageId": "act43side_05",
+                    "occPer": "USUAL",
                     "sortId": 0
                 },
                 {
-                    "stageId": "act42side_07",
+                    "stageId": "act37side_04",
                     "occPer": "USUAL",
                     "sortId": 0
                 },
@@ -11689,8 +11811,8 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act37side_04",
-                    "occPer": "USUAL",
+                    "stageId": "act38side_06",
+                    "occPer": "ALWAYS",
                     "sortId": 0
                 },
                 {
@@ -12070,7 +12192,7 @@
             "itemType": "MATERIAL",
             "stageDropList": [
                 {
-                    "stageId": "act27side_02",
+                    "stageId": "act27side_01",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
@@ -12140,12 +12262,12 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act18side_01",
+                    "stageId": "act22side_02",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
                 {
-                    "stageId": "act22side_02",
+                    "stageId": "act22side_01",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
@@ -12215,17 +12337,22 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act22side_01",
+                    "stageId": "act27side_03",
+                    "occPer": "OFTEN",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act18side_01",
+                    "occPer": "OFTEN",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act27side_02",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
                 {
                     "stageId": "act18side_02",
-                    "occPer": "OFTEN",
-                    "sortId": 0
-                },
-                {
-                    "stageId": "act16side_01",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
@@ -12380,7 +12507,7 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act27side_03",
+                    "stageId": "act16side_01",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
@@ -12395,17 +12522,7 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act15mini_04",
-                    "occPer": "OFTEN",
-                    "sortId": 0
-                },
-                {
-                    "stageId": "act36side_02",
-                    "occPer": "OFTEN",
-                    "sortId": 0
-                },
-                {
-                    "stageId": "act36side_01",
+                    "stageId": "act15mini_03",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
@@ -12465,22 +12582,22 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act17mini_01",
-                    "occPer": "OFTEN",
-                    "sortId": 0
-                },
-                {
                     "stageId": "act18mini_01",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
                 {
-                    "stageId": "act40side_02",
+                    "stageId": "act40side_03",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
                 {
-                    "stageId": "act40side_01",
+                    "stageId": "act36side_01",
+                    "occPer": "OFTEN",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act40side_02",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
@@ -12540,27 +12657,32 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act40side_03",
+                    "stageId": "act44side_02",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
                 {
-                    "stageId": "act27side_01",
+                    "stageId": "act44side_01",
+                    "occPer": "OFTEN",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act40side_01",
+                    "occPer": "OFTEN",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act15mini_04",
+                    "occPer": "OFTEN",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act36side_02",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
                 {
                     "stageId": "act17mini_02",
-                    "occPer": "OFTEN",
-                    "sortId": 0
-                },
-                {
-                    "stageId": "act17mini_04",
-                    "occPer": "OFTEN",
-                    "sortId": 0
-                },
-                {
-                    "stageId": "act15mini_03",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
@@ -12625,17 +12747,17 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act17mini_03",
-                    "occPer": "OFTEN",
-                    "sortId": 0
-                },
-                {
                     "stageId": "act16mini_03",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
                 {
-                    "stageId": "act16mini_01",
+                    "stageId": "act17mini_01",
+                    "occPer": "OFTEN",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act16mini_02",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
@@ -12645,52 +12767,12 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act31side_02",
+                    "stageId": "act17mini_03",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
                 {
-                    "stageId": "act31side_01",
-                    "occPer": "OFTEN",
-                    "sortId": 0
-                },
-                {
-                    "stageId": "act32side_02",
-                    "occPer": "OFTEN",
-                    "sortId": 0
-                },
-                {
-                    "stageId": "act32side_01",
-                    "occPer": "OFTEN",
-                    "sortId": 0
-                },
-                {
-                    "stageId": "act33side_02",
-                    "occPer": "OFTEN",
-                    "sortId": 0
-                },
-                {
-                    "stageId": "act33side_01",
-                    "occPer": "OFTEN",
-                    "sortId": 0
-                },
-                {
-                    "stageId": "act34side_02",
-                    "occPer": "OFTEN",
-                    "sortId": 0
-                },
-                {
-                    "stageId": "act34side_01",
-                    "occPer": "OFTEN",
-                    "sortId": 0
-                },
-                {
-                    "stageId": "act35side_03",
-                    "occPer": "OFTEN",
-                    "sortId": 0
-                },
-                {
-                    "stageId": "act35side_02",
+                    "stageId": "act17mini_04",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
@@ -12700,7 +12782,57 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act16mini_02",
+                    "stageId": "act35side_02",
+                    "occPer": "OFTEN",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act35side_03",
+                    "occPer": "OFTEN",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act16mini_01",
+                    "occPer": "OFTEN",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act34side_01",
+                    "occPer": "OFTEN",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act33side_01",
+                    "occPer": "OFTEN",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act33side_02",
+                    "occPer": "OFTEN",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act32side_01",
+                    "occPer": "OFTEN",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act32side_02",
+                    "occPer": "OFTEN",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act31side_01",
+                    "occPer": "OFTEN",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act31side_02",
+                    "occPer": "OFTEN",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act34side_02",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
@@ -12741,7 +12873,7 @@
             "itemType": "MATERIAL",
             "stageDropList": [
                 {
-                    "stageId": "act26side_05",
+                    "stageId": "act28side_05",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
@@ -12871,7 +13003,7 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act11d0_05",
+                    "stageId": "act26side_05",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
@@ -12886,6 +13018,11 @@
                     "sortId": 0
                 },
                 {
+                    "stageId": "act44side_04",
+                    "occPer": "USUAL",
+                    "sortId": 0
+                },
+                {
                     "stageId": "act19mini_05",
                     "occPer": "ALMOST",
                     "sortId": 0
@@ -12896,7 +13033,7 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act28side_05",
+                    "stageId": "act11d0_05",
                     "occPer": "OFTEN",
                     "sortId": 0
                 },
@@ -13282,7 +13419,7 @@
             "itemType": "MATERIAL",
             "stageDropList": [
                 {
-                    "stageId": "act27side_02",
+                    "stageId": "act27side_01",
                     "occPer": "USUAL",
                     "sortId": 0
                 },
@@ -13352,12 +13489,12 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act18side_02",
+                    "stageId": "act13mini_01",
                     "occPer": "USUAL",
                     "sortId": 0
                 },
                 {
-                    "stageId": "act13mini_01",
+                    "stageId": "act22side_02",
                     "occPer": "USUAL",
                     "sortId": 0
                 },
@@ -13427,17 +13564,22 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act22side_02",
+                    "stageId": "act26side_01",
+                    "occPer": "USUAL",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act18side_02",
+                    "occPer": "USUAL",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act27side_03",
                     "occPer": "USUAL",
                     "sortId": 0
                 },
                 {
                     "stageId": "act16side_01",
-                    "occPer": "USUAL",
-                    "sortId": 0
-                },
-                {
-                    "stageId": "act16side_02",
                     "occPer": "USUAL",
                     "sortId": 0
                 },
@@ -13592,12 +13734,12 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act26side_01",
+                    "stageId": "act16side_02",
                     "occPer": "USUAL",
                     "sortId": 0
                 },
                 {
-                    "stageId": "act27side_03",
+                    "stageId": "act27side_02",
                     "occPer": "USUAL",
                     "sortId": 0
                 },
@@ -13607,13 +13749,8 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act27side_01",
-                    "occPer": "USUAL",
-                    "sortId": 0
-                },
-                {
-                    "stageId": "act36side_02",
-                    "occPer": "USUAL",
+                    "stageId": "act15mini_04",
+                    "occPer": "ALMOST",
                     "sortId": 0
                 },
                 {
@@ -13677,12 +13814,12 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act17mini_01",
+                    "stageId": "act18mini_01",
                     "occPer": "USUAL",
                     "sortId": 0
                 },
                 {
-                    "stageId": "act18mini_01",
+                    "stageId": "act40side_03",
                     "occPer": "USUAL",
                     "sortId": 0
                 },
@@ -13752,7 +13889,17 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act40side_03",
+                    "stageId": "act44side_02",
+                    "occPer": "USUAL",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act44side_01",
+                    "occPer": "USUAL",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act36side_02",
                     "occPer": "USUAL",
                     "sortId": 0
                 },
@@ -13762,17 +13909,12 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act17mini_02",
+                    "stageId": "act17mini_01",
                     "occPer": "USUAL",
                     "sortId": 0
                 },
                 {
-                    "stageId": "act17mini_04",
-                    "occPer": "ALMOST",
-                    "sortId": 0
-                },
-                {
-                    "stageId": "act15mini_04",
+                    "stageId": "act17mini_03",
                     "occPer": "ALMOST",
                     "sortId": 0
                 },
@@ -13837,18 +13979,28 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act17mini_03",
-                    "occPer": "ALMOST",
-                    "sortId": 0
-                },
-                {
                     "stageId": "act16mini_04",
                     "occPer": "ALMOST",
                     "sortId": 0
                 },
                 {
-                    "stageId": "act16mini_02",
+                    "stageId": "act17mini_02",
                     "occPer": "USUAL",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act16mini_03",
+                    "occPer": "ALMOST",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act16mini_01",
+                    "occPer": "USUAL",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act17mini_04",
+                    "occPer": "ALMOST",
                     "sortId": 0
                 },
                 {
@@ -13872,17 +14024,17 @@
                     "sortId": 0
                 },
                 {
+                    "stageId": "act16mini_02",
+                    "occPer": "USUAL",
+                    "sortId": 0
+                },
+                {
                     "stageId": "act34side_02",
                     "occPer": "USUAL",
                     "sortId": 0
                 },
                 {
-                    "stageId": "act16mini_03",
-                    "occPer": "ALMOST",
-                    "sortId": 0
-                },
-                {
-                    "stageId": "act33side_01",
+                    "stageId": "act33side_02",
                     "occPer": "USUAL",
                     "sortId": 0
                 },
@@ -13912,12 +14064,7 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act16mini_01",
-                    "occPer": "USUAL",
-                    "sortId": 0
-                },
-                {
-                    "stageId": "act33side_02",
+                    "stageId": "act33side_01",
                     "occPer": "USUAL",
                     "sortId": 0
                 },
@@ -13959,6 +14106,11 @@
             "stageDropList": [
                 {
                     "stageId": "act30side_05",
+                    "occPer": "ALWAYS",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act28side_04",
                     "occPer": "ALWAYS",
                     "sortId": 0
                 },
@@ -14013,13 +14165,13 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act13side_04",
-                    "occPer": "ALMOST",
+                    "stageId": "act29side_04",
+                    "occPer": "ALWAYS",
                     "sortId": 0
                 },
                 {
-                    "stageId": "act13side_06",
-                    "occPer": "ALWAYS",
+                    "stageId": "act13side_04",
+                    "occPer": "ALMOST",
                     "sortId": 0
                 },
                 {
@@ -14078,13 +14230,13 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act28side_04",
+                    "stageId": "act13side_06",
                     "occPer": "ALWAYS",
                     "sortId": 0
                 },
                 {
-                    "stageId": "act29side_04",
-                    "occPer": "ALWAYS",
+                    "stageId": "act11d0_04",
+                    "occPer": "ALMOST",
                     "sortId": 0
                 },
                 {
@@ -14093,8 +14245,13 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act16mini_05",
-                    "occPer": "ALWAYS",
+                    "stageId": "act31side_05",
+                    "occPer": "ALMOST",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act44side_04",
+                    "occPer": "ALMOST",
                     "sortId": 0
                 },
                 {
@@ -14108,13 +14265,13 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act42side_06",
+                    "stageId": "act16mini_05",
                     "occPer": "ALWAYS",
                     "sortId": 0
                 },
                 {
-                    "stageId": "act11d0_04",
-                    "occPer": "ALMOST",
+                    "stageId": "act41side_03",
+                    "occPer": "ALWAYS",
                     "sortId": 0
                 },
                 {
@@ -14133,12 +14290,12 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act38side_05",
-                    "occPer": "ALMOST",
+                    "stageId": "act42side_06",
+                    "occPer": "ALWAYS",
                     "sortId": 0
                 },
                 {
-                    "stageId": "act41side_03",
+                    "stageId": "act37side_04",
                     "occPer": "ALWAYS",
                     "sortId": 0
                 },
@@ -14173,13 +14330,8 @@
                     "sortId": 0
                 },
                 {
-                    "stageId": "act31side_05",
+                    "stageId": "act38side_05",
                     "occPer": "ALMOST",
-                    "sortId": 0
-                },
-                {
-                    "stageId": "act37side_04",
-                    "occPer": "ALWAYS",
                     "sortId": 0
                 },
                 {
@@ -14300,6 +14452,11 @@
                 },
                 {
                     "stageId": "act37side_07",
+                    "occPer": "ALWAYS",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act44side_06",
                     "occPer": "ALWAYS",
                     "sortId": 0
                 },
@@ -17368,6 +17525,11 @@
             "classifyType": "MATERIAL",
             "itemType": "MATERIAL",
             "stageDropList": [
+                {
+                    "stageId": "act44side_08",
+                    "occPer": "USUAL",
+                    "sortId": 0
+                },
                 {
                     "stageId": "main_15-08",
                     "occPer": "OFTEN",
@@ -24471,6 +24633,44 @@
             "voucherRelateList": null,
             "shopRelateInfoList": null
         },
+        "p_char_4203_kichi": {
+            "itemId": "p_char_4203_kichi",
+            "name": "キチセイの印",
+            "description": "洒落たデザインのシール。キチセイがラーメン屋の会計時にもらった大量のおまけシール。いくつかのパターンがあり、そのうち一枚は手描きだった。彼女によると、結局一枚だけ揃わなかったので、あなたが揃えてほしいとのこと。",
+            "rarity": "TIER_5",
+            "iconId": "p_char_4203_kichi",
+            "overrideBkg": null,
+            "stackIconId": null,
+            "sortId": 700171,
+            "usage": "キチセイの潜在能力強化に用いられる。",
+            "obtainApproach": "オペレーター入職時獲得",
+            "hideInItemGet": false,
+            "classifyType": "MATERIAL",
+            "itemType": "MATERIAL",
+            "stageDropList": [],
+            "buildingProductList": [],
+            "voucherRelateList": null,
+            "shopRelateInfoList": null
+        },
+        "p_char_4199_makiri": {
+            "itemId": "p_char_4199_makiri",
+            "name": "マツキリの印",
+            "description": "心を込めてデザインされた名刺。手元に残しておけば、いつでも彼を探し出せる――あるいは、彼があなたを見つけられるようになる。",
+            "rarity": "TIER_5",
+            "iconId": "p_char_4199_makiri",
+            "overrideBkg": null,
+            "stackIconId": null,
+            "sortId": 700172,
+            "usage": "マツキリの潜在能力強化に用いられる。",
+            "obtainApproach": "オペレーター入職時獲得",
+            "hideInItemGet": false,
+            "classifyType": "MATERIAL",
+            "itemType": "MATERIAL",
+            "stageDropList": [],
+            "buildingProductList": [],
+            "voucherRelateList": null,
+            "shopRelateInfoList": null
+        },
         "p_char_103_angel": {
             "itemId": "p_char_103_angel",
             "name": "エクシアの印",
@@ -26628,6 +26828,44 @@
             "stackIconId": null,
             "sortId": 600114,
             "usage": "レイディアンの潜在能力強化に用いられる。",
+            "obtainApproach": "オペレーター入職時獲得",
+            "hideInItemGet": false,
+            "classifyType": "MATERIAL",
+            "itemType": "MATERIAL",
+            "stageDropList": [],
+            "buildingProductList": [],
+            "voucherRelateList": null,
+            "shopRelateInfoList": null
+        },
+        "p_char_4202_haruka": {
+            "itemId": "p_char_4202_haruka",
+            "name": "ハルカの印",
+            "description": "鱗獣の形をした付箋。忘れないように、これに今後のスケジュールを書き込んでおくんだ。ハルカはそう言うと、あなたなら何を書くのだろうかと、こちらを興味津々に見つめている。",
+            "rarity": "TIER_6",
+            "iconId": "p_char_4202_haruka",
+            "overrideBkg": null,
+            "stackIconId": null,
+            "sortId": 600115,
+            "usage": "ハルカの潜在能力強化に用いられる。",
+            "obtainApproach": "オペレーター入職時獲得",
+            "hideInItemGet": false,
+            "classifyType": "MATERIAL",
+            "itemType": "MATERIAL",
+            "stageDropList": [],
+            "buildingProductList": [],
+            "voucherRelateList": null,
+            "shopRelateInfoList": null
+        },
+        "p_char_1044_hsgma2": {
+            "itemId": "p_char_1044_hsgma2",
+            "name": "斬業ホシグマの印",
+            "description": "使い古した龍門近衛局督察証のカバー。彼女はこの手のカバーをすべて手元に残しているが、誰かに渡すのは初めてだ。",
+            "rarity": "TIER_6",
+            "iconId": "p_char_1044_hsgma2",
+            "overrideBkg": null,
+            "stackIconId": null,
+            "sortId": 600116,
+            "usage": "斬業ホシグマの潜在能力強化に用いられる。",
             "obtainApproach": "オペレーター入職時獲得",
             "hideInItemGet": false,
             "classifyType": "MATERIAL",
@@ -38759,6 +38997,164 @@
             "voucherRelateList": null,
             "shopRelateInfoList": null
         },
+        "act44side_token_ticket": {
+            "itemId": "act44side_token_ticket",
+            "name": "お別れ会抽選券",
+            "description": "この券は、あるアイドルの「卒業」お別れ会への参加資格抽選用のものである。そのイベント自体は中止となったが、ファンの間では彼女のキャリアにおける転換点を記念する物として、いまだに裏で流通している。",
+            "rarity": "TIER_5",
+            "iconId": "act44side_token_ticket",
+            "overrideBkg": null,
+            "stackIconId": null,
+            "sortId": -10000,
+            "usage": "芸能事務所が配布した、抽選資格の引換券。ある事件が起きた後、一時期は掘出物市の人気商品となり、ほとんど何とでも交換できるほどだった。",
+            "obtainApproach": "イベント",
+            "hideInItemGet": false,
+            "classifyType": "NONE",
+            "itemType": "ACTIVITY_ITEM",
+            "stageDropList": [
+                {
+                    "stageId": "act44side_01",
+                    "occPer": "ALWAYS",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act44side_02",
+                    "occPer": "ALWAYS",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act44side_03",
+                    "occPer": "ALWAYS",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act44side_04",
+                    "occPer": "ALWAYS",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act44side_05",
+                    "occPer": "ALWAYS",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act44side_06",
+                    "occPer": "ALWAYS",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act44side_07",
+                    "occPer": "ALWAYS",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act44side_08",
+                    "occPer": "ALWAYS",
+                    "sortId": 0
+                }
+            ],
+            "buildingProductList": [],
+            "voucherRelateList": null,
+            "shopRelateInfoList": null
+        },
+        "act44side_token_information": {
+            "itemId": "act44side_token_information",
+            "name": "「噂話」",
+            "description": "人々の間に広まっている、一見して役に立たない噂話の中には、数多の秘密の手がかりが潜んでいる。その使い道さえ心得ていれば、ひどく些細なゴシップですら取引の鍵となり得るものだ。",
+            "rarity": "TIER_5",
+            "iconId": "act44side_token_information",
+            "overrideBkg": null,
+            "stackIconId": null,
+            "sortId": -10000,
+            "usage": "相談室の営業を始めるために使う。日々の仕事で相手との壁を破るには、噂話から始めていくのが一番だからだ。",
+            "obtainApproach": "イベントドロップ",
+            "hideInItemGet": true,
+            "classifyType": "NONE",
+            "itemType": "ACTIVITY_ITEM",
+            "stageDropList": [
+                {
+                    "stageId": "act44side_01",
+                    "occPer": "ALWAYS",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act44side_02",
+                    "occPer": "ALWAYS",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act44side_03",
+                    "occPer": "ALWAYS",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act44side_04",
+                    "occPer": "ALWAYS",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act44side_05",
+                    "occPer": "ALWAYS",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act44side_06",
+                    "occPer": "ALWAYS",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act44side_07",
+                    "occPer": "ALWAYS",
+                    "sortId": 0
+                },
+                {
+                    "stageId": "act44side_08",
+                    "occPer": "ALWAYS",
+                    "sortId": 0
+                }
+            ],
+            "buildingProductList": [],
+            "voucherRelateList": null,
+            "shopRelateInfoList": null
+        },
+        "act44side_token_treasure": {
+            "itemId": "act44side_token_treasure",
+            "name": "「宝物袋」",
+            "description": null,
+            "rarity": "TIER_5",
+            "iconId": "act44side_token_treasure",
+            "overrideBkg": null,
+            "stackIconId": null,
+            "sortId": -10000,
+            "usage": null,
+            "obtainApproach": "相談室・御影で入手",
+            "hideInItemGet": true,
+            "classifyType": "NONE",
+            "itemType": "ACTIVITY_ITEM",
+            "stageDropList": [],
+            "buildingProductList": [],
+            "voucherRelateList": null,
+            "shopRelateInfoList": null
+        },
+        "itempack_gold_2": {
+            "itemId": "itempack_gold_2",
+            "name": "真心試飲セット",
+            "description": "高級なデパートでお金を出せば買えるギフトとは違い、これは彼女が自分の好みに基づき……そしてあなたの好みを想像しながら、一瓶ずつ注いで封をしたものだ。あなたの仕事の都合も考慮して、アルコールの含まれないルートビアも一瓶入っている。",
+            "rarity": "TIER_5",
+            "iconId": "itempack_gold_2",
+            "overrideBkg": null,
+            "stackIconId": null,
+            "sortId": -10000,
+            "usage": "丹念に用意された試飲セット。龍門幣と交換できる。",
+            "obtainApproach": "プレゼント",
+            "hideInItemGet": false,
+            "classifyType": "NONE",
+            "itemType": "ITEM_PACK",
+            "stageDropList": [],
+            "buildingProductList": [],
+            "voucherRelateList": null,
+            "shopRelateInfoList": null
+        },
         "act35side_token_dust_rep_1": {
             "itemId": "act35side_token_dust_rep_1",
             "name": "流光の砂",
@@ -39252,6 +39648,10 @@
         },
         "voucher_recruitR5_pick6101": {
             "id": "voucher_recruitR5_pick6101",
+            "displayType": "DIVIDE"
+        },
+        "voucher_recruitR6_pick6401": {
+            "id": "voucher_recruitR6_pick6401",
             "displayType": "DIVIDE"
         }
     },
@@ -40473,6 +40873,7 @@
         "furni_lawson_loppi_01": 1,
         "furni_act63d4_festivalStall_01": 1,
         "furni_act63d4_windChimes_01": 1,
+        "furni_act64d5_motorcycle_01": 1,
         "furni_animation_projector_03": 1,
         "furni_animation_musicBox_01": 1,
         "furni_POPUCOM_stack_01": 1,
@@ -40575,6 +40976,8 @@
         "furni_terratimes_Laterano_01": 1,
         "furni_terracommericials_FilmStudio_01": 1,
         "furni_terracommericials_SuisGarden_01": 1,
+        "furni_terratimes_Higashi_01": 1,
+        "furni_terracommericials_ScreamingCherry_01": 1,
         "furni_contract_s0_01": 1,
         "furni_contract_s1_01": 1,
         "furni_contract_s2_01": 1,
@@ -40906,6 +41309,9 @@
         "char_4062_totter@summer#17": 1,
         "char_4100_caper@summer#18": 1,
         "char_4080_lin@summer#19": 1,
+        "char_1013_chen2@summer#20": 1,
+        "char_450_necras@summer#20": 1,
+        "char_133_mm@summer#20": 1,
         "char_241_panda@marthe#1": 1,
         "char_115_headbr@marthe#2": 1,
         "char_129_bluep@marthe#3": 1,
@@ -40913,6 +41319,7 @@
         "char_263_skadi@marthe#5": 1,
         "char_376_therex@marthe#7": 1,
         "char_301_cutter@marthe#8": 1,
+        "char_1039_thorn2@marthe#9": 1,
         "char_179_cgbird@witch#1": 1,
         "char_171_bldsk@witch#1": 1,
         "char_236_rope@witch#1": 1,
@@ -41109,6 +41516,7 @@
         "char_179_cgbird@sightseer#1": 1,
         "char_4088_hodrer@sightseer#1": 1,
         "char_400_weedy@sightseer#1": 1,
+        "char_4058_pepe@sightseer#2": 1,
         "char_4140_lasher@sightseer#3": 1,
         "char_4141_marcil@dungeon#1": 1,
         "char_1034_jesca2@cfa#1": 1,
@@ -43876,6 +44284,16 @@
                     "id": "randomMaterial_11",
                     "count": 1,
                     "type": "VOUCHER_MGACHA"
+                }
+            ]
+        },
+        "itempack_gold_2": {
+            "packId": "itempack_gold_2",
+            "content": [
+                {
+                    "id": "4001",
+                    "count": 30000,
+                    "type": "GOLD"
                 }
             ]
         }
