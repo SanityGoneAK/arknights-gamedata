@@ -13,5 +13,15 @@
     "resource": "26-01-14-09-16-21_82db26",
     "client": "2.6.91",
     "folders": {}
+  },
+  "EN": {
+    "resource": "26-01-20-14-32-07_df7a6a",
+    "client": "32.6.21",
+    "folders": {}
+  },
+  "TW": {
+    "resource": "25-12-26-04-29-31_8bfa00",
+    "client": "31.5.81",
+    "folders": {}
   }
 }
