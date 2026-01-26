@@ -1,50 +1,33 @@
 {
   "m_GameObject": {
     "m_FileID": 0,
-    "m_PathID": 7096309642624137454
+    "m_PathID": 4620360517739901658
   },
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 1,
-    "m_PathID": 350208831926335389
+    "m_PathID": 8560765577788546543
   },
   "m_Name": "",
-  "m_Material": {
+  "playOnStart": 0,
+  "restartOnEnable": 0,
+  "renderMode": 0,
+  "_material": {
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "m_Color": {
-    "r": 0.0,
-    "g": 0.0,
-    "b": 0.0,
-    "a": 1.0
-  },
-  "m_RaycastTarget": 1,
-  "m_RaycastPadding": {
-    "x": 0.0,
-    "y": 0.0,
-    "z": 0.0,
-    "w": 0.0
-  },
-  "m_Maskable": 1,
-  "m_OnCullStateChanged": {
-    "m_PersistentCalls": {
-      "m_Calls": []
-    }
-  },
-  "m_Sprite": {
+  "_maxFrameDrop": 2,
+  "_moviePath": "",
+  "_loop": 0,
+  "_audioBaseConcatenation": 1,
+  "_additiveMode": 0,
+  "_advancedAudio": 1,
+  "_ambisonics": 0,
+  "_applyTargetAlpha": 0,
+  "_uiRenderMode": 0,
+  "target": {
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "m_PackIntoRuntimeAtlas": 1,
-  "m_AtlasHandleId": 0,
-  "m_Type": 0,
-  "m_PreserveAspect": 0,
-  "m_FillCenter": 1,
-  "m_FillMethod": 4,
-  "m_FillAmount": 1.0,
-  "m_FillClockwise": 1,
-  "m_FillOrigin": 0,
-  "m_UseSpriteMesh": 0,
-  "m_PixelsPerUnitMultiplier": 1.0
+  "useOriginalMaterial": 0
 }

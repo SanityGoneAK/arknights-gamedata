@@ -85,10 +85,8 @@
     "bgmEvent": "sandbox_1_enemyrushbattle",
     "environmentSe": null,
     "mapData": {
-        "map": {
-            "row_size": 14,
-            "column_size": 24,
-            "matrix_data": [
+        "map": [
+            [
                 312,
                 313,
                 314,
@@ -112,7 +110,9 @@
                 332,
                 333,
                 334,
-                335,
+                335
+            ],
+            [
                 288,
                 289,
                 290,
@@ -136,7 +136,9 @@
                 308,
                 309,
                 310,
-                311,
+                311
+            ],
+            [
                 264,
                 265,
                 266,
@@ -160,7 +162,9 @@
                 284,
                 285,
                 286,
-                287,
+                287
+            ],
+            [
                 240,
                 241,
                 242,
@@ -184,7 +188,9 @@
                 260,
                 261,
                 262,
-                263,
+                263
+            ],
+            [
                 216,
                 217,
                 218,
@@ -208,7 +214,9 @@
                 236,
                 237,
                 238,
-                239,
+                239
+            ],
+            [
                 192,
                 193,
                 194,
@@ -232,7 +240,9 @@
                 212,
                 213,
                 214,
-                215,
+                215
+            ],
+            [
                 168,
                 169,
                 170,
@@ -256,7 +266,9 @@
                 188,
                 189,
                 190,
-                191,
+                191
+            ],
+            [
                 144,
                 145,
                 146,
@@ -280,7 +292,9 @@
                 164,
                 165,
                 166,
-                167,
+                167
+            ],
+            [
                 120,
                 121,
                 122,
@@ -304,7 +318,9 @@
                 140,
                 141,
                 142,
-                143,
+                143
+            ],
+            [
                 96,
                 97,
                 98,
@@ -328,7 +344,9 @@
                 116,
                 117,
                 118,
-                119,
+                119
+            ],
+            [
                 72,
                 73,
                 74,
@@ -352,7 +370,9 @@
                 92,
                 93,
                 94,
-                95,
+                95
+            ],
+            [
                 48,
                 49,
                 50,
@@ -376,7 +396,9 @@
                 68,
                 69,
                 70,
-                71,
+                71
+            ],
+            [
                 24,
                 25,
                 26,
@@ -400,7 +422,9 @@
                 44,
                 45,
                 46,
-                47,
+                47
+            ],
+            [
                 0,
                 1,
                 2,
@@ -426,7 +450,7 @@
                 22,
                 23
             ]
-        },
+        ],
         "tiles": [
             {
                 "tileKey": "tile_forbidden",
@@ -11414,17 +11438,11 @@
                 "alias": "trap_412_redtower#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
-                "inst": {
-                    "characterKey": "trap_412_redtower",
-                    "level": 1,
-                    "phase": "PHASE_0",
-                    "favorPoint": 0,
-                    "potentialRank": 0
-                },
-                "skillIndex": 0,
-                "mainSkillLvl": 1,
+                "inst": null,
+                "skillIndex": 28,
+                "mainSkillLvl": 0,
                 "skinId": "",
-                "tmplId": null,
+                "tmplId": "",
                 "overrideSkillBlackboard": null
             },
             {
@@ -11437,17 +11455,11 @@
                 "alias": "trap_412_redtower#2",
                 "uniEquipIds": null,
                 "showSpIllust": false,
-                "inst": {
-                    "characterKey": "trap_412_redtower",
-                    "level": 1,
-                    "phase": "PHASE_0",
-                    "favorPoint": 0,
-                    "potentialRank": 0
-                },
-                "skillIndex": 0,
-                "mainSkillLvl": 1,
+                "inst": null,
+                "skillIndex": 28,
+                "mainSkillLvl": 0,
                 "skinId": "",
-                "tmplId": null,
+                "tmplId": "",
                 "overrideSkillBlackboard": null
             },
             {
@@ -11460,17 +11472,11 @@
                 "alias": "trap_412_redtower#3",
                 "uniEquipIds": null,
                 "showSpIllust": false,
-                "inst": {
-                    "characterKey": "trap_412_redtower",
-                    "level": 1,
-                    "phase": "PHASE_0",
-                    "favorPoint": 0,
-                    "potentialRank": 0
-                },
-                "skillIndex": 0,
-                "mainSkillLvl": 1,
+                "inst": null,
+                "skillIndex": 28,
+                "mainSkillLvl": 0,
                 "skinId": "",
-                "tmplId": null,
+                "tmplId": "",
                 "overrideSkillBlackboard": null
             }
         ],

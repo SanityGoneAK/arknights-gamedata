@@ -19,10 +19,8 @@
     "bgmEvent": "talulha",
     "environmentSe": null,
     "mapData": {
-        "map": {
-            "row_size": 9,
-            "column_size": 15,
-            "matrix_data": [
+        "map": [
+            [
                 120,
                 121,
                 122,
@@ -37,7 +35,9 @@
                 131,
                 132,
                 133,
-                134,
+                134
+            ],
+            [
                 105,
                 106,
                 107,
@@ -52,7 +52,9 @@
                 116,
                 117,
                 118,
-                119,
+                119
+            ],
+            [
                 90,
                 91,
                 92,
@@ -67,7 +69,9 @@
                 101,
                 102,
                 103,
-                104,
+                104
+            ],
+            [
                 75,
                 76,
                 77,
@@ -82,7 +86,9 @@
                 86,
                 87,
                 88,
-                89,
+                89
+            ],
+            [
                 60,
                 61,
                 62,
@@ -97,7 +103,9 @@
                 71,
                 72,
                 73,
-                74,
+                74
+            ],
+            [
                 45,
                 46,
                 47,
@@ -112,7 +120,9 @@
                 56,
                 57,
                 58,
-                59,
+                59
+            ],
+            [
                 30,
                 31,
                 32,
@@ -127,7 +137,9 @@
                 41,
                 42,
                 43,
-                44,
+                44
+            ],
+            [
                 15,
                 16,
                 17,
@@ -142,7 +154,9 @@
                 26,
                 27,
                 28,
-                29,
+                29
+            ],
+            [
                 0,
                 1,
                 2,
@@ -159,7 +173,7 @@
                 13,
                 14
             ]
-        },
+        ],
         "tiles": [
             {
                 "tileKey": "tile_empty",
@@ -8197,16 +8211,10 @@
                 "alias": "trap_021_flame#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
-                "inst": {
-                    "characterKey": "trap_021_flame",
-                    "level": 1,
-                    "phase": "PHASE_0",
-                    "favorPoint": 0,
-                    "potentialRank": 0
-                },
-                "skillIndex": 0,
-                "mainSkillLvl": 1,
-                "skinId": null,
+                "inst": null,
+                "skillIndex": 28,
+                "mainSkillLvl": 0,
+                "skinId": "",
                 "tmplId": null,
                 "overrideSkillBlackboard": null
             },
@@ -8220,16 +8228,10 @@
                 "alias": "trap_021_flame#2",
                 "uniEquipIds": null,
                 "showSpIllust": false,
-                "inst": {
-                    "characterKey": "trap_021_flame",
-                    "level": 1,
-                    "phase": "PHASE_0",
-                    "favorPoint": 0,
-                    "potentialRank": 0
-                },
-                "skillIndex": 0,
-                "mainSkillLvl": 1,
-                "skinId": null,
+                "inst": null,
+                "skillIndex": 20,
+                "mainSkillLvl": 0,
+                "skinId": "",
                 "tmplId": null,
                 "overrideSkillBlackboard": null
             },
@@ -8243,16 +8245,10 @@
                 "alias": "trap_021_flame#3",
                 "uniEquipIds": null,
                 "showSpIllust": false,
-                "inst": {
-                    "characterKey": "trap_021_flame",
-                    "level": 1,
-                    "phase": "PHASE_0",
-                    "favorPoint": 0,
-                    "potentialRank": 0
-                },
-                "skillIndex": 0,
-                "mainSkillLvl": 1,
-                "skinId": null,
+                "inst": null,
+                "skillIndex": 20,
+                "mainSkillLvl": 0,
+                "skinId": "",
                 "tmplId": null,
                 "overrideSkillBlackboard": null
             },
@@ -8266,16 +8262,10 @@
                 "alias": "trap_021_flame#4",
                 "uniEquipIds": null,
                 "showSpIllust": false,
-                "inst": {
-                    "characterKey": "trap_021_flame",
-                    "level": 1,
-                    "phase": "PHASE_0",
-                    "favorPoint": 0,
-                    "potentialRank": 0
-                },
-                "skillIndex": 0,
-                "mainSkillLvl": 1,
-                "skinId": null,
+                "inst": null,
+                "skillIndex": 20,
+                "mainSkillLvl": 0,
+                "skinId": "",
                 "tmplId": null,
                 "overrideSkillBlackboard": null
             },
@@ -8289,16 +8279,10 @@
                 "alias": "trap_021_flame#5",
                 "uniEquipIds": null,
                 "showSpIllust": false,
-                "inst": {
-                    "characterKey": "trap_021_flame",
-                    "level": 1,
-                    "phase": "PHASE_0",
-                    "favorPoint": 0,
-                    "potentialRank": 0
-                },
-                "skillIndex": 0,
-                "mainSkillLvl": 1,
-                "skinId": null,
+                "inst": null,
+                "skillIndex": 20,
+                "mainSkillLvl": 0,
+                "skinId": "",
                 "tmplId": null,
                 "overrideSkillBlackboard": null
             },
@@ -8312,16 +8296,10 @@
                 "alias": "trap_021_flame#6",
                 "uniEquipIds": null,
                 "showSpIllust": false,
-                "inst": {
-                    "characterKey": "trap_021_flame",
-                    "level": 1,
-                    "phase": "PHASE_0",
-                    "favorPoint": 0,
-                    "potentialRank": 0
-                },
-                "skillIndex": 0,
-                "mainSkillLvl": 1,
-                "skinId": null,
+                "inst": null,
+                "skillIndex": 20,
+                "mainSkillLvl": 0,
+                "skinId": "",
                 "tmplId": null,
                 "overrideSkillBlackboard": null
             },
@@ -8335,16 +8313,10 @@
                 "alias": "trap_021_flame#7",
                 "uniEquipIds": null,
                 "showSpIllust": false,
-                "inst": {
-                    "characterKey": "trap_021_flame",
-                    "level": 1,
-                    "phase": "PHASE_0",
-                    "favorPoint": 0,
-                    "potentialRank": 0
-                },
-                "skillIndex": 0,
-                "mainSkillLvl": 1,
-                "skinId": null,
+                "inst": null,
+                "skillIndex": 20,
+                "mainSkillLvl": 0,
+                "skinId": "",
                 "tmplId": null,
                 "overrideSkillBlackboard": null
             },
@@ -8358,16 +8330,10 @@
                 "alias": "trap_021_flame#8",
                 "uniEquipIds": null,
                 "showSpIllust": false,
-                "inst": {
-                    "characterKey": "trap_021_flame",
-                    "level": 1,
-                    "phase": "PHASE_0",
-                    "favorPoint": 0,
-                    "potentialRank": 0
-                },
-                "skillIndex": 0,
-                "mainSkillLvl": 1,
-                "skinId": null,
+                "inst": null,
+                "skillIndex": 20,
+                "mainSkillLvl": 0,
+                "skinId": "",
                 "tmplId": null,
                 "overrideSkillBlackboard": null
             },
@@ -8381,16 +8347,10 @@
                 "alias": "trap_021_flame#9",
                 "uniEquipIds": null,
                 "showSpIllust": false,
-                "inst": {
-                    "characterKey": "trap_021_flame",
-                    "level": 1,
-                    "phase": "PHASE_0",
-                    "favorPoint": 0,
-                    "potentialRank": 0
-                },
-                "skillIndex": 0,
-                "mainSkillLvl": 1,
-                "skinId": null,
+                "inst": null,
+                "skillIndex": 20,
+                "mainSkillLvl": 0,
+                "skinId": "",
                 "tmplId": null,
                 "overrideSkillBlackboard": null
             },
@@ -8404,16 +8364,10 @@
                 "alias": "trap_021_flame#10",
                 "uniEquipIds": null,
                 "showSpIllust": false,
-                "inst": {
-                    "characterKey": "trap_021_flame",
-                    "level": 1,
-                    "phase": "PHASE_0",
-                    "favorPoint": 0,
-                    "potentialRank": 0
-                },
-                "skillIndex": 0,
-                "mainSkillLvl": 1,
-                "skinId": null,
+                "inst": null,
+                "skillIndex": 20,
+                "mainSkillLvl": 0,
+                "skinId": "",
                 "tmplId": null,
                 "overrideSkillBlackboard": null
             }

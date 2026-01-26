@@ -99,7 +99,7 @@
                     "filterTagExcludeFilter": null,
                     "subProfessionExcludeFilter": null,
                     "mapTagFilter": null,
-                    "heightTypeMask": "NONE"
+                    "heightTypeMask": "ALL"
                 },
                 "blackboard": [
                     {
@@ -130,7 +130,7 @@
                     "filterTagExcludeFilter": null,
                     "subProfessionExcludeFilter": null,
                     "mapTagFilter": null,
-                    "heightTypeMask": "NONE"
+                    "heightTypeMask": "ALL"
                 },
                 "blackboard": [
                     {

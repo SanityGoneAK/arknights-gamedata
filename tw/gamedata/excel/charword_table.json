@@ -230886,6 +230886,1248 @@
             "placeType": "ANNIVERSARY",
             "voiceAsset": "char_4198_christ/CN_044"
         },
+        "char_4196_reckpr_CN_001": {
+            "charWordId": "char_4196_reckpr_CN_001",
+            "wordKey": "char_4196_reckpr",
+            "charId": "char_4196_reckpr",
+            "voiceId": "CN_001",
+            "voiceText": "博士，您是在找這份文件嗎？筆，請用。如果伏案疲勞，也可口述，我來幫您記錄——抱歉，嚇到您了？呵，您還沒有習慣，容易忘記我的存在。我會一直在您的桌邊工作，有任何需求，請隨時提出。",
+            "voiceTitle": "任命助理",
+            "voiceIndex": 1,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "HOME_PLACE",
+            "voiceAsset": "char_4196_reckpr/CN_001"
+        },
+        "char_4196_reckpr_CN_002": {
+            "charWordId": "char_4196_reckpr_CN_002",
+            "wordKey": "char_4196_reckpr",
+            "charId": "char_4196_reckpr",
+            "voiceId": "CN_002",
+            "voiceText": "大家對宗師的生活感興趣也在常理。我得不斷解釋，我只是他的錄武官，不是助理。老師再忙，生活瑣事也從未叫我代勞，反倒常來叮囑我按時吃藥——他們聽得津津有味，卻又難掩失望。",
+            "voiceTitle": "交談1",
+            "voiceIndex": 2,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4196_reckpr/CN_002"
+        },
+        "char_4196_reckpr_CN_003": {
+            "charWordId": "char_4196_reckpr_CN_003",
+            "wordKey": "char_4196_reckpr",
+            "charId": "char_4196_reckpr",
+            "voiceId": "CN_003",
+            "voiceText": "早，博士您已經起床了嗎？我？我跟著軍隊近十年，作息早已定型了。每天來訓練室看看，才覺得安心。啊，您說這些記錄？請放心，這些只是個人興趣，或者說，參考資料。不會外傳的。",
+            "voiceTitle": "交談2",
+            "voiceIndex": 3,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4196_reckpr/CN_003"
+        },
+        "char_4196_reckpr_CN_004": {
+            "charWordId": "char_4196_reckpr_CN_004",
+            "wordKey": "char_4196_reckpr",
+            "charId": "char_4196_reckpr",
+            "voiceId": "CN_004",
+            "voiceText": "跟隨老師外出時常遇到挑戰者，老師有時便叫我先去會會他們。我只能據實相告，並問對方能否指出他們的破綻便算我贏，他們多數都會一口答應。於是我一拳不曾出，卻莫名有許多手下敗將。",
+            "voiceTitle": "交談3",
+            "voiceIndex": 4,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4196_reckpr/CN_004"
+        },
+        "char_4196_reckpr_CN_005": {
+            "charWordId": "char_4196_reckpr_CN_005",
+            "wordKey": "char_4196_reckpr",
+            "charId": "char_4196_reckpr",
+            "voiceId": "CN_005",
+            "voiceText": "仇白師姐雖然從來不擺架子，但我和左樂從小都有點怕她……別人都說她運氣非凡得遇良師，然而她靠自己走過的那些路，才是真正的修行。如今我也離巢，在心生迷茫時，亦會想起她。",
+            "voiceTitle": "晉升後交談1",
+            "voiceIndex": 5,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "AWAKE",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                },
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4196_reckpr/CN_005"
+        },
+        "char_4196_reckpr_CN_006": {
+            "charWordId": "char_4196_reckpr_CN_006",
+            "wordKey": "char_4196_reckpr",
+            "charId": "char_4196_reckpr",
+            "voiceId": "CN_006",
+            "voiceText": "一個不能習武之人卻將心血都傾注在武學裡，有何意義？武學又有何意義？人生若浮萍，只有用心血澆灌過什麼，才算是有了依憑。為什麼會在意這些？大概是因為，我找到的這一處依憑格外珍貴吧。",
+            "voiceTitle": "晉升後交談2",
+            "voiceIndex": 6,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "AWAKE",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 2
+                },
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4196_reckpr/CN_006"
+        },
+        "char_4196_reckpr_CN_007": {
+            "charWordId": "char_4196_reckpr_CN_007",
+            "wordKey": "char_4196_reckpr",
+            "charId": "char_4196_reckpr",
+            "voiceId": "CN_007",
+            "voiceText": "左樂兄小時候？和現在完全不一樣。那時他聽說我悶在屋裡養病，就想帶我溜出城玩。玉門那城門，憑他的輕功出得去卻進不來。後來我們兩個一起挨駡，他還從口袋裡拿出城外採的沙棘果給我。還沒熟，很酸。",
+            "voiceTitle": "信賴提升後交談1",
+            "voiceIndex": 7,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "FAVOR",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 40
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4196_reckpr/CN_007"
+        },
+        "char_4196_reckpr_CN_008": {
+            "charWordId": "char_4196_reckpr_CN_008",
+            "wordKey": "char_4196_reckpr",
+            "charId": "char_4196_reckpr",
+            "voiceId": "CN_008",
+            "voiceText": "老師曾教過許多學生，不論出身地位，只要人們在武道上有所求，他都會傾囊相授。我偶爾會想，如果不是這樣病弱，也許就有機會成為老師最得意的那個學生了——這些話只對你說，博士。",
+            "voiceTitle": "信賴提升後交談2",
+            "voiceIndex": 8,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "FAVOR",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 100
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4196_reckpr/CN_008"
+        },
+        "char_4196_reckpr_CN_009": {
+            "charWordId": "char_4196_reckpr_CN_009",
+            "wordKey": "char_4196_reckpr",
+            "charId": "char_4196_reckpr",
+            "voiceId": "CN_009",
+            "voiceText": "博士想要聽江湖故事？有戶人家仗義疏財，卻被賊人所害，只剩一個孩子被路過的大俠救下。大俠問少年是否想要復仇，少年卻說，只希望世間不要再有這般慘劇……嗯，只是一個江湖故事。",
+            "voiceTitle": "信賴提升後交談3",
+            "voiceIndex": 9,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "FAVOR",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 200
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4196_reckpr/CN_009"
+        },
+        "char_4196_reckpr_CN_010": {
+            "charWordId": "char_4196_reckpr_CN_010",
+            "wordKey": "char_4196_reckpr",
+            "charId": "char_4196_reckpr",
+            "voiceId": "CN_010",
+            "voiceText": "吵到您了？這是老師教我的吐納之法，氣足則本固，空閒時就會練的。我儘量輕一點，不打擾您工作。",
+            "voiceTitle": "閒置",
+            "voiceIndex": 10,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "HOME_WAIT",
+            "voiceAsset": "char_4196_reckpr/CN_010"
+        },
+        "char_4196_reckpr_CN_011": {
+            "charWordId": "char_4196_reckpr_CN_011",
+            "wordKey": "char_4196_reckpr",
+            "charId": "char_4196_reckpr",
+            "voiceId": "CN_011",
+            "voiceText": "您好，我是雲青萍，為協助司歲台的工作而來。我並非秉燭人，只是跟著左樂兄過來增長見聞，能讓我參與的地方，我一定會盡力而為的。",
+            "voiceTitle": "幹員報到",
+            "voiceIndex": 11,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "GACHA",
+            "voiceAsset": "char_4196_reckpr/CN_011"
+        },
+        "char_4196_reckpr_CN_012": {
+            "charWordId": "char_4196_reckpr_CN_012",
+            "wordKey": "char_4196_reckpr",
+            "charId": "char_4196_reckpr",
+            "voiceId": "CN_012",
+            "voiceText": "進退攻守，此消彼長，與武功招式也有相通之處。",
+            "voiceTitle": "觀看作戰記錄",
+            "voiceIndex": 12,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "LEVEL_UP",
+            "voiceAsset": "char_4196_reckpr/CN_012"
+        },
+        "char_4196_reckpr_CN_013": {
+            "charWordId": "char_4196_reckpr_CN_013",
+            "wordKey": "char_4196_reckpr",
+            "charId": "char_4196_reckpr",
+            "voiceId": "CN_013",
+            "voiceText": "晉升？擔任錄武官時，從未想過這件事呢。我的前輩們也是，往往一記就是半輩子。只要記錄的武學能精進將士們的武藝，那就是對我們最大的嘉獎了。",
+            "voiceTitle": "精英化晉升1",
+            "voiceIndex": 13,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "AWAKE",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                },
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "EVOLVE_ONE",
+            "voiceAsset": "char_4196_reckpr/CN_013"
+        },
+        "char_4196_reckpr_CN_014": {
+            "charWordId": "char_4196_reckpr_CN_014",
+            "wordKey": "char_4196_reckpr",
+            "charId": "char_4196_reckpr",
+            "voiceId": "CN_014",
+            "voiceText": "老師常說，共生死的情誼最為可貴。那我們就算是至交了，博士。",
+            "voiceTitle": "精英化晉升2",
+            "voiceIndex": 14,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "AWAKE",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 2
+                },
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "EVOLVE_TWO",
+            "voiceAsset": "char_4196_reckpr/CN_014"
+        },
+        "char_4196_reckpr_CN_017": {
+            "charWordId": "char_4196_reckpr_CN_017",
+            "wordKey": "char_4196_reckpr",
+            "charId": "char_4196_reckpr",
+            "voiceId": "CN_017",
+            "voiceText": "何時以眼看，何時以心看——",
+            "voiceTitle": "編入隊伍",
+            "voiceIndex": 17,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "SQUAD",
+            "voiceAsset": "char_4196_reckpr/CN_017"
+        },
+        "char_4196_reckpr_CN_018": {
+            "charWordId": "char_4196_reckpr_CN_018",
+            "wordKey": "char_4196_reckpr",
+            "charId": "char_4196_reckpr",
+            "voiceId": "CN_018",
+            "voiceText": "實戰的記錄更為珍貴，我會盡力。",
+            "voiceTitle": "任命隊長",
+            "voiceIndex": 18,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "SQUAD_FIRST",
+            "voiceAsset": "char_4196_reckpr/CN_018"
+        },
+        "char_4196_reckpr_CN_019": {
+            "charWordId": "char_4196_reckpr_CN_019",
+            "wordKey": "char_4196_reckpr",
+            "charId": "char_4196_reckpr",
+            "voiceId": "CN_019",
+            "voiceText": "只能訴諸武力了嗎？",
+            "voiceTitle": "行動出發",
+            "voiceIndex": 19,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_START",
+            "voiceAsset": "char_4196_reckpr/CN_019"
+        },
+        "char_4196_reckpr_CN_020": {
+            "charWordId": "char_4196_reckpr_CN_020",
+            "wordKey": "char_4196_reckpr",
+            "charId": "char_4196_reckpr",
+            "voiceId": "CN_020",
+            "voiceText": "放心，他們的恐懼與招式一樣容易看破。",
+            "voiceTitle": "行動開始",
+            "voiceIndex": 20,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_FACE_ENEMY",
+            "voiceAsset": "char_4196_reckpr/CN_020"
+        },
+        "char_4196_reckpr_CN_021": {
+            "charWordId": "char_4196_reckpr_CN_021",
+            "wordKey": "char_4196_reckpr",
+            "charId": "char_4196_reckpr",
+            "voiceId": "CN_021",
+            "voiceText": "請寫批註。",
+            "voiceTitle": "選中幹員1",
+            "voiceIndex": 21,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SELECT",
+            "voiceAsset": "char_4196_reckpr/CN_021"
+        },
+        "char_4196_reckpr_CN_022": {
+            "charWordId": "char_4196_reckpr_CN_022",
+            "wordKey": "char_4196_reckpr",
+            "charId": "char_4196_reckpr",
+            "voiceId": "CN_022",
+            "voiceText": "我只記錄，建議……不應該由我來提。",
+            "voiceTitle": "選中幹員2",
+            "voiceIndex": 22,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SELECT",
+            "voiceAsset": "char_4196_reckpr/CN_022"
+        },
+        "char_4196_reckpr_CN_023": {
+            "charWordId": "char_4196_reckpr_CN_023",
+            "wordKey": "char_4196_reckpr",
+            "charId": "char_4196_reckpr",
+            "voiceId": "CN_023",
+            "voiceText": "已到達觀察點。",
+            "voiceTitle": "部署1",
+            "voiceIndex": 23,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_PLACE",
+            "voiceAsset": "char_4196_reckpr/CN_023"
+        },
+        "char_4196_reckpr_CN_024": {
+            "charWordId": "char_4196_reckpr_CN_024",
+            "wordKey": "char_4196_reckpr",
+            "charId": "char_4196_reckpr",
+            "voiceId": "CN_024",
+            "voiceText": "將士們看到的，原來是這樣的景色。",
+            "voiceTitle": "部署2",
+            "voiceIndex": 24,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_PLACE",
+            "voiceAsset": "char_4196_reckpr/CN_024"
+        },
+        "char_4196_reckpr_CN_025": {
+            "charWordId": "char_4196_reckpr_CN_025",
+            "wordKey": "char_4196_reckpr",
+            "charId": "char_4196_reckpr",
+            "voiceId": "CN_025",
+            "voiceText": "過剛易折，先別動，我帶了跌打藥膏。",
+            "voiceTitle": "作戰中1",
+            "voiceIndex": 25,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SKILL_1",
+            "voiceAsset": "char_4196_reckpr/CN_025"
+        },
+        "char_4196_reckpr_CN_026": {
+            "charWordId": "char_4196_reckpr_CN_026",
+            "wordKey": "char_4196_reckpr",
+            "charId": "char_4196_reckpr",
+            "voiceId": "CN_026",
+            "voiceText": "雲獸穿林，片葉不落，好身手。",
+            "voiceTitle": "作戰中2",
+            "voiceIndex": 26,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SKILL_2",
+            "voiceAsset": "char_4196_reckpr/CN_026"
+        },
+        "char_4196_reckpr_CN_027": {
+            "charWordId": "char_4196_reckpr_CN_027",
+            "wordKey": "char_4196_reckpr",
+            "charId": "char_4196_reckpr",
+            "voiceId": "CN_027",
+            "voiceText": "驟雨臨淵，青松常立，好深厚的功底。",
+            "voiceTitle": "作戰中3",
+            "voiceIndex": 27,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SKILL_3",
+            "voiceAsset": "char_4196_reckpr/CN_027"
+        },
+        "char_4196_reckpr_CN_028": {
+            "charWordId": "char_4196_reckpr_CN_028",
+            "wordKey": "char_4196_reckpr",
+            "charId": "char_4196_reckpr",
+            "voiceId": "CN_028",
+            "voiceText": "先有意而後有形，不必拘泥於一招一式。",
+            "voiceTitle": "作戰中4",
+            "voiceIndex": 28,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SKILL_4",
+            "voiceAsset": "char_4196_reckpr/CN_028"
+        },
+        "char_4196_reckpr_CN_029": {
+            "charWordId": "char_4196_reckpr_CN_029",
+            "wordKey": "char_4196_reckpr",
+            "charId": "char_4196_reckpr",
+            "voiceId": "CN_029",
+            "voiceText": "滴水穿心，寸勁斷金，您的禦敵思路已入新境了，博士。",
+            "voiceTitle": "完成高難行動",
+            "voiceIndex": 29,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "FOUR_STAR",
+            "voiceAsset": "char_4196_reckpr/CN_029"
+        },
+        "char_4196_reckpr_CN_030": {
+            "charWordId": "char_4196_reckpr_CN_030",
+            "wordKey": "char_4196_reckpr",
+            "charId": "char_4196_reckpr",
+            "voiceId": "CN_030",
+            "voiceText": "觀勢於微，於已然知其未然，難怪老師讓我多觀察您的處事方式。",
+            "voiceTitle": "3星結束行動",
+            "voiceIndex": 30,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "THREE_STAR",
+            "voiceAsset": "char_4196_reckpr/CN_030"
+        },
+        "char_4196_reckpr_CN_031": {
+            "charWordId": "char_4196_reckpr_CN_031",
+            "wordKey": "char_4196_reckpr",
+            "charId": "char_4196_reckpr",
+            "voiceId": "CN_031",
+            "voiceText": "論大局，而非苦惱於那一兩處細節——博士的眼界值得我學習。",
+            "voiceTitle": "非3星結束行動",
+            "voiceIndex": 31,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "TWO_STAR",
+            "voiceAsset": "char_4196_reckpr/CN_031"
+        },
+        "char_4196_reckpr_CN_032": {
+            "charWordId": "char_4196_reckpr_CN_032",
+            "wordKey": "char_4196_reckpr",
+            "charId": "char_4196_reckpr",
+            "voiceId": "CN_032",
+            "voiceText": "以我的見識來看，世上並無不可解的招式。博士若不嫌棄，我們可以一起回顧剛才的戰局，勝利的可能一定就在其中。",
+            "voiceTitle": "行動失敗",
+            "voiceIndex": 32,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "LOSE",
+            "voiceAsset": "char_4196_reckpr/CN_032"
+        },
+        "char_4196_reckpr_CN_033": {
+            "charWordId": "char_4196_reckpr_CN_033",
+            "wordKey": "char_4196_reckpr",
+            "charId": "char_4196_reckpr",
+            "voiceId": "CN_033",
+            "voiceText": "容我先去問候老師。",
+            "voiceTitle": "進駐設施",
+            "voiceIndex": 33,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BUILDING_PLACE",
+            "voiceAsset": "char_4196_reckpr/CN_033"
+        },
+        "char_4196_reckpr_CN_034": {
+            "charWordId": "char_4196_reckpr_CN_034",
+            "wordKey": "char_4196_reckpr",
+            "charId": "char_4196_reckpr",
+            "voiceId": "CN_034",
+            "voiceText": "總用同一招容易被看穿，博士。當然，對付我足夠了。",
+            "voiceTitle": "戳一下",
+            "voiceIndex": 34,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BUILDING_TOUCHING",
+            "voiceAsset": "char_4196_reckpr/CN_034"
+        },
+        "char_4196_reckpr_CN_036": {
+            "charWordId": "char_4196_reckpr_CN_036",
+            "wordKey": "char_4196_reckpr",
+            "charId": "char_4196_reckpr",
+            "voiceId": "CN_036",
+            "voiceText": "只聞風聲，不聞征鼓，沙地上的蒿草又綠了。",
+            "voiceTitle": "信賴觸摸",
+            "voiceIndex": 36,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BUILDING_FAVOR_BUBBLE",
+            "voiceAsset": "char_4196_reckpr/CN_036"
+        },
+        "char_4196_reckpr_CN_037": {
+            "charWordId": "char_4196_reckpr_CN_037",
+            "wordKey": "char_4196_reckpr",
+            "charId": "char_4196_reckpr",
+            "voiceId": "CN_037",
+            "voiceText": "明日方舟。",
+            "voiceTitle": "標題",
+            "voiceIndex": 37,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "LOADING_PANEL",
+            "voiceAsset": "char_4196_reckpr/CN_037"
+        },
+        "char_4196_reckpr_CN_038": {
+            "charWordId": "char_4196_reckpr_CN_038",
+            "wordKey": "char_4196_reckpr",
+            "charId": "char_4196_reckpr",
+            "voiceId": "CN_038",
+            "voiceText": "在玉門的時候，我也常常盼著過年時那幾天熱鬧日子。百姓帶著酒菜來軍營犒勞將士，大家一起比武鬥酒，難得佳節，一時恣情享樂也是被允許的。博士今天想要做什麼呢？我不會告訴阿米婭姐姐的。",
+            "voiceTitle": "新年祝福",
+            "voiceIndex": 38,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "NEW_YEAR",
+            "voiceAsset": "char_4196_reckpr/CN_038"
+        },
+        "char_4196_reckpr_CN_042": {
+            "charWordId": "char_4196_reckpr_CN_042",
+            "wordKey": "char_4196_reckpr",
+            "charId": "char_4196_reckpr",
+            "voiceId": "CN_042",
+            "voiceText": "啊，博士！抱歉，我總是改不了邊走邊記的習慣。",
+            "voiceTitle": "問候",
+            "voiceIndex": 42,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "GREETING",
+            "voiceAsset": "char_4196_reckpr/CN_042"
+        },
+        "char_4196_reckpr_CN_043": {
+            "charWordId": "char_4196_reckpr_CN_043",
+            "wordKey": "char_4196_reckpr",
+            "charId": "char_4196_reckpr",
+            "voiceId": "CN_043",
+            "voiceText": "我第一次喝酒，就是在某年生日。將士們的熱情實在難卻，我知道，他們只是怕沒有親人的我會寂寞。後來我們都被老師教訓了一頓，哈哈。暖酒讓人心熱，我這有玉門的烈刀子，博士要喝一點嗎？",
+            "voiceTitle": "生日",
+            "voiceIndex": 43,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BIRTHDAY",
+            "voiceAsset": "char_4196_reckpr/CN_043"
+        },
+        "char_4196_reckpr_CN_044": {
+            "charWordId": "char_4196_reckpr_CN_044",
+            "wordKey": "char_4196_reckpr",
+            "charId": "char_4196_reckpr",
+            "voiceId": "CN_044",
+            "voiceText": "卡西米爾的騎士競技，萊塔尼亞的源石技藝……我在羅德島確實增長了許多見聞。如不嫌棄，接下來的時間，也請多指教了。敘拉古的餃子？這還是有點……老師喜歡？那，我試試看。",
+            "voiceTitle": "周年慶典",
+            "voiceIndex": 44,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "ANNIVERSARY",
+            "voiceAsset": "char_4196_reckpr/CN_044"
+        },
+        "char_1043_leizi2_CN_001": {
+            "charWordId": "char_1043_leizi2_CN_001",
+            "wordKey": "char_1043_leizi2",
+            "charId": "char_1043_leizi2",
+            "voiceId": "CN_001",
+            "voiceText": "把文件交給我吧。行篤而後思遠，我閉關期間每天會為天師們批滿九十九份作業——慢著，你去哪裡？你也準備像他們一樣，把工作丟給我然後去偷懶嗎？很好，你不會想知道這麼做會有什麼後果的。",
+            "voiceTitle": "任命助理",
+            "voiceIndex": 1,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "HOME_PLACE",
+            "voiceAsset": "char_1043_leizi2/CN_001"
+        },
+        "char_1043_leizi2_CN_002": {
+            "charWordId": "char_1043_leizi2_CN_002",
+            "wordKey": "char_1043_leizi2",
+            "charId": "char_1043_leizi2",
+            "voiceId": "CN_002",
+            "voiceText": "舊案已了，我只希望煌不再受過往牽絆，但她那樣的心性又很難讓人放心。沒什麼，我這次來只是順路拜訪——她還要半個月才能回來？咳，多待幾日倒也無妨，有什麼我幫得上忙的工作就交給我吧。",
+            "voiceTitle": "交談1",
+            "voiceIndex": 2,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_1043_leizi2/CN_002"
+        },
+        "char_1043_leizi2_CN_003": {
+            "charWordId": "char_1043_leizi2_CN_003",
+            "wordKey": "char_1043_leizi2",
+            "charId": "char_1043_leizi2",
+            "voiceId": "CN_003",
+            "voiceText": "小到快速充電，大到喚風祈雨——全都不是雷法的追求！這套天師服吸引了不少好奇的追問，我必須逐一解釋——修理燒壞的電路？……給我。這也與雷法無關！只是熟能生巧罷了。",
+            "voiceTitle": "交談2",
+            "voiceIndex": 3,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_1043_leizi2/CN_003"
+        },
+        "char_1043_leizi2_CN_004": {
+            "charWordId": "char_1043_leizi2_CN_004",
+            "wordKey": "char_1043_leizi2",
+            "charId": "char_1043_leizi2",
+            "voiceId": "CN_004",
+            "voiceText": "左樂在司歲台的責任漸重，卻還是一副少年心氣。平時看似持重，關鍵時刻又總會意氣用事，讓人如何放心。為何這樣看我？我答應過義姐要關照左樂，故而有些擔憂罷了——為什麼要這樣看著我？",
+            "voiceTitle": "交談3",
+            "voiceIndex": 4,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_1043_leizi2/CN_004"
+        },
+        "char_1043_leizi2_CN_005": {
+            "charWordId": "char_1043_leizi2_CN_005",
+            "wordKey": "char_1043_leizi2",
+            "charId": "char_1043_leizi2",
+            "voiceId": "CN_005",
+            "voiceText": "在天師府求學時，無論是鑽研雷法還是記誦律法，我都不敢怠慢。但是大理寺的工作，卻變成了與人打交道。我也曾感到迷茫，最終卻想通了——究其根本，二者之所求，無非一個“真”字。",
+            "voiceTitle": "晉升後交談1",
+            "voiceIndex": 5,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "AWAKE",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                },
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_1043_leizi2/CN_005"
+        },
+        "char_1043_leizi2_CN_006": {
+            "charWordId": "char_1043_leizi2_CN_006",
+            "wordKey": "char_1043_leizi2",
+            "charId": "char_1043_leizi2",
+            "voiceId": "CN_006",
+            "voiceText": "我雖已脫下官服，卻並無心結。身為曾經的執法者，我清楚律法的不完美。劍有缺口，雷有喑時，律法、雷法、劍法，說到底都是懲奸除惡的工具。只要使用者內心堅定，便不成阻礙。",
+            "voiceTitle": "晉升後交談2",
+            "voiceIndex": 6,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "AWAKE",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 2
+                },
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_1043_leizi2/CN_006"
+        },
+        "char_1043_leizi2_CN_007": {
+            "charWordId": "char_1043_leizi2_CN_007",
+            "wordKey": "char_1043_leizi2",
+            "charId": "char_1043_leizi2",
+            "voiceId": "CN_007",
+            "voiceText": "天師當然是常人，天師府設立在山巔，只是尋一處僻靜之地好讓大家專心治學。不便？煉丹房裡產出的源石裝置完全可以滿足日常所需，乘天師翼往返百灶市集也不過一炷香的工夫，倒也沒什麼不便。",
+            "voiceTitle": "信賴提升後交談1",
+            "voiceIndex": 7,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "FAVOR",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 40
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_1043_leizi2/CN_007"
+        },
+        "char_1043_leizi2_CN_008": {
+            "charWordId": "char_1043_leizi2_CN_008",
+            "wordKey": "char_1043_leizi2",
+            "charId": "char_1043_leizi2",
+            "voiceId": "CN_008",
+            "voiceText": "你很憂慮。若覺世事艱難心頭苦悶，便隨我回天師府閉關修心。選擇中意的研究題目，被異想天開又充滿幹勁的天師折磨個幾年，內心勢必通透澄亮——這麼正式地拒絕我，我的玩笑還是太嚴肅了嗎？",
+            "voiceTitle": "信賴提升後交談2",
+            "voiceIndex": 8,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "FAVOR",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 100
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_1043_leizi2/CN_008"
+        },
+        "char_1043_leizi2_CN_009": {
+            "charWordId": "char_1043_leizi2_CN_009",
+            "wordKey": "char_1043_leizi2",
+            "charId": "char_1043_leizi2",
+            "voiceId": "CN_009",
+            "voiceText": "我曾看見一個狡猾脫罪的惡徒在歸家途中被一道天雷劈中，在不遠處是不應該路過此地的師叔。我本想向他追問，最終還是將這件事藏在了心底——那為什麼說出來？不是在交換秘密嗎？！",
+            "voiceTitle": "信賴提升後交談3",
+            "voiceIndex": 9,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "FAVOR",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 200
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_1043_leizi2/CN_009"
+        },
+        "char_1043_leizi2_CN_010": {
+            "charWordId": "char_1043_leizi2_CN_010",
+            "wordKey": "char_1043_leizi2",
+            "charId": "char_1043_leizi2",
+            "voiceId": "CN_010",
+            "voiceText": "不要硬撐，身為領頭人，更應該及時休整，思敏以察微。工作做不完？要我幫你？豈有此理？！……給我吧。",
+            "voiceTitle": "閒置",
+            "voiceIndex": 10,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "HOME_WAIT",
+            "voiceAsset": "char_1043_leizi2/CN_010"
+        },
+        "char_1043_leizi2_CN_011": {
+            "charWordId": "char_1043_leizi2_CN_011",
+            "wordKey": "char_1043_leizi2",
+            "charId": "char_1043_leizi2",
+            "voiceId": "CN_011",
+            "voiceText": "我來終止與貴司的搜查協議，這是我的申請……太好了？我申請的是以普通訪客的身分來交流。大炎天師府驚蟄，今後將繼續叨擾。",
+            "voiceTitle": "幹員報到",
+            "voiceIndex": 11,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "GACHA",
+            "voiceAsset": "char_1043_leizi2/CN_011"
+        },
+        "char_1043_leizi2_CN_012": {
+            "charWordId": "char_1043_leizi2_CN_012",
+            "wordKey": "char_1043_leizi2",
+            "charId": "char_1043_leizi2",
+            "voiceId": "CN_012",
+            "voiceText": "在複雜的戰場環境裡使用源石技藝，這些思路確實值得參考。",
+            "voiceTitle": "觀看作戰記錄",
+            "voiceIndex": 12,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "LEVEL_UP",
+            "voiceAsset": "char_1043_leizi2/CN_012"
+        },
+        "char_1043_leizi2_CN_013": {
+            "charWordId": "char_1043_leizi2_CN_013",
+            "wordKey": "char_1043_leizi2",
+            "charId": "char_1043_leizi2",
+            "voiceId": "CN_013",
+            "voiceText": "我不輕易交付信任，但羅德島已證明了自己是值得信賴的組織，不要讓我失望。呃，搶了你該說的話？抱歉，請說。",
+            "voiceTitle": "精英化晉升1",
+            "voiceIndex": 13,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "AWAKE",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                },
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "EVOLVE_ONE",
+            "voiceAsset": "char_1043_leizi2/CN_013"
+        },
+        "char_1043_leizi2_CN_014": {
+            "charWordId": "char_1043_leizi2_CN_014",
+            "wordKey": "char_1043_leizi2",
+            "charId": "char_1043_leizi2",
+            "voiceId": "CN_014",
+            "voiceText": "初入大理寺時我萬事都想爭先，以為站得越高，能成之事就越多。而如今離開大理寺也是出於同樣的考量。遺憾？不。你聽這雷聲隆隆，何處不聞，何處不至？",
+            "voiceTitle": "精英化晉升2",
+            "voiceIndex": 14,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "AWAKE",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 2
+                },
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "EVOLVE_TWO",
+            "voiceAsset": "char_1043_leizi2/CN_014"
+        },
+        "char_1043_leizi2_CN_017": {
+            "charWordId": "char_1043_leizi2_CN_017",
+            "wordKey": "char_1043_leizi2",
+            "charId": "char_1043_leizi2",
+            "voiceId": "CN_017",
+            "voiceText": "我的歷練並未結束。",
+            "voiceTitle": "編入隊伍",
+            "voiceIndex": 17,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "SQUAD",
+            "voiceAsset": "char_1043_leizi2/CN_017"
+        },
+        "char_1043_leizi2_CN_018": {
+            "charWordId": "char_1043_leizi2_CN_018",
+            "wordKey": "char_1043_leizi2",
+            "charId": "char_1043_leizi2",
+            "voiceId": "CN_018",
+            "voiceText": "雷霆破翳，前路昭明！",
+            "voiceTitle": "任命隊長",
+            "voiceIndex": 18,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "SQUAD_FIRST",
+            "voiceAsset": "char_1043_leizi2/CN_018"
+        },
+        "char_1043_leizi2_CN_019": {
+            "charWordId": "char_1043_leizi2_CN_019",
+            "wordKey": "char_1043_leizi2",
+            "charId": "char_1043_leizi2",
+            "voiceId": "CN_019",
+            "voiceText": "以劍為令——",
+            "voiceTitle": "行動出發",
+            "voiceIndex": 19,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_START",
+            "voiceAsset": "char_1043_leizi2/CN_019"
+        },
+        "char_1043_leizi2_CN_020": {
+            "charWordId": "char_1043_leizi2_CN_020",
+            "wordKey": "char_1043_leizi2",
+            "charId": "char_1043_leizi2",
+            "voiceId": "CN_020",
+            "voiceText": "寡廉鮮恥，不可治。",
+            "voiceTitle": "行動開始",
+            "voiceIndex": 20,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_FACE_ENEMY",
+            "voiceAsset": "char_1043_leizi2/CN_020"
+        },
+        "char_1043_leizi2_CN_021": {
+            "charWordId": "char_1043_leizi2_CN_021",
+            "wordKey": "char_1043_leizi2",
+            "charId": "char_1043_leizi2",
+            "voiceId": "CN_021",
+            "voiceText": "在。",
+            "voiceTitle": "選中幹員1",
+            "voiceIndex": 21,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SELECT",
+            "voiceAsset": "char_1043_leizi2/CN_021"
+        },
+        "char_1043_leizi2_CN_022": {
+            "charWordId": "char_1043_leizi2_CN_022",
+            "wordKey": "char_1043_leizi2",
+            "charId": "char_1043_leizi2",
+            "voiceId": "CN_022",
+            "voiceText": "很好的判斷。",
+            "voiceTitle": "選中幹員2",
+            "voiceIndex": 22,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SELECT",
+            "voiceAsset": "char_1043_leizi2/CN_022"
+        },
+        "char_1043_leizi2_CN_023": {
+            "charWordId": "char_1043_leizi2_CN_023",
+            "wordKey": "char_1043_leizi2",
+            "charId": "char_1043_leizi2",
+            "voiceId": "CN_023",
+            "voiceText": "有術無道，愚不可及。",
+            "voiceTitle": "部署1",
+            "voiceIndex": 23,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_PLACE",
+            "voiceAsset": "char_1043_leizi2/CN_023"
+        },
+        "char_1043_leizi2_CN_024": {
+            "charWordId": "char_1043_leizi2_CN_024",
+            "wordKey": "char_1043_leizi2",
+            "charId": "char_1043_leizi2",
+            "voiceId": "CN_024",
+            "voiceText": "電光石火，有觸即發！",
+            "voiceTitle": "部署2",
+            "voiceIndex": 24,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_PLACE",
+            "voiceAsset": "char_1043_leizi2/CN_024"
+        },
+        "char_1043_leizi2_CN_025": {
+            "charWordId": "char_1043_leizi2_CN_025",
+            "wordKey": "char_1043_leizi2",
+            "charId": "char_1043_leizi2",
+            "voiceId": "CN_025",
+            "voiceText": "五雷震邪佞，破！",
+            "voiceTitle": "作戰中1",
+            "voiceIndex": 25,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SKILL_1",
+            "voiceAsset": "char_1043_leizi2/CN_025"
+        },
+        "char_1043_leizi2_CN_026": {
+            "charWordId": "char_1043_leizi2_CN_026",
+            "wordKey": "char_1043_leizi2",
+            "charId": "char_1043_leizi2",
+            "voiceId": "CN_026",
+            "voiceText": "三元歸一劍貫魑魅，一點浩氣霆擊禍祟！",
+            "voiceTitle": "作戰中2",
+            "voiceIndex": 26,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SKILL_2",
+            "voiceAsset": "char_1043_leizi2/CN_026"
+        },
+        "char_1043_leizi2_CN_027": {
+            "charWordId": "char_1043_leizi2_CN_027",
+            "wordKey": "char_1043_leizi2",
+            "charId": "char_1043_leizi2",
+            "voiceId": "CN_027",
+            "voiceText": "斬妖除奸惡，雷霆動乾坤！",
+            "voiceTitle": "作戰中3",
+            "voiceIndex": 27,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SKILL_3",
+            "voiceAsset": "char_1043_leizi2/CN_027"
+        },
+        "char_1043_leizi2_CN_028": {
+            "charWordId": "char_1043_leizi2_CN_028",
+            "wordKey": "char_1043_leizi2",
+            "charId": "char_1043_leizi2",
+            "voiceId": "CN_028",
+            "voiceText": "天雷滾滾，你想逃到哪裡去！",
+            "voiceTitle": "作戰中4",
+            "voiceIndex": 28,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SKILL_4",
+            "voiceAsset": "char_1043_leizi2/CN_028"
+        },
+        "char_1043_leizi2_CN_029": {
+            "charWordId": "char_1043_leizi2_CN_029",
+            "wordKey": "char_1043_leizi2",
+            "charId": "char_1043_leizi2",
+            "voiceId": "CN_029",
+            "voiceText": "今後也要維持剛才那樣的高水準。當然是對你的認可，但你絕不可因此掉以輕心！",
+            "voiceTitle": "完成高難行動",
+            "voiceIndex": 29,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "FOUR_STAR",
+            "voiceAsset": "char_1043_leizi2/CN_029"
+        },
+        "char_1043_leizi2_CN_030": {
+            "charWordId": "char_1043_leizi2_CN_030",
+            "wordKey": "char_1043_leizi2",
+            "charId": "char_1043_leizi2",
+            "voiceId": "CN_030",
+            "voiceText": "有進步。以後少說你幾句？這麼自滿，我收回剛才的誇讚！",
+            "voiceTitle": "3星結束行動",
+            "voiceIndex": 30,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "THREE_STAR",
+            "voiceAsset": "char_1043_leizi2/CN_030"
+        },
+        "char_1043_leizi2_CN_031": {
+            "charWordId": "char_1043_leizi2_CN_031",
+            "wordKey": "char_1043_leizi2",
+            "charId": "char_1043_leizi2",
+            "voiceId": "CN_031",
+            "voiceText": "呼——你需要的是靜思。身為羅德島的領頭人之一，同樣的錯絕不可再犯，這點你要記住。",
+            "voiceTitle": "非3星結束行動",
+            "voiceIndex": 31,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "TWO_STAR",
+            "voiceAsset": "char_1043_leizi2/CN_031"
+        },
+        "char_1043_leizi2_CN_032": {
+            "charWordId": "char_1043_leizi2_CN_032",
+            "wordKey": "char_1043_leizi2",
+            "charId": "char_1043_leizi2",
+            "voiceId": "CN_032",
+            "voiceText": "站起來，和我一起戰鬥！我知道你不會輕易被擊敗！",
+            "voiceTitle": "行動失敗",
+            "voiceIndex": 32,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "LOSE",
+            "voiceAsset": "char_1043_leizi2/CN_032"
+        },
+        "char_1043_leizi2_CN_033": {
+            "charWordId": "char_1043_leizi2_CN_033",
+            "wordKey": "char_1043_leizi2",
+            "charId": "char_1043_leizi2",
+            "voiceId": "CN_033",
+            "voiceText": "我平日裡需要潛心研究，要是門外再發生爆炸——不會？好，我相信你。",
+            "voiceTitle": "進駐設施",
+            "voiceIndex": 33,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BUILDING_PLACE",
+            "voiceAsset": "char_1043_leizi2/CN_033"
+        },
+        "char_1043_leizi2_CN_034": {
+            "charWordId": "char_1043_leizi2_CN_034",
+            "wordKey": "char_1043_leizi2",
+            "charId": "char_1043_leizi2",
+            "voiceId": "CN_034",
+            "voiceText": "心靜則神清——不跟你計較。",
+            "voiceTitle": "戳一下",
+            "voiceIndex": 34,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BUILDING_TOUCHING",
+            "voiceAsset": "char_1043_leizi2/CN_034"
+        },
+        "char_1043_leizi2_CN_036": {
+            "charWordId": "char_1043_leizi2_CN_036",
+            "wordKey": "char_1043_leizi2",
+            "charId": "char_1043_leizi2",
+            "voiceId": "CN_036",
+            "voiceText": "只是握個手，無需小心翼翼，我已經很久沒電到人了。啊，靜電不算。",
+            "voiceTitle": "信賴觸摸",
+            "voiceIndex": 36,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BUILDING_FAVOR_BUBBLE",
+            "voiceAsset": "char_1043_leizi2/CN_036"
+        },
+        "char_1043_leizi2_CN_037": {
+            "charWordId": "char_1043_leizi2_CN_037",
+            "wordKey": "char_1043_leizi2",
+            "charId": "char_1043_leizi2",
+            "voiceId": "CN_037",
+            "voiceText": "明日方舟。",
+            "voiceTitle": "標題",
+            "voiceIndex": 37,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "LOADING_PANEL",
+            "voiceAsset": "char_1043_leizi2/CN_037"
+        },
+        "char_1043_leizi2_CN_038": {
+            "charWordId": "char_1043_leizi2_CN_038",
+            "wordKey": "char_1043_leizi2",
+            "charId": "char_1043_leizi2",
+            "voiceId": "CN_038",
+            "voiceText": "春雷煥新意，眾志且成城——怎麼樣，需要再激昂一點嗎？唔，結尾也得加一個有力的握拳動作。好了，再來一遍。什麼叫可以了？既然羅德島邀請我參加新年表演，我一定會全力以赴的！",
+            "voiceTitle": "新年祝福",
+            "voiceIndex": 38,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "NEW_YEAR",
+            "voiceAsset": "char_1043_leizi2/CN_038"
+        },
+        "char_1043_leizi2_CN_042": {
+            "charWordId": "char_1043_leizi2_CN_042",
+            "wordKey": "char_1043_leizi2",
+            "charId": "char_1043_leizi2",
+            "voiceId": "CN_042",
+            "voiceText": "從日程表來看，你現在不該在這裡休息，博士。",
+            "voiceTitle": "問候",
+            "voiceIndex": 42,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "GREETING",
+            "voiceAsset": "char_1043_leizi2/CN_042"
+        },
+        "char_1043_leizi2_CN_043": {
+            "charWordId": "char_1043_leizi2_CN_043",
+            "wordKey": "char_1043_leizi2",
+            "charId": "char_1043_leizi2",
+            "voiceId": "CN_043",
+            "voiceText": "恭賀誕辰。天師府驚蟄奉上的是這件法寶，相信你一定會善加使用。只要按下這個按鈕——別對著自己……你沒事吧？醒醒！我是說遇險時按下這個按鈕，我存在裡面的雷就會釋放出去……",
+            "voiceTitle": "生日",
+            "voiceIndex": 43,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BIRTHDAY",
+            "voiceAsset": "char_1043_leizi2/CN_043"
+        },
+        "char_1043_leizi2_CN_044": {
+            "charWordId": "char_1043_leizi2_CN_044",
+            "wordKey": "char_1043_leizi2",
+            "charId": "char_1043_leizi2",
+            "voiceId": "CN_044",
+            "voiceText": "我承認，先前因那案子的關係，我對羅德島多有戒備。如今再參與羅德島的任務，已不是為了考察。向弱勢者提供援助，尋求公平，我們所求之事本無差別，大可繼續合作。",
+            "voiceTitle": "周年慶典",
+            "voiceIndex": 44,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "ANNIVERSARY",
+            "voiceAsset": "char_1043_leizi2/CN_044"
+        },
         "char_113_cqbw_epoque#7_CN_001": {
             "charWordId": "char_113_cqbw_epoque#7_CN_001",
             "wordKey": "char_113_cqbw_epoque#7",
@@ -251678,7 +252920,7 @@
             "wordKey": "char_2026_yu_CN_TOPOLECT",
             "charId": "char_2026_yu",
             "voiceId": "CN_038",
-            "voiceText": "“所以，極境哥哥，船長後來怎麼樣了！”“好，接著上次的講，我們的豪膽船長棘刺擊敗了壞傢伙，就帶著勇敢的同伴們到了海上！他揮揮銀色的手臂，就能看見海裡所有的怪物，在被怪物發現之前悄無聲息地穿過牠們的領地，帶回一筐又一筐被怪物搶走的鱗，讓大家都不再餓肚子。嘿，要知道，他能練成這套本領，中間少不了我作為摯友和助手的幫助……”“欸——可是，如果豪膽船長一直在海上，那豈不是說，你們已經分開了？”“呃。我確實沒跟他出海。”“那極境哥哥為什麼還這麼開心？你不是說你們是很好的朋友嗎？”“雖然我沒出海，但我們還是搭檔！早在豪膽船長出發之前，我就在心裡把他的冒險完完整整預演過一遍了，他用到的一切必需品，都是我安排的！我敢打賭，就在此時此刻，豪膽船長一定在吃我給他的維他命！”——《豪膽船長傳奇·第三卷》的簽售會上，極境又一次講起自己與豪膽船長的故事“你確定要找羅德島？”那位鬍子上掛滿叮當作響的骨質飾品的船員壓低聲音問我。我心裡怕得不行，但既然已經身在這艘船上，也只能如實交代。“我、我被告知這裡有人受理羅、羅德島的救助物資申請。”他擠了擠眼睛，帶我往船艙深處走去。船艙內像是一座胡亂拼湊的迷宮，有時候要從還遺留著黃金時代鍍金痕跡的鋼架下爬過，有時候又要抓著骨棒和鱗皮做成的梯子上下攀行。我被帶進一間昏暗的艙室。一雙金色的眼睛在艙室盡頭端詳著我。身後的船員推了推我，叫我獨自進去。“順手幫忙打開燈吧，開關在你右前方23度角，40公分處。”燈亮後，我看清了說話的人。一個髮型凌亂、衣衫不整，但精神煥發的青年，沉默地端詳著我的同時，手裡還擺弄著某種奇特的裝置。說實話，這裡根本不像什麼羅德島的辦事處。牆上地上都用雜亂的筆跡畫滿了各種符號，天花板上吊著各式各樣的瓶瓶罐罐，在顏色奇異的燈光映照下，空氣中還有纖細的絲線若隱若現，說它是什麼邪術師的據點，還更可信些。“那、那個，要是我找錯地方了，這裡不是羅德島的辦事處，我只希望你們能讓我安全離開，我身上沒錢，也沒人能來贖我，我……”我捏緊了包裡的《豪膽船長傳奇》三部曲簽名版，拼命想著脫身的計策。如果真的落入海盜之手，我想，正義的豪膽船長一定會出手相救，但前提是我得先憑自己的才智，拖延足夠的時間……“怎麼，這裡當然是羅德島……哦，哦！不好意思。”聽到羅德島，青年忽然眼睛一亮，猛地站起身來，費力地將身後掛滿草稿紙的木板轉了過來。木板背面赫然刻著羅德島的標誌。“不好意思，船上空間不夠，只能一室兩用了。但這就是羅德島駐泰拉海洋辦事處，貨真價實。現在，申請單給我，我看看我們有沒有對應的儲備……”——一位經羅德島駐伊比利亞辦事處介紹，來到寶寶搖籃號領取救助物資的村民的回憶",
+            "voiceText": "年姐，別偷吃！先去叫夕出來。令姐，你過來幫幫忙，我和黍姐俺倆忙不過來啊。大哥又上哪呵兒去啢……博士，你怎麼才來啊？麻利兒坐下一起吃啊！新年快樂！",
             "voiceTitle": "新年祝福",
             "voiceIndex": 38,
             "voiceType": "ENUM",
@@ -259189,6 +260431,14 @@
                         "朴善映"
                     ],
                     "voicePath": null
+                },
+                "EN": {
+                    "wordkey": "char_328_cammou",
+                    "voiceLangType": "EN",
+                    "cvName": [
+                        "Leona Renee"
+                    ],
+                    "voicePath": null
                 }
             }
         },
@@ -259541,6 +260791,14 @@
                         "朴善映"
                     ],
                     "voicePath": null
+                },
+                "EN": {
+                    "wordkey": "char_366_acdrop",
+                    "voiceLangType": "EN",
+                    "cvName": [
+                        "Sydney Miede"
+                    ],
+                    "voicePath": null
                 }
             }
         },
@@ -259674,7 +260932,7 @@
                     "wordkey": "char_151_myrtle",
                     "voiceLangType": "CN_MANDARIN",
                     "cvName": [
-                        "杜松子"
+                        "降溫"
                     ],
                     "voicePath": null
                 },
@@ -259731,6 +260989,14 @@
                     "voiceLangType": "KR",
                     "cvName": [
                         "張蕊娜"
+                    ],
+                    "voicePath": null
+                },
+                "EN": {
+                    "wordkey": "char_452_bstalk",
+                    "voiceLangType": "EN",
+                    "cvName": [
+                        "Roshni Edwards"
                     ],
                     "voicePath": null
                 }
@@ -260083,6 +261349,14 @@
                     "voiceLangType": "KR",
                     "cvName": [
                         "余珉定"
+                    ],
+                    "voicePath": null
+                },
+                "EN": {
+                    "wordkey": "char_347_jaksel",
+                    "voiceLangType": "EN",
+                    "cvName": [
+                        "Jessica Hann"
                     ],
                     "voicePath": null
                 }
@@ -260805,6 +262079,14 @@
                         "房翅于"
                     ],
                     "voicePath": null
+                },
+                "EN": {
+                    "wordkey": "char_258_podego",
+                    "voiceLangType": "EN",
+                    "cvName": [
+                        "Lourdes Arruti"
+                    ],
+                    "voicePath": null
                 }
             }
         },
@@ -261262,6 +262544,14 @@
                         "Miguel Ferreno"
                     ],
                     "voicePath": null
+                },
+                "SPA": {
+                    "wordkey": "char_401_elysm",
+                    "voiceLangType": "SPA",
+                    "cvName": [
+                        "Miguel Ferreño"
+                    ],
+                    "voicePath": null
                 }
             }
         },
@@ -261590,6 +262880,14 @@
                     "voiceLangType": "KR",
                     "cvName": [
                         "金明俊"
+                    ],
+                    "voicePath": null
+                },
+                "EN": {
+                    "wordkey": "char_294_ayer",
+                    "voiceLangType": "EN",
+                    "cvName": [
+                        "Ethan McHale"
                     ],
                     "voicePath": null
                 }
@@ -262568,6 +263866,14 @@
                         "姜始炫"
                     ],
                     "voicePath": null
+                },
+                "EN": {
+                    "wordkey": "char_306_leizi",
+                    "voiceLangType": "EN",
+                    "cvName": [
+                        "小巫"
+                    ],
+                    "voicePath": null
                 }
             }
         },
@@ -262678,6 +263984,14 @@
                     "voiceLangType": "KR",
                     "cvName": [
                         "文維貞"
+                    ],
+                    "voicePath": null
+                },
+                "EN": {
+                    "wordkey": "char_338_iris",
+                    "voiceLangType": "EN",
+                    "cvName": [
+                        "Molly Jenkins"
                     ],
                     "voicePath": null
                 }
@@ -262830,6 +264144,14 @@
                     "voiceLangType": "KR",
                     "cvName": [
                         "張蕊娜"
+                    ],
+                    "voicePath": null
+                },
+                "EN": {
+                    "wordkey": "char_336_folivo",
+                    "voiceLangType": "EN",
+                    "cvName": [
+                        "Anjali Kunapaneni"
                     ],
                     "voicePath": null
                 }
@@ -263500,6 +264822,14 @@
                         "裴晶美"
                     ],
                     "voicePath": null
+                },
+                "EN": {
+                    "wordkey": "char_325_bison",
+                    "voiceLangType": "EN",
+                    "cvName": [
+                        "Erica Mendez"
+                    ],
+                    "voicePath": null
                 }
             }
         },
@@ -263995,6 +265325,14 @@
                     "voiceLangType": "KR",
                     "cvName": [
                         "露"
+                    ],
+                    "voicePath": null
+                },
+                "EN": {
+                    "wordkey": "char_254_vodfox",
+                    "voiceLangType": "EN",
+                    "cvName": [
+                        "Kaitlyn Brooke"
                     ],
                     "voicePath": null
                 }
@@ -264686,6 +266024,14 @@
                         "尹垠舒"
                     ],
                     "voicePath": null
+                },
+                "EN": {
+                    "wordkey": "char_391_rosmon",
+                    "voiceLangType": "EN",
+                    "cvName": [
+                        "Hayden Daviau"
+                    ],
+                    "voicePath": null
                 }
             }
         },
@@ -264887,6 +266233,14 @@
                         "素蓮"
                     ],
                     "voicePath": null
+                },
+                "EN": {
+                    "wordkey": "char_362_saga",
+                    "voiceLangType": "EN",
+                    "cvName": [
+                        "Yu Kousaka"
+                    ],
+                    "voicePath": null
                 }
             }
         },
@@ -264980,7 +266334,7 @@
                     "wordkey": "char_180_amgoat",
                     "voiceLangType": "CN_MANDARIN",
                     "cvName": [
-                        "杜松子"
+                        "降溫"
                     ],
                     "voicePath": null
                 },
@@ -265414,6 +266768,22 @@
                     "voiceLangType": "KR",
                     "cvName": [
                         "吳撈妸"
+                    ],
+                    "voicePath": null
+                },
+                "EN": {
+                    "wordkey": "char_400_weedy",
+                    "voiceLangType": "EN",
+                    "cvName": [
+                        "Maya Graydon"
+                    ],
+                    "voicePath": null
+                },
+                "SPA": {
+                    "wordkey": "char_400_weedy",
+                    "voiceLangType": "SPA",
+                    "cvName": [
+                        "Marina Romero"
                     ],
                     "voicePath": null
                 }
@@ -265875,6 +267245,14 @@
                         "金睿臨"
                     ],
                     "voicePath": null
+                },
+                "EN": {
+                    "wordkey": "char_311_mudrok",
+                    "voiceLangType": "EN",
+                    "cvName": [
+                        "Alexandra Boulton"
+                    ],
+                    "voicePath": null
                 }
             }
         },
@@ -265905,6 +267283,14 @@
                     "voiceLangType": "KR",
                     "cvName": [
                         "裴晶美"
+                    ],
+                    "voicePath": null
+                },
+                "EN": {
+                    "wordkey": "char_416_zumama",
+                    "voiceLangType": "EN",
+                    "cvName": [
+                        "Jesse Vilinsky"
                     ],
                     "voicePath": null
                 }
@@ -266063,6 +267449,14 @@
                 "EN": {
                     "wordkey": "char_293_thorns",
                     "voiceLangType": "EN",
+                    "cvName": [
+                        "Javier Bañas"
+                    ],
+                    "voicePath": null
+                },
+                "SPA": {
+                    "wordkey": "char_293_thorns",
+                    "voiceLangType": "SPA",
                     "cvName": [
                         "Javier Bañas"
                     ],
@@ -267358,6 +268752,14 @@
                         "Lizzie Waterworth"
                     ],
                     "voicePath": null
+                },
+                "SPA": {
+                    "wordkey": "char_4009_irene",
+                    "voiceLangType": "SPA",
+                    "cvName": [
+                        "Gracia Comitre"
+                    ],
+                    "voicePath": null
                 }
             }
         },
@@ -267396,6 +268798,14 @@
                     "voiceLangType": "EN",
                     "cvName": [
                         "Jay Rincon"
+                    ],
+                    "voicePath": null
+                },
+                "SPA": {
+                    "wordkey": "char_4042_lumen",
+                    "voiceLangType": "SPA",
+                    "cvName": [
+                        "Raúl Lara"
                     ],
                     "voicePath": null
                 }
@@ -269945,7 +271355,7 @@
                     "wordkey": "char_1016_agoat2",
                     "voiceLangType": "CN_MANDARIN",
                     "cvName": [
-                        "杜松子"
+                        "降溫"
                     ],
                     "voicePath": null
                 },
@@ -272297,6 +273707,14 @@
                         "Javier Bañas"
                     ],
                     "voicePath": null
+                },
+                "SPA": {
+                    "wordkey": "char_1039_thorn2",
+                    "voiceLangType": "SPA",
+                    "cvName": [
+                        "Javier Bañas"
+                    ],
+                    "voicePath": null
                 }
             }
         },
@@ -272333,6 +273751,14 @@
                 "EN": {
                     "wordkey": "char_4163_rosesa",
                     "voiceLangType": "EN",
+                    "cvName": [
+                        "Andrea Alzuri Barro"
+                    ],
+                    "voicePath": null
+                },
+                "SPA": {
+                    "wordkey": "char_4163_rosesa",
+                    "voiceLangType": "SPA",
                     "cvName": [
                         "Andrea Alzuri Barro"
                     ],
@@ -273181,6 +274607,86 @@
                 }
             }
         },
+        "char_4196_reckpr": {
+            "wordkeys": [
+                "char_4196_reckpr"
+            ],
+            "charId": "char_4196_reckpr",
+            "dict": {
+                "CN_MANDARIN": {
+                    "wordkey": "char_4196_reckpr",
+                    "voiceLangType": "CN_MANDARIN",
+                    "cvName": [
+                        "孫金龍"
+                    ],
+                    "voicePath": null
+                },
+                "JP": {
+                    "wordkey": "char_4196_reckpr",
+                    "voiceLangType": "JP",
+                    "cvName": [
+                        "前田誠二"
+                    ],
+                    "voicePath": null
+                },
+                "KR": {
+                    "wordkey": "char_4196_reckpr",
+                    "voiceLangType": "KR",
+                    "cvName": [
+                        "金珉柱"
+                    ],
+                    "voicePath": null
+                },
+                "EN": {
+                    "wordkey": "char_4196_reckpr",
+                    "voiceLangType": "EN",
+                    "cvName": [
+                        "Jonathon Ha"
+                    ],
+                    "voicePath": null
+                }
+            }
+        },
+        "char_1043_leizi2": {
+            "wordkeys": [
+                "char_1043_leizi2"
+            ],
+            "charId": "char_1043_leizi2",
+            "dict": {
+                "CN_MANDARIN": {
+                    "wordkey": "char_1043_leizi2",
+                    "voiceLangType": "CN_MANDARIN",
+                    "cvName": [
+                        "徐徐"
+                    ],
+                    "voicePath": null
+                },
+                "JP": {
+                    "wordkey": "char_1043_leizi2",
+                    "voiceLangType": "JP",
+                    "cvName": [
+                        "甲斐田裕子"
+                    ],
+                    "voicePath": null
+                },
+                "KR": {
+                    "wordkey": "char_1043_leizi2",
+                    "voiceLangType": "KR",
+                    "cvName": [
+                        "姜始炫"
+                    ],
+                    "voicePath": null
+                },
+                "EN": {
+                    "wordkey": "char_1043_leizi2",
+                    "voiceLangType": "EN",
+                    "cvName": [
+                        "小巫"
+                    ],
+                    "voicePath": null
+                }
+            }
+        },
         "char_311_mudrok#1": {
             "wordkeys": [
                 "char_311_mudrok#1"
@@ -273208,6 +274714,14 @@
                     "voiceLangType": "KR",
                     "cvName": [
                         "金睿臨"
+                    ],
+                    "voicePath": null
+                },
+                "EN": {
+                    "wordkey": "char_311_mudrok#1",
+                    "voiceLangType": "EN",
+                    "cvName": [
+                        "Alexandra Boulton"
                     ],
                     "voicePath": null
                 }
@@ -273681,14 +275195,8 @@
     },
     "defaultLangType": "JP",
     "newTagList": [
-        "char_1041_angel2",
-        "char_4193_lemuen",
-        "char_4194_rmixer",
-        "char_4187_graceb",
-        "char_4188_confes",
-        "char_1042_phatm2",
-        "char_4191_tippi",
-        "char_4198_christ"
+        "char_4196_reckpr",
+        "char_1043_leizi2"
     ],
     "voiceLangTypeDict": {
         "CN_MANDARIN": {
@@ -273730,6 +275238,10 @@
         "FRE": {
             "name": "法語",
             "groupType": "CUSTOM"
+        },
+        "SPA": {
+            "name": "西班牙語",
+            "groupType": "CUSTOM"
         }
     },
     "voiceLangGroupTypeDict": {
@@ -273764,7 +275276,8 @@
                 "ITA",
                 "GER",
                 "RUS",
-                "FRE"
+                "FRE",
+                "SPA"
             ]
         },
         "LINKAGE": {
@@ -274154,7 +275667,9 @@
         "char_4188_confes": "JP",
         "char_1042_phatm2": "JP",
         "char_4191_tippi": "JP",
-        "char_4198_christ": "JP"
+        "char_4198_christ": "JP",
+        "char_4196_reckpr": "JP",
+        "char_1043_leizi2": "JP"
     },
     "startTimeWithTypeDict": {
         "CN_TOPOLECT": [
@@ -274216,6 +275731,13 @@
             }
         ],
         "KR": [
+            {
+                "timestamp": 1769407200,
+                "charSet": [
+                    "char_4196_reckpr",
+                    "char_1043_leizi2"
+                ]
+            },
             {
                 "timestamp": 1766995200,
                 "charSet": [
@@ -274795,6 +276317,29 @@
             }
         ],
         "EN": [
+            {
+                "timestamp": 1769407200,
+                "charSet": [
+                    "char_328_cammou",
+                    "char_366_acdrop",
+                    "char_452_bstalk",
+                    "char_347_jaksel",
+                    "char_258_podego",
+                    "char_294_ayer",
+                    "char_306_leizi",
+                    "char_338_iris",
+                    "char_336_folivo",
+                    "char_325_bison",
+                    "char_254_vodfox",
+                    "char_391_rosmon",
+                    "char_362_saga",
+                    "char_400_weedy",
+                    "char_311_mudrok",
+                    "char_416_zumama",
+                    "char_4196_reckpr",
+                    "char_1043_leizi2"
+                ]
+            },
             {
                 "timestamp": 1766995200,
                 "charSet": [
@@ -275407,6 +276952,20 @@
                 ]
             }
         ],
+        "SPA": [
+            {
+                "timestamp": 1772092800,
+                "charSet": [
+                    "char_401_elysm",
+                    "char_400_weedy",
+                    "char_293_thorns",
+                    "char_4009_irene",
+                    "char_4042_lumen",
+                    "char_1039_thorn2",
+                    "char_4163_rosesa"
+                ]
+            }
+        ],
         "FRE": [
             {
                 "timestamp": 1766995200,
@@ -275444,7 +277003,8 @@
         "ITA",
         "GER",
         "RUS",
-        "FRE"
+        "FRE",
+        "SPA"
     ],
     "playVoiceRange": "HOME_SHOW",
     "fesVoiceData": {
@@ -275515,6 +277075,7 @@
                 "GER",
                 "RUS",
                 "FRE",
+                "SPA",
                 "LINKAGE"
             ]
         },
@@ -275530,6 +277091,7 @@
                 "GER",
                 "RUS",
                 "FRE",
+                "SPA",
                 "LINKAGE"
             ]
         },
@@ -275538,11 +277100,14 @@
             "validVoiceLang": [
                 "CN_MANDARIN",
                 "JP",
+                "EN",
+                "KR",
                 "CN_TOPOLECT",
                 "ITA",
                 "GER",
                 "RUS",
                 "FRE",
+                "SPA",
                 "LINKAGE"
             ]
         }

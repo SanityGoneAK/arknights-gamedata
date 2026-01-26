@@ -85,10 +85,8 @@
     "bgmEvent": "sandbox_1_huntarea",
     "environmentSe": null,
     "mapData": {
-        "map": {
-            "row_size": 13,
-            "column_size": 17,
-            "matrix_data": [
+        "map": [
+            [
                 204,
                 205,
                 206,
@@ -105,7 +103,9 @@
                 217,
                 218,
                 219,
-                220,
+                220
+            ],
+            [
                 187,
                 188,
                 189,
@@ -122,7 +122,9 @@
                 200,
                 201,
                 202,
-                203,
+                203
+            ],
+            [
                 170,
                 171,
                 172,
@@ -139,7 +141,9 @@
                 183,
                 184,
                 185,
-                186,
+                186
+            ],
+            [
                 153,
                 154,
                 155,
@@ -156,7 +160,9 @@
                 166,
                 167,
                 168,
-                169,
+                169
+            ],
+            [
                 136,
                 137,
                 138,
@@ -173,7 +179,9 @@
                 149,
                 150,
                 151,
-                152,
+                152
+            ],
+            [
                 119,
                 120,
                 121,
@@ -190,7 +198,9 @@
                 132,
                 133,
                 134,
-                135,
+                135
+            ],
+            [
                 102,
                 103,
                 104,
@@ -207,7 +217,9 @@
                 115,
                 116,
                 117,
-                118,
+                118
+            ],
+            [
                 85,
                 86,
                 87,
@@ -224,7 +236,9 @@
                 98,
                 99,
                 100,
-                101,
+                101
+            ],
+            [
                 68,
                 69,
                 70,
@@ -241,7 +255,9 @@
                 81,
                 82,
                 83,
-                84,
+                84
+            ],
+            [
                 51,
                 52,
                 53,
@@ -258,7 +274,9 @@
                 64,
                 65,
                 66,
-                67,
+                67
+            ],
+            [
                 34,
                 35,
                 36,
@@ -275,7 +293,9 @@
                 47,
                 48,
                 49,
-                50,
+                50
+            ],
+            [
                 17,
                 18,
                 19,
@@ -292,7 +312,9 @@
                 30,
                 31,
                 32,
-                33,
+                33
+            ],
+            [
                 0,
                 1,
                 2,
@@ -311,7 +333,7 @@
                 15,
                 16
             ]
-        },
+        ],
         "tiles": [
             {
                 "tileKey": "tile_forbidden",
@@ -8260,24 +8282,12 @@
                 "alias": "trap_437_poachr#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
-                "inst": {
-                    "characterKey": "trap_437_poachr",
-                    "level": 1,
-                    "phase": "PHASE_0",
-                    "favorPoint": 0,
-                    "potentialRank": 0
-                },
-                "skillIndex": 0,
-                "mainSkillLvl": 1,
+                "inst": null,
+                "skillIndex": 84,
+                "mainSkillLvl": 0,
                 "skinId": "",
-                "tmplId": null,
-                "overrideSkillBlackboard": [
-                    {
-                        "key": "alias",
-                        "value": 0.0,
-                        "valueStr": "trap_437_poachr#1"
-                    }
-                ]
+                "tmplId": "",
+                "overrideSkillBlackboard": null
             },
             {
                 "position": {
@@ -8289,24 +8299,12 @@
                 "alias": "trap_437_poachr#2",
                 "uniEquipIds": null,
                 "showSpIllust": false,
-                "inst": {
-                    "characterKey": "trap_437_poachr",
-                    "level": 1,
-                    "phase": "PHASE_0",
-                    "favorPoint": 0,
-                    "potentialRank": 0
-                },
-                "skillIndex": 0,
-                "mainSkillLvl": 1,
+                "inst": null,
+                "skillIndex": 84,
+                "mainSkillLvl": 0,
                 "skinId": "",
-                "tmplId": null,
-                "overrideSkillBlackboard": [
-                    {
-                        "key": "alias",
-                        "value": 0.0,
-                        "valueStr": "trap_437_poachr#2"
-                    }
-                ]
+                "tmplId": "",
+                "overrideSkillBlackboard": null
             }
         ],
         "characterCards": [],

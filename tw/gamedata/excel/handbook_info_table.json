@@ -30644,7 +30644,41 @@
                     "unLockorNot": true
                 }
             ],
-            "handbookAvgList": []
+            "handbookAvgList": [
+                {
+                    "storySetId": "story_saga_set_1",
+                    "storySetName": "未必空",
+                    "sortId": 1,
+                    "storyGetTime": 1769407200,
+                    "rewardItem": [],
+                    "unlockParam": [
+                        {
+                            "unlockType": "AWAKE",
+                            "unlockParam1": "2",
+                            "unlockParam2": "1",
+                            "unlockParam3": null
+                        },
+                        {
+                            "unlockType": "FAVOR",
+                            "unlockParam1": "50",
+                            "unlockParam2": null,
+                            "unlockParam3": null
+                        }
+                    ],
+                    "avgList": [
+                        {
+                            "storyId": "story_saga_set_1_story_1",
+                            "storySetId": "story_saga_set_1",
+                            "storySort": 1,
+                            "storyCanShow": true,
+                            "storyIntro": "問醒何曾醒，雲空未必空。",
+                            "storyInfo": "info/obt/memory/story_saga_1_1",
+                            "storyTxt": "obt/memory/story_saga_1_1"
+                        }
+                    ],
+                    "charId": "char_362_saga"
+                }
+            ]
         },
         "char_2015_dusk": {
             "charID": "char_2015_dusk",
@@ -53334,7 +53368,41 @@
                     "unLockorNot": true
                 }
             ],
-            "handbookAvgList": []
+            "handbookAvgList": [
+                {
+                    "storySetId": "story_ray_set_1",
+                    "storySetName": "夜晚荒漠上的鱗群",
+                    "sortId": 1,
+                    "storyGetTime": 1769407200,
+                    "rewardItem": [],
+                    "unlockParam": [
+                        {
+                            "unlockType": "AWAKE",
+                            "unlockParam1": "2",
+                            "unlockParam2": "1",
+                            "unlockParam3": null
+                        },
+                        {
+                            "unlockType": "FAVOR",
+                            "unlockParam1": "50",
+                            "unlockParam2": null,
+                            "unlockParam3": null
+                        }
+                    ],
+                    "avgList": [
+                        {
+                            "storyId": "story_ray_set_1_story_1",
+                            "storySetId": "story_ray_set_1",
+                            "storySort": 1,
+                            "storyCanShow": true,
+                            "storyIntro": "沙地獸，你看到了嗎？原來“夜晚荒漠上的鱗群”這個傳說是真的，還跟你我有關。",
+                            "storyInfo": "info/obt/memory/story_ray_1_1",
+                            "storyTxt": "obt/memory/story_ray_1_1"
+                        }
+                    ],
+                    "charId": "char_4117_ray"
+                }
+            ]
         },
         "char_4121_zuole": {
             "charID": "char_4121_zuole",
@@ -56922,7 +56990,41 @@
                     "unLockorNot": true
                 }
             ],
-            "handbookAvgList": []
+            "handbookAvgList": [
+                {
+                    "storySetId": "story_tinman_set_1",
+                    "storySetName": "最後一案",
+                    "sortId": 1,
+                    "storyGetTime": 1769407200,
+                    "rewardItem": [],
+                    "unlockParam": [
+                        {
+                            "unlockType": "AWAKE",
+                            "unlockParam1": "2",
+                            "unlockParam2": "1",
+                            "unlockParam3": null
+                        },
+                        {
+                            "unlockType": "FAVOR",
+                            "unlockParam1": "50",
+                            "unlockParam2": null,
+                            "unlockParam3": null
+                        }
+                    ],
+                    "avgList": [
+                        {
+                            "storyId": "story_tinman_set_1_story_1",
+                            "storySetId": "story_tinman_set_1",
+                            "storySort": 1,
+                            "storyCanShow": true,
+                            "storyIntro": "追趕時代，或者被它甩進沙塵裡摔個頭破血流。",
+                            "storyInfo": "info/obt/memory/story_tinman_1_1",
+                            "storyTxt": "obt/memory/story_tinman_1_1"
+                        }
+                    ],
+                    "charId": "char_4151_tinman"
+                }
+            ]
         },
         "char_4147_mitm": {
             "charID": "char_4147_mitm",
@@ -63072,6 +63174,326 @@
                     "stories": [
                         {
                             "storyText": "【一張遺落在羅德島走廊盡頭的紙條】\n“一天的工作結束，你終於有時間重新整理藍卡塢事件的檔案，為某位幹員填寫晉升文書。這件事讓你有點苦惱。”\n“既是職責，也因為關心，你需要用精準的文字、既定的結論來判斷盧西恩似夢非夢的狀態究竟代表著什麼。”\n就在你充滿困惑，打算離開辦公室去散心時，你在走廊盡頭發現了這張字條。\n“你強裝鎮定，卻無法控制皮膚的戰慄。你好奇寫下這些文字、故弄玄虛的人究竟是誰，是盧西恩提及的舊日惡夢，是某種更高次元擠壓下形成的裂縫，還是……你的生活已經成為盧西恩正在構想的作品中的成分。你聽過他午夜的囈語和自問式的低歌，而當你試圖理解他的思想和他寫下的隻言片語時，那些碎片又會隨歌聲消散。”\n“一個忠告，我的‘朋友’——拋棄理性和邏輯，遺忘俗常的定義。不要期待這張莫名的字條為你解除繫在盧西恩身上的所有疑惑，正如我無法用文字向你一一闡明，從藝術誕生之初，一切關於作品的解讀，對虛構人物的塑造，對戲劇的演繹……”\n“啊，你認出我了不是嗎？‘我’不僅存在於他的身分或者代稱上，宿命般漫長的對台戲已讓我成為他的一部分，這並非我原本的目的，卻是他為我帶來的驚喜。開心點，你也會沉浸在他的故事裡的。”",
+                            "unLockType": "AWAKE",
+                            "unLockParam": "2;1",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "晉升記錄",
+                    "unLockorNot": true
+                }
+            ],
+            "handbookAvgList": []
+        },
+        "char_4196_reckpr": {
+            "charID": "char_4196_reckpr",
+            "infoName": "Unknown",
+            "isLimited": false,
+            "storyTextAudio": [
+                {
+                    "stories": [
+                        {
+                            "storyText": "【代號】錄武官\n【性別】男\n【戰鬥經驗】沒有戰鬥經驗\n【出身地】炎\n【生日】3月23日\n【種族】佩洛\n【身高】178cm\n【礦石病感染情況】\n參照醫學檢測報告，確認為非感染者。",
+                            "unLockType": "DIRECT",
+                            "unLockParam": "",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "基礎檔案",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "【物理強度】缺陷\n【戰場機動】普通\n【生理耐受】普通\n【戰術規劃】優良\n【戰鬥技巧】普通\n【源石技藝適應性】標準",
+                            "unLockType": "DIRECT",
+                            "unLockParam": "",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "綜合體檢測試",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "雲青萍，曾就任炎國錄武官一職，為軍隊將士記錄武功、編撰書籍。現經幹員左樂介紹，作為司歲台編外文職暫駐羅德島，負責輔助對歲獸代理人的觀察與記錄，並兼任羅德島後勤幹員。",
+                            "unLockType": "DIRECT",
+                            "unLockParam": "",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "客觀履歷",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "造影檢測結果顯示，該幹員體內臟器輪廓清晰，未見異常陰影，循環系統內源石顆粒檢測未見異常，無礦石病感染跡象，現階段可確認為非礦石病感染者。\n\n【體細胞與源石融合率】0%\n幹員錄武官沒有被源石感染的跡象。\n\n【血液源石結晶密度】0.12u/L\n幹員錄武官甚少接觸源石。",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "25",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "臨床診斷分析",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "【外勤任務申請評估報告】\n申請人：雲青萍\n評估意見：\n雲青萍雖不受礦石病困擾，但兒時受的傷在他身上留下了同樣棘手的後遺症，使他無法參與容易疲勞或容易受到碰撞的相關活動。他的外勤實習體檢報告的數據較令人擔心，大部分都剛好超過及格邊緣一點點，有幾項力量與反應力相關的身體數據遠遠未達標準。就算是最安全的外勤任務，也需消耗體力並忍受顛簸的路途，單從數據看，他並不是最適合出外勤的人選。\n但由於這位幹員的特殊性，我們並未就此對他的申請下結論。事實上，就雲青萍的身體狀況來說，他的體測數據已經遠超預期。除此之外，他身上還有一些常人無法企及的特長：\n他的平衡性驚人，能單腳穩穩地踩在一顆核桃上；他憋氣的時間比漁民還長；他的動態視力超出常人。這些從他平時的習慣中有跡可循——他靠練習平衡提升核心力量，練習吐納法以強身健體，動態視力自然是從錄武的工作中習得的。\n從交談中我們推斷，雲青萍對自己身體情況的認知極為清晰。他不希望身體因素拖累自己，認真地規劃了一套適合自己的鍛鍊法，日復一日地執行，從不偷懶，將簡單的事堅持到極致。現在可以確定的是，儘管他的身體不夠強健，但他有著不可取代性，能夠在一些特殊的外勤任務中發揮作用。\n與本人確認時，他對出外勤展現出濃厚的興趣。他並不想受健康的約束，且志在四方。經綜合評估，在不頻繁、力所能及的情況下，雲青萍可參與部分外勤工作。",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "50",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "檔案資料一",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "雲青萍曾在大炎擔任錄武官多年，在我們的理解中，他的職責應該和錄入及整理作戰記錄類似，在面試中，他的闡述卻十分有趣。\n“現今大炎通用的學生暖身操，我就有參與設計。你一定不像我一樣被那麼多小朋友討厭過吧？”他開玩笑地說著，拿出了早就準備好的幾本書，“這些，就是我過去幾年工作的大致內容。”\n他拿出的第一本書是《武經初探（修訂版）》。\n“參與修訂這本書，是我最重要的收穫之一。‘武功’這看似傳統的技藝，其實每年都在變，一代又一代的‘錄武官’便負責觀察並記錄這些變化。但如果僅僅是記錄武功招式，記的終歸只有‘形’，瞭解武功為什麼會變，才能知其根本——”\n他拿出的第二本書，書名為《東學西問》。\n“我把思考記在了這本書裡，都是跟著老師邊跑江湖邊學習到的見識。比如說——南方的暗器工匠退出江湖的契機，竟是手工業的興起；北方的傳統派與新興派的爭端，始於那邊愈漸發達的貿易。江湖從來都是‘人’的江湖。親眼看到這些我才明白，武功會變，是因為人的生活在變。”\n雲青萍雖然個性偏內向，但當聊起錄武官的工作時，眼神卻閃閃發亮。從“武功”看這片大地，也算是屬於他的獨特視角，十分有趣，因此我們做了重點記錄。",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "100",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "檔案資料二",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "雲青萍的錄武簿從不離身，錄武簿於他不僅是鑽研武學的工具，也有其他意義。在我們與他的日常交流中，偶會聽到他提起“錄武簿笑話”：\n一說左宣遼將軍檢查左樂的功課時，出其不意地直接拿了錄武簿來看——左樂失誤了多少次、何處有偷懶一覽無餘，看得左樂的神情窘迫，進退兩難。那之後，雲青萍總會適當地少記幾筆，多看幾眼，與左樂細細地討論他功夫裡的弱點與解法。一來二去，雲青萍難得地有了一個與他年齡相仿的友人。\n二說這錄武簿也常是將士們打賭找樂子的好幫手。他們很信任雲青萍，誰的箭準頭好、誰的刀快，都憑錄武簿說話。賭輸的那位請喝酒吃飯，也總是會帶雲青萍一起。軍中人待他向來如親人一般。\n前一陣，我們收到了一封來自炎國寄給雲青萍的信。轉交後，沒過多久，雲青萍便急忙地拿了自己的錄武簿過來，複印過後，鄭重其事地交給信使，請對方務必交到收信人手中。我們好奇那值得雲青萍特地寄回家鄉的紙頁記錄的是如何重要的招式，雲青萍聽後卻酸澀地笑了笑。\n“只是一些回憶。並不是每個人出征後都能回來的，這樣的記錄對他們的親人來說，也彌足珍貴。”\n我們沒想到會聽到這樣悲傷的話題。現在想想，從先前軍中出了什麼挨了宗師罰的糗事，到如今我們那群令人操心的傢伙搞的什麼御劍速滑賽……這些雲青萍與他親近之人所共同經歷的事，想必全都被他記錄在那本錄武簿裡。錄武簿對雲青萍而言，確實遠遠不只是參考資料了。",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "150",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "檔案資料三",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "在登記武器時，雲青萍登記了兩把劍，一把是他平時佩的劍，另一把是生鏽的斷劍。平時從未見他佩戴或申請修補那把斷劍，倒是有聽他在談論自己病情的時候，隱約說起過那把劍的來歷。\n他提到自己十歲時，家中曾遭匪徒襲擊，他當時胸口中了一掌，要不是懷裡的劍幫他擋了一下，他就沒命了。所以，那把劍從他十歲起就跟著他了。\n雲青萍家裡那個案子當年鬧得很大，我們搜尋到了當年的報紙。報上寫，雲青萍的本家在炎國一座村莊內，家主是當地有名的義士。彼時村莊附近賊寇與貪官勾結，村民不堪其擾。家主數次為村民們出頭，終成了那幫賊人不得不拔的釘子。後續報導還提到，這幫匪徒終於被剿滅，貪官也被懲處，也算是為雲青萍討回了公道。\n令我們驚訝的其實是報紙上刊登的照片。在一張現場照片的角落裡，我們看到匪徒的佩劍，與雲青萍那把生鏽的斷劍竟有著相同的紋樣。\n雲青萍的劍，是匪徒的劍？\n還是說，雲青萍的劍，被人帶去殺死了匪徒？\n我們猜測，更可能是後者。為他復仇的人，用他的劍殺死了匪徒，方有復仇的快意。否則，一個十歲的健康幸福的少年突然失去一切，要如何從仇恨裡走出來呢？但如果是這樣，他又有什麼必要將這把劍找回來？\n我們從未向雲青萍詢問這個冒昧的問題，而這個答案卻從一場對話中無意間產生——當雲青萍面對我們給的選項，猶豫要加入哪個部門的後勤工作時，是重岳先生建議他選醫療部。\n“你從以前到現在都懷有一顆仁心。”\n雲青萍則有些臉紅，說老師竟還記得當年的事，重岳反問他，“一刀未曾兩斷，不是想不忘當年心？”\n重岳先生的話，突然使我們領悟，先前的猜測可能是錯誤的。雲青萍這把劍從未用來復仇。想來當年只有十歲的他，拾起仇人的劍，是用來保護家人的。至於真相如何，不便確認，僅限於我們的猜測了。",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "200",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "檔案資料四",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "“看那隻白羽獸，將牠捕獵的姿態記下來，做得到嗎？”\n“好的，老師，明日我來交作業。”\n第一日\n“抱歉，老師，是我自大了。牠……太敏捷了，動作只在一剎那。下次牠來的時候，我不會眨眼了。”\n第五日\n“水，不是給你喝的。用熱杯子熱敷一下眼睛，昨晚回去後，不是乾澀得流眼淚嗎？”\n“我……知道老師為何挑中那隻羽獸了。牠十分靈敏機警，從不以同一個姿勢俯衝而下，就像人，習武時日日練習的招式相同，真正到了實戰，使出來的招式卻千變萬化。”\n第十日\n“老師，我的眼睛好像終於能跟上牠的動作了，但還是差一點。到底……差在哪裡呢？”\n“再多想想。”\n第十五日\n……\n第二十一日\n“茶。”\n“多謝老師，我的眼睛並不乾澀。”\n“如此好茶，不是拿來給你摀眼睛的。”\n“這不是左將軍捨不得拿出來的……？”\n“噓。如何，你已經解出來了？說給我聽聽。”\n“牠快來了。老師，聽，西邊的林子裡傳來被驚飛的羽獸叫聲，牆角下那隻鼷獸已朝著牠的方向抬起頭來。看，盤旋，俯衝，側身避過城牆，掠出五步遠，伸爪！呵……”\n“我總苦惱眼睛跟不上羽獸的速度，後來我想通了。以人眼觀羽獸，只可遠觀其表；以羽獸之眼觀羽獸，或可觀其意；以鼷獸之眼觀羽獸，方可觀其入微。”\n——應重岳的要求，記錄在《錄武簿》第一頁的內容",
+                            "unLockType": "AWAKE",
+                            "unLockParam": "2;1",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "晉升記錄",
+                    "unLockorNot": true
+                }
+            ],
+            "handbookAvgList": [
+                {
+                    "storySetId": "story_reckpr_set_1",
+                    "storySetName": "何須劍",
+                    "sortId": 1,
+                    "storyGetTime": 1769407200,
+                    "rewardItem": [],
+                    "unlockParam": [
+                        {
+                            "unlockType": "AWAKE",
+                            "unlockParam1": "2",
+                            "unlockParam2": "1",
+                            "unlockParam3": null
+                        },
+                        {
+                            "unlockType": "FAVOR",
+                            "unlockParam1": "50",
+                            "unlockParam2": null,
+                            "unlockParam3": null
+                        }
+                    ],
+                    "avgList": [
+                        {
+                            "storyId": "story_reckpr_set_1_story_1",
+                            "storySetId": "story_reckpr_set_1",
+                            "storySort": 1,
+                            "storyCanShow": true,
+                            "storyIntro": "武道至極，無劍勝有劍。",
+                            "storyInfo": "info/obt/memory/story_reckpr_1_1",
+                            "storyTxt": "obt/memory/story_reckpr_1_1"
+                        }
+                    ],
+                    "charId": "char_4196_reckpr"
+                }
+            ]
+        },
+        "char_1043_leizi2": {
+            "charID": "char_1043_leizi2",
+            "infoName": "Unknown",
+            "isLimited": false,
+            "storyTextAudio": [
+                {
+                    "stories": [
+                        {
+                            "storyText": "【代號】驚蟄\n【性別】女\n【戰鬥經驗】六年\n【出身地】炎\n【生日】3月5日\n【種族】麒麟\n【身高】171cm\n【礦石病感染情況】\n參照醫學檢測報告，確認為非感染者。",
+                            "unLockType": "DIRECT",
+                            "unLockParam": "",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "基礎檔案",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "【物理強度】標準\n【戰場機動】優良\n【生理耐受】標準\n【戰術規劃】優良\n【戰鬥技巧】優良\n【源石技藝適應性】卓越",
+                            "unLockType": "DIRECT",
+                            "unLockParam": "",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "綜合體檢測試",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "麟青硯，曾官居炎國大理寺少卿，現已辭去官職，回到天師府研修雷法。遊歷途中暫居羅德島，參與部分外勤任務。",
+                            "unLockType": "DIRECT",
+                            "unLockParam": "",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "客觀履歷",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "造影檢測結果顯示，該幹員體內臟器輪廓清晰，未見異常陰影，循環系統內源石顆粒檢測未見異常，無礦石病感染跡象，現階段可確認為非礦石病感染者。\n\n【體細胞與源石融合率】0%\n幹員驚蟄沒有被源石感染的跡象。\n\n【血液源石結晶密度】0.12u/L\n幹員驚蟄甚少接觸源石。",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "25",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "臨床診斷分析",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "接到驚蟄又要來羅德島的消息，我平靜地躺了下來；看到她重新提交的履歷，我又坐了起來——她是以天師的身分前來的，她與羅德島的搜查協議也已告終。這是否代表，羅德島已無需警惕她的官方背景？\n至少有一點可以確定，她的行蹤變得可觀測了。她如今的行動不僅清晰，而且有規律可循。只要她沒有出任務，幹員們總是能在太陽初升時聽到訓練室裡傳來不絕於耳的雷鳴聲，又在午後看到她專注地在圖書室閱讀；她參與外勤任務，完成度極高而且從不抱怨；她跟煌去酒吧小聚，卻總是滴酒不沾。除了要求查看左樂的外勤任務評價外，她從未提過奇怪的要求。\n我知道，驚蟄的身分轉變一定與她追查多年的那樁案子有關。在任何地方，矢志不渝地追求公義，定然會付出代價，更何況是她這樣固執的個性。官袍加身本不是她的追求，而她所付出的代價顯然也不止於此。我很早就想過，她這樣的人，前路會很艱難。如今看來，的確，驚雷照亮之處，往往不會是坦途。\n總之，只要不影響她參與的羅德島的行動，我們並不會多加過問她的私事。無論她把這裡的工作當做是休息還是對自己的歷練，都無法否認她的工作成績。更何況，我很久沒有收到投訴說她電壞電器了，光是這一點，我也很歡迎她繼續在羅德島工作。",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "50",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "檔案資料一",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "驚蟄進入天師府的年紀遠小於一般人。自然，她的出身使她從小便得以接觸到蒼霆伯這樣的高人，但即便如此，她也是無法越過天師府的錄取流程去拜入他的門下。據我們所知，為了確保公平性，想進入炎國的天師府就只能透過考校，無論是誰都得憑自己的本事考入。\n炎國的考校制度要求極高，很少有低齡的學生能被錄取，而一連考了幾十年，將參考書倒背如流，也未能如願入學，這樣的考生也不在少數。“雷法”和其他科目更是不同，考生需要技法雙修，既要有高於常人的雷電源石技藝的適應性，又要熟讀並理解炎律。普通的小孩光是要達成其中一項都需要相當的時間，其難度可想而知。\n身為天師府最年輕的學生之一，驚蟄曾經還有一段“拒師”的美談。聽說驚蟄準備考校期間，蒼霆伯到訪麟府，因頗為看好驚蟄，想為她指點幾句。想來老天師行得端，走得正，即便是指點也不會洩漏什麼機密，然而，也許是為了堂堂正正，驚蟄竟閉門不見。最終，她完全憑著自己的本事通過了考校。\n炎國有句俗語叫“三歲看老”，反過來說，只看她現在的模樣，這故事的可信度至少有八九分。如今卸下了官服，與她共同經歷過什麼的煌時常會約驚蟄去小酒吧喝酒，兩人互相關心一番。我倒是覺得，這個女人，只要信念不崩塌，就沒有什麼能打倒她的。",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "100",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "檔案資料二",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "我於今年一路向西遊歷，途經十三個鄉村小鎮，見此類問題頻頻發生。典型案例為一位老農的土地被人強行買走，而賠償款遲遲未到。土地本為百姓收入的來源，失去土地又收不到賠償，百姓便無生存之法。老農不斷哀求官府解決，收不到任何回應，只能轉而靠偷竊為生，卻被官府抓捕，要治他的罪。想到一家老小生活無望，老農準備在官府門口上吊，正巧被我遇上。\n我初聞極為驚駭，然而細究目前土地買賣的相關律法，仍有部分規定並不清晰。農民在買賣土地的契約上簽名時，但凡未發現其中的陷阱，便會上當吃虧。而我查遍相關典籍，竟找不到為他討回公道的依據。百般無奈下，答應換種方式幫他。\n眼見交付土地的日子到了，土地的買家再次前來趕人，他得意洋洋叫老農去報官，說簽署契約你情我願，合理合法，老天爺來了也奈何不了他——如此叫嚷時，萬里晴空間響起一道雷，他逃到哪裡，雷便跟到哪裡，震得他無處可逃，他以為自己是真的遭了天譴，方才願意拿出賠償款。\n此事雖決，我心卻不安。為一位百姓討公道，雷可用，使千萬百姓不受屈，靠的則是嚴密周到的律法。因此，對於此條律法，我有以下修改建議……\n——摘抄自驚蟄於天師府求學時的炎律研修報告",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "150",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "檔案資料三",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "驚蟄再次來到羅德島後，我們放下了對她的戒備，這才發現，她確實親切、不擺架子。我們也終於滿足了好奇心，從她的口中進一步瞭解了雷法——這對炎國有著特殊意義的傳統源石技藝。\n我們先前便知，雷法之於炎國，有著遠超“源石技藝”的意義，它是公義與個人修為的象徵。然而，從驚蟄的求學經歷來看，雷法的傳承過程遠比我們想像的更貼近生活。身為正統的雷法繼承人，驚蟄在天師府有一半時間為成為一名卓越的術師而努力，不僅要學習操縱雷電，還要學習氣象科學、物理學等多種自然科學；另一半時間，驚蟄則是一個名副其實的法律系學生，苦讀炎律和各種案例。\n除了使用雷電源石技藝外，雷法繼承人似乎和法律系學生沒有什麼不同。他們在畢業後，也主要活躍在炎國的各個執法部門。而每一代的繼承人都在苦修雷電源石技藝，究其原因，無非是“雷電”在炎國文化中的象徵意義。“善有善報，惡有惡報”是深入炎國百姓內心的信念，而雷電則是惡報之象徵。作奸犯科，應當天打雷劈，這是天經地義，也是百姓對公義的期望。雷法繼承人以懲奸除惡為目標進行研修，對他們來說，雷電作為信念支撐的意義遠勝於其禦敵的實際作用。\n我們與驚蟄閒聊，也曾談過她未來的去向。雖然我們很歡迎一個非官方背景的優秀幹員長期參與羅德島的行動，但我們很清楚，身為雷法繼承人，她放不下自己的責任。\n驚蟄並不避諱談論此話題。她坦言自己正在考慮回到大理寺。她倒是還沒交代具體的時間。畢竟，修心之路，短則數日，長則數年，從心而定，她如今並不像曾經那麼焦躁著急了。",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "200",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "檔案資料四",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "邙山鎮之事了結後，有一絹扇小倀跟了驚蟄一路，走路時絆她的腳，吃飯時搧涼她的湯。起初驚蟄不以為意，即將離開邙山鎮時，見它已接近地界，忍不住拿它來詢問。一問才知，那絹扇小倀是眼見驚蟄將一把劍的倀氣劈散，跟著驚蟄一心求死來了。\n問其緣由，卻是這小倀心思單純，目睹邙山鎮亂事後，便覺心灰意冷。原本在過去數年間，它只覺人間美好，一心想成人，現今卻發現做人也不過是爾虞我詐，你爭我搶，無甚滋味，不如一雷劈下，倒也清靜。\n我好奇驚蟄是怎麼解決的，那一道雷，她劈了沒有。驚蟄卻兀自感嘆，貪是人，利己是人，可世間諸多美好，也是人。認清這一點，倒是為人的第一步。不接受這一點，又有何奇怪？\n我說也是，這世間總有人不妥協於人之劣性，只需尋得志同道合的人，此德便不孤。\n到最後，驚蟄也並未說起那小倀的去向。而我注意到，她說話時順手展開一柄折扇來。不知我是否看錯，那折扇有一雙眼睛，跟著驚蟄四處張望，好似在看這人間的真實模樣。",
                             "unLockType": "AWAKE",
                             "unLockParam": "2;1",
                             "showType": "DIRECT",
@@ -70345,6 +70767,84 @@
                 }
             ],
             "stageGetTime": 1766995200
+        },
+        "char_362_saga": {
+            "charId": "char_362_saga",
+            "stageId": "mem_saga_1",
+            "levelId": "Obt/Memory/level_memory_saga_1",
+            "zoneId": "storyMission",
+            "code": "mem_saga_1",
+            "name": "一心晦明",
+            "loadingPicId": "loading_Painting_Day",
+            "description": "在畫卷中時，嵯峨常和墨魎們交手。最初不明就裡，時間久了，嵯峨也看出墨魎的性情黑白分明——你若學牠，牠便親近你；你若逆牠，牠便衝撞你。同類相感，異類相忌，嵯峨以為自己看破了墨魎們的簡單道理。直到衝破畫障的那一天，她忽然想起，一為塵中身，一為紙上墨，她與牠們究竟憑何相感，為何相忌？",
+            "unlockParam": [
+                {
+                    "unlockType": "AWAKE",
+                    "unlockParam1": "2",
+                    "unlockParam2": "1",
+                    "unlockParam3": null
+                }
+            ],
+            "rewardItem": [
+                {
+                    "id": "4003",
+                    "count": 200,
+                    "type": "DIAMOND_SHD"
+                }
+            ],
+            "stageGetTime": 1769407200
+        },
+        "char_4117_ray": {
+            "charId": "char_4117_ray",
+            "stageId": "mem_ray_1",
+            "levelId": "Obt/Memory/level_memory_ray_1",
+            "zoneId": "storyMission",
+            "code": "mem_ray_1",
+            "name": "沙地獸與弩",
+            "loadingPicId": "loading_Kazimierz_Final",
+            "description": "探井人的生活早已讓萊伊習慣了隨時都會出現的各種敵人與挑戰，有時甚至會超出她的能力範圍。但只要有自己的弩箭與沙地獸在，萊伊就相信，自己終能找到那一束屬於自己的光亮。",
+            "unlockParam": [
+                {
+                    "unlockType": "AWAKE",
+                    "unlockParam1": "2",
+                    "unlockParam2": "1",
+                    "unlockParam3": null
+                }
+            ],
+            "rewardItem": [
+                {
+                    "id": "4003",
+                    "count": 200,
+                    "type": "DIAMOND_SHD"
+                }
+            ],
+            "stageGetTime": 1769407200
+        },
+        "char_4151_tinman": {
+            "charId": "char_4151_tinman",
+            "stageId": "mem_tinman_1",
+            "levelId": "Obt/Memory/level_memory_tinman_1",
+            "zoneId": "storyMission",
+            "code": "mem_tinman_1",
+            "name": "“速食派對”",
+            "loadingPicId": "loading_DV_Headquarters",
+            "description": "從卡茲戴爾歸來的錫人身邊多出了幾個小傢伙，它們爬上爬下，連敵人們也忍不住好奇地窺探——熱狗、漢堡還有甜甜圈？但好奇是互相的，這些走出熔爐的死魂靈，也對眼前裝備精良的人們充滿了興趣。“別貪玩。”錫人只好在將它們丟出去之前反覆告誡。接下來，一場古老巫術與現代科技互相碰撞的“速食派對”正式開場。",
+            "unlockParam": [
+                {
+                    "unlockType": "AWAKE",
+                    "unlockParam1": "2",
+                    "unlockParam2": "1",
+                    "unlockParam3": null
+                }
+            ],
+            "rewardItem": [
+                {
+                    "id": "4003",
+                    "count": 200,
+                    "type": "DIAMOND_SHD"
+                }
+            ],
+            "stageGetTime": 1769407200
         }
     },
     "handbookStageTime": [
@@ -70957,6 +71457,14 @@
                 "char_4098_vvana",
                 "char_4138_narant",
                 "char_4079_haini"
+            ]
+        },
+        {
+            "timestamp": 1769407200,
+            "charSet": [
+                "char_362_saga",
+                "char_4117_ray",
+                "char_4151_tinman"
             ]
         }
     ]

@@ -19,10 +19,8 @@
     "bgmEvent": "rl4boss5",
     "environmentSe": null,
     "mapData": {
-        "map": {
-            "row_size": 9,
-            "column_size": 36,
-            "matrix_data": [
+        "map": [
+            [
                 288,
                 289,
                 290,
@@ -58,7 +56,9 @@
                 320,
                 321,
                 322,
-                323,
+                323
+            ],
+            [
                 252,
                 253,
                 254,
@@ -94,7 +94,9 @@
                 284,
                 285,
                 286,
-                287,
+                287
+            ],
+            [
                 216,
                 217,
                 218,
@@ -130,7 +132,9 @@
                 248,
                 249,
                 250,
-                251,
+                251
+            ],
+            [
                 180,
                 181,
                 182,
@@ -166,7 +170,9 @@
                 212,
                 213,
                 214,
-                215,
+                215
+            ],
+            [
                 144,
                 145,
                 146,
@@ -202,7 +208,9 @@
                 176,
                 177,
                 178,
-                179,
+                179
+            ],
+            [
                 108,
                 109,
                 110,
@@ -238,7 +246,9 @@
                 140,
                 141,
                 142,
-                143,
+                143
+            ],
+            [
                 72,
                 73,
                 74,
@@ -274,7 +284,9 @@
                 104,
                 105,
                 106,
-                107,
+                107
+            ],
+            [
                 36,
                 37,
                 38,
@@ -310,7 +322,9 @@
                 68,
                 69,
                 70,
-                71,
+                71
+            ],
+            [
                 0,
                 1,
                 2,
@@ -348,7 +362,7 @@
                 34,
                 35
             ]
-        },
+        ],
         "tiles": [
             {
                 "tileKey": "tile_forbidden",
@@ -18645,17 +18659,11 @@
                 "alias": "trap_058_gunctrl#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
-                "inst": {
-                    "characterKey": "trap_058_gunctrl",
-                    "level": 1,
-                    "phase": "PHASE_0",
-                    "favorPoint": 0,
-                    "potentialRank": 0
-                },
-                "skillIndex": 0,
-                "mainSkillLvl": 1,
+                "inst": null,
+                "skillIndex": 24,
+                "mainSkillLvl": 0,
                 "skinId": "",
-                "tmplId": null,
+                "tmplId": "",
                 "overrideSkillBlackboard": null
             }
         ],

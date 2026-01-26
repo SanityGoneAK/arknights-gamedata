@@ -19,10 +19,8 @@
     "bgmEvent": "rl3normal2",
     "environmentSe": null,
     "mapData": {
-        "map": {
-            "row_size": 7,
-            "column_size": 11,
-            "matrix_data": [
+        "map": [
+            [
                 66,
                 67,
                 68,
@@ -33,7 +31,9 @@
                 73,
                 74,
                 75,
-                76,
+                76
+            ],
+            [
                 55,
                 56,
                 57,
@@ -44,7 +44,9 @@
                 62,
                 63,
                 64,
-                65,
+                65
+            ],
+            [
                 44,
                 45,
                 46,
@@ -55,7 +57,9 @@
                 51,
                 52,
                 53,
-                54,
+                54
+            ],
+            [
                 33,
                 34,
                 35,
@@ -66,7 +70,9 @@
                 40,
                 41,
                 42,
-                43,
+                43
+            ],
+            [
                 22,
                 23,
                 24,
@@ -77,7 +83,9 @@
                 29,
                 30,
                 31,
-                32,
+                32
+            ],
+            [
                 11,
                 12,
                 13,
@@ -88,7 +96,9 @@
                 18,
                 19,
                 20,
-                21,
+                21
+            ],
+            [
                 0,
                 1,
                 2,
@@ -101,7 +111,7 @@
                 9,
                 10
             ]
-        },
+        ],
         "tiles": [
             {
                 "tileKey": "tile_forbidden",
@@ -8210,17 +8220,11 @@
                 "alias": "trap_108_smbox#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
-                "inst": {
-                    "characterKey": "trap_108_smbox",
-                    "level": 3,
-                    "phase": "PHASE_0",
-                    "favorPoint": 0,
-                    "potentialRank": 0
-                },
-                "skillIndex": 0,
-                "mainSkillLvl": 1,
+                "inst": null,
+                "skillIndex": 28,
+                "mainSkillLvl": 0,
                 "skinId": "",
-                "tmplId": null,
+                "tmplId": "",
                 "overrideSkillBlackboard": null
             },
             {
@@ -8233,17 +8237,11 @@
                 "alias": "trap_109_smrbox#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
-                "inst": {
-                    "characterKey": "trap_109_smrbox",
-                    "level": 3,
-                    "phase": "PHASE_0",
-                    "favorPoint": 0,
-                    "potentialRank": 0
-                },
-                "skillIndex": 0,
-                "mainSkillLvl": 1,
+                "inst": null,
+                "skillIndex": 28,
+                "mainSkillLvl": 0,
                 "skinId": "",
-                "tmplId": null,
+                "tmplId": "",
                 "overrideSkillBlackboard": null
             },
             {
@@ -8256,24 +8254,12 @@
                 "alias": "trap_110_smbbox#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
-                "inst": {
-                    "characterKey": "trap_110_smbbox",
-                    "level": 3,
-                    "phase": "PHASE_0",
-                    "favorPoint": 0,
-                    "potentialRank": 0
-                },
-                "skillIndex": 0,
-                "mainSkillLvl": 1,
+                "inst": null,
+                "skillIndex": 100,
+                "mainSkillLvl": 0,
                 "skinId": "",
-                "tmplId": null,
-                "overrideSkillBlackboard": [
-                    {
-                        "key": "branch_id",
-                        "value": 0.0,
-                        "valueStr": "trap_068_badbox#1"
-                    }
-                ]
+                "tmplId": "",
+                "overrideSkillBlackboard": null
             },
             {
                 "position": {
@@ -8285,17 +8271,11 @@
                 "alias": "trap_108_smbox#2",
                 "uniEquipIds": null,
                 "showSpIllust": false,
-                "inst": {
-                    "characterKey": "trap_108_smbox",
-                    "level": 3,
-                    "phase": "PHASE_0",
-                    "favorPoint": 0,
-                    "potentialRank": 0
-                },
-                "skillIndex": 0,
-                "mainSkillLvl": 1,
+                "inst": null,
+                "skillIndex": 28,
+                "mainSkillLvl": 0,
                 "skinId": "",
-                "tmplId": null,
+                "tmplId": "",
                 "overrideSkillBlackboard": null
             },
             {
@@ -8308,17 +8288,11 @@
                 "alias": "trap_109_smrbox#2",
                 "uniEquipIds": null,
                 "showSpIllust": false,
-                "inst": {
-                    "characterKey": "trap_109_smrbox",
-                    "level": 3,
-                    "phase": "PHASE_0",
-                    "favorPoint": 0,
-                    "potentialRank": 0
-                },
-                "skillIndex": 0,
-                "mainSkillLvl": 1,
+                "inst": null,
+                "skillIndex": 28,
+                "mainSkillLvl": 0,
                 "skinId": "",
-                "tmplId": null,
+                "tmplId": "",
                 "overrideSkillBlackboard": null
             },
             {
@@ -8331,24 +8305,12 @@
                 "alias": "trap_110_smbbox#2",
                 "uniEquipIds": null,
                 "showSpIllust": false,
-                "inst": {
-                    "characterKey": "trap_110_smbbox",
-                    "level": 3,
-                    "phase": "PHASE_0",
-                    "favorPoint": 0,
-                    "potentialRank": 0
-                },
-                "skillIndex": 0,
-                "mainSkillLvl": 1,
+                "inst": null,
+                "skillIndex": 88,
+                "mainSkillLvl": 0,
                 "skinId": "",
-                "tmplId": null,
-                "overrideSkillBlackboard": [
-                    {
-                        "key": "branch_id",
-                        "value": 0.0,
-                        "valueStr": "trap_068_badbox#2"
-                    }
-                ]
+                "tmplId": "",
+                "overrideSkillBlackboard": null
             },
             {
                 "position": {
@@ -8360,16 +8322,10 @@
                 "alias": "trap_024_npcsld#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
-                "inst": {
-                    "characterKey": "trap_024_npcsld",
-                    "level": 1,
-                    "phase": "PHASE_0",
-                    "favorPoint": 0,
-                    "potentialRank": 0
-                },
-                "skillIndex": 0,
-                "mainSkillLvl": 1,
-                "skinId": null,
+                "inst": null,
+                "skillIndex": 20,
+                "mainSkillLvl": 0,
+                "skinId": "",
                 "tmplId": null,
                 "overrideSkillBlackboard": null
             },
@@ -8383,17 +8339,11 @@
                 "alias": "trap_024_npcsld#2",
                 "uniEquipIds": null,
                 "showSpIllust": false,
-                "inst": {
-                    "characterKey": "trap_024_npcsld",
-                    "level": 1,
-                    "phase": "PHASE_0",
-                    "favorPoint": 0,
-                    "potentialRank": 0
-                },
-                "skillIndex": 0,
-                "mainSkillLvl": 1,
+                "inst": null,
+                "skillIndex": 28,
+                "mainSkillLvl": 0,
                 "skinId": "",
-                "tmplId": null,
+                "tmplId": "",
                 "overrideSkillBlackboard": null
             }
         ],

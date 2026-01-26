@@ -19,10 +19,8 @@
     "bgmEvent": "jakiller",
     "environmentSe": null,
     "mapData": {
-        "map": {
-            "row_size": 8,
-            "column_size": 14,
-            "matrix_data": [
+        "map": [
+            [
                 98,
                 99,
                 100,
@@ -36,7 +34,9 @@
                 108,
                 109,
                 110,
-                111,
+                111
+            ],
+            [
                 84,
                 85,
                 86,
@@ -50,7 +50,9 @@
                 94,
                 95,
                 96,
-                97,
+                97
+            ],
+            [
                 70,
                 71,
                 72,
@@ -64,7 +66,9 @@
                 80,
                 81,
                 82,
-                83,
+                83
+            ],
+            [
                 56,
                 57,
                 58,
@@ -78,7 +82,9 @@
                 66,
                 67,
                 68,
-                69,
+                69
+            ],
+            [
                 42,
                 43,
                 44,
@@ -92,7 +98,9 @@
                 52,
                 53,
                 54,
-                55,
+                55
+            ],
+            [
                 28,
                 29,
                 30,
@@ -106,7 +114,9 @@
                 38,
                 39,
                 40,
-                41,
+                41
+            ],
+            [
                 14,
                 15,
                 16,
@@ -120,7 +130,9 @@
                 24,
                 25,
                 26,
-                27,
+                27
+            ],
+            [
                 0,
                 1,
                 2,
@@ -136,7 +148,7 @@
                 12,
                 13
             ]
-        },
+        ],
         "tiles": [
             {
                 "tileKey": "tile_empty",
@@ -3568,17 +3580,11 @@
                 "alias": "trap_025_prison#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
-                "inst": {
-                    "characterKey": "trap_025_prison",
-                    "level": 1,
-                    "phase": "PHASE_0",
-                    "favorPoint": 0,
-                    "potentialRank": 0
-                },
-                "skillIndex": 0,
-                "mainSkillLvl": 1,
+                "inst": null,
+                "skillIndex": 36,
+                "mainSkillLvl": 0,
                 "skinId": "",
-                "tmplId": null,
+                "tmplId": "",
                 "overrideSkillBlackboard": null
             },
             {
@@ -3591,17 +3597,11 @@
                 "alias": "trap_025_prison#2",
                 "uniEquipIds": null,
                 "showSpIllust": false,
-                "inst": {
-                    "characterKey": "trap_025_prison",
-                    "level": 1,
-                    "phase": "PHASE_0",
-                    "favorPoint": 0,
-                    "potentialRank": 0
-                },
-                "skillIndex": 0,
-                "mainSkillLvl": 1,
+                "inst": null,
+                "skillIndex": 28,
+                "mainSkillLvl": 0,
                 "skinId": "",
-                "tmplId": null,
+                "tmplId": "",
                 "overrideSkillBlackboard": null
             }
         ],

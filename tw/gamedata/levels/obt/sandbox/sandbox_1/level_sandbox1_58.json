@@ -150,10 +150,8 @@
     "bgmEvent": "sandbox_1_huntarea",
     "environmentSe": null,
     "mapData": {
-        "map": {
-            "row_size": 15,
-            "column_size": 26,
-            "matrix_data": [
+        "map": [
+            [
                 364,
                 365,
                 366,
@@ -179,7 +177,9 @@
                 386,
                 387,
                 388,
-                389,
+                389
+            ],
+            [
                 338,
                 339,
                 340,
@@ -205,7 +205,9 @@
                 360,
                 361,
                 362,
-                363,
+                363
+            ],
+            [
                 312,
                 313,
                 314,
@@ -231,7 +233,9 @@
                 334,
                 335,
                 336,
-                337,
+                337
+            ],
+            [
                 286,
                 287,
                 288,
@@ -257,7 +261,9 @@
                 308,
                 309,
                 310,
-                311,
+                311
+            ],
+            [
                 260,
                 261,
                 262,
@@ -283,7 +289,9 @@
                 282,
                 283,
                 284,
-                285,
+                285
+            ],
+            [
                 234,
                 235,
                 236,
@@ -309,7 +317,9 @@
                 256,
                 257,
                 258,
-                259,
+                259
+            ],
+            [
                 208,
                 209,
                 210,
@@ -335,7 +345,9 @@
                 230,
                 231,
                 232,
-                233,
+                233
+            ],
+            [
                 182,
                 183,
                 184,
@@ -361,7 +373,9 @@
                 204,
                 205,
                 206,
-                207,
+                207
+            ],
+            [
                 156,
                 157,
                 158,
@@ -387,7 +401,9 @@
                 178,
                 179,
                 180,
-                181,
+                181
+            ],
+            [
                 130,
                 131,
                 132,
@@ -413,7 +429,9 @@
                 152,
                 153,
                 154,
-                155,
+                155
+            ],
+            [
                 104,
                 105,
                 106,
@@ -439,7 +457,9 @@
                 126,
                 127,
                 128,
-                129,
+                129
+            ],
+            [
                 78,
                 79,
                 80,
@@ -465,7 +485,9 @@
                 100,
                 101,
                 102,
-                103,
+                103
+            ],
+            [
                 52,
                 53,
                 54,
@@ -491,7 +513,9 @@
                 74,
                 75,
                 76,
-                77,
+                77
+            ],
+            [
                 26,
                 27,
                 28,
@@ -517,7 +541,9 @@
                 48,
                 49,
                 50,
-                51,
+                51
+            ],
+            [
                 0,
                 1,
                 2,
@@ -545,7 +571,7 @@
                 24,
                 25
             ]
-        },
+        ],
         "tiles": [
             {
                 "tileKey": "tile_forbidden",
@@ -14919,24 +14945,12 @@
                 "alias": "trap_437_poachr#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
-                "inst": {
-                    "characterKey": "trap_437_poachr",
-                    "level": 1,
-                    "phase": "PHASE_0",
-                    "favorPoint": 0,
-                    "potentialRank": 0
-                },
-                "skillIndex": 0,
-                "mainSkillLvl": 1,
+                "inst": null,
+                "skillIndex": 84,
+                "mainSkillLvl": 0,
                 "skinId": "",
-                "tmplId": null,
-                "overrideSkillBlackboard": [
-                    {
-                        "key": "alias",
-                        "value": 0.0,
-                        "valueStr": "trap_437_poachr#1"
-                    }
-                ]
+                "tmplId": "",
+                "overrideSkillBlackboard": null
             },
             {
                 "position": {
@@ -14948,34 +14962,12 @@
                 "alias": "trap_413_hiddenstone#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
-                "inst": {
-                    "characterKey": "trap_413_hiddenstone",
-                    "level": 1,
-                    "phase": "PHASE_0",
-                    "favorPoint": 0,
-                    "potentialRank": 0
-                },
-                "skillIndex": 0,
-                "mainSkillLvl": 1,
+                "inst": null,
+                "skillIndex": 148,
+                "mainSkillLvl": 0,
                 "skinId": "",
-                "tmplId": null,
-                "overrideSkillBlackboard": [
-                    {
-                        "key": "area",
-                        "value": 0.0,
-                        "valueStr": "rect_1"
-                    },
-                    {
-                        "key": "prob",
-                        "value": 1.0,
-                        "valueStr": null
-                    },
-                    {
-                        "key": "branch_id",
-                        "value": 0.0,
-                        "valueStr": "hidden_1"
-                    }
-                ]
+                "tmplId": "",
+                "overrideSkillBlackboard": null
             },
             {
                 "position": {
@@ -14987,34 +14979,12 @@
                 "alias": "trap_413_hiddenstone#2",
                 "uniEquipIds": null,
                 "showSpIllust": false,
-                "inst": {
-                    "characterKey": "trap_413_hiddenstone",
-                    "level": 1,
-                    "phase": "PHASE_0",
-                    "favorPoint": 0,
-                    "potentialRank": 0
-                },
-                "skillIndex": 0,
-                "mainSkillLvl": 1,
+                "inst": null,
+                "skillIndex": 144,
+                "mainSkillLvl": 0,
                 "skinId": "",
-                "tmplId": null,
-                "overrideSkillBlackboard": [
-                    {
-                        "key": "area",
-                        "value": 0.0,
-                        "valueStr": "rect_1"
-                    },
-                    {
-                        "key": "prob",
-                        "value": 0.0,
-                        "valueStr": null
-                    },
-                    {
-                        "key": "branch_id",
-                        "value": 0.0,
-                        "valueStr": "hidden_1"
-                    }
-                ]
+                "tmplId": "",
+                "overrideSkillBlackboard": null
             },
             {
                 "position": {
@@ -15026,34 +14996,12 @@
                 "alias": "trap_413_hiddenstone#3",
                 "uniEquipIds": null,
                 "showSpIllust": false,
-                "inst": {
-                    "characterKey": "trap_413_hiddenstone",
-                    "level": 1,
-                    "phase": "PHASE_0",
-                    "favorPoint": 0,
-                    "potentialRank": 0
-                },
-                "skillIndex": 0,
-                "mainSkillLvl": 1,
+                "inst": null,
+                "skillIndex": 144,
+                "mainSkillLvl": 0,
                 "skinId": "",
-                "tmplId": null,
-                "overrideSkillBlackboard": [
-                    {
-                        "key": "area",
-                        "value": 0.0,
-                        "valueStr": "rect_1"
-                    },
-                    {
-                        "key": "prob",
-                        "value": 0.0,
-                        "valueStr": null
-                    },
-                    {
-                        "key": "branch_id",
-                        "value": 0.0,
-                        "valueStr": "hidden_1"
-                    }
-                ]
+                "tmplId": "",
+                "overrideSkillBlackboard": null
             },
             {
                 "position": {
@@ -15065,34 +15013,12 @@
                 "alias": "trap_413_hiddenstone#4",
                 "uniEquipIds": null,
                 "showSpIllust": false,
-                "inst": {
-                    "characterKey": "trap_413_hiddenstone",
-                    "level": 1,
-                    "phase": "PHASE_0",
-                    "favorPoint": 0,
-                    "potentialRank": 0
-                },
-                "skillIndex": 0,
-                "mainSkillLvl": 1,
+                "inst": null,
+                "skillIndex": 148,
+                "mainSkillLvl": 0,
                 "skinId": "",
-                "tmplId": null,
-                "overrideSkillBlackboard": [
-                    {
-                        "key": "area",
-                        "value": 0.0,
-                        "valueStr": "rect_1"
-                    },
-                    {
-                        "key": "prob",
-                        "value": 1.0,
-                        "valueStr": null
-                    },
-                    {
-                        "key": "branch_id",
-                        "value": 0.0,
-                        "valueStr": "hidden_1"
-                    }
-                ]
+                "tmplId": "",
+                "overrideSkillBlackboard": null
             }
         ],
         "characterCards": [],
