@@ -230886,6 +230886,627 @@
             "placeType": "ANNIVERSARY",
             "voiceAsset": "char_4198_christ/CN_044"
         },
+        "char_4195_radian_CN_001": {
+            "charWordId": "char_4195_radian_CN_001",
+            "wordKey": "char_4195_radian",
+            "charId": "char_4195_radian",
+            "voiceId": "CN_001",
+            "voiceText": "博士，做個簡單的測試吧，放在茶几上的點心，你偷吃了幾個？",
+            "voiceTitle": "任命助理",
+            "voiceIndex": 1,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "HOME_PLACE",
+            "voiceAsset": "char_4195_radian/CN_001"
+        },
+        "char_4195_radian_CN_002": {
+            "charWordId": "char_4195_radian_CN_002",
+            "wordKey": "char_4195_radian",
+            "charId": "char_4195_radian",
+            "voiceId": "CN_002",
+            "voiceText": "博士，別擔心，雖然我確實會在走路時因思考而忽略周遭環境，不過，“小樹”和“小軸”會幫助我躲避障礙的。你問它們是誰？啊，就是這兩隻機械臂啊。它們能做很多事呢。",
+            "voiceTitle": "交談1",
+            "voiceIndex": 2,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4195_radian/CN_002"
+        },
+        "char_4195_radian_CN_003": {
+            "charWordId": "char_4195_radian_CN_003",
+            "wordKey": "char_4195_radian",
+            "charId": "char_4195_radian",
+            "voiceId": "CN_003",
+            "voiceText": "小傢伙們幫我取了不少外號呢，比如“眯眯眼怪人”、“四手心電怪”之類的。沒關係啦，這個年紀的孩子們最討厭被看穿的感覺，這也很正常。不過，呵呵，不服氣的話，就好好學習，試著騙過我吧。",
+            "voiceTitle": "交談2",
+            "voiceIndex": 3,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4195_radian/CN_003"
+        },
+        "char_4195_radian_CN_004": {
+            "charWordId": "char_4195_radian_CN_004",
+            "wordKey": "char_4195_radian",
+            "charId": "char_4195_radian",
+            "voiceId": "CN_004",
+            "voiceText": "感知和操控各種電訊號，這是我源石技藝的本質。它讓我對周圍的人有了更多的瞭解，但也讓我對許多細節都過分敏感。比如，你的右肩斜方肌正在持續異常放電，該調整坐姿了，博士。",
+            "voiceTitle": "交談3",
+            "voiceIndex": 4,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4195_radian/CN_004"
+        },
+        "char_4195_radian_CN_005": {
+            "charWordId": "char_4195_radian_CN_005",
+            "wordKey": "char_4195_radian",
+            "charId": "char_4195_radian",
+            "voiceId": "CN_005",
+            "voiceText": "博士，看到你出現在我的課堂上，我很高興。感染者在烏薩斯的處境很艱難，但——沒錯，有許多方法可以對付那些用暴力來掩蓋軟弱的人。看來你很認真在上課呢，那麼，來一場突擊測驗吧。",
+            "voiceTitle": "晉升後交談1",
+            "voiceIndex": 5,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "AWAKE",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                },
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4195_radian/CN_005"
+        },
+        "char_4195_radian_CN_006": {
+            "charWordId": "char_4195_radian_CN_006",
+            "wordKey": "char_4195_radian",
+            "charId": "char_4195_radian",
+            "voiceId": "CN_006",
+            "voiceText": "薩卡茲以外的種族是否有靈魂的概念？嗯……這是個複雜的問題。但是，我能看到，人體的電訊號不僅是生命的律動，同樣銘刻著綻放的情感。它們有時太過耀眼，就像是靈魂的火光。",
+            "voiceTitle": "晉升後交談2",
+            "voiceIndex": 6,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "AWAKE",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 2
+                },
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4195_radian/CN_006"
+        },
+        "char_4195_radian_CN_007": {
+            "charWordId": "char_4195_radian_CN_007",
+            "wordKey": "char_4195_radian",
+            "charId": "char_4195_radian",
+            "voiceId": "CN_007",
+            "voiceText": "博士最近的生活看起來很穩定呢，身體發出的訊號讓我很安心。噗，我沒有在說反話，不用急著懺悔。比起健康，我更看重規律，就像醫療儀器上的波形，太安靜代表著死亡，太嘈雜則預示著疾病。",
+            "voiceTitle": "信賴提升後交談1",
+            "voiceIndex": 7,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "FAVOR",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 40
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4195_radian/CN_007"
+        },
+        "char_4195_radian_CN_008": {
+            "charWordId": "char_4195_radian_CN_008",
+            "wordKey": "char_4195_radian",
+            "charId": "char_4195_radian",
+            "voiceId": "CN_008",
+            "voiceText": "過去，迷迭香的身體裡，就像是有兩隻迷途的羽獸在驚恐地尖叫。那時我經常抱著她入睡，也因此被那兩隻羽獸“啄”傷過。現在她已經可以一個人睡了，雖然很欣慰，但感覺有點寂寞呢。",
+            "voiceTitle": "信賴提升後交談2",
+            "voiceIndex": 8,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "FAVOR",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 100
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4195_radian/CN_008"
+        },
+        "char_4195_radian_CN_009": {
+            "charWordId": "char_4195_radian_CN_009",
+            "wordKey": "char_4195_radian",
+            "charId": "char_4195_radian",
+            "voiceId": "CN_009",
+            "voiceText": "博士，你累了嗎？好吧，看在你今天努力工作的分上，來，握住我的手，感受自己神經的跳動，想像它是一支柔和的樂曲。現在，讓我們隨著溫暖的節拍輕輕搖曳——直到所有的疲憊煙消雲散。",
+            "voiceTitle": "信賴提升後交談3",
+            "voiceIndex": 9,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "FAVOR",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 200
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4195_radian/CN_009"
+        },
+        "char_4195_radian_CN_010": {
+            "charWordId": "char_4195_radian_CN_010",
+            "wordKey": "char_4195_radian",
+            "charId": "char_4195_radian",
+            "voiceId": "CN_010",
+            "voiceText": "通訊終端已經調成靜默模式了。放心，有我在，你不會錯過任何重要的訊息。",
+            "voiceTitle": "閒置",
+            "voiceIndex": 10,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "HOME_WAIT",
+            "voiceAsset": "char_4195_radian/CN_010"
+        },
+        "char_4195_radian_CN_011": {
+            "charWordId": "char_4195_radian_CN_011",
+            "wordKey": "char_4195_radian",
+            "charId": "char_4195_radian",
+            "voiceId": "CN_011",
+            "voiceText": "根據阿米婭的授權命令，接下來我會直接聽從你的指揮，博士。我主要負責通訊和情報處理的工作，當然，如果你有生活管理方面的問題，也可以來找我。",
+            "voiceTitle": "幹員報到",
+            "voiceIndex": 11,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "GACHA",
+            "voiceAsset": "char_4195_radian/CN_011"
+        },
+        "char_4195_radian_CN_012": {
+            "charWordId": "char_4195_radian_CN_012",
+            "wordKey": "char_4195_radian",
+            "charId": "char_4195_radian",
+            "voiceId": "CN_012",
+            "voiceText": "雙方的資訊落差很明顯呢，勝負一目了然。",
+            "voiceTitle": "觀看作戰記錄",
+            "voiceIndex": 12,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "LEVEL_UP",
+            "voiceAsset": "char_4195_radian/CN_012"
+        },
+        "char_4195_radian_CN_013": {
+            "charWordId": "char_4195_radian_CN_013",
+            "wordKey": "char_4195_radian",
+            "charId": "char_4195_radian",
+            "voiceId": "CN_013",
+            "voiceText": "對一個通訊情報人員來說，最欣慰的莫過於提供的情報被運用到極致。博士也要再接再厲哦！",
+            "voiceTitle": "精英化晉升1",
+            "voiceIndex": 13,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "AWAKE",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                },
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "EVOLVE_ONE",
+            "voiceAsset": "char_4195_radian/CN_013"
+        },
+        "char_4195_radian_CN_014": {
+            "charWordId": "char_4195_radian_CN_014",
+            "wordKey": "char_4195_radian",
+            "charId": "char_4195_radian",
+            "voiceId": "CN_014",
+            "voiceText": "博士、煌還有其他人，都出來吧，你們想準備驚喜給我？還差得遠呢。不出來嗎？你們想跟我玩捉迷藏？哎，真是一群長不大的小孩。那就先從博士開始吧——",
+            "voiceTitle": "精英化晉升2",
+            "voiceIndex": 14,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "AWAKE",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 2
+                },
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "EVOLVE_TWO",
+            "voiceAsset": "char_4195_radian/CN_014"
+        },
+        "char_4195_radian_CN_017": {
+            "charWordId": "char_4195_radian_CN_017",
+            "wordKey": "char_4195_radian",
+            "charId": "char_4195_radian",
+            "voiceId": "CN_017",
+            "voiceText": "我會在適當的時機提出建議，繼續作戰會議吧。",
+            "voiceTitle": "編入隊伍",
+            "voiceIndex": 17,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "SQUAD",
+            "voiceAsset": "char_4195_radian/CN_017"
+        },
+        "char_4195_radian_CN_018": {
+            "charWordId": "char_4195_radian_CN_018",
+            "wordKey": "char_4195_radian",
+            "charId": "char_4195_radian",
+            "voiceId": "CN_018",
+            "voiceText": "無論你們身處什麼樣的險境，相信我，我一定能找到你們。",
+            "voiceTitle": "任命隊長",
+            "voiceIndex": 18,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "SQUAD_FIRST",
+            "voiceAsset": "char_4195_radian/CN_018"
+        },
+        "char_4195_radian_CN_019": {
+            "charWordId": "char_4195_radian_CN_019",
+            "wordKey": "char_4195_radian",
+            "charId": "char_4195_radian",
+            "voiceId": "CN_019",
+            "voiceText": "東西都帶好了嗎？那麼，出發吧。",
+            "voiceTitle": "行動出發",
+            "voiceIndex": 19,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_START",
+            "voiceAsset": "char_4195_radian/CN_019"
+        },
+        "char_4195_radian_CN_020": {
+            "charWordId": "char_4195_radian_CN_020",
+            "wordKey": "char_4195_radian",
+            "charId": "char_4195_radian",
+            "voiceId": "CN_020",
+            "voiceText": "發現敵人的訊號了，各位，準備戰鬥吧。",
+            "voiceTitle": "行動開始",
+            "voiceIndex": 20,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_FACE_ENEMY",
+            "voiceAsset": "char_4195_radian/CN_020"
+        },
+        "char_4195_radian_CN_021": {
+            "charWordId": "char_4195_radian_CN_021",
+            "wordKey": "char_4195_radian",
+            "charId": "char_4195_radian",
+            "voiceId": "CN_021",
+            "voiceText": "博士，你想要傳遞什麼訊息？",
+            "voiceTitle": "選中幹員1",
+            "voiceIndex": 21,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SELECT",
+            "voiceAsset": "char_4195_radian/CN_021"
+        },
+        "char_4195_radian_CN_022": {
+            "charWordId": "char_4195_radian_CN_022",
+            "wordKey": "char_4195_radian",
+            "charId": "char_4195_radian",
+            "voiceId": "CN_022",
+            "voiceText": "博士，我截獲了一些有趣的情報。",
+            "voiceTitle": "選中幹員2",
+            "voiceIndex": 22,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SELECT",
+            "voiceAsset": "char_4195_radian/CN_022"
+        },
+        "char_4195_radian_CN_023": {
+            "charWordId": "char_4195_radian_CN_023",
+            "wordKey": "char_4195_radian",
+            "charId": "char_4195_radian",
+            "voiceId": "CN_023",
+            "voiceText": "放心，只要我在這裡，對方就不可能有效率地傳遞訊息。",
+            "voiceTitle": "部署1",
+            "voiceIndex": 23,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_PLACE",
+            "voiceAsset": "char_4195_radian/CN_023"
+        },
+        "char_4195_radian_CN_024": {
+            "charWordId": "char_4195_radian_CN_024",
+            "wordKey": "char_4195_radian",
+            "charId": "char_4195_radian",
+            "voiceId": "CN_024",
+            "voiceText": "所有我方單位的位置已確認完畢。一切正常，別擔心。",
+            "voiceTitle": "部署2",
+            "voiceIndex": 24,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_PLACE",
+            "voiceAsset": "char_4195_radian/CN_024"
+        },
+        "char_4195_radian_CN_025": {
+            "charWordId": "char_4195_radian_CN_025",
+            "wordKey": "char_4195_radian",
+            "charId": "char_4195_radian",
+            "voiceId": "CN_025",
+            "voiceText": "抱歉，這邊不是生路，是我為你們設下的陷阱。",
+            "voiceTitle": "作戰中1",
+            "voiceIndex": 25,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SKILL_1",
+            "voiceAsset": "char_4195_radian/CN_025"
+        },
+        "char_4195_radian_CN_026": {
+            "charWordId": "char_4195_radian_CN_026",
+            "wordKey": "char_4195_radian",
+            "charId": "char_4195_radian",
+            "voiceId": "CN_026",
+            "voiceText": "請你們在訊息的孤島上逗留一段時間吧。",
+            "voiceTitle": "作戰中2",
+            "voiceIndex": 26,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SKILL_2",
+            "voiceAsset": "char_4195_radian/CN_026"
+        },
+        "char_4195_radian_CN_027": {
+            "charWordId": "char_4195_radian_CN_027",
+            "wordKey": "char_4195_radian",
+            "charId": "char_4195_radian",
+            "voiceId": "CN_027",
+            "voiceText": "我來干擾他們的通訊，迅速行動吧。",
+            "voiceTitle": "作戰中3",
+            "voiceIndex": 27,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SKILL_3",
+            "voiceAsset": "char_4195_radian/CN_027"
+        },
+        "char_4195_radian_CN_028": {
+            "charWordId": "char_4195_radian_CN_028",
+            "wordKey": "char_4195_radian",
+            "charId": "char_4195_radian",
+            "voiceId": "CN_028",
+            "voiceText": "很遺憾，單靠武力是無法左右戰局的。",
+            "voiceTitle": "作戰中4",
+            "voiceIndex": 28,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SKILL_4",
+            "voiceAsset": "char_4195_radian/CN_028"
+        },
+        "char_4195_radian_CN_029": {
+            "charWordId": "char_4195_radian_CN_029",
+            "wordKey": "char_4195_radian",
+            "charId": "char_4195_radian",
+            "voiceId": "CN_029",
+            "voiceText": "博士對指揮這場戰鬥的自己有什麼評價？我的評價？“小樹”和“小軸”已經給出評價了哦。",
+            "voiceTitle": "完成高難行動",
+            "voiceIndex": 29,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "FOUR_STAR",
+            "voiceAsset": "char_4195_radian/CN_029"
+        },
+        "char_4195_radian_CN_030": {
+            "charWordId": "char_4195_radian_CN_030",
+            "wordKey": "char_4195_radian",
+            "charId": "char_4195_radian",
+            "voiceId": "CN_030",
+            "voiceText": "區域內已經沒有敵人的蹤跡了，任務圓滿成功。呼……好了，博士，來擊個掌吧！",
+            "voiceTitle": "3星結束行動",
+            "voiceIndex": 30,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "THREE_STAR",
+            "voiceAsset": "char_4195_radian/CN_030"
+        },
+        "char_4195_radian_CN_031": {
+            "charWordId": "char_4195_radian_CN_031",
+            "wordKey": "char_4195_radian",
+            "charId": "char_4195_radian",
+            "voiceId": "CN_031",
+            "voiceText": "我已經記住了那幾個傢伙的電訊號，他們跑不了的。",
+            "voiceTitle": "非3星結束行動",
+            "voiceIndex": 31,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "TWO_STAR",
+            "voiceAsset": "char_4195_radian/CN_031"
+        },
+        "char_4195_radian_CN_032": {
+            "charWordId": "char_4195_radian_CN_032",
+            "wordKey": "char_4195_radian",
+            "charId": "char_4195_radian",
+            "voiceId": "CN_032",
+            "voiceText": "博士，別氣餒，下次我們一起贏回來，好嗎？",
+            "voiceTitle": "行動失敗",
+            "voiceIndex": 32,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "LOSE",
+            "voiceAsset": "char_4195_radian/CN_032"
+        },
+        "char_4195_radian_CN_033": {
+            "charWordId": "char_4195_radian_CN_033",
+            "wordKey": "char_4195_radian",
+            "charId": "char_4195_radian",
+            "voiceId": "CN_033",
+            "voiceText": "還是羅德島上的電訊號讓人安心。",
+            "voiceTitle": "進駐設施",
+            "voiceIndex": 33,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BUILDING_PLACE",
+            "voiceAsset": "char_4195_radian/CN_033"
+        },
+        "char_4195_radian_CN_034": {
+            "charWordId": "char_4195_radian_CN_034",
+            "wordKey": "char_4195_radian",
+            "charId": "char_4195_radian",
+            "voiceId": "CN_034",
+            "voiceText": "博士，我說過不可以隨便這麼做的吧？",
+            "voiceTitle": "戳一下",
+            "voiceIndex": 34,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BUILDING_TOUCHING",
+            "voiceAsset": "char_4195_radian/CN_034"
+        },
+        "char_4195_radian_CN_036": {
+            "charWordId": "char_4195_radian_CN_036",
+            "wordKey": "char_4195_radian",
+            "charId": "char_4195_radian",
+            "voiceId": "CN_036",
+            "voiceText": "博士也要去開會嗎？那麼，一起走一段路吧。",
+            "voiceTitle": "信賴觸摸",
+            "voiceIndex": 36,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BUILDING_FAVOR_BUBBLE",
+            "voiceAsset": "char_4195_radian/CN_036"
+        },
+        "char_4195_radian_CN_037": {
+            "charWordId": "char_4195_radian_CN_037",
+            "wordKey": "char_4195_radian",
+            "charId": "char_4195_radian",
+            "voiceId": "CN_037",
+            "voiceText": "明日方舟。",
+            "voiceTitle": "標題",
+            "voiceIndex": 37,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "LOADING_PANEL",
+            "voiceAsset": "char_4195_radian/CN_037"
+        },
+        "char_4195_radian_CN_038": {
+            "charWordId": "char_4195_radian_CN_038",
+            "wordKey": "char_4195_radian",
+            "charId": "char_4195_radian",
+            "voiceId": "CN_038",
+            "voiceText": "謝謝，博士，到甲板後就好多了……不，我沒喝醉，只是每年的這個時候，大家發出的電訊號都承載了太多喜悅和興奮，會讓我感覺有點暈眩，這就是所謂幸福的煩惱吧。新年快樂，博士。",
+            "voiceTitle": "新年祝福",
+            "voiceIndex": 38,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "NEW_YEAR",
+            "voiceAsset": "char_4195_radian/CN_038"
+        },
+        "char_4195_radian_CN_042": {
+            "charWordId": "char_4195_radian_CN_042",
+            "wordKey": "char_4195_radian",
+            "charId": "char_4195_radian",
+            "voiceId": "CN_042",
+            "voiceText": "博士，你在找我嗎？",
+            "voiceTitle": "問候",
+            "voiceIndex": 42,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "GREETING",
+            "voiceAsset": "char_4195_radian/CN_042"
+        },
+        "char_4195_radian_CN_043": {
+            "charWordId": "char_4195_radian_CN_043",
+            "wordKey": "char_4195_radian",
+            "charId": "char_4195_radian",
+            "voiceId": "CN_043",
+            "voiceText": "博士，我傳了一份地圖給你。這是今天本艦上所有想要為你慶生的人的位置，我已經幫你設計好了一條最短路線，順利的話，應該能在吃晚餐的時候結束。終點的問號？那是我準備的禮物，可以期待一下哦。",
+            "voiceTitle": "生日",
+            "voiceIndex": 43,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BIRTHDAY",
+            "voiceAsset": "char_4195_radian/CN_043"
+        },
+        "char_4195_radian_CN_044": {
+            "charWordId": "char_4195_radian_CN_044",
+            "wordKey": "char_4195_radian",
+            "charId": "char_4195_radian",
+            "voiceId": "CN_044",
+            "voiceText": "我們失去了很多人，但也總有新的人加入我們。漸漸地，新人們繼承了前輩的理念，自己也變成了前輩。博士，從電訊號的角度來看，我有時候甚至會產生一種錯覺——和我一起作戰的人從未改變。",
+            "voiceTitle": "周年慶典",
+            "voiceIndex": 44,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "ANNIVERSARY",
+            "voiceAsset": "char_4195_radian/CN_044"
+        },
         "char_4196_reckpr_CN_001": {
             "charWordId": "char_4196_reckpr_CN_001",
             "wordKey": "char_4196_reckpr",
@@ -262541,7 +263162,7 @@
                     "wordkey": "char_401_elysm",
                     "voiceLangType": "EN",
                     "cvName": [
-                        "Miguel Ferreno"
+                        "Miguel Ferreño"
                     ],
                     "voicePath": null
                 },
@@ -274687,6 +275308,46 @@
                 }
             }
         },
+        "char_4195_radian": {
+            "wordkeys": [
+                "char_4195_radian"
+            ],
+            "charId": "char_4195_radian",
+            "dict": {
+                "CN_MANDARIN": {
+                    "wordkey": "char_4195_radian",
+                    "voiceLangType": "CN_MANDARIN",
+                    "cvName": [
+                        "施叢昊"
+                    ],
+                    "voicePath": null
+                },
+                "JP": {
+                    "wordkey": "char_4195_radian",
+                    "voiceLangType": "JP",
+                    "cvName": [
+                        "福井裕佳梨"
+                    ],
+                    "voicePath": null
+                },
+                "KR": {
+                    "wordkey": "char_4195_radian",
+                    "voiceLangType": "KR",
+                    "cvName": [
+                        "李耳虜"
+                    ],
+                    "voicePath": null
+                },
+                "EN": {
+                    "wordkey": "char_4195_radian",
+                    "voiceLangType": "EN",
+                    "cvName": [
+                        "Elizaveta Bulatova"
+                    ],
+                    "voicePath": null
+                }
+            }
+        },
         "char_311_mudrok#1": {
             "wordkeys": [
                 "char_311_mudrok#1"
@@ -275196,7 +275857,8 @@
     "defaultLangType": "JP",
     "newTagList": [
         "char_4196_reckpr",
-        "char_1043_leizi2"
+        "char_1043_leizi2",
+        "char_4195_radian"
     ],
     "voiceLangTypeDict": {
         "CN_MANDARIN": {
@@ -275669,7 +276331,8 @@
         "char_4191_tippi": "JP",
         "char_4198_christ": "JP",
         "char_4196_reckpr": "JP",
-        "char_1043_leizi2": "JP"
+        "char_1043_leizi2": "JP",
+        "char_4195_radian": "JP"
     },
     "startTimeWithTypeDict": {
         "CN_TOPOLECT": [
@@ -275731,6 +276394,12 @@
             }
         ],
         "KR": [
+            {
+                "timestamp": 1770278400,
+                "charSet": [
+                    "char_4195_radian"
+                ]
+            },
             {
                 "timestamp": 1769407200,
                 "charSet": [
@@ -276317,6 +276986,12 @@
             }
         ],
         "EN": [
+            {
+                "timestamp": 1770278400,
+                "charSet": [
+                    "char_4195_radian"
+                ]
+            },
             {
                 "timestamp": 1769407200,
                 "charSet": [

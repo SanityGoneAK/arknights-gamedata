@@ -319133,6 +319133,24 @@
             "name": "入夢磚",
             "description": "置於其中的幹員會立刻被拖入美夢中",
             "isFunctional": true
+        },
+        "tile_dygmny_1": {
+            "tileKey": "tile_dygmny_1",
+            "name": "化境地塊",
+            "description": "會有更高的機率出現各種奇妙的玩意",
+            "isFunctional": true
+        },
+        "tile_dygmny_2": {
+            "tileKey": "tile_dygmny_2",
+            "name": "化境地塊",
+            "description": "會有更高的機率出現各種奇妙的玩意",
+            "isFunctional": true
+        },
+        "tile_dygmny_3": {
+            "tileKey": "tile_dygmny_3",
+            "name": "化境地塊",
+            "description": "會有更高的機率出現各種奇妙的玩意",
+            "isFunctional": true
         }
     },
     "forceOpenTable": {
