@@ -1,6 +1,11 @@
 {
-  "JP": {
-    "resource": "26-01-26-08-41-58_7940cd",
+  "EN": {
+    "resource": "26-01-26-08-51-06_ca9da9",
+    "client": "32.6.21",
+    "folders": {}
+  },
+  "TW": {
+    "resource": "26-02-02-07-56-37_aefe15",
     "client": "32.6.21",
     "folders": {}
   },
@@ -12,16 +17,6 @@
   "CN": {
     "resource": "26-02-06-13-37-25_e45854",
     "client": "2.7.01",
-    "folders": {}
-  },
-  "TW": {
-    "resource": "26-02-02-07-56-37_aefe15",
-    "client": "32.6.21",
-    "folders": {}
-  },
-  "EN": {
-    "resource": "26-01-26-08-51-06_ca9da9",
-    "client": "32.6.21",
     "folders": {}
   }
 }
