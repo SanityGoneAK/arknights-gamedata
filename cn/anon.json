@@ -1,12 +1,18 @@
 {
   "m_GameObject": {
     "m_FileID": 0,
-    "m_PathID": -4657441485615569939
+    "m_PathID": -1941270990146182820
   },
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 1,
-    "m_PathID": -8931099490558739393
+    "m_PathID": -7158759094180546996
   },
-  "m_Name": ""
+  "m_Name": "",
+  "_scaleTarget": {
+    "m_FileID": 0,
+    "m_PathID": 5463765107123478876
+  },
+  "_scaleInfo": [],
+  "_scale": 1.0
 }
