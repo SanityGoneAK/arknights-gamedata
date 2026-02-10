@@ -11,7 +11,7 @@
         "isHardTrainingLevel": true,
         "isPredefinedCardsSelectable": false,
         "displayRestTime": false,
-        "maxPlayTime": 0.0,
+        "maxPlayTime": -1.0,
         "functionDisableMask": "NONE",
         "configBlackBoard": null
     },
