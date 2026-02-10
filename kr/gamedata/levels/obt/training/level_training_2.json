@@ -11,8 +11,8 @@
         "isHardTrainingLevel": false,
         "isPredefinedCardsSelectable": false,
         "displayRestTime": false,
-        "maxPlayTime": 0.0,
-        "functionDisableMask": "NONE",
+        "maxPlayTime": -1.0,
+        "functionDisableMask": 6,
         "configBlackBoard": null
     },
     "levelId": null,

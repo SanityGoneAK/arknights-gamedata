@@ -11,7 +11,7 @@
         "isHardTrainingLevel": false,
         "isPredefinedCardsSelectable": false,
         "displayRestTime": false,
-        "maxPlayTime": 0.0,
+        "maxPlayTime": -1.0,
         "functionDisableMask": "NONE",
         "configBlackBoard": null
     },
@@ -20,10 +20,8 @@
     "bgmEvent": "rl4boss4",
     "environmentSe": null,
     "mapData": {
-        "map": {
-            "row_size": 8,
-            "column_size": 25,
-            "matrix_data": [
+        "map": [
+            [
                 175,
                 176,
                 177,
@@ -48,7 +46,9 @@
                 196,
                 197,
                 198,
-                199,
+                199
+            ],
+            [
                 150,
                 151,
                 152,
@@ -73,7 +73,9 @@
                 171,
                 172,
                 173,
-                174,
+                174
+            ],
+            [
                 125,
                 126,
                 127,
@@ -98,7 +100,9 @@
                 146,
                 147,
                 148,
-                149,
+                149
+            ],
+            [
                 100,
                 101,
                 102,
@@ -123,7 +127,9 @@
                 121,
                 122,
                 123,
-                124,
+                124
+            ],
+            [
                 75,
                 76,
                 77,
@@ -148,7 +154,9 @@
                 96,
                 97,
                 98,
-                99,
+                99
+            ],
+            [
                 50,
                 51,
                 52,
@@ -173,7 +181,9 @@
                 71,
                 72,
                 73,
-                74,
+                74
+            ],
+            [
                 25,
                 26,
                 27,
@@ -198,7 +208,9 @@
                 46,
                 47,
                 48,
-                49,
+                49
+            ],
+            [
                 0,
                 1,
                 2,
@@ -225,7 +237,7 @@
                 23,
                 24
             ]
-        },
+        ],
         "tiles": [
             {
                 "tileKey": "tile_forbidden",
