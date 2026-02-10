@@ -3016,7 +3016,7 @@
     "doze": {
         "attributes": {
             "abnormalFlags": [
-                43
+                "DOZE"
             ],
             "abnormalImmunes": null,
             "abnormalAntis": null,
@@ -3063,7 +3063,7 @@
     "doze[inf]": {
         "attributes": {
             "abnormalFlags": [
-                43
+                "DOZE"
             ],
             "abnormalImmunes": null,
             "abnormalAntis": null,

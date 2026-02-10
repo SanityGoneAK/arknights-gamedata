@@ -14,14 +14,14 @@
     "client": "33.6.61",
     "folders": {}
   },
-  "CN": {
-    "resource": "26-02-06-13-37-25_e45854",
-    "client": "2.7.01",
-    "folders": {}
-  },
   "TW": {
     "resource": "26-02-02-07-56-37_aefe15",
     "client": "32.6.21",
+    "folders": {}
+  },
+  "CN": {
+    "resource": "26-02-06-13-37-25_e45854",
+    "client": "2.7.01",
     "folders": {}
   }
 }
