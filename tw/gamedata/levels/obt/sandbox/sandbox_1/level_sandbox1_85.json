@@ -10,155 +10,18 @@
         "isTrainingLevel": false,
         "isHardTrainingLevel": false,
         "isPredefinedCardsSelectable": false,
-        "maxPlayTime": -1.0,
-        "functionDisableMask": "NONE",
-        "configBlackBoard": [
-            {
-                "key": "rect_1",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_2",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_3",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_4",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_5",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_6",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_7",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_8",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_9",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_10",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_11",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_12",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_13",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_14",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_15",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_16",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_17",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_18",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_19",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_20",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "enable_war_fog",
-                "value": 0.0,
-                "valueStr": null
-            },
-            {
-                "key": "enable_camera",
-                "value": 1.0,
-                "valueStr": null
-            },
-            {
-                "key": "disable_character_gbuff",
-                "value": 0.0,
-                "valueStr": null
-            },
-            {
-                "key": "disable_enemy_gbuff",
-                "value": 0.0,
-                "valueStr": null
-            },
-            {
-                "key": "CAMERA_VIEW_LEVEL",
-                "value": 3.0,
-                "valueStr": null
-            },
-            {
-                "key": "CAMERA_START_GRID",
-                "value": 0.0,
-                "valueStr": "(11,3)"
-            },
-            {
-                "key": "construct_view_scale",
-                "value": 0.0,
-                "valueStr": null
-            }
-        ]
+        "displayRestTime": false,
+        "maxPlayTime": 0.0,
+        "functionDisableMask": "CHARACTER_INFO",
+        "configBlackBoard": null
     },
     "levelId": null,
     "mapId": null,
     "bgmEvent": "sandbox_1_insect_race",
     "environmentSe": null,
     "mapData": {
-        "map": {
-            "row_size": 23,
-            "column_size": 43,
-            "matrix_data": [
+        "map": [
+            [
                 946,
                 947,
                 948,
@@ -201,7 +64,9 @@
                 985,
                 986,
                 987,
-                988,
+                988
+            ],
+            [
                 903,
                 904,
                 905,
@@ -244,7 +109,9 @@
                 942,
                 943,
                 944,
-                945,
+                945
+            ],
+            [
                 860,
                 861,
                 862,
@@ -287,7 +154,9 @@
                 899,
                 900,
                 901,
-                902,
+                902
+            ],
+            [
                 817,
                 818,
                 819,
@@ -330,7 +199,9 @@
                 856,
                 857,
                 858,
-                859,
+                859
+            ],
+            [
                 774,
                 775,
                 776,
@@ -373,7 +244,9 @@
                 813,
                 814,
                 815,
-                816,
+                816
+            ],
+            [
                 731,
                 732,
                 733,
@@ -416,7 +289,9 @@
                 770,
                 771,
                 772,
-                773,
+                773
+            ],
+            [
                 688,
                 689,
                 690,
@@ -459,7 +334,9 @@
                 727,
                 728,
                 729,
-                730,
+                730
+            ],
+            [
                 645,
                 646,
                 647,
@@ -502,7 +379,9 @@
                 684,
                 685,
                 686,
-                687,
+                687
+            ],
+            [
                 602,
                 603,
                 604,
@@ -545,7 +424,9 @@
                 641,
                 642,
                 643,
-                644,
+                644
+            ],
+            [
                 559,
                 560,
                 561,
@@ -588,7 +469,9 @@
                 598,
                 599,
                 600,
-                601,
+                601
+            ],
+            [
                 516,
                 517,
                 518,
@@ -631,7 +514,9 @@
                 555,
                 556,
                 557,
-                558,
+                558
+            ],
+            [
                 473,
                 474,
                 475,
@@ -674,7 +559,9 @@
                 512,
                 513,
                 514,
-                515,
+                515
+            ],
+            [
                 430,
                 431,
                 432,
@@ -717,7 +604,9 @@
                 469,
                 470,
                 471,
-                472,
+                472
+            ],
+            [
                 387,
                 388,
                 389,
@@ -760,7 +649,9 @@
                 426,
                 427,
                 428,
-                429,
+                429
+            ],
+            [
                 344,
                 345,
                 346,
@@ -803,7 +694,9 @@
                 383,
                 384,
                 385,
-                386,
+                386
+            ],
+            [
                 301,
                 302,
                 303,
@@ -846,7 +739,9 @@
                 340,
                 341,
                 342,
-                343,
+                343
+            ],
+            [
                 258,
                 259,
                 260,
@@ -889,7 +784,9 @@
                 297,
                 298,
                 299,
-                300,
+                300
+            ],
+            [
                 215,
                 216,
                 217,
@@ -932,7 +829,9 @@
                 254,
                 255,
                 256,
-                257,
+                257
+            ],
+            [
                 172,
                 173,
                 174,
@@ -975,7 +874,9 @@
                 211,
                 212,
                 213,
-                214,
+                214
+            ],
+            [
                 129,
                 130,
                 131,
@@ -1018,7 +919,9 @@
                 168,
                 169,
                 170,
-                171,
+                171
+            ],
+            [
                 86,
                 87,
                 88,
@@ -1061,7 +964,9 @@
                 125,
                 126,
                 127,
-                128,
+                128
+            ],
+            [
                 43,
                 44,
                 45,
@@ -1104,7 +1009,9 @@
                 82,
                 83,
                 84,
-                85,
+                85
+            ],
+            [
                 0,
                 1,
                 2,
@@ -1149,7 +1056,7 @@
                 41,
                 42
             ]
-        },
+        ],
         "tiles": [
             {
                 "tileKey": "tile_forbidden",
@@ -12098,6 +12005,7 @@
                 "alias": "char_113_cqbw#0",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "char_113_cqbw",
                     "level": 90,
@@ -12121,6 +12029,7 @@
                 "alias": "char_4046_ebnhlz#0",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "char_4046_ebnhlz",
                     "level": 80,
@@ -12144,6 +12053,7 @@
                 "alias": "char_113_cqbw#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "char_113_cqbw",
                     "level": 90,
@@ -12167,6 +12077,7 @@
                 "alias": "char_4046_ebnhlz#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "char_4046_ebnhlz",
                     "level": 80,
@@ -12190,6 +12101,7 @@
                 "alias": "char_291_aglina#0",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "char_291_aglina",
                     "level": 90,
@@ -12213,6 +12125,7 @@
                 "alias": "char_135_halo#0",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "char_135_halo",
                     "level": 80,
@@ -12236,6 +12149,7 @@
                 "alias": "char_291_aglina#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "char_291_aglina",
                     "level": 90,
@@ -12259,6 +12173,7 @@
                 "alias": "char_135_halo#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "char_135_halo",
                     "level": 80,
@@ -12284,6 +12199,7 @@
                 "alias": "trap_009_battery#00",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_009_battery",
                     "level": 1,
@@ -12307,6 +12223,7 @@
                 "alias": "trap_009_battery#01",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_009_battery",
                     "level": 1,
@@ -12330,6 +12247,7 @@
                 "alias": "trap_009_battery#10",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_009_battery",
                     "level": 1,
@@ -12353,6 +12271,7 @@
                 "alias": "trap_009_battery#11",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_009_battery",
                     "level": 1,
@@ -12376,6 +12295,7 @@
                 "alias": "trap_484_xbcp#end_0",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_484_xbcp",
                     "level": 1,
@@ -12415,6 +12335,7 @@
                 "alias": "trap_484_xbcp#end_1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_484_xbcp",
                     "level": 1,
@@ -12454,6 +12375,7 @@
                 "alias": "trap_484_xbcp#0_0",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_484_xbcp",
                     "level": 1,
@@ -12483,6 +12405,7 @@
                 "alias": "trap_484_xbcp#0_1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_484_xbcp",
                     "level": 1,
@@ -12512,6 +12435,7 @@
                 "alias": "trap_484_xbcp#1_0",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_484_xbcp",
                     "level": 1,
@@ -12541,6 +12465,7 @@
                 "alias": "trap_484_xbcp#1_1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_484_xbcp",
                     "level": 1,
@@ -12570,6 +12495,7 @@
                 "alias": "trap_011_ore#00",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_011_ore",
                     "level": 1,
@@ -12593,6 +12519,7 @@
                 "alias": "trap_011_ore#10",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_011_ore",
                     "level": 1,
@@ -12616,6 +12543,7 @@
                 "alias": "trap_011_ore#20",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_011_ore",
                     "level": 1,
@@ -12639,6 +12567,7 @@
                 "alias": "trap_011_ore#30",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_011_ore",
                     "level": 1,
@@ -12662,6 +12591,7 @@
                 "alias": "trap_486_xbspd#0",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_486_xbspd",
                     "level": 1,
@@ -12701,6 +12631,7 @@
                 "alias": "trap_486_xbspd#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_486_xbspd",
                     "level": 1,
@@ -12740,6 +12671,7 @@
                 "alias": "trap_486_xbspd#2",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_486_xbspd",
                     "level": 1,
@@ -12779,6 +12711,7 @@
                 "alias": "trap_485_xbrandprop#0",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_485_xbrandprop",
                     "level": 1,
@@ -12838,6 +12771,7 @@
                 "alias": "trap_485_xbrandprop#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_485_xbrandprop",
                     "level": 1,
@@ -12897,6 +12831,7 @@
                 "alias": "trap_485_xbrandprop#2",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_485_xbrandprop",
                     "level": 1,
@@ -12956,6 +12891,7 @@
                 "alias": "trap_485_xbrandprop#3",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_485_xbrandprop",
                     "level": 1,
@@ -13015,6 +12951,7 @@
                 "alias": "trap_485_xbrandprop#4",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_485_xbrandprop",
                     "level": 1,
@@ -13074,6 +13011,7 @@
                 "alias": "trap_485_xbrandprop#5",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_485_xbrandprop",
                     "level": 1,
@@ -13133,6 +13071,7 @@
                 "alias": "trap_009_battery#20",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_009_battery",
                     "level": 1,
@@ -13156,6 +13095,7 @@
                 "alias": "trap_009_battery#30",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_009_battery",
                     "level": 1,
@@ -13179,6 +13119,7 @@
                 "alias": "trap_011_ore#01",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_011_ore",
                     "level": 1,
@@ -13202,6 +13143,7 @@
                 "alias": "trap_011_ore#11",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_011_ore",
                     "level": 1,
@@ -13225,6 +13167,7 @@
                 "alias": "trap_011_ore#21",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_011_ore",
                     "level": 1,
@@ -13248,6 +13191,7 @@
                 "alias": "trap_011_ore#31",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_011_ore",
                     "level": 1,
@@ -13271,6 +13215,7 @@
                 "alias": "trap_485_xbrandprop#6",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_485_xbrandprop",
                     "level": 1,
@@ -13330,6 +13275,7 @@
                 "alias": "trap_485_xbrandprop#7",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_485_xbrandprop",
                     "level": 1,
@@ -13389,6 +13335,7 @@
                 "alias": "trap_485_xbrandprop#8",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_485_xbrandprop",
                     "level": 1,
@@ -13448,6 +13395,7 @@
                 "alias": "trap_485_xbrandprop#9",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_485_xbrandprop",
                     "level": 1,
@@ -13507,6 +13455,7 @@
                 "alias": "trap_485_xbrandprop#10",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_485_xbrandprop",
                     "level": 1,
@@ -13566,6 +13515,7 @@
                 "alias": "trap_485_xbrandprop#11",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_485_xbrandprop",
                     "level": 1,
@@ -13625,6 +13575,7 @@
                 "alias": "trap_485_xbrandprop#12",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_485_xbrandprop",
                     "level": 1,
@@ -13684,6 +13635,7 @@
                 "alias": "trap_485_xbrandprop#13",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_485_xbrandprop",
                     "level": 1,
@@ -13743,6 +13695,7 @@
                 "alias": "trap_485_xbrandprop#14",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_485_xbrandprop",
                     "level": 1,
@@ -13802,6 +13755,7 @@
                 "alias": "trap_485_xbrandprop#15",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_485_xbrandprop",
                     "level": 1,

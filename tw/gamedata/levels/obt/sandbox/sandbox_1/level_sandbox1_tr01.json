@@ -10,85 +10,18 @@
         "isTrainingLevel": false,
         "isHardTrainingLevel": false,
         "isPredefinedCardsSelectable": false,
-        "maxPlayTime": 80.0,
-        "functionDisableMask": "NONE",
-        "configBlackBoard": [
-            {
-                "key": "rect_1",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_2",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_3",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_4",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_5",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_6",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_7",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "enable_war_fog",
-                "value": 1.0,
-                "valueStr": null
-            },
-            {
-                "key": "enable_camera",
-                "value": 1.0,
-                "valueStr": null
-            },
-            {
-                "key": "disable_character_gbuff",
-                "value": 0.0,
-                "valueStr": null
-            },
-            {
-                "key": "disable_enemy_gbuff",
-                "value": 0.0,
-                "valueStr": null
-            },
-            {
-                "key": "CAMERA_VIEW_LEVEL",
-                "value": 3.0,
-                "valueStr": null
-            },
-            {
-                "key": "CAMERA_START_GRID",
-                "value": 0.0,
-                "valueStr": "(4,13)"
-            }
-        ]
+        "displayRestTime": false,
+        "maxPlayTime": 0.0,
+        "functionDisableMask": "CHARACTER_INFO",
+        "configBlackBoard": null
     },
     "levelId": null,
     "mapId": null,
     "bgmEvent": "sandbox_1_huntarea",
     "environmentSe": null,
     "mapData": {
-        "map": {
-            "row_size": 9,
-            "column_size": 23,
-            "matrix_data": [
+        "map": [
+            [
                 184,
                 185,
                 186,
@@ -111,7 +44,9 @@
                 203,
                 204,
                 205,
-                206,
+                206
+            ],
+            [
                 161,
                 162,
                 163,
@@ -134,7 +69,9 @@
                 180,
                 181,
                 182,
-                183,
+                183
+            ],
+            [
                 138,
                 139,
                 140,
@@ -157,7 +94,9 @@
                 157,
                 158,
                 159,
-                160,
+                160
+            ],
+            [
                 115,
                 116,
                 117,
@@ -180,7 +119,9 @@
                 134,
                 135,
                 136,
-                137,
+                137
+            ],
+            [
                 92,
                 93,
                 94,
@@ -203,7 +144,9 @@
                 111,
                 112,
                 113,
-                114,
+                114
+            ],
+            [
                 69,
                 70,
                 71,
@@ -226,7 +169,9 @@
                 88,
                 89,
                 90,
-                91,
+                91
+            ],
+            [
                 46,
                 47,
                 48,
@@ -249,7 +194,9 @@
                 65,
                 66,
                 67,
-                68,
+                68
+            ],
+            [
                 23,
                 24,
                 25,
@@ -272,7 +219,9 @@
                 42,
                 43,
                 44,
-                45,
+                45
+            ],
+            [
                 0,
                 1,
                 2,
@@ -297,7 +246,7 @@
                 21,
                 22
             ]
-        },
+        ],
         "tiles": [
             {
                 "tileKey": "tile_forbidden",
@@ -4257,6 +4206,7 @@
                 "alias": "char_416_zumama#0",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "char_416_zumama",
                     "level": 90,
@@ -4280,6 +4230,7 @@
                 "alias": "char_511_asnipe#0",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "char_511_asnipe",
                     "level": 50,

@@ -10,7 +10,8 @@
         "isTrainingLevel": false,
         "isHardTrainingLevel": false,
         "isPredefinedCardsSelectable": false,
-        "maxPlayTime": -1.0,
+        "displayRestTime": false,
+        "maxPlayTime": 0.0,
         "functionDisableMask": "NONE",
         "configBlackBoard": null
     },
@@ -19,10 +20,8 @@
     "bgmEvent": "bat_boss_ymmons",
     "environmentSe": null,
     "mapData": {
-        "map": {
-            "row_size": 9,
-            "column_size": 13,
-            "matrix_data": [
+        "map": [
+            [
                 104,
                 105,
                 106,
@@ -35,7 +34,9 @@
                 113,
                 114,
                 115,
-                116,
+                116
+            ],
+            [
                 91,
                 92,
                 93,
@@ -48,7 +49,9 @@
                 100,
                 101,
                 102,
-                103,
+                103
+            ],
+            [
                 78,
                 79,
                 80,
@@ -61,7 +64,9 @@
                 87,
                 88,
                 89,
-                90,
+                90
+            ],
+            [
                 65,
                 66,
                 67,
@@ -74,7 +79,9 @@
                 74,
                 75,
                 76,
-                77,
+                77
+            ],
+            [
                 52,
                 53,
                 54,
@@ -87,7 +94,9 @@
                 61,
                 62,
                 63,
-                64,
+                64
+            ],
+            [
                 39,
                 40,
                 41,
@@ -100,7 +109,9 @@
                 48,
                 49,
                 50,
-                51,
+                51
+            ],
+            [
                 26,
                 27,
                 28,
@@ -113,7 +124,9 @@
                 35,
                 36,
                 37,
-                38,
+                38
+            ],
+            [
                 13,
                 14,
                 15,
@@ -126,7 +139,9 @@
                 22,
                 23,
                 24,
-                25,
+                25
+            ],
+            [
                 0,
                 1,
                 2,
@@ -141,7 +156,7 @@
                 11,
                 12
             ]
-        },
+        ],
         "tiles": [
             {
                 "tileKey": "tile_forbidden",
@@ -51423,6 +51438,7 @@
                 "alias": null,
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_103_ymdgct",
                     "level": 1,
@@ -51446,6 +51462,7 @@
                 "alias": "trap_097_hstone#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_097_hstone",
                     "level": 1,
@@ -51469,6 +51486,7 @@
                 "alias": "trap_097_hstone#2",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_097_hstone",
                     "level": 1,
@@ -51492,6 +51510,7 @@
                 "alias": "trap_097_hstone#3",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_097_hstone",
                     "level": 1,
@@ -51515,6 +51534,7 @@
                 "alias": "trap_097_hstone#4",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_097_hstone",
                     "level": 1,
@@ -51538,6 +51558,7 @@
                 "alias": "trap_097_hstone#5",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_097_hstone",
                     "level": 1,
@@ -51561,6 +51582,7 @@
                 "alias": "trap_097_hstone#6",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_097_hstone",
                     "level": 1,
@@ -51584,6 +51606,7 @@
                 "alias": "trap_097_hstone#7",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_097_hstone",
                     "level": 1,
@@ -51607,6 +51630,7 @@
                 "alias": "trap_097_hstone#8",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_097_hstone",
                     "level": 1,
@@ -51630,6 +51654,7 @@
                 "alias": "trap_097_hstone#9",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_097_hstone",
                     "level": 1,
@@ -51653,6 +51678,7 @@
                 "alias": "trap_097_hstone#10",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_097_hstone",
                     "level": 1,

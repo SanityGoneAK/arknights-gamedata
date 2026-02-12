@@ -10,155 +10,18 @@
         "isTrainingLevel": false,
         "isHardTrainingLevel": false,
         "isPredefinedCardsSelectable": false,
-        "maxPlayTime": -1.0,
-        "functionDisableMask": "NONE",
-        "configBlackBoard": [
-            {
-                "key": "rect_1",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_2",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_3",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_4",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_5",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_6",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_7",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_8",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_9",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_10",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_11",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_12",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_13",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_14",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_15",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_16",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_17",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_18",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_19",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_20",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "enable_war_fog",
-                "value": 0.0,
-                "valueStr": null
-            },
-            {
-                "key": "enable_camera",
-                "value": 1.0,
-                "valueStr": null
-            },
-            {
-                "key": "disable_character_gbuff",
-                "value": 0.0,
-                "valueStr": null
-            },
-            {
-                "key": "disable_enemy_gbuff",
-                "value": 0.0,
-                "valueStr": null
-            },
-            {
-                "key": "CAMERA_VIEW_LEVEL",
-                "value": 3.0,
-                "valueStr": null
-            },
-            {
-                "key": "CAMERA_START_GRID",
-                "value": 0.0,
-                "valueStr": "(7,11)"
-            },
-            {
-                "key": "construct_view_scale",
-                "value": 2.5,
-                "valueStr": null
-            }
-        ]
+        "displayRestTime": false,
+        "maxPlayTime": 0.0,
+        "functionDisableMask": "CHARACTER_INFO",
+        "configBlackBoard": null
     },
     "levelId": null,
     "mapId": null,
     "bgmEvent": "sandbox_1_homebuildmode",
     "environmentSe": null,
     "mapData": {
-        "map": {
-            "row_size": 15,
-            "column_size": 23,
-            "matrix_data": [
+        "map": [
+            [
                 322,
                 323,
                 324,
@@ -181,7 +44,9 @@
                 341,
                 342,
                 343,
-                344,
+                344
+            ],
+            [
                 299,
                 300,
                 301,
@@ -204,7 +69,9 @@
                 318,
                 319,
                 320,
-                321,
+                321
+            ],
+            [
                 276,
                 277,
                 278,
@@ -227,7 +94,9 @@
                 295,
                 296,
                 297,
-                298,
+                298
+            ],
+            [
                 253,
                 254,
                 255,
@@ -250,7 +119,9 @@
                 272,
                 273,
                 274,
-                275,
+                275
+            ],
+            [
                 230,
                 231,
                 232,
@@ -273,7 +144,9 @@
                 249,
                 250,
                 251,
-                252,
+                252
+            ],
+            [
                 207,
                 208,
                 209,
@@ -296,7 +169,9 @@
                 226,
                 227,
                 228,
-                229,
+                229
+            ],
+            [
                 184,
                 185,
                 186,
@@ -319,7 +194,9 @@
                 203,
                 204,
                 205,
-                206,
+                206
+            ],
+            [
                 161,
                 162,
                 163,
@@ -342,7 +219,9 @@
                 180,
                 181,
                 182,
-                183,
+                183
+            ],
+            [
                 138,
                 139,
                 140,
@@ -365,7 +244,9 @@
                 157,
                 158,
                 159,
-                160,
+                160
+            ],
+            [
                 115,
                 116,
                 117,
@@ -388,7 +269,9 @@
                 134,
                 135,
                 136,
-                137,
+                137
+            ],
+            [
                 92,
                 93,
                 94,
@@ -411,7 +294,9 @@
                 111,
                 112,
                 113,
-                114,
+                114
+            ],
+            [
                 69,
                 70,
                 71,
@@ -434,7 +319,9 @@
                 88,
                 89,
                 90,
-                91,
+                91
+            ],
+            [
                 46,
                 47,
                 48,
@@ -457,7 +344,9 @@
                 65,
                 66,
                 67,
-                68,
+                68
+            ],
+            [
                 23,
                 24,
                 25,
@@ -480,7 +369,9 @@
                 42,
                 43,
                 44,
-                45,
+                45
+            ],
+            [
                 0,
                 1,
                 2,
@@ -505,7 +396,7 @@
                 21,
                 22
             ]
-        },
+        ],
         "tiles": [
             {
                 "tileKey": "tile_forbidden",
@@ -7098,6 +6989,7 @@
                 "alias": "trap_447_xbmcv#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_447_xbmcv",
                     "level": 1,

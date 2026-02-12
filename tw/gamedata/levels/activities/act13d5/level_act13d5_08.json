@@ -10,7 +10,8 @@
         "isTrainingLevel": false,
         "isHardTrainingLevel": false,
         "isPredefinedCardsSelectable": false,
-        "maxPlayTime": -1.0,
+        "displayRestTime": false,
+        "maxPlayTime": 0.0,
         "functionDisableMask": "NONE",
         "configBlackBoard": null
     },
@@ -19,10 +20,8 @@
     "bgmEvent": "putrid",
     "environmentSe": null,
     "mapData": {
-        "map": {
-            "row_size": 8,
-            "column_size": 15,
-            "matrix_data": [
+        "map": [
+            [
                 105,
                 106,
                 107,
@@ -37,7 +36,9 @@
                 116,
                 117,
                 118,
-                119,
+                119
+            ],
+            [
                 90,
                 91,
                 92,
@@ -52,7 +53,9 @@
                 101,
                 102,
                 103,
-                104,
+                104
+            ],
+            [
                 75,
                 76,
                 77,
@@ -67,7 +70,9 @@
                 86,
                 87,
                 88,
-                89,
+                89
+            ],
+            [
                 60,
                 61,
                 62,
@@ -82,7 +87,9 @@
                 71,
                 72,
                 73,
-                74,
+                74
+            ],
+            [
                 45,
                 46,
                 47,
@@ -97,7 +104,9 @@
                 56,
                 57,
                 58,
-                59,
+                59
+            ],
+            [
                 30,
                 31,
                 32,
@@ -112,7 +121,9 @@
                 41,
                 42,
                 43,
-                44,
+                44
+            ],
+            [
                 15,
                 16,
                 17,
@@ -127,7 +138,9 @@
                 26,
                 27,
                 28,
-                29,
+                29
+            ],
+            [
                 0,
                 1,
                 2,
@@ -144,7 +157,7 @@
                 13,
                 14
             ]
-        },
+        ],
         "tiles": [
             {
                 "tileKey": "tile_empty",
@@ -4556,6 +4569,7 @@
                 "alias": null,
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_019_electric",
                     "level": 1,

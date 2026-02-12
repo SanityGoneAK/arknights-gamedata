@@ -10,7 +10,8 @@
         "isTrainingLevel": true,
         "isHardTrainingLevel": false,
         "isPredefinedCardsSelectable": false,
-        "maxPlayTime": -1.0,
+        "displayRestTime": false,
+        "maxPlayTime": 0.0,
         "functionDisableMask": "NONE",
         "configBlackBoard": null
     },
@@ -19,45 +20,53 @@
     "bgmEvent": "indust",
     "environmentSe": null,
     "mapData": {
-        "map": {
-            "row_size": 6,
-            "column_size": 7,
-            "matrix_data": [
+        "map": [
+            [
                 35,
                 36,
                 37,
                 38,
                 39,
                 40,
-                41,
+                41
+            ],
+            [
                 28,
                 29,
                 30,
                 31,
                 32,
                 33,
-                34,
+                34
+            ],
+            [
                 21,
                 22,
                 23,
                 24,
                 25,
                 26,
-                27,
+                27
+            ],
+            [
                 14,
                 15,
                 16,
                 17,
                 18,
                 19,
-                20,
+                20
+            ],
+            [
                 7,
                 8,
                 9,
                 10,
                 11,
                 12,
-                13,
+                13
+            ],
+            [
                 0,
                 1,
                 2,
@@ -66,7 +75,7 @@
                 5,
                 6
             ]
-        },
+        ],
         "tiles": [
             {
                 "tileKey": "tile_forbidden",
@@ -1459,6 +1468,7 @@
                 "alias": null,
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "char_235_jesica",
                     "level": 1,
@@ -1477,6 +1487,7 @@
                 "alias": null,
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "char_120_hibisc",
                     "level": 1,
@@ -1495,6 +1506,7 @@
                 "alias": null,
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "char_502_nblade",
                     "level": 1,
@@ -1513,6 +1525,7 @@
                 "alias": null,
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "char_503_rang",
                     "level": 1,

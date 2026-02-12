@@ -10,7 +10,8 @@
         "isTrainingLevel": false,
         "isHardTrainingLevel": false,
         "isPredefinedCardsSelectable": false,
-        "maxPlayTime": -1.0,
+        "displayRestTime": false,
+        "maxPlayTime": 0.0,
         "functionDisableMask": "NONE",
         "configBlackBoard": null
     },
@@ -19,10 +20,8 @@
     "bgmEvent": "corrosion",
     "environmentSe": null,
     "mapData": {
-        "map": {
-            "row_size": 10,
-            "column_size": 14,
-            "matrix_data": [
+        "map": [
+            [
                 126,
                 127,
                 128,
@@ -36,7 +35,9 @@
                 136,
                 137,
                 138,
-                139,
+                139
+            ],
+            [
                 112,
                 113,
                 114,
@@ -50,7 +51,9 @@
                 122,
                 123,
                 124,
-                125,
+                125
+            ],
+            [
                 98,
                 99,
                 100,
@@ -64,7 +67,9 @@
                 108,
                 109,
                 110,
-                111,
+                111
+            ],
+            [
                 84,
                 85,
                 86,
@@ -78,7 +83,9 @@
                 94,
                 95,
                 96,
-                97,
+                97
+            ],
+            [
                 70,
                 71,
                 72,
@@ -92,7 +99,9 @@
                 80,
                 81,
                 82,
-                83,
+                83
+            ],
+            [
                 56,
                 57,
                 58,
@@ -106,7 +115,9 @@
                 66,
                 67,
                 68,
-                69,
+                69
+            ],
+            [
                 42,
                 43,
                 44,
@@ -120,7 +131,9 @@
                 52,
                 53,
                 54,
-                55,
+                55
+            ],
+            [
                 28,
                 29,
                 30,
@@ -134,7 +147,9 @@
                 38,
                 39,
                 40,
-                41,
+                41
+            ],
+            [
                 14,
                 15,
                 16,
@@ -148,7 +163,9 @@
                 24,
                 25,
                 26,
-                27,
+                27
+            ],
+            [
                 0,
                 1,
                 2,
@@ -164,7 +181,7 @@
                 12,
                 13
             ]
-        },
+        ],
         "tiles": [
             {
                 "tileKey": "tile_empty",
@@ -5944,6 +5961,7 @@
                 "alias": "trap_014_tower#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_014_tower",
                     "level": 1,
@@ -5967,6 +5985,7 @@
                 "alias": "trap_014_tower#2",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_014_tower",
                     "level": 1,
@@ -5990,6 +6009,7 @@
                 "alias": "trap_014_tower#3",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_014_tower",
                     "level": 1,
@@ -6013,6 +6033,7 @@
                 "alias": "trap_014_tower#4",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_014_tower",
                     "level": 1,
@@ -6036,6 +6057,7 @@
                 "alias": "trap_014_tower#5",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_014_tower",
                     "level": 1,
@@ -6059,6 +6081,7 @@
                 "alias": "trap_014_tower#6",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_014_tower",
                     "level": 1,
@@ -6081,6 +6104,7 @@
                 "alias": null,
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_012_mine",
                     "level": 1,
@@ -6100,6 +6124,7 @@
                 "alias": null,
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_018_bomb",
                     "level": 1,

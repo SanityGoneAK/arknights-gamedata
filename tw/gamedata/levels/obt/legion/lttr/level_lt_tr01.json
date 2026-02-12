@@ -10,75 +10,18 @@
         "isTrainingLevel": true,
         "isHardTrainingLevel": false,
         "isPredefinedCardsSelectable": false,
-        "maxPlayTime": -1.0,
-        "functionDisableMask": "NONE",
-        "configBlackBoard": [
-            {
-                "key": "legion_init_random_shuffle",
-                "value": 0.0,
-                "valueStr": null
-            },
-            {
-                "key": "legion_recycle_random_shuffle",
-                "value": 0.0,
-                "valueStr": null
-            },
-            {
-                "key": "legion_init_card_count",
-                "value": 0.0,
-                "valueStr": null
-            },
-            {
-                "key": "legion_init_redraw_count",
-                "value": 0.0,
-                "valueStr": null
-            },
-            {
-                "key": "legion_ingame_redraw_count",
-                "value": 3.0,
-                "valueStr": null
-            },
-            {
-                "key": "legion_gold_for_endprepare",
-                "value": 0.0,
-                "valueStr": null
-            },
-            {
-                "key": "legion_gold_for_wave_end",
-                "value": 15.0,
-                "valueStr": null
-            },
-            {
-                "key": "legion_init_gold",
-                "value": 0.0,
-                "valueStr": null
-            },
-            {
-                "key": "legion_init_card_price",
-                "value": 10.0,
-                "valueStr": null
-            },
-            {
-                "key": "legion_card_price_growth",
-                "value": 0.0,
-                "valueStr": null
-            },
-            {
-                "key": "legion_max_card_price",
-                "value": 10.0,
-                "valueStr": null
-            }
-        ]
+        "displayRestTime": false,
+        "maxPlayTime": 0.0,
+        "functionDisableMask": "CHARACTER_INFO",
+        "configBlackBoard": null
     },
     "levelId": null,
     "mapId": null,
     "bgmEvent": "indust",
     "environmentSe": null,
     "mapData": {
-        "map": {
-            "row_size": 7,
-            "column_size": 10,
-            "matrix_data": [
+        "map": [
+            [
                 60,
                 61,
                 62,
@@ -88,7 +31,9 @@
                 66,
                 67,
                 68,
-                69,
+                69
+            ],
+            [
                 50,
                 51,
                 52,
@@ -98,7 +43,9 @@
                 56,
                 57,
                 58,
-                59,
+                59
+            ],
+            [
                 40,
                 41,
                 42,
@@ -108,7 +55,9 @@
                 46,
                 47,
                 48,
-                49,
+                49
+            ],
+            [
                 30,
                 31,
                 32,
@@ -118,7 +67,9 @@
                 36,
                 37,
                 38,
-                39,
+                39
+            ],
+            [
                 20,
                 21,
                 22,
@@ -128,7 +79,9 @@
                 26,
                 27,
                 28,
-                29,
+                29
+            ],
+            [
                 10,
                 11,
                 12,
@@ -138,7 +91,9 @@
                 16,
                 17,
                 18,
-                19,
+                19
+            ],
+            [
                 0,
                 1,
                 2,
@@ -150,7 +105,7 @@
                 8,
                 9
             ]
-        },
+        ],
         "tiles": [
             {
                 "tileKey": "tile_forbidden",
@@ -1723,6 +1678,7 @@
                 "alias": null,
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "char_235_jesica",
                     "level": 1,
@@ -1746,6 +1702,7 @@
                 "alias": null,
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "char_196_sunbr",
                     "level": 70,
@@ -1772,6 +1729,7 @@
                     }
                 ],
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "char_158_milu",
                     "level": 70,
@@ -1790,6 +1748,7 @@
                 "alias": null,
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "char_206_gnosis",
                     "level": 90,
@@ -1808,6 +1767,7 @@
                 "alias": null,
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "char_333_sidero",
                     "level": 80,

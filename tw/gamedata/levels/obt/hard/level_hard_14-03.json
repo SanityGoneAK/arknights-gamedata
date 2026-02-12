@@ -10,7 +10,8 @@
         "isTrainingLevel": false,
         "isHardTrainingLevel": false,
         "isPredefinedCardsSelectable": false,
-        "maxPlayTime": -1.0,
+        "displayRestTime": false,
+        "maxPlayTime": 0.0,
         "functionDisableMask": "NONE",
         "configBlackBoard": null
     },
@@ -19,10 +20,8 @@
     "bgmEvent": "main14_deadspirit",
     "environmentSe": null,
     "mapData": {
-        "map": {
-            "row_size": 7,
-            "column_size": 14,
-            "matrix_data": [
+        "map": [
+            [
                 84,
                 85,
                 86,
@@ -36,7 +35,9 @@
                 94,
                 95,
                 96,
-                97,
+                97
+            ],
+            [
                 70,
                 71,
                 72,
@@ -50,7 +51,9 @@
                 80,
                 81,
                 82,
-                83,
+                83
+            ],
+            [
                 56,
                 57,
                 58,
@@ -64,7 +67,9 @@
                 66,
                 67,
                 68,
-                69,
+                69
+            ],
+            [
                 42,
                 43,
                 44,
@@ -78,7 +83,9 @@
                 52,
                 53,
                 54,
-                55,
+                55
+            ],
+            [
                 28,
                 29,
                 30,
@@ -92,7 +99,9 @@
                 38,
                 39,
                 40,
-                41,
+                41
+            ],
+            [
                 14,
                 15,
                 16,
@@ -106,7 +115,9 @@
                 24,
                 25,
                 26,
-                27,
+                27
+            ],
+            [
                 0,
                 1,
                 2,
@@ -122,7 +133,7 @@
                 12,
                 13
             ]
-        },
+        ],
         "tiles": [
             {
                 "tileKey": "tile_forbidden",
@@ -5735,6 +5746,7 @@
                 "alias": "trap_160_lrlgun#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_160_lrlgun",
                     "level": 1,
@@ -5758,6 +5770,7 @@
                 "alias": "trap_160_lrlgun#2",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_160_lrlgun",
                     "level": 1,
@@ -5781,6 +5794,7 @@
                 "alias": "trap_160_lrlgun#3",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_160_lrlgun",
                     "level": 1,
@@ -5804,6 +5818,7 @@
                 "alias": "trap_160_lrlgun#4",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_160_lrlgun",
                     "level": 1,
@@ -5827,6 +5842,7 @@
                 "alias": "trap_160_lrlgun#5",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_160_lrlgun",
                     "level": 1,
@@ -5850,6 +5866,7 @@
                 "alias": "trap_159_lrcore#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_159_lrcore",
                     "level": 5,
@@ -5879,6 +5896,7 @@
                 "alias": "trap_159_lrcore#2",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_159_lrcore",
                     "level": 6,
@@ -5908,6 +5926,7 @@
                 "alias": "trap_159_lrcore#3",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_159_lrcore",
                     "level": 7,
@@ -5937,6 +5956,7 @@
                 "alias": "trap_159_lrcore#4",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_159_lrcore",
                     "level": 8,

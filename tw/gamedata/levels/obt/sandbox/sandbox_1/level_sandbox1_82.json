@@ -10,155 +10,18 @@
         "isTrainingLevel": false,
         "isHardTrainingLevel": false,
         "isPredefinedCardsSelectable": false,
-        "maxPlayTime": -1.0,
-        "functionDisableMask": "NONE",
-        "configBlackBoard": [
-            {
-                "key": "rect_1",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_2",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_3",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_4",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_5",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_6",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_7",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_8",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_9",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_10",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_11",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_12",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_13",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_14",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_15",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_16",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_17",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_18",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_19",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_20",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "enable_war_fog",
-                "value": 0.0,
-                "valueStr": null
-            },
-            {
-                "key": "enable_camera",
-                "value": 1.0,
-                "valueStr": null
-            },
-            {
-                "key": "disable_character_gbuff",
-                "value": 0.0,
-                "valueStr": null
-            },
-            {
-                "key": "disable_enemy_gbuff",
-                "value": 0.0,
-                "valueStr": null
-            },
-            {
-                "key": "CAMERA_VIEW_LEVEL",
-                "value": 3.0,
-                "valueStr": null
-            },
-            {
-                "key": "CAMERA_START_GRID",
-                "value": 0.0,
-                "valueStr": "(7,25)"
-            },
-            {
-                "key": "construct_view_scale",
-                "value": 0.0,
-                "valueStr": null
-            }
-        ]
+        "displayRestTime": false,
+        "maxPlayTime": 0.0,
+        "functionDisableMask": "CHARACTER_INFO",
+        "configBlackBoard": null
     },
     "levelId": null,
     "mapId": null,
     "bgmEvent": "sandbox_1_insect_race",
     "environmentSe": null,
     "mapData": {
-        "map": {
-            "row_size": 26,
-            "column_size": 32,
-            "matrix_data": [
+        "map": [
+            [
                 800,
                 801,
                 802,
@@ -190,7 +53,9 @@
                 828,
                 829,
                 830,
-                831,
+                831
+            ],
+            [
                 768,
                 769,
                 770,
@@ -222,7 +87,9 @@
                 796,
                 797,
                 798,
-                799,
+                799
+            ],
+            [
                 736,
                 737,
                 738,
@@ -254,7 +121,9 @@
                 764,
                 765,
                 766,
-                767,
+                767
+            ],
+            [
                 704,
                 705,
                 706,
@@ -286,7 +155,9 @@
                 732,
                 733,
                 734,
-                735,
+                735
+            ],
+            [
                 672,
                 673,
                 674,
@@ -318,7 +189,9 @@
                 700,
                 701,
                 702,
-                703,
+                703
+            ],
+            [
                 640,
                 641,
                 642,
@@ -350,7 +223,9 @@
                 668,
                 669,
                 670,
-                671,
+                671
+            ],
+            [
                 608,
                 609,
                 610,
@@ -382,7 +257,9 @@
                 636,
                 637,
                 638,
-                639,
+                639
+            ],
+            [
                 576,
                 577,
                 578,
@@ -414,7 +291,9 @@
                 604,
                 605,
                 606,
-                607,
+                607
+            ],
+            [
                 544,
                 545,
                 546,
@@ -446,7 +325,9 @@
                 572,
                 573,
                 574,
-                575,
+                575
+            ],
+            [
                 512,
                 513,
                 514,
@@ -478,7 +359,9 @@
                 540,
                 541,
                 542,
-                543,
+                543
+            ],
+            [
                 480,
                 481,
                 482,
@@ -510,7 +393,9 @@
                 508,
                 509,
                 510,
-                511,
+                511
+            ],
+            [
                 448,
                 449,
                 450,
@@ -542,7 +427,9 @@
                 476,
                 477,
                 478,
-                479,
+                479
+            ],
+            [
                 416,
                 417,
                 418,
@@ -574,7 +461,9 @@
                 444,
                 445,
                 446,
-                447,
+                447
+            ],
+            [
                 384,
                 385,
                 386,
@@ -606,7 +495,9 @@
                 412,
                 413,
                 414,
-                415,
+                415
+            ],
+            [
                 352,
                 353,
                 354,
@@ -638,7 +529,9 @@
                 380,
                 381,
                 382,
-                383,
+                383
+            ],
+            [
                 320,
                 321,
                 322,
@@ -670,7 +563,9 @@
                 348,
                 349,
                 350,
-                351,
+                351
+            ],
+            [
                 288,
                 289,
                 290,
@@ -702,7 +597,9 @@
                 316,
                 317,
                 318,
-                319,
+                319
+            ],
+            [
                 256,
                 257,
                 258,
@@ -734,7 +631,9 @@
                 284,
                 285,
                 286,
-                287,
+                287
+            ],
+            [
                 224,
                 225,
                 226,
@@ -766,7 +665,9 @@
                 252,
                 253,
                 254,
-                255,
+                255
+            ],
+            [
                 192,
                 193,
                 194,
@@ -798,7 +699,9 @@
                 220,
                 221,
                 222,
-                223,
+                223
+            ],
+            [
                 160,
                 161,
                 162,
@@ -830,7 +733,9 @@
                 188,
                 189,
                 190,
-                191,
+                191
+            ],
+            [
                 128,
                 129,
                 130,
@@ -862,7 +767,9 @@
                 156,
                 157,
                 158,
-                159,
+                159
+            ],
+            [
                 96,
                 97,
                 98,
@@ -894,7 +801,9 @@
                 124,
                 125,
                 126,
-                127,
+                127
+            ],
+            [
                 64,
                 65,
                 66,
@@ -926,7 +835,9 @@
                 92,
                 93,
                 94,
-                95,
+                95
+            ],
+            [
                 32,
                 33,
                 34,
@@ -958,7 +869,9 @@
                 60,
                 61,
                 62,
-                63,
+                63
+            ],
+            [
                 0,
                 1,
                 2,
@@ -992,7 +905,7 @@
                 30,
                 31
             ]
-        },
+        ],
         "tiles": [
             {
                 "tileKey": "tile_forbidden",
@@ -9427,6 +9340,7 @@
                 "alias": "trap_485_xbrandprop#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_485_xbrandprop",
                     "level": 1,
@@ -9486,6 +9400,7 @@
                 "alias": "trap_485_xbrandprop#2",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_485_xbrandprop",
                     "level": 1,
@@ -9545,6 +9460,7 @@
                 "alias": "trap_485_xbrandprop#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_485_xbrandprop",
                     "level": 1,
@@ -9604,6 +9520,7 @@
                 "alias": "trap_485_xbrandprop#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_485_xbrandprop",
                     "level": 1,
@@ -9663,6 +9580,7 @@
                 "alias": "trap_485_xbrandprop#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_485_xbrandprop",
                     "level": 1,
@@ -9722,6 +9640,7 @@
                 "alias": "trap_484_xbcp#1_1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_484_xbcp",
                     "level": 1,
@@ -9751,6 +9670,7 @@
                 "alias": "trap_484_xbcp#1_2",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_484_xbcp",
                     "level": 1,
@@ -9780,6 +9700,7 @@
                 "alias": "trap_484_xbcp#1_3",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_484_xbcp",
                     "level": 1,
@@ -9809,6 +9730,7 @@
                 "alias": "trap_484_xbcp#2_1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_484_xbcp",
                     "level": 1,
@@ -9838,6 +9760,7 @@
                 "alias": "trap_484_xbcp#2_2",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_484_xbcp",
                     "level": 1,
@@ -9867,6 +9790,7 @@
                 "alias": "trap_484_xbcp#3_1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_484_xbcp",
                     "level": 1,
@@ -9896,6 +9820,7 @@
                 "alias": "trap_484_xbcp#3_2",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_484_xbcp",
                     "level": 1,
@@ -9925,6 +9850,7 @@
                 "alias": "trap_484_xbcp#3_3",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_484_xbcp",
                     "level": 1,
@@ -9954,6 +9880,7 @@
                 "alias": "trap_484_xbcp#f_1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_484_xbcp",
                     "level": 1,
@@ -9993,6 +9920,7 @@
                 "alias": "trap_484_xbcp#f_2",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_484_xbcp",
                     "level": 1,
@@ -10032,6 +9960,7 @@
                 "alias": "trap_484_xbcp#f_3",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_484_xbcp",
                     "level": 1,
@@ -10071,6 +10000,7 @@
                 "alias": "trap_484_xbcp#f_4",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_484_xbcp",
                     "level": 1,
@@ -10110,6 +10040,7 @@
                 "alias": "trap_486_xbspd#1_1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_486_xbspd",
                     "level": 1,
@@ -10149,6 +10080,7 @@
                 "alias": "trap_486_xbspd#1_2",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_486_xbspd",
                     "level": 1,
@@ -10188,6 +10120,7 @@
                 "alias": "trap_486_xbspd#2_1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_486_xbspd",
                     "level": 1,
@@ -10227,6 +10160,7 @@
                 "alias": "trap_486_xbspd#2_1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_486_xbspd",
                     "level": 1,
@@ -10266,6 +10200,7 @@
                 "alias": "trap_486_xbspd#3_1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_486_xbspd",
                     "level": 1,
@@ -10305,6 +10240,7 @@
                 "alias": "trap_486_xbspd#3_2",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_486_xbspd",
                     "level": 1,
@@ -10344,6 +10280,7 @@
                 "alias": "trap_486_xbspd#4_1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_486_xbspd",
                     "level": 1,
@@ -10383,6 +10320,7 @@
                 "alias": "trap_486_xbspd#4_2",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_486_xbspd",
                     "level": 1,
@@ -10422,6 +10360,7 @@
                 "alias": "trap_486_xbspd#5_1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_486_xbspd",
                     "level": 1,
@@ -10461,6 +10400,7 @@
                 "alias": "trap_486_xbspd#5_2",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_486_xbspd",
                     "level": 1,
@@ -10500,6 +10440,7 @@
                 "alias": "trap_486_xbspd#6_1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_486_xbspd",
                     "level": 1,
@@ -10539,6 +10480,7 @@
                 "alias": "trap_486_xbspd#6_2",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_486_xbspd",
                     "level": 1,
@@ -10578,6 +10520,7 @@
                 "alias": "trap_486_xbspd#7_1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_486_xbspd",
                     "level": 1,
@@ -10617,6 +10560,7 @@
                 "alias": "trap_486_xbspd#7_2",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_486_xbspd",
                     "level": 1,
@@ -10656,6 +10600,7 @@
                 "alias": "trap_486_xbspd#7_3",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_486_xbspd",
                     "level": 1,

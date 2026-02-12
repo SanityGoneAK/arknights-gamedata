@@ -10,155 +10,18 @@
         "isTrainingLevel": false,
         "isHardTrainingLevel": false,
         "isPredefinedCardsSelectable": false,
-        "maxPlayTime": 240.0,
-        "functionDisableMask": "NONE",
-        "configBlackBoard": [
-            {
-                "key": "rect_1",
-                "value": 0.0,
-                "valueStr": "(19,16),(22,25)"
-            },
-            {
-                "key": "rect_2",
-                "value": 0.0,
-                "valueStr": "(19,25),(24,37)"
-            },
-            {
-                "key": "rect_3",
-                "value": 0.0,
-                "valueStr": "(23,18),(29,25)"
-            },
-            {
-                "key": "rect_4",
-                "value": 0.0,
-                "valueStr": "(14,33),(18,39)"
-            },
-            {
-                "key": "rect_5",
-                "value": 0.0,
-                "valueStr": "(8,33),(14,39)"
-            },
-            {
-                "key": "rect_6",
-                "value": 0.0,
-                "valueStr": "(15,40),(18,49)"
-            },
-            {
-                "key": "rect_7",
-                "value": 0.0,
-                "valueStr": "(0,28),(10,32)"
-            },
-            {
-                "key": "rect_8",
-                "value": 0.0,
-                "valueStr": "(0,24),(5,28)"
-            },
-            {
-                "key": "rect_9",
-                "value": 0.0,
-                "valueStr": "(5,21),(10,28)"
-            },
-            {
-                "key": "rect_10",
-                "value": 0.0,
-                "valueStr": "(5,15),(10,21)"
-            },
-            {
-                "key": "rect_11",
-                "value": 0.0,
-                "valueStr": "(11,9),(15,16)"
-            },
-            {
-                "key": "rect_12",
-                "value": 0.0,
-                "valueStr": "(5,9),(11,14)"
-            },
-            {
-                "key": "rect_13",
-                "value": 0.0,
-                "valueStr": "(15,9),(21,16)"
-            },
-            {
-                "key": "rect_14",
-                "value": 0.0,
-                "valueStr": "(11,0),(18,8)"
-            },
-            {
-                "key": "rect_15",
-                "value": 0.0,
-                "valueStr": "(11,39),(15,49)"
-            },
-            {
-                "key": "rect_16",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_17",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_18",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_19",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_20",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "enable_war_fog",
-                "value": 1.0,
-                "valueStr": null
-            },
-            {
-                "key": "enable_camera",
-                "value": 1.0,
-                "valueStr": null
-            },
-            {
-                "key": "disable_character_gbuff",
-                "value": 0.0,
-                "valueStr": null
-            },
-            {
-                "key": "disable_enemy_gbuff",
-                "value": 0.0,
-                "valueStr": null
-            },
-            {
-                "key": "CAMERA_VIEW_LEVEL",
-                "value": 3.0,
-                "valueStr": null
-            },
-            {
-                "key": "CAMERA_START_GRID",
-                "value": 0.0,
-                "valueStr": "(14,24)"
-            },
-            {
-                "key": "construct_view_scale",
-                "value": 0.0,
-                "valueStr": null
-            }
-        ]
+        "displayRestTime": false,
+        "maxPlayTime": 0.0,
+        "functionDisableMask": "CHARACTER_INFO",
+        "configBlackBoard": null
     },
     "levelId": null,
     "mapId": null,
     "bgmEvent": "sandbox_1_collectarea",
     "environmentSe": null,
     "mapData": {
-        "map": {
-            "row_size": 30,
-            "column_size": 50,
-            "matrix_data": [
+        "map": [
+            [
                 1450,
                 1451,
                 1452,
@@ -208,7 +71,9 @@
                 1496,
                 1497,
                 1498,
-                1499,
+                1499
+            ],
+            [
                 1400,
                 1401,
                 1402,
@@ -258,7 +123,9 @@
                 1446,
                 1447,
                 1448,
-                1449,
+                1449
+            ],
+            [
                 1350,
                 1351,
                 1352,
@@ -308,7 +175,9 @@
                 1396,
                 1397,
                 1398,
-                1399,
+                1399
+            ],
+            [
                 1300,
                 1301,
                 1302,
@@ -358,7 +227,9 @@
                 1346,
                 1347,
                 1348,
-                1349,
+                1349
+            ],
+            [
                 1250,
                 1251,
                 1252,
@@ -408,7 +279,9 @@
                 1296,
                 1297,
                 1298,
-                1299,
+                1299
+            ],
+            [
                 1200,
                 1201,
                 1202,
@@ -458,7 +331,9 @@
                 1246,
                 1247,
                 1248,
-                1249,
+                1249
+            ],
+            [
                 1150,
                 1151,
                 1152,
@@ -508,7 +383,9 @@
                 1196,
                 1197,
                 1198,
-                1199,
+                1199
+            ],
+            [
                 1100,
                 1101,
                 1102,
@@ -558,7 +435,9 @@
                 1146,
                 1147,
                 1148,
-                1149,
+                1149
+            ],
+            [
                 1050,
                 1051,
                 1052,
@@ -608,7 +487,9 @@
                 1096,
                 1097,
                 1098,
-                1099,
+                1099
+            ],
+            [
                 1000,
                 1001,
                 1002,
@@ -658,7 +539,9 @@
                 1046,
                 1047,
                 1048,
-                1049,
+                1049
+            ],
+            [
                 950,
                 951,
                 952,
@@ -708,7 +591,9 @@
                 996,
                 997,
                 998,
-                999,
+                999
+            ],
+            [
                 900,
                 901,
                 902,
@@ -758,7 +643,9 @@
                 946,
                 947,
                 948,
-                949,
+                949
+            ],
+            [
                 850,
                 851,
                 852,
@@ -808,7 +695,9 @@
                 896,
                 897,
                 898,
-                899,
+                899
+            ],
+            [
                 800,
                 801,
                 802,
@@ -858,7 +747,9 @@
                 846,
                 847,
                 848,
-                849,
+                849
+            ],
+            [
                 750,
                 751,
                 752,
@@ -908,7 +799,9 @@
                 796,
                 797,
                 798,
-                799,
+                799
+            ],
+            [
                 700,
                 701,
                 702,
@@ -958,7 +851,9 @@
                 746,
                 747,
                 748,
-                749,
+                749
+            ],
+            [
                 650,
                 651,
                 652,
@@ -1008,7 +903,9 @@
                 696,
                 697,
                 698,
-                699,
+                699
+            ],
+            [
                 600,
                 601,
                 602,
@@ -1058,7 +955,9 @@
                 646,
                 647,
                 648,
-                649,
+                649
+            ],
+            [
                 550,
                 551,
                 552,
@@ -1108,7 +1007,9 @@
                 596,
                 597,
                 598,
-                599,
+                599
+            ],
+            [
                 500,
                 501,
                 502,
@@ -1158,7 +1059,9 @@
                 546,
                 547,
                 548,
-                549,
+                549
+            ],
+            [
                 450,
                 451,
                 452,
@@ -1208,7 +1111,9 @@
                 496,
                 497,
                 498,
-                499,
+                499
+            ],
+            [
                 400,
                 401,
                 402,
@@ -1258,7 +1163,9 @@
                 446,
                 447,
                 448,
-                449,
+                449
+            ],
+            [
                 350,
                 351,
                 352,
@@ -1308,7 +1215,9 @@
                 396,
                 397,
                 398,
-                399,
+                399
+            ],
+            [
                 300,
                 301,
                 302,
@@ -1358,7 +1267,9 @@
                 346,
                 347,
                 348,
-                349,
+                349
+            ],
+            [
                 250,
                 251,
                 252,
@@ -1408,7 +1319,9 @@
                 296,
                 297,
                 298,
-                299,
+                299
+            ],
+            [
                 200,
                 201,
                 202,
@@ -1458,7 +1371,9 @@
                 246,
                 247,
                 248,
-                249,
+                249
+            ],
+            [
                 150,
                 151,
                 152,
@@ -1508,7 +1423,9 @@
                 196,
                 197,
                 198,
-                199,
+                199
+            ],
+            [
                 100,
                 101,
                 102,
@@ -1558,7 +1475,9 @@
                 146,
                 147,
                 148,
-                149,
+                149
+            ],
+            [
                 50,
                 51,
                 52,
@@ -1608,7 +1527,9 @@
                 96,
                 97,
                 98,
-                99,
+                99
+            ],
+            [
                 0,
                 1,
                 2,
@@ -1660,7 +1581,7 @@
                 48,
                 49
             ]
-        },
+        ],
         "tiles": [
             {
                 "tileKey": "tile_empty",
@@ -24399,6 +24320,7 @@
                 "alias": "trap_416_gtreasure#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_416_gtreasure",
                     "level": 1,
@@ -24422,6 +24344,7 @@
                 "alias": "trap_416_gtreasure#2",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_416_gtreasure",
                     "level": 1,
@@ -24445,6 +24368,7 @@
                 "alias": "trap_416_gtreasure#3",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_416_gtreasure",
                     "level": 1,
@@ -24468,6 +24392,7 @@
                 "alias": "trap_416_gtreasure#4",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_416_gtreasure",
                     "level": 1,
@@ -24491,6 +24416,7 @@
                 "alias": "trap_416_gtreasure#5",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_416_gtreasure",
                     "level": 1,
@@ -24514,6 +24440,7 @@
                 "alias": "trap_416_gtreasure#6",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_416_gtreasure",
                     "level": 1,
@@ -24537,6 +24464,7 @@
                 "alias": "trap_416_gtreasure#7",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_416_gtreasure",
                     "level": 1,
@@ -24560,6 +24488,7 @@
                 "alias": "trap_410_xbstone#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_410_xbstone",
                     "level": 1,
@@ -24583,6 +24512,7 @@
                 "alias": "trap_410_xbstone#2",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_410_xbstone",
                     "level": 1,
@@ -24606,6 +24536,7 @@
                 "alias": "trap_410_xbstone#3",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_410_xbstone",
                     "level": 1,
@@ -24629,6 +24560,7 @@
                 "alias": "trap_410_xbstone#4",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_410_xbstone",
                     "level": 1,
@@ -24652,6 +24584,7 @@
                 "alias": "trap_410_xbstone#5",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_410_xbstone",
                     "level": 1,
@@ -24675,6 +24608,7 @@
                 "alias": "trap_410_xbstone#6",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_410_xbstone",
                     "level": 1,
@@ -24698,6 +24632,7 @@
                 "alias": "trap_410_xbstone#7",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_410_xbstone",
                     "level": 1,
@@ -24721,6 +24656,7 @@
                 "alias": "trap_410_xbstone#8",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_410_xbstone",
                     "level": 1,
@@ -24744,6 +24680,7 @@
                 "alias": "trap_410_xbstone#9",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_410_xbstone",
                     "level": 1,
@@ -24767,6 +24704,7 @@
                 "alias": "trap_410_xbstone#10",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_410_xbstone",
                     "level": 1,
@@ -24790,6 +24728,7 @@
                 "alias": "trap_410_xbstone#11",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_410_xbstone",
                     "level": 1,
@@ -24813,6 +24752,7 @@
                 "alias": "trap_410_xbstone#12",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_410_xbstone",
                     "level": 1,
@@ -24836,6 +24776,7 @@
                 "alias": "trap_410_xbstone#13",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_410_xbstone",
                     "level": 1,
@@ -24859,6 +24800,7 @@
                 "alias": "trap_410_xbstone#14",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_410_xbstone",
                     "level": 1,
@@ -24882,6 +24824,7 @@
                 "alias": "trap_409_xbwood#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_409_xbwood",
                     "level": 1,
@@ -24905,6 +24848,7 @@
                 "alias": "trap_409_xbwood#2",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_409_xbwood",
                     "level": 1,
@@ -24928,6 +24872,7 @@
                 "alias": "trap_409_xbwood#3",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_409_xbwood",
                     "level": 1,
@@ -24951,6 +24896,7 @@
                 "alias": "trap_409_xbwood#4",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_409_xbwood",
                     "level": 1,
@@ -24974,6 +24920,7 @@
                 "alias": "trap_409_xbwood#5",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_409_xbwood",
                     "level": 1,
@@ -24997,6 +24944,7 @@
                 "alias": "trap_409_xbwood#6",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_409_xbwood",
                     "level": 1,
@@ -25020,6 +24968,7 @@
                 "alias": "trap_409_xbwood#7",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_409_xbwood",
                     "level": 1,
@@ -25043,6 +24992,7 @@
                 "alias": "trap_409_xbwood#8",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_409_xbwood",
                     "level": 1,
@@ -25066,6 +25016,7 @@
                 "alias": "trap_409_xbwood#9",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_409_xbwood",
                     "level": 1,
@@ -25089,6 +25040,7 @@
                 "alias": "trap_409_xbwood#10",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_409_xbwood",
                     "level": 1,
@@ -25112,6 +25064,7 @@
                 "alias": "trap_409_xbwood#11",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_409_xbwood",
                     "level": 1,
@@ -25135,6 +25088,7 @@
                 "alias": "trap_409_xbwood#12",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_409_xbwood",
                     "level": 1,
@@ -25158,6 +25112,7 @@
                 "alias": "trap_409_xbwood#13",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_409_xbwood",
                     "level": 1,
@@ -25181,6 +25136,7 @@
                 "alias": "trap_409_xbwood#14",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_409_xbwood",
                     "level": 1,
@@ -25204,6 +25160,7 @@
                 "alias": "trap_409_xbwood#15",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_409_xbwood",
                     "level": 1,
@@ -25227,6 +25184,7 @@
                 "alias": "trap_409_xbwood#16",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_409_xbwood",
                     "level": 1,
@@ -25250,6 +25208,7 @@
                 "alias": "trap_409_xbwood#17",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_409_xbwood",
                     "level": 1,
@@ -25273,6 +25232,7 @@
                 "alias": "trap_409_xbwood#18",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_409_xbwood",
                     "level": 1,
@@ -25296,6 +25256,7 @@
                 "alias": "trap_459_xblight#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_459_xblight",
                     "level": 1,
@@ -25319,6 +25280,7 @@
                 "alias": "trap_460_xbdiam#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_460_xbdiam",
                     "level": 1,
@@ -25342,6 +25304,7 @@
                 "alias": "trap_460_xbdiam#2",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_460_xbdiam",
                     "level": 1,
@@ -25365,6 +25328,7 @@
                 "alias": "trap_460_xbdiam#3",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_460_xbdiam",
                     "level": 1,
@@ -25388,6 +25352,7 @@
                 "alias": "trap_411_xbiron#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_411_xbiron",
                     "level": 1,
@@ -25411,6 +25376,7 @@
                 "alias": "trap_411_xbiron#2",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_411_xbiron",
                     "level": 1,
@@ -25434,6 +25400,7 @@
                 "alias": "trap_411_xbiron#3",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_411_xbiron",
                     "level": 1,
@@ -25457,6 +25424,7 @@
                 "alias": "trap_411_xbiron#4",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_411_xbiron",
                     "level": 1,
@@ -25480,6 +25448,7 @@
                 "alias": "trap_411_xbiron#5",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_411_xbiron",
                     "level": 1,
@@ -25503,6 +25472,7 @@
                 "alias": "trap_441_xbmgbird#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_441_xbmgbird",
                     "level": 1,
@@ -25526,6 +25496,7 @@
                 "alias": "trap_414_vegetation#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_414_vegetation",
                     "level": 1,
@@ -25549,6 +25520,7 @@
                 "alias": "trap_414_vegetation#2",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_414_vegetation",
                     "level": 1,
@@ -25572,6 +25544,7 @@
                 "alias": "trap_409_xbwood#19",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_409_xbwood",
                     "level": 1,
@@ -25595,6 +25568,7 @@
                 "alias": "trap_409_xbwood#20",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_409_xbwood",
                     "level": 1,
@@ -25618,6 +25592,7 @@
                 "alias": "trap_414_vegetation#3",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_414_vegetation",
                     "level": 1,
@@ -25641,6 +25616,7 @@
                 "alias": "trap_414_vegetation#4",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_414_vegetation",
                     "level": 1,
@@ -25664,6 +25640,7 @@
                 "alias": "trap_416_gtreasure#8",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_416_gtreasure",
                     "level": 1,
@@ -25687,6 +25664,7 @@
                 "alias": "trap_459_xblight#2",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_459_xblight",
                     "level": 1,
@@ -25710,6 +25688,7 @@
                 "alias": "trap_459_xblight#3",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_459_xblight",
                     "level": 1,
@@ -25733,6 +25712,7 @@
                 "alias": "trap_410_xbstone#15",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_410_xbstone",
                     "level": 1,
@@ -25756,6 +25736,7 @@
                 "alias": "trap_410_xbstone#16",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_410_xbstone",
                     "level": 1,
@@ -25779,6 +25760,7 @@
                 "alias": "trap_410_xbstone#17",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_410_xbstone",
                     "level": 1,
@@ -25802,6 +25784,7 @@
                 "alias": "trap_410_xbstone#18",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_410_xbstone",
                     "level": 1,
@@ -25825,6 +25808,7 @@
                 "alias": "trap_410_xbstone#19",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_410_xbstone",
                     "level": 1,
@@ -25848,6 +25832,7 @@
                 "alias": "trap_410_xbstone#20",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_410_xbstone",
                     "level": 1,
@@ -25871,6 +25856,7 @@
                 "alias": "trap_410_xbstone#21",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_410_xbstone",
                     "level": 1,
@@ -25894,6 +25880,7 @@
                 "alias": "trap_410_xbstone#22",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_410_xbstone",
                     "level": 1,
@@ -25917,6 +25904,7 @@
                 "alias": "trap_411_xbiron#6",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_411_xbiron",
                     "level": 1,
@@ -25940,6 +25928,7 @@
                 "alias": "trap_411_xbiron#7",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_411_xbiron",
                     "level": 1,
@@ -25963,6 +25952,7 @@
                 "alias": "trap_411_xbiron#8",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_411_xbiron",
                     "level": 1,
@@ -25986,6 +25976,7 @@
                 "alias": "trap_411_xbiron#9",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_411_xbiron",
                     "level": 1,
@@ -26009,6 +26000,7 @@
                 "alias": "trap_411_xbiron#10",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_411_xbiron",
                     "level": 1,
@@ -26032,6 +26024,7 @@
                 "alias": "trap_411_xbiron#11",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_411_xbiron",
                     "level": 1,
@@ -26055,6 +26048,7 @@
                 "alias": "trap_410_xbstone#23",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_410_xbstone",
                     "level": 1,
@@ -26078,6 +26072,7 @@
                 "alias": "trap_410_xbstone#24",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_410_xbstone",
                     "level": 1,
@@ -26101,6 +26096,7 @@
                 "alias": "trap_410_xbstone#25",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_410_xbstone",
                     "level": 1,
@@ -26124,6 +26120,7 @@
                 "alias": "trap_413_hiddenstone#13",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_413_hiddenstone",
                     "level": 1,
@@ -26163,6 +26160,7 @@
                 "alias": "trap_413_hiddenstone#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_413_hiddenstone",
                     "level": 1,
@@ -26202,6 +26200,7 @@
                 "alias": "trap_413_hiddenstone#2",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_413_hiddenstone",
                     "level": 1,
@@ -26241,6 +26240,7 @@
                 "alias": "trap_413_hiddenstone#4",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_413_hiddenstone",
                     "level": 1,
@@ -26280,6 +26280,7 @@
                 "alias": "trap_413_hiddenstone#5",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_413_hiddenstone",
                     "level": 1,
@@ -26319,6 +26320,7 @@
                 "alias": "trap_413_hiddenstone#7",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_413_hiddenstone",
                     "level": 1,
@@ -26358,6 +26360,7 @@
                 "alias": "trap_413_hiddenstone#10",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_413_hiddenstone",
                     "level": 1,
@@ -26397,6 +26400,7 @@
                 "alias": "trap_413_hiddenstone#11",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_413_hiddenstone",
                     "level": 1,
@@ -26436,6 +26440,7 @@
                 "alias": "trap_413_hiddenstone#14",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_413_hiddenstone",
                     "level": 1,
@@ -26475,6 +26480,7 @@
                 "alias": "trap_413_hiddenstone#13",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_413_hiddenstone",
                     "level": 1,
@@ -26514,6 +26520,7 @@
                 "alias": "trap_413_hiddenstone#12",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_413_hiddenstone",
                     "level": 1,
@@ -26553,6 +26560,7 @@
                 "alias": "trap_413_hiddenstone#10a9",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_413_hiddenstone",
                     "level": 1,
@@ -26592,6 +26600,7 @@
                 "alias": "trap_413_hiddenstone#6",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_413_hiddenstone",
                     "level": 1,
@@ -26631,6 +26640,7 @@
                 "alias": "trap_413_hiddenstone#15",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_413_hiddenstone",
                     "level": 1,
@@ -26670,6 +26680,7 @@
                 "alias": "trap_413_hiddenstone#9a7",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_413_hiddenstone",
                     "level": 1,
@@ -26709,6 +26720,7 @@
                 "alias": "trap_413_hiddenstone#8a9",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_413_hiddenstone",
                     "level": 1,
@@ -26748,6 +26760,7 @@
                 "alias": "trap_413_hiddenstone#8a7",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_413_hiddenstone",
                     "level": 1,
@@ -26787,6 +26800,7 @@
                 "alias": "trap_413_hiddenstone#1a2",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_413_hiddenstone",
                     "level": 1,
@@ -26826,6 +26840,7 @@
                 "alias": "trap_413_hiddenstone#3",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_413_hiddenstone",
                     "level": 1,
@@ -26865,6 +26880,7 @@
                 "alias": "trap_459_xblight#5",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_459_xblight",
                     "level": 1,
@@ -26888,6 +26904,7 @@
                 "alias": "trap_459_xblight#6",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_459_xblight",
                     "level": 1,
@@ -26911,6 +26928,7 @@
                 "alias": "trap_459_xblight#7",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_459_xblight",
                     "level": 1,
@@ -26934,6 +26952,7 @@
                 "alias": "trap_460_xbdiam#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_460_xbdiam",
                     "level": 1,
@@ -26957,6 +26976,7 @@
                 "alias": "trap_460_xbdiam#2",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_460_xbdiam",
                     "level": 1,
@@ -26980,6 +27000,7 @@
                 "alias": "trap_460_xbdiam#3",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_460_xbdiam",
                     "level": 1,
@@ -27003,6 +27024,7 @@
                 "alias": "trap_413_hiddenstone#13b",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_413_hiddenstone",
                     "level": 1,
@@ -27042,6 +27064,7 @@
                 "alias": "trap_413_hiddenstone#1b",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_413_hiddenstone",
                     "level": 1,
@@ -27081,6 +27104,7 @@
                 "alias": "trap_010_frosts#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_010_frosts",
                     "level": 1,
@@ -27104,6 +27128,7 @@
                 "alias": "trap_010_frosts#2",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_010_frosts",
                     "level": 1,
@@ -27127,6 +27152,7 @@
                 "alias": "trap_460_xbdiam#4",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_460_xbdiam",
                     "level": 1,
@@ -27150,6 +27176,7 @@
                 "alias": "trap_460_xbdiam#5",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_460_xbdiam",
                     "level": 1,
@@ -27173,6 +27200,7 @@
                 "alias": "trap_460_xbdiam#6",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_460_xbdiam",
                     "level": 1,
@@ -27196,6 +27224,7 @@
                 "alias": "trap_460_xbdiam#7",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_460_xbdiam",
                     "level": 1,
@@ -27219,6 +27248,7 @@
                 "alias": "trap_460_xbdiam#8",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_460_xbdiam",
                     "level": 1,
@@ -27242,6 +27272,7 @@
                 "alias": "trap_410_xbstone#4b",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_410_xbstone",
                     "level": 1,
@@ -27265,6 +27296,7 @@
                 "alias": "trap_413_hiddenstone#14b",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_413_hiddenstone",
                     "level": 1,
@@ -27304,6 +27336,7 @@
                 "alias": "trap_459_xblight#7",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_459_xblight",
                     "level": 1,
@@ -27327,6 +27360,7 @@
                 "alias": "trap_411_xbiron#12",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_411_xbiron",
                     "level": 1,
@@ -27350,6 +27384,7 @@
                 "alias": "trap_411_xbiron#13",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_411_xbiron",
                     "level": 1,
@@ -27373,6 +27408,7 @@
                 "alias": "trap_411_xbiron#14",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_411_xbiron",
                     "level": 1,
@@ -27396,6 +27432,7 @@
                 "alias": "trap_411_xbiron#15",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_411_xbiron",
                     "level": 1,
@@ -27419,6 +27456,7 @@
                 "alias": "trap_411_xbiron#30",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_411_xbiron",
                     "level": 1,
@@ -27442,6 +27480,7 @@
                 "alias": "trap_411_xbiron#16",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_411_xbiron",
                     "level": 1,
@@ -27465,6 +27504,7 @@
                 "alias": "trap_411_xbiron#17",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_411_xbiron",
                     "level": 1,
@@ -27488,6 +27528,7 @@
                 "alias": "trap_411_xbiron#18",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_411_xbiron",
                     "level": 1,
@@ -27511,6 +27552,7 @@
                 "alias": "trap_411_xbiron#19",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_411_xbiron",
                     "level": 1,
@@ -27534,6 +27576,7 @@
                 "alias": "trap_411_xbiron#20",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_411_xbiron",
                     "level": 1,
@@ -27557,6 +27600,7 @@
                 "alias": "trap_411_xbiron#21",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_411_xbiron",
                     "level": 1,
@@ -27580,6 +27624,7 @@
                 "alias": "trap_410_xbstone#25",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_410_xbstone",
                     "level": 1,
@@ -27603,6 +27648,7 @@
                 "alias": "trap_413_hiddenstone#3b",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_413_hiddenstone",
                     "level": 1,
@@ -27642,6 +27688,7 @@
                 "alias": "trap_413_hiddenstone#12b",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_413_hiddenstone",
                     "level": 1,
@@ -27681,6 +27728,7 @@
                 "alias": "trap_459_xblight#8",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_459_xblight",
                     "level": 1,
@@ -27704,6 +27752,7 @@
                 "alias": "trap_459_xblight#9",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_459_xblight",
                     "level": 1,
@@ -27727,6 +27776,7 @@
                 "alias": "trap_414_vegetation#3",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_414_vegetation",
                     "level": 1,
@@ -27750,6 +27800,7 @@
                 "alias": "trap_414_vegetation#4",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_414_vegetation",
                     "level": 1,
@@ -27773,6 +27824,7 @@
                 "alias": "trap_414_vegetation#5",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_414_vegetation",
                     "level": 1,
@@ -27796,6 +27848,7 @@
                 "alias": "trap_414_vegetation#6",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_414_vegetation",
                     "level": 1,
@@ -27819,6 +27872,7 @@
                 "alias": "trap_414_vegetation#7",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_414_vegetation",
                     "level": 1,
@@ -27842,6 +27896,7 @@
                 "alias": "trap_414_vegetation#8",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_414_vegetation",
                     "level": 1,
@@ -27865,6 +27920,7 @@
                 "alias": "trap_414_vegetation#9",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_414_vegetation",
                     "level": 1,
@@ -27888,6 +27944,7 @@
                 "alias": "trap_460_xbdiam#8",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_460_xbdiam",
                     "level": 1,
@@ -27911,6 +27968,7 @@
                 "alias": "trap_460_xbdiam#8",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_460_xbdiam",
                     "level": 1,
@@ -27934,6 +27992,7 @@
                 "alias": "trap_411_xbiron#22",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_411_xbiron",
                     "level": 1,
@@ -27957,6 +28016,7 @@
                 "alias": "trap_413_hiddenstone#6b",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_413_hiddenstone",
                     "level": 1,
@@ -27996,6 +28056,7 @@
                 "alias": "trap_459_xblight#10",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_459_xblight",
                     "level": 1,
@@ -28019,6 +28080,7 @@
                 "alias": "trap_410_xbstone#26",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_410_xbstone",
                     "level": 1,
@@ -28042,6 +28104,7 @@
                 "alias": "trap_459_xblight#11",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_459_xblight",
                     "level": 1,
@@ -28065,6 +28128,7 @@
                 "alias": "trap_410_xbstone#27",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_410_xbstone",
                     "level": 1,
@@ -28088,6 +28152,7 @@
                 "alias": "trap_411_xbiron#10",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_411_xbiron",
                     "level": 1,
@@ -28111,6 +28176,7 @@
                 "alias": "trap_460_xbdiam#14",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_460_xbdiam",
                     "level": 1,
@@ -28134,6 +28200,7 @@
                 "alias": "trap_459_xblight#12",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_459_xblight",
                     "level": 1,
@@ -28157,6 +28224,7 @@
                 "alias": "trap_459_xblight#13",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_459_xblight",
                     "level": 1,
@@ -28180,6 +28248,7 @@
                 "alias": "trap_010_frosts#3",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_010_frosts",
                     "level": 1,
@@ -28203,6 +28272,7 @@
                 "alias": "trap_010_frosts#4",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_010_frosts",
                     "level": 1,
@@ -28226,6 +28296,7 @@
                 "alias": "trap_460_xbdiam#17",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_460_xbdiam",
                     "level": 1,
@@ -28249,6 +28320,7 @@
                 "alias": "trap_010_frosts#5",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_010_frosts",
                     "level": 1,

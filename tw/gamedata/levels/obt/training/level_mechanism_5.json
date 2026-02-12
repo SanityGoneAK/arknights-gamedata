@@ -10,7 +10,8 @@
         "isTrainingLevel": true,
         "isHardTrainingLevel": false,
         "isPredefinedCardsSelectable": false,
-        "maxPlayTime": -1.0,
+        "displayRestTime": false,
+        "maxPlayTime": 0.0,
         "functionDisableMask": "NONE",
         "configBlackBoard": null
     },
@@ -19,10 +20,8 @@
     "bgmEvent": "mechanism",
     "environmentSe": null,
     "mapData": {
-        "map": {
-            "row_size": 7,
-            "column_size": 10,
-            "matrix_data": [
+        "map": [
+            [
                 60,
                 61,
                 62,
@@ -32,7 +31,9 @@
                 66,
                 67,
                 68,
-                69,
+                69
+            ],
+            [
                 50,
                 51,
                 52,
@@ -42,7 +43,9 @@
                 56,
                 57,
                 58,
-                59,
+                59
+            ],
+            [
                 40,
                 41,
                 42,
@@ -52,7 +55,9 @@
                 46,
                 47,
                 48,
-                49,
+                49
+            ],
+            [
                 30,
                 31,
                 32,
@@ -62,7 +67,9 @@
                 36,
                 37,
                 38,
-                39,
+                39
+            ],
+            [
                 20,
                 21,
                 22,
@@ -72,7 +79,9 @@
                 26,
                 27,
                 28,
-                29,
+                29
+            ],
+            [
                 10,
                 11,
                 12,
@@ -82,7 +91,9 @@
                 16,
                 17,
                 18,
-                19,
+                19
+            ],
+            [
                 0,
                 1,
                 2,
@@ -94,7 +105,7 @@
                 8,
                 9
             ]
-        },
+        ],
         "tiles": [
             {
                 "tileKey": "tile_forbidden",
@@ -1791,6 +1802,7 @@
                 "alias": "char_277_sqrrel#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "char_277_sqrrel",
                     "level": 1,
@@ -1814,6 +1826,7 @@
                 "alias": "char_4105_almond#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "char_4105_almond",
                     "level": 1,
@@ -1837,6 +1850,7 @@
                 "alias": "char_241_panda#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "char_241_panda",
                     "level": 1,
@@ -1860,6 +1874,7 @@
                 "alias": "char_4036_forcer#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "char_4036_forcer",
                     "level": 1,
@@ -1883,6 +1898,7 @@
                 "alias": "char_236_rope#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "char_236_rope",
                     "level": 1,
@@ -1906,6 +1922,7 @@
                 "alias": "char_173_slchan#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "char_173_slchan",
                     "level": 1,
@@ -1929,6 +1946,7 @@
                 "alias": "char_383_snsant#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "char_383_snsant",
                     "level": 1,

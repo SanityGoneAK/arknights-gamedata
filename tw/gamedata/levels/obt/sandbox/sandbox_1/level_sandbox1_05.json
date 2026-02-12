@@ -10,155 +10,18 @@
         "isTrainingLevel": false,
         "isHardTrainingLevel": false,
         "isPredefinedCardsSelectable": false,
-        "maxPlayTime": 240.0,
-        "functionDisableMask": "NONE",
-        "configBlackBoard": [
-            {
-                "key": "rect_1",
-                "value": 0.0,
-                "valueStr": "(13,0),(16,4)"
-            },
-            {
-                "key": "rect_2",
-                "value": 0.0,
-                "valueStr": "(11,0),(12,1)"
-            },
-            {
-                "key": "rect_3",
-                "value": 0.0,
-                "valueStr": "(13,4),(16,9)"
-            },
-            {
-                "key": "rect_4",
-                "value": 0.0,
-                "valueStr": "(12,7),(12,9)"
-            },
-            {
-                "key": "rect_5",
-                "value": 0.0,
-                "valueStr": "(12,9),(12,11)"
-            },
-            {
-                "key": "rect_6",
-                "value": 0.0,
-                "valueStr": "(13,9),(16,14)"
-            },
-            {
-                "key": "rect_7",
-                "value": 0.0,
-                "valueStr": "(11,17),(12,18)"
-            },
-            {
-                "key": "rect_8",
-                "value": 0.0,
-                "valueStr": "(13,14),(16,18)"
-            },
-            {
-                "key": "rect_9",
-                "value": 0.0,
-                "valueStr": "(9,1),(10,6)"
-            },
-            {
-                "key": "rect_10",
-                "value": 0.0,
-                "valueStr": "(11,2),(12,6)"
-            },
-            {
-                "key": "rect_11",
-                "value": 0.0,
-                "valueStr": "(9,12),(10,17)"
-            },
-            {
-                "key": "rect_12",
-                "value": 0.0,
-                "valueStr": "(11,12),(12,16)"
-            },
-            {
-                "key": "rect_13",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_14",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_15",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_16",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_17",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_18",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_19",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "rect_20",
-                "value": 0.0,
-                "valueStr": ""
-            },
-            {
-                "key": "enable_war_fog",
-                "value": 1.0,
-                "valueStr": null
-            },
-            {
-                "key": "enable_camera",
-                "value": 1.0,
-                "valueStr": null
-            },
-            {
-                "key": "disable_character_gbuff",
-                "value": 0.0,
-                "valueStr": null
-            },
-            {
-                "key": "disable_enemy_gbuff",
-                "value": 0.0,
-                "valueStr": null
-            },
-            {
-                "key": "CAMERA_VIEW_LEVEL",
-                "value": 3.0,
-                "valueStr": null
-            },
-            {
-                "key": "CAMERA_START_GRID",
-                "value": 0.0,
-                "valueStr": "(3.5,9.5)"
-            },
-            {
-                "key": "construct_view_scale",
-                "value": 0.0,
-                "valueStr": null
-            }
-        ]
+        "displayRestTime": false,
+        "maxPlayTime": 0.0,
+        "functionDisableMask": "CHARACTER_INFO",
+        "configBlackBoard": null
     },
     "levelId": null,
     "mapId": null,
     "bgmEvent": "sandbox_1_collectarea",
     "environmentSe": null,
     "mapData": {
-        "map": {
-            "row_size": 17,
-            "column_size": 19,
-            "matrix_data": [
+        "map": [
+            [
                 304,
                 305,
                 306,
@@ -177,7 +40,9 @@
                 319,
                 320,
                 321,
-                322,
+                322
+            ],
+            [
                 285,
                 286,
                 287,
@@ -196,7 +61,9 @@
                 300,
                 301,
                 302,
-                303,
+                303
+            ],
+            [
                 266,
                 267,
                 268,
@@ -215,7 +82,9 @@
                 281,
                 282,
                 283,
-                284,
+                284
+            ],
+            [
                 247,
                 248,
                 249,
@@ -234,7 +103,9 @@
                 262,
                 263,
                 264,
-                265,
+                265
+            ],
+            [
                 228,
                 229,
                 230,
@@ -253,7 +124,9 @@
                 243,
                 244,
                 245,
-                246,
+                246
+            ],
+            [
                 209,
                 210,
                 211,
@@ -272,7 +145,9 @@
                 224,
                 225,
                 226,
-                227,
+                227
+            ],
+            [
                 190,
                 191,
                 192,
@@ -291,7 +166,9 @@
                 205,
                 206,
                 207,
-                208,
+                208
+            ],
+            [
                 171,
                 172,
                 173,
@@ -310,7 +187,9 @@
                 186,
                 187,
                 188,
-                189,
+                189
+            ],
+            [
                 152,
                 153,
                 154,
@@ -329,7 +208,9 @@
                 167,
                 168,
                 169,
-                170,
+                170
+            ],
+            [
                 133,
                 134,
                 135,
@@ -348,7 +229,9 @@
                 148,
                 149,
                 150,
-                151,
+                151
+            ],
+            [
                 114,
                 115,
                 116,
@@ -367,7 +250,9 @@
                 129,
                 130,
                 131,
-                132,
+                132
+            ],
+            [
                 95,
                 96,
                 97,
@@ -386,7 +271,9 @@
                 110,
                 111,
                 112,
-                113,
+                113
+            ],
+            [
                 76,
                 77,
                 78,
@@ -405,7 +292,9 @@
                 91,
                 92,
                 93,
-                94,
+                94
+            ],
+            [
                 57,
                 58,
                 59,
@@ -424,7 +313,9 @@
                 72,
                 73,
                 74,
-                75,
+                75
+            ],
+            [
                 38,
                 39,
                 40,
@@ -443,7 +334,9 @@
                 53,
                 54,
                 55,
-                56,
+                56
+            ],
+            [
                 19,
                 20,
                 21,
@@ -462,7 +355,9 @@
                 34,
                 35,
                 36,
-                37,
+                37
+            ],
+            [
                 0,
                 1,
                 2,
@@ -483,7 +378,7 @@
                 17,
                 18
             ]
-        },
+        ],
         "tiles": [
             {
                 "tileKey": "tile_empty",
@@ -13432,6 +13327,7 @@
                 "alias": "trap_460_xbdiam#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_460_xbdiam",
                     "level": 1,
@@ -13455,6 +13351,7 @@
                 "alias": "trap_460_xbdiam#2",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_460_xbdiam",
                     "level": 1,
@@ -13478,6 +13375,7 @@
                 "alias": "trap_459_xblight#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_459_xblight",
                     "level": 2,
@@ -13501,6 +13399,7 @@
                 "alias": "trap_459_xblight#2",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_459_xblight",
                     "level": 2,
@@ -13524,6 +13423,7 @@
                 "alias": "trap_460_xbdiam#3",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_460_xbdiam",
                     "level": 1,
@@ -13547,6 +13447,7 @@
                 "alias": "trap_460_xbdiam#4",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_460_xbdiam",
                     "level": 1,
@@ -13570,6 +13471,7 @@
                 "alias": "trap_460_xbdiam#5",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_460_xbdiam",
                     "level": 1,
@@ -13593,6 +13495,7 @@
                 "alias": "trap_460_xbdiam#6",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_460_xbdiam",
                     "level": 1,
@@ -13616,6 +13519,7 @@
                 "alias": "trap_460_xbdiam#7",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_460_xbdiam",
                     "level": 1,
@@ -13639,6 +13543,7 @@
                 "alias": "trap_460_xbdiam#8",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_460_xbdiam",
                     "level": 1,
@@ -13662,6 +13567,7 @@
                 "alias": "trap_460_xbdiam#9",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_460_xbdiam",
                     "level": 1,
@@ -13685,6 +13591,7 @@
                 "alias": "trap_460_xbdiam#10",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_460_xbdiam",
                     "level": 1,
@@ -13708,6 +13615,7 @@
                 "alias": "trap_460_xbdiam#11",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_460_xbdiam",
                     "level": 1,
@@ -13731,6 +13639,7 @@
                 "alias": "trap_460_xbdiam#12",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_460_xbdiam",
                     "level": 1,
@@ -13754,6 +13663,7 @@
                 "alias": "trap_460_xbdiam#13",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_460_xbdiam",
                     "level": 1,
@@ -13777,6 +13687,7 @@
                 "alias": "trap_460_xbdiam#14",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_460_xbdiam",
                     "level": 1,
@@ -13800,6 +13711,7 @@
                 "alias": "trap_460_xbdiam#15",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_460_xbdiam",
                     "level": 1,
@@ -13823,6 +13735,7 @@
                 "alias": "trap_460_xbdiam#16",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_460_xbdiam",
                     "level": 1,
@@ -13846,6 +13759,7 @@
                 "alias": "trap_460_xbdiam#17",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_460_xbdiam",
                     "level": 1,
@@ -13869,6 +13783,7 @@
                 "alias": "trap_460_xbdiam#18",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_460_xbdiam",
                     "level": 1,
@@ -13892,6 +13807,7 @@
                 "alias": "trap_460_xbdiam#19",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_460_xbdiam",
                     "level": 1,
@@ -13915,6 +13831,7 @@
                 "alias": "trap_460_xbdiam#20",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_460_xbdiam",
                     "level": 1,
@@ -13938,6 +13855,7 @@
                 "alias": "trap_413_hiddenstone#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_413_hiddenstone",
                     "level": 1,
@@ -13972,6 +13890,7 @@
                 "alias": "trap_413_hiddenstone#2",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_413_hiddenstone",
                     "level": 1,
@@ -14006,6 +13925,7 @@
                 "alias": "trap_413_hiddenstone#3",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_413_hiddenstone",
                     "level": 1,
@@ -14040,6 +13960,7 @@
                 "alias": "trap_413_hiddenstone#4",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_413_hiddenstone",
                     "level": 1,
@@ -14074,6 +13995,7 @@
                 "alias": "trap_413_hiddenstone#5",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_413_hiddenstone",
                     "level": 1,
@@ -14108,6 +14030,7 @@
                 "alias": "trap_413_hiddenstone#6",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_413_hiddenstone",
                     "level": 1,
@@ -14142,6 +14065,7 @@
                 "alias": "trap_460_xbdiam#21",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_460_xbdiam",
                     "level": 1,
@@ -14165,6 +14089,7 @@
                 "alias": "trap_460_xbdiam#22",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_460_xbdiam",
                     "level": 1,
@@ -14188,6 +14113,7 @@
                 "alias": "trap_460_xbdiam#23",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_460_xbdiam",
                     "level": 1,
@@ -14211,6 +14137,7 @@
                 "alias": "trap_460_xbdiam#24",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_460_xbdiam",
                     "level": 1,
@@ -14234,6 +14161,7 @@
                 "alias": "trap_460_xbdiam#25",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_460_xbdiam",
                     "level": 1,
@@ -14257,6 +14185,7 @@
                 "alias": "trap_460_xbdiam#26",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_460_xbdiam",
                     "level": 1,
@@ -14280,6 +14209,7 @@
                 "alias": "trap_460_xbdiam#27",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_460_xbdiam",
                     "level": 1,
@@ -14303,6 +14233,7 @@
                 "alias": "trap_460_xbdiam#28",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_460_xbdiam",
                     "level": 1,
@@ -14326,6 +14257,7 @@
                 "alias": "trap_459_xblight#3",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_459_xblight",
                     "level": 2,
@@ -14349,6 +14281,7 @@
                 "alias": "trap_459_xblight#4",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_459_xblight",
                     "level": 2,
@@ -14372,6 +14305,7 @@
                 "alias": null,
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_479_xbbillb",
                     "level": 1,
