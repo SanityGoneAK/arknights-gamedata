@@ -10,7 +10,8 @@
         "isTrainingLevel": true,
         "isHardTrainingLevel": false,
         "isPredefinedCardsSelectable": false,
-        "maxPlayTime": -1.0,
+        "displayRestTime": false,
+        "maxPlayTime": 0.0,
         "functionDisableMask": "NONE",
         "configBlackBoard": null
     },
@@ -19,10 +20,8 @@
     "bgmEvent": "bat_act20side_01",
     "environmentSe": null,
     "mapData": {
-        "map": {
-            "row_size": 7,
-            "column_size": 17,
-            "matrix_data": [
+        "map": [
+            [
                 102,
                 103,
                 104,
@@ -39,7 +38,9 @@
                 115,
                 116,
                 117,
-                118,
+                118
+            ],
+            [
                 85,
                 86,
                 87,
@@ -56,7 +57,9 @@
                 98,
                 99,
                 100,
-                101,
+                101
+            ],
+            [
                 68,
                 69,
                 70,
@@ -73,7 +76,9 @@
                 81,
                 82,
                 83,
-                84,
+                84
+            ],
+            [
                 51,
                 52,
                 53,
@@ -90,7 +95,9 @@
                 64,
                 65,
                 66,
-                67,
+                67
+            ],
+            [
                 34,
                 35,
                 36,
@@ -107,7 +114,9 @@
                 47,
                 48,
                 49,
-                50,
+                50
+            ],
+            [
                 17,
                 18,
                 19,
@@ -124,7 +133,9 @@
                 30,
                 31,
                 32,
-                33,
+                33
+            ],
+            [
                 0,
                 1,
                 2,
@@ -143,7 +154,7 @@
                 15,
                 16
             ]
-        },
+        ],
         "tiles": [
             {
                 "tileKey": "tile_empty",
@@ -2535,6 +2546,7 @@
                 "alias": "char_128_plosis",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "char_128_plosis",
                     "level": 20,
@@ -2558,6 +2570,7 @@
                 "alias": "char_240_wyvern",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "char_240_wyvern",
                     "level": 55,
@@ -2581,6 +2594,7 @@
                 "alias": "char_235_jesica",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "char_235_jesica",
                     "level": 60,
@@ -2604,6 +2618,7 @@
                 "alias": "char_106_franka",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "char_106_franka",
                     "level": 60,
@@ -2625,6 +2640,7 @@
                 "alias": null,
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "char_4105_almond",
                     "level": 20,

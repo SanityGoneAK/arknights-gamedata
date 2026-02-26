@@ -10,7 +10,8 @@
         "isTrainingLevel": true,
         "isHardTrainingLevel": false,
         "isPredefinedCardsSelectable": false,
-        "maxPlayTime": -1.0,
+        "displayRestTime": false,
+        "maxPlayTime": 0.0,
         "functionDisableMask": "NONE",
         "configBlackBoard": null
     },
@@ -19,10 +20,8 @@
     "bgmEvent": "normal05",
     "environmentSe": null,
     "mapData": {
-        "map": {
-            "row_size": 8,
-            "column_size": 11,
-            "matrix_data": [
+        "map": [
+            [
                 77,
                 78,
                 79,
@@ -33,7 +32,9 @@
                 84,
                 85,
                 86,
-                87,
+                87
+            ],
+            [
                 66,
                 67,
                 68,
@@ -44,7 +45,9 @@
                 73,
                 74,
                 75,
-                76,
+                76
+            ],
+            [
                 55,
                 56,
                 57,
@@ -55,7 +58,9 @@
                 62,
                 63,
                 64,
-                65,
+                65
+            ],
+            [
                 44,
                 45,
                 46,
@@ -66,7 +71,9 @@
                 51,
                 52,
                 53,
-                54,
+                54
+            ],
+            [
                 33,
                 34,
                 35,
@@ -77,7 +84,9 @@
                 40,
                 41,
                 42,
-                43,
+                43
+            ],
+            [
                 22,
                 23,
                 24,
@@ -88,7 +97,9 @@
                 29,
                 30,
                 31,
-                32,
+                32
+            ],
+            [
                 11,
                 12,
                 13,
@@ -99,7 +110,9 @@
                 18,
                 19,
                 20,
-                21,
+                21
+            ],
+            [
                 0,
                 1,
                 2,
@@ -112,7 +125,7 @@
                 9,
                 10
             ]
-        },
+        ],
         "tiles": [
             {
                 "tileKey": "tile_hole",
@@ -5521,6 +5534,7 @@
                 "alias": null,
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "char_210_stward",
                     "level": 25,
@@ -5544,6 +5558,7 @@
                 "alias": null,
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "char_212_ansel",
                     "level": 25,
@@ -5567,6 +5582,7 @@
                 "alias": null,
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "char_211_adnach",
                     "level": 25,
@@ -5590,6 +5606,7 @@
                 "alias": null,
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "char_209_ardign",
                     "level": 25,
@@ -5613,6 +5630,7 @@
                 "alias": null,
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "char_208_melan",
                     "level": 25,
@@ -5634,6 +5652,7 @@
                 "alias": null,
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "char_426_billro",
                     "level": 20,
@@ -5652,6 +5671,7 @@
                 "alias": "char_225_haak",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "char_225_haak",
                     "level": 20,

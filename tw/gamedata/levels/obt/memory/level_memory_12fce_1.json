@@ -10,7 +10,8 @@
         "isTrainingLevel": true,
         "isHardTrainingLevel": false,
         "isPredefinedCardsSelectable": false,
-        "maxPlayTime": -1.0,
+        "displayRestTime": false,
+        "maxPlayTime": 0.0,
         "functionDisableMask": "NONE",
         "configBlackBoard": null
     },
@@ -19,10 +20,8 @@
     "bgmEvent": "cherno",
     "environmentSe": null,
     "mapData": {
-        "map": {
-            "row_size": 7,
-            "column_size": 9,
-            "matrix_data": [
+        "map": [
+            [
                 54,
                 55,
                 56,
@@ -31,7 +30,9 @@
                 59,
                 60,
                 61,
-                62,
+                62
+            ],
+            [
                 45,
                 46,
                 47,
@@ -40,7 +41,9 @@
                 50,
                 51,
                 52,
-                53,
+                53
+            ],
+            [
                 36,
                 37,
                 38,
@@ -49,7 +52,9 @@
                 41,
                 42,
                 43,
-                44,
+                44
+            ],
+            [
                 27,
                 28,
                 29,
@@ -58,7 +63,9 @@
                 32,
                 33,
                 34,
-                35,
+                35
+            ],
+            [
                 18,
                 19,
                 20,
@@ -67,7 +74,9 @@
                 23,
                 24,
                 25,
-                26,
+                26
+            ],
+            [
                 9,
                 10,
                 11,
@@ -76,7 +85,9 @@
                 14,
                 15,
                 16,
-                17,
+                17
+            ],
+            [
                 0,
                 1,
                 2,
@@ -87,7 +98,7 @@
                 7,
                 8
             ]
-        },
+        ],
         "tiles": [
             {
                 "tileKey": "tile_forbidden",
@@ -1893,6 +1904,7 @@
                 "alias": "trap_002_emp#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_002_emp",
                     "level": 10,
@@ -1916,6 +1928,7 @@
                 "alias": "trap_002_emp#2",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_002_emp",
                     "level": 10,
@@ -1939,6 +1952,7 @@
                 "alias": "trap_002_emp#4",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_002_emp",
                     "level": 10,
@@ -1962,6 +1976,7 @@
                 "alias": "trap_002_emp#5",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_002_emp",
                     "level": 10,
@@ -1982,6 +1997,7 @@
                 "alias": null,
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "char_009_12fce",
                     "level": 30,
@@ -2000,6 +2016,7 @@
                 "alias": null,
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "char_123_fang",
                     "level": 30,
@@ -2018,6 +2035,7 @@
                 "alias": null,
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "char_192_falco",
                     "level": 30,
@@ -2036,6 +2054,7 @@
                 "alias": null,
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "char_122_beagle",
                     "level": 30,
@@ -2054,6 +2073,7 @@
                 "alias": null,
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "char_209_ardign",
                     "level": 30,
@@ -2072,6 +2092,7 @@
                 "alias": null,
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "char_120_hibisc",
                     "level": 30,
