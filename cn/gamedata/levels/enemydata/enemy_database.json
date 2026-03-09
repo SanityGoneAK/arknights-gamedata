@@ -423920,6 +423920,11 @@
                             "key": "1.scale_attribute",
                             "value": 0.3,
                             "valueStr": null
+                        },
+                        {
+                            "key": "1.attack@max_target",
+                            "value": 3.0,
+                            "valueStr": null
                         }
                     ],
                     "skills": [
@@ -425590,7 +425595,7 @@
                         },
                         {
                             "key": "4.damage_scale",
-                            "value": 0.1,
+                            "value": 0.2,
                             "valueStr": null
                         }
                     ],
@@ -427534,7 +427539,7 @@
                         },
                         "sleepImmune": {
                             "m_defined": true,
-                            "m_value": false
+                            "m_value": true
                         },
                         "frozenImmune": {
                             "m_defined": true,
