@@ -10,6 +10,7 @@
         "isTrainingLevel": false,
         "isHardTrainingLevel": false,
         "isPredefinedCardsSelectable": false,
+        "displayRestTime": false,
         "maxPlayTime": -1.0,
         "functionDisableMask": "NONE",
         "configBlackBoard": null
@@ -4670,10 +4671,17 @@
                 "alias": "trap_051_vultres#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
-                "inst": null,
-                "skillIndex": 20,
-                "mainSkillLvl": 0,
-                "skinId": "",
+                "masterInfos": null,
+                "inst": {
+                    "characterKey": "trap_051_vultres",
+                    "level": 1,
+                    "phase": "PHASE_0",
+                    "favorPoint": 0,
+                    "potentialRank": 0
+                },
+                "skillIndex": 0,
+                "mainSkillLvl": 1,
+                "skinId": null,
                 "tmplId": null,
                 "overrideSkillBlackboard": null
             },
@@ -4687,10 +4695,17 @@
                 "alias": "trap_051_vultres#2",
                 "uniEquipIds": null,
                 "showSpIllust": false,
-                "inst": null,
-                "skillIndex": 20,
-                "mainSkillLvl": 0,
-                "skinId": "",
+                "masterInfos": null,
+                "inst": {
+                    "characterKey": "trap_051_vultres",
+                    "level": 1,
+                    "phase": "PHASE_0",
+                    "favorPoint": 0,
+                    "potentialRank": 0
+                },
+                "skillIndex": 0,
+                "mainSkillLvl": 1,
+                "skinId": null,
                 "tmplId": null,
                 "overrideSkillBlackboard": null
             },
@@ -4704,10 +4719,17 @@
                 "alias": "trap_051_vultres#3",
                 "uniEquipIds": null,
                 "showSpIllust": false,
-                "inst": null,
-                "skillIndex": 20,
-                "mainSkillLvl": 0,
-                "skinId": "",
+                "masterInfos": null,
+                "inst": {
+                    "characterKey": "trap_051_vultres",
+                    "level": 1,
+                    "phase": "PHASE_0",
+                    "favorPoint": 0,
+                    "potentialRank": 0
+                },
+                "skillIndex": 0,
+                "mainSkillLvl": 1,
+                "skinId": null,
                 "tmplId": null,
                 "overrideSkillBlackboard": null
             }

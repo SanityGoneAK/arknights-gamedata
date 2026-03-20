@@ -10,6 +10,7 @@
         "isTrainingLevel": false,
         "isHardTrainingLevel": false,
         "isPredefinedCardsSelectable": false,
+        "displayRestTime": false,
         "maxPlayTime": 120.0,
         "functionDisableMask": "NONE",
         "configBlackBoard": null
@@ -19,10 +20,8 @@
     "bgmEvent": "rl4normal2",
     "environmentSe": null,
     "mapData": {
-        "map": {
-            "row_size": 6,
-            "column_size": 18,
-            "matrix_data": [
+        "map": [
+            [
                 90,
                 91,
                 92,
@@ -40,7 +39,9 @@
                 104,
                 105,
                 106,
-                107,
+                107
+            ],
+            [
                 72,
                 73,
                 74,
@@ -58,7 +59,9 @@
                 86,
                 87,
                 88,
-                89,
+                89
+            ],
+            [
                 54,
                 55,
                 56,
@@ -76,7 +79,9 @@
                 68,
                 69,
                 70,
-                71,
+                71
+            ],
+            [
                 36,
                 37,
                 38,
@@ -94,7 +99,9 @@
                 50,
                 51,
                 52,
-                53,
+                53
+            ],
+            [
                 18,
                 19,
                 20,
@@ -112,7 +119,9 @@
                 32,
                 33,
                 34,
-                35,
+                35
+            ],
+            [
                 0,
                 1,
                 2,
@@ -132,7 +141,7 @@
                 16,
                 17
             ]
-        },
+        ],
         "tiles": [
             {
                 "tileKey": "tile_forbidden",
@@ -10452,6 +10461,7 @@
                 "alias": "trap_766_duelwal#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_766_duelwal",
                     "level": 1,
@@ -10481,6 +10491,7 @@
                 "alias": "trap_766_duelwal#3",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_766_duelwal",
                     "level": 1,
@@ -10510,6 +10521,7 @@
                 "alias": "trap_766_duelwal#5",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_766_duelwal",
                     "level": 1,
@@ -10539,6 +10551,7 @@
                 "alias": null,
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_767_duelcdt",
                     "level": 1,

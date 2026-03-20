@@ -10,6 +10,7 @@
         "isTrainingLevel": false,
         "isHardTrainingLevel": false,
         "isPredefinedCardsSelectable": false,
+        "displayRestTime": false,
         "maxPlayTime": -1.0,
         "functionDisableMask": "NONE",
         "configBlackBoard": null
@@ -19,10 +20,8 @@
     "bgmEvent": "rl3normal1",
     "environmentSe": null,
     "mapData": {
-        "map": {
-            "row_size": 7,
-            "column_size": 9,
-            "matrix_data": [
+        "map": [
+            [
                 54,
                 55,
                 56,
@@ -31,7 +30,9 @@
                 59,
                 60,
                 61,
-                62,
+                62
+            ],
+            [
                 45,
                 46,
                 47,
@@ -40,7 +41,9 @@
                 50,
                 51,
                 52,
-                53,
+                53
+            ],
+            [
                 36,
                 37,
                 38,
@@ -49,7 +52,9 @@
                 41,
                 42,
                 43,
-                44,
+                44
+            ],
+            [
                 27,
                 28,
                 29,
@@ -58,7 +63,9 @@
                 32,
                 33,
                 34,
-                35,
+                35
+            ],
+            [
                 18,
                 19,
                 20,
@@ -67,7 +74,9 @@
                 23,
                 24,
                 25,
-                26,
+                26
+            ],
+            [
                 9,
                 10,
                 11,
@@ -76,7 +85,9 @@
                 14,
                 15,
                 16,
-                17,
+                17
+            ],
+            [
                 0,
                 1,
                 2,
@@ -87,7 +98,7 @@
                 7,
                 8
             ]
-        },
+        ],
         "tiles": [
             {
                 "tileKey": "tile_hole",
@@ -5045,6 +5056,7 @@
                 "alias": "trap_024_npcsld#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_024_npcsld",
                     "level": 1,
@@ -5068,6 +5080,7 @@
                 "alias": "trap_108_smbox#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_108_smbox",
                     "level": 1,
@@ -5091,6 +5104,7 @@
                 "alias": "trap_109_smrbox#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_109_smrbox",
                     "level": 1,
@@ -5114,6 +5128,7 @@
                 "alias": "trap_110_smbbox#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_110_smbbox",
                     "level": 1,
@@ -5143,6 +5158,7 @@
                 "alias": "trap_108_smbox#2",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_108_smbox",
                     "level": 1,
@@ -5166,6 +5182,7 @@
                 "alias": "trap_109_smrbox#2",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_109_smrbox",
                     "level": 1,
@@ -5189,6 +5206,7 @@
                 "alias": "trap_110_smbbox#2",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_110_smbbox",
                     "level": 1,
@@ -5218,6 +5236,7 @@
                 "alias": "trap_097_hstone#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_097_hstone",
                     "level": 1,
@@ -5241,6 +5260,7 @@
                 "alias": "trap_097_hstone#2",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_097_hstone",
                     "level": 1,

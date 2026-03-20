@@ -206675,7 +206675,7 @@
                             "valueStr": null
                         }
                     ],
-                    "overrideDescripton": "受到致命傷時不撤退，切換成<替身>作戰（替身阻擋數為0），持續20s後自身再次替換<替身>",
+                    "overrideDescripton": "受到致命傷時不撤退，切換成<替身>作戰（替身阻擋數為0），持續20秒後自身再次替換<替身>",
                     "prefabKey": "-1",
                     "rangeId": null
                 }
@@ -207566,7 +207566,7 @@
                             "valueStr": null
                         }
                     ],
-                    "overrideDescripton": "受到致命傷時不撤退，切換成<替身>作戰（替身阻擋數為0），持續20s後自身再次替換<替身>",
+                    "overrideDescripton": "受到致命傷時不撤退，切換成<替身>作戰（替身阻擋數為0），持續20秒後自身再次替換<替身>",
                     "prefabKey": "-1",
                     "rangeId": "x-4"
                 }
@@ -208452,7 +208452,7 @@
                             "valueStr": null
                         }
                     ],
-                    "overrideDescripton": "受到致命傷時不撤退，切換成<替身>作戰（替身阻擋數為0），持續20s後自身再次替換<替身>",
+                    "overrideDescripton": "受到致命傷時不撤退，切換成<替身>作戰（替身阻擋數為0），持續20秒後自身再次替換<替身>",
                     "prefabKey": "-1",
                     "rangeId": "x-1"
                 }
@@ -238616,7 +238616,7 @@
                         "requiredPotentialRank": 0,
                         "prefabKey": "2",
                         "name": "亂火",
-                        "description": "部署後立即隨機獲得一定的技力",
+                        "description": "部署後立即隨機獲得7~15點技力",
                         "rangeId": null,
                         "blackboard": [
                             {
@@ -238641,7 +238641,7 @@
                         "requiredPotentialRank": 2,
                         "prefabKey": "2",
                         "name": "亂火",
-                        "description": "部署後立即隨機獲得較多的技力",
+                        "description": "部署後立即隨機獲得10<@ba.talpu>（+3）</>~19<@ba.talpu>（+4）</>點技力",
                         "rangeId": null,
                         "blackboard": [
                             {
@@ -437512,7 +437512,7 @@
                         "prefabKey": "Boom",
                         "name": null,
                         "description": null,
-                        "rangeId": "x-7",
+                        "rangeId": null,
                         "blackboard": [
                             {
                                 "key": "delay_time",

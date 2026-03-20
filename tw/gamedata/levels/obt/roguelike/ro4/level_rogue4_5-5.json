@@ -10,6 +10,7 @@
         "isTrainingLevel": false,
         "isHardTrainingLevel": false,
         "isPredefinedCardsSelectable": false,
+        "displayRestTime": false,
         "maxPlayTime": -1.0,
         "functionDisableMask": "NONE",
         "configBlackBoard": null
@@ -19,10 +20,8 @@
     "bgmEvent": "rl4normal2",
     "environmentSe": null,
     "mapData": {
-        "map": {
-            "row_size": 9,
-            "column_size": 13,
-            "matrix_data": [
+        "map": [
+            [
                 104,
                 105,
                 106,
@@ -35,7 +34,9 @@
                 113,
                 114,
                 115,
-                116,
+                116
+            ],
+            [
                 91,
                 92,
                 93,
@@ -48,7 +49,9 @@
                 100,
                 101,
                 102,
-                103,
+                103
+            ],
+            [
                 78,
                 79,
                 80,
@@ -61,7 +64,9 @@
                 87,
                 88,
                 89,
-                90,
+                90
+            ],
+            [
                 65,
                 66,
                 67,
@@ -74,7 +79,9 @@
                 74,
                 75,
                 76,
-                77,
+                77
+            ],
+            [
                 52,
                 53,
                 54,
@@ -87,7 +94,9 @@
                 61,
                 62,
                 63,
-                64,
+                64
+            ],
+            [
                 39,
                 40,
                 41,
@@ -100,7 +109,9 @@
                 48,
                 49,
                 50,
-                51,
+                51
+            ],
+            [
                 26,
                 27,
                 28,
@@ -113,7 +124,9 @@
                 35,
                 36,
                 37,
-                38,
+                38
+            ],
+            [
                 13,
                 14,
                 15,
@@ -126,7 +139,9 @@
                 22,
                 23,
                 24,
-                25,
+                25
+            ],
+            [
                 0,
                 1,
                 2,
@@ -141,7 +156,7 @@
                 11,
                 12
             ]
-        },
+        ],
         "tiles": [
             {
                 "tileKey": "tile_forbidden",
@@ -7741,6 +7756,7 @@
                 "alias": "trap_162_lrctrl#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_162_lrctrl",
                     "level": 1,
@@ -7764,6 +7780,7 @@
                 "alias": "trap_757_skzbox#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_757_skzbox",
                     "level": 3,
@@ -7787,6 +7804,7 @@
                 "alias": "trap_758_skzmbx#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_758_skzmbx",
                     "level": 3,
@@ -7816,6 +7834,7 @@
                 "alias": "trap_759_skzwyx#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_759_skzwyx",
                     "level": 3,
@@ -7839,6 +7858,7 @@
                 "alias": "trap_757_skzbox#2",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_757_skzbox",
                     "level": 3,
@@ -7862,6 +7882,7 @@
                 "alias": "trap_758_skzmbx#2",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_758_skzmbx",
                     "level": 3,
@@ -7891,6 +7912,7 @@
                 "alias": "trap_759_skzwyx#2",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_759_skzwyx",
                     "level": 3,
@@ -7914,6 +7936,7 @@
                 "alias": "trap_760_skztzs#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_760_skztzs",
                     "level": 1,
@@ -7937,6 +7960,7 @@
                 "alias": "trap_764_skzshp",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_764_skzshp",
                     "level": 1,

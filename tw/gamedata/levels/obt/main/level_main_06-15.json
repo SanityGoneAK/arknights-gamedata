@@ -10,6 +10,7 @@
         "isTrainingLevel": true,
         "isHardTrainingLevel": false,
         "isPredefinedCardsSelectable": false,
+        "displayRestTime": false,
         "maxPlayTime": -1.0,
         "functionDisableMask": "NONE",
         "configBlackBoard": null
@@ -1139,10 +1140,17 @@
                 "alias": null,
                 "uniEquipIds": null,
                 "showSpIllust": false,
-                "inst": null,
-                "skillIndex": 24,
-                "mainSkillLvl": -1,
-                "skinId": "",
+                "masterInfos": null,
+                "inst": {
+                    "characterKey": "char_002_amiya",
+                    "level": 25,
+                    "phase": "PHASE_2",
+                    "favorPoint": 0,
+                    "potentialRank": 0
+                },
+                "skillIndex": -1,
+                "mainSkillLvl": 1,
+                "skinId": null,
                 "tmplId": null,
                 "overrideSkillBlackboard": null
             },
@@ -1156,10 +1164,17 @@
                 "alias": null,
                 "uniEquipIds": null,
                 "showSpIllust": false,
-                "inst": null,
-                "skillIndex": 16,
-                "mainSkillLvl": -1,
-                "skinId": "",
+                "masterInfos": null,
+                "inst": {
+                    "characterKey": "char_367_swllow",
+                    "level": 25,
+                    "phase": "PHASE_2",
+                    "favorPoint": 0,
+                    "potentialRank": 0
+                },
+                "skillIndex": -1,
+                "mainSkillLvl": 1,
+                "skinId": null,
                 "tmplId": null,
                 "overrideSkillBlackboard": null
             },
@@ -1173,10 +1188,17 @@
                 "alias": null,
                 "uniEquipIds": null,
                 "showSpIllust": false,
-                "inst": null,
-                "skillIndex": 16,
-                "mainSkillLvl": -1,
-                "skinId": "",
+                "masterInfos": null,
+                "inst": {
+                    "characterKey": "char_017_huang",
+                    "level": 25,
+                    "phase": "PHASE_2",
+                    "favorPoint": 0,
+                    "potentialRank": 0
+                },
+                "skillIndex": -1,
+                "mainSkillLvl": 1,
+                "skinId": null,
                 "tmplId": null,
                 "overrideSkillBlackboard": null
             }

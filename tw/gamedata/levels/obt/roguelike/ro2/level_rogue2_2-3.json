@@ -10,6 +10,7 @@
         "isTrainingLevel": false,
         "isHardTrainingLevel": false,
         "isPredefinedCardsSelectable": false,
+        "displayRestTime": false,
         "maxPlayTime": -1.0,
         "functionDisableMask": "NONE",
         "configBlackBoard": null
@@ -19,10 +20,8 @@
     "bgmEvent": "rl2normal1",
     "environmentSe": null,
     "mapData": {
-        "map": {
-            "row_size": 7,
-            "column_size": 9,
-            "matrix_data": [
+        "map": [
+            [
                 54,
                 55,
                 56,
@@ -31,7 +30,9 @@
                 59,
                 60,
                 61,
-                62,
+                62
+            ],
+            [
                 45,
                 46,
                 47,
@@ -40,7 +41,9 @@
                 50,
                 51,
                 52,
-                53,
+                53
+            ],
+            [
                 36,
                 37,
                 38,
@@ -49,7 +52,9 @@
                 41,
                 42,
                 43,
-                44,
+                44
+            ],
+            [
                 27,
                 28,
                 29,
@@ -58,7 +63,9 @@
                 32,
                 33,
                 34,
-                35,
+                35
+            ],
+            [
                 18,
                 19,
                 20,
@@ -67,7 +74,9 @@
                 23,
                 24,
                 25,
-                26,
+                26
+            ],
+            [
                 9,
                 10,
                 11,
@@ -76,7 +85,9 @@
                 14,
                 15,
                 16,
-                17,
+                17
+            ],
+            [
                 0,
                 1,
                 2,
@@ -87,7 +98,7 @@
                 7,
                 8
             ]
-        },
+        ],
         "tiles": [
             {
                 "tileKey": "tile_forbidden",
@@ -3795,6 +3806,7 @@
                 "alias": null,
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_011_ore",
                     "level": 1,
@@ -3824,6 +3836,7 @@
                 "alias": "trap_065_normbox#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_065_normbox",
                     "level": 2,
@@ -3847,6 +3860,7 @@
                 "alias": "trap_066_rarebox#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_066_rarebox",
                     "level": 2,
@@ -3870,6 +3884,7 @@
                 "alias": "trap_068_badbox#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_068_badbox",
                     "level": 2,
@@ -3899,6 +3914,7 @@
                 "alias": "trap_065_normbox#2",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_065_normbox",
                     "level": 2,
@@ -3922,6 +3938,7 @@
                 "alias": "trap_066_rarebox#2",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_066_rarebox",
                     "level": 2,
@@ -3945,6 +3962,7 @@
                 "alias": "trap_068_badbox#2",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_068_badbox",
                     "level": 2,
@@ -3974,6 +3992,7 @@
                 "alias": "trap_079_allydonq#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
+                "masterInfos": null,
                 "inst": {
                     "characterKey": "trap_079_allydonq",
                     "level": 1,

@@ -10,6 +10,7 @@
         "isTrainingLevel": false,
         "isHardTrainingLevel": false,
         "isPredefinedCardsSelectable": false,
+        "displayRestTime": false,
         "maxPlayTime": -1.0,
         "functionDisableMask": "NONE",
         "configBlackBoard": null
@@ -18659,11 +18660,18 @@
                 "alias": "trap_058_gunctrl#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
-                "inst": null,
-                "skillIndex": 24,
-                "mainSkillLvl": 0,
+                "masterInfos": null,
+                "inst": {
+                    "characterKey": "trap_058_gunctrl",
+                    "level": 1,
+                    "phase": "PHASE_0",
+                    "favorPoint": 0,
+                    "potentialRank": 0
+                },
+                "skillIndex": 0,
+                "mainSkillLvl": 1,
                 "skinId": "",
-                "tmplId": "",
+                "tmplId": null,
                 "overrideSkillBlackboard": null
             }
         ],

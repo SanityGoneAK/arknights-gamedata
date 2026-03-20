@@ -10,6 +10,7 @@
         "isTrainingLevel": false,
         "isHardTrainingLevel": false,
         "isPredefinedCardsSelectable": false,
+        "displayRestTime": false,
         "maxPlayTime": -1.0,
         "functionDisableMask": "NONE",
         "configBlackBoard": null
@@ -11932,11 +11933,18 @@
                 "alias": "trap_763_skzddd#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
-                "inst": null,
-                "skillIndex": 28,
-                "mainSkillLvl": -1,
+                "masterInfos": null,
+                "inst": {
+                    "characterKey": "trap_763_skzddd",
+                    "level": 1,
+                    "phase": "PHASE_0",
+                    "favorPoint": 0,
+                    "potentialRank": 0
+                },
+                "skillIndex": -1,
+                "mainSkillLvl": 1,
                 "skinId": "",
-                "tmplId": "",
+                "tmplId": null,
                 "overrideSkillBlackboard": null
             },
             {
@@ -11949,11 +11957,18 @@
                 "alias": "trap_763_skzddd#2",
                 "uniEquipIds": null,
                 "showSpIllust": false,
-                "inst": null,
-                "skillIndex": 28,
-                "mainSkillLvl": -1,
+                "masterInfos": null,
+                "inst": {
+                    "characterKey": "trap_763_skzddd",
+                    "level": 1,
+                    "phase": "PHASE_0",
+                    "favorPoint": 0,
+                    "potentialRank": 0
+                },
+                "skillIndex": -1,
+                "mainSkillLvl": 1,
                 "skinId": "",
-                "tmplId": "",
+                "tmplId": null,
                 "overrideSkillBlackboard": null
             },
             {
@@ -11966,11 +11981,18 @@
                 "alias": "trap_763_skzddd#3",
                 "uniEquipIds": null,
                 "showSpIllust": false,
-                "inst": null,
-                "skillIndex": 28,
-                "mainSkillLvl": -1,
+                "masterInfos": null,
+                "inst": {
+                    "characterKey": "trap_763_skzddd",
+                    "level": 1,
+                    "phase": "PHASE_0",
+                    "favorPoint": 0,
+                    "potentialRank": 0
+                },
+                "skillIndex": -1,
+                "mainSkillLvl": 1,
                 "skinId": "",
-                "tmplId": "",
+                "tmplId": null,
                 "overrideSkillBlackboard": null
             },
             {
@@ -11983,11 +12005,18 @@
                 "alias": "trap_763_skzddd#4",
                 "uniEquipIds": null,
                 "showSpIllust": false,
-                "inst": null,
-                "skillIndex": 28,
-                "mainSkillLvl": -1,
+                "masterInfos": null,
+                "inst": {
+                    "characterKey": "trap_763_skzddd",
+                    "level": 1,
+                    "phase": "PHASE_0",
+                    "favorPoint": 0,
+                    "potentialRank": 0
+                },
+                "skillIndex": -1,
+                "mainSkillLvl": 1,
                 "skinId": "",
-                "tmplId": "",
+                "tmplId": null,
                 "overrideSkillBlackboard": null
             },
             {
@@ -12000,11 +12029,18 @@
                 "alias": "trap_763_skzddd#5",
                 "uniEquipIds": null,
                 "showSpIllust": false,
-                "inst": null,
-                "skillIndex": 28,
-                "mainSkillLvl": -1,
+                "masterInfos": null,
+                "inst": {
+                    "characterKey": "trap_763_skzddd",
+                    "level": 1,
+                    "phase": "PHASE_0",
+                    "favorPoint": 0,
+                    "potentialRank": 0
+                },
+                "skillIndex": -1,
+                "mainSkillLvl": 1,
                 "skinId": "",
-                "tmplId": "",
+                "tmplId": null,
                 "overrideSkillBlackboard": null
             },
             {
@@ -12017,11 +12053,18 @@
                 "alias": "trap_763_skzddd#6",
                 "uniEquipIds": null,
                 "showSpIllust": false,
-                "inst": null,
-                "skillIndex": 28,
-                "mainSkillLvl": -1,
+                "masterInfos": null,
+                "inst": {
+                    "characterKey": "trap_763_skzddd",
+                    "level": 1,
+                    "phase": "PHASE_0",
+                    "favorPoint": 0,
+                    "potentialRank": 0
+                },
+                "skillIndex": -1,
+                "mainSkillLvl": 1,
                 "skinId": "",
-                "tmplId": "",
+                "tmplId": null,
                 "overrideSkillBlackboard": null
             },
             {
@@ -12034,11 +12077,18 @@
                 "alias": "trap_760_skztzs#1",
                 "uniEquipIds": null,
                 "showSpIllust": false,
-                "inst": null,
-                "skillIndex": 28,
-                "mainSkillLvl": -1,
+                "masterInfos": null,
+                "inst": {
+                    "characterKey": "trap_760_skztzs",
+                    "level": 1,
+                    "phase": "PHASE_0",
+                    "favorPoint": 0,
+                    "potentialRank": 0
+                },
+                "skillIndex": -1,
+                "mainSkillLvl": 1,
                 "skinId": "",
-                "tmplId": "",
+                "tmplId": null,
                 "overrideSkillBlackboard": null
             },
             {
@@ -12051,11 +12101,18 @@
                 "alias": "trap_760_skztzs#2",
                 "uniEquipIds": null,
                 "showSpIllust": false,
-                "inst": null,
-                "skillIndex": 28,
-                "mainSkillLvl": -1,
+                "masterInfos": null,
+                "inst": {
+                    "characterKey": "trap_760_skztzs",
+                    "level": 1,
+                    "phase": "PHASE_0",
+                    "favorPoint": 0,
+                    "potentialRank": 0
+                },
+                "skillIndex": -1,
+                "mainSkillLvl": 1,
                 "skinId": "",
-                "tmplId": "",
+                "tmplId": null,
                 "overrideSkillBlackboard": null
             },
             {
@@ -12068,11 +12125,18 @@
                 "alias": "trap_763_skzddd#11",
                 "uniEquipIds": null,
                 "showSpIllust": false,
-                "inst": null,
-                "skillIndex": 28,
-                "mainSkillLvl": -1,
+                "masterInfos": null,
+                "inst": {
+                    "characterKey": "trap_763_skzddd",
+                    "level": 30,
+                    "phase": "PHASE_0",
+                    "favorPoint": 0,
+                    "potentialRank": 0
+                },
+                "skillIndex": -1,
+                "mainSkillLvl": 1,
                 "skinId": "",
-                "tmplId": "",
+                "tmplId": null,
                 "overrideSkillBlackboard": null
             },
             {
@@ -12085,11 +12149,18 @@
                 "alias": "trap_763_skzddd#12",
                 "uniEquipIds": null,
                 "showSpIllust": false,
-                "inst": null,
-                "skillIndex": 28,
-                "mainSkillLvl": -1,
+                "masterInfos": null,
+                "inst": {
+                    "characterKey": "trap_763_skzddd",
+                    "level": 30,
+                    "phase": "PHASE_0",
+                    "favorPoint": 0,
+                    "potentialRank": 0
+                },
+                "skillIndex": -1,
+                "mainSkillLvl": 1,
                 "skinId": "",
-                "tmplId": "",
+                "tmplId": null,
                 "overrideSkillBlackboard": null
             },
             {
@@ -12102,11 +12173,18 @@
                 "alias": "trap_763_skzddd#13",
                 "uniEquipIds": null,
                 "showSpIllust": false,
-                "inst": null,
-                "skillIndex": 28,
-                "mainSkillLvl": -1,
+                "masterInfos": null,
+                "inst": {
+                    "characterKey": "trap_763_skzddd",
+                    "level": 30,
+                    "phase": "PHASE_0",
+                    "favorPoint": 0,
+                    "potentialRank": 0
+                },
+                "skillIndex": -1,
+                "mainSkillLvl": 1,
                 "skinId": "",
-                "tmplId": "",
+                "tmplId": null,
                 "overrideSkillBlackboard": null
             },
             {
@@ -12119,11 +12197,18 @@
                 "alias": "trap_763_skzddd#14",
                 "uniEquipIds": null,
                 "showSpIllust": false,
-                "inst": null,
-                "skillIndex": 28,
-                "mainSkillLvl": -1,
+                "masterInfos": null,
+                "inst": {
+                    "characterKey": "trap_763_skzddd",
+                    "level": 30,
+                    "phase": "PHASE_0",
+                    "favorPoint": 0,
+                    "potentialRank": 0
+                },
+                "skillIndex": -1,
+                "mainSkillLvl": 1,
                 "skinId": "",
-                "tmplId": "",
+                "tmplId": null,
                 "overrideSkillBlackboard": null
             },
             {
@@ -12136,11 +12221,18 @@
                 "alias": "trap_763_skzddd#15",
                 "uniEquipIds": null,
                 "showSpIllust": false,
-                "inst": null,
-                "skillIndex": 28,
-                "mainSkillLvl": -1,
+                "masterInfos": null,
+                "inst": {
+                    "characterKey": "trap_763_skzddd",
+                    "level": 30,
+                    "phase": "PHASE_0",
+                    "favorPoint": 0,
+                    "potentialRank": 0
+                },
+                "skillIndex": -1,
+                "mainSkillLvl": 1,
                 "skinId": "",
-                "tmplId": "",
+                "tmplId": null,
                 "overrideSkillBlackboard": null
             },
             {
@@ -12153,11 +12245,18 @@
                 "alias": "trap_763_skzddd#16",
                 "uniEquipIds": null,
                 "showSpIllust": false,
-                "inst": null,
-                "skillIndex": 28,
-                "mainSkillLvl": -1,
+                "masterInfos": null,
+                "inst": {
+                    "characterKey": "trap_763_skzddd",
+                    "level": 30,
+                    "phase": "PHASE_0",
+                    "favorPoint": 0,
+                    "potentialRank": 0
+                },
+                "skillIndex": -1,
+                "mainSkillLvl": 1,
                 "skinId": "",
-                "tmplId": "",
+                "tmplId": null,
                 "overrideSkillBlackboard": null
             }
         ],

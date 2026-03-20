@@ -49186,6 +49186,920 @@
                 ]
             },
             "isOverWrite": true
+        },
+        "furni_dreamCastle_Column_01": {
+            "showedObjNames": {
+                "HIGHEST": [
+                    "furni_dreamCastle_Column_01",
+                    "furni_dreamCastle_Column_02",
+                    "furni_dreamCastle_Column_03",
+                    "shadow_01"
+                ],
+                "HIGH": [
+                    "furni_dreamCastle_Column_01",
+                    "furni_dreamCastle_Column_02",
+                    "furni_dreamCastle_Column_03"
+                ],
+                "LOW": [
+                    "furni_dreamCastle_Column_01",
+                    "furni_dreamCastle_Column_02",
+                    "furni_dreamCastle_Column_03"
+                ],
+                "LOWEST": [
+                    "furni_dreamCastle_Column_01",
+                    "furni_dreamCastle_Column_02",
+                    "furni_dreamCastle_Column_03"
+                ]
+            },
+            "isOverWrite": false
+        },
+        "furni_dreamCastle_ceilingLight_01": {
+            "showedObjNames": {
+                "HIGHEST": [
+                    "furni_dreamCastle_ceilingLight_01",
+                    "furni_dreamCastle_ceilingLight_02"
+                ],
+                "HIGH": [
+                    "furni_dreamCastle_ceilingLight_01",
+                    "furni_dreamCastle_ceilingLight_02"
+                ],
+                "LOW": [
+                    "furni_dreamCastle_ceilingLight_02"
+                ],
+                "LOWEST": [
+                    "furni_dreamCastle_ceilingLight_02"
+                ]
+            },
+            "isOverWrite": false
+        },
+        "furni_dreamCastle_piano_01": {
+            "showedObjNames": {
+                "HIGHEST": [
+                    "furni_dreamCastle_piano_01",
+                    "furni_dreamCastle_piano_02",
+                    "furni_dreamCastle_piano_03",
+                    "furni_dreamCastle_piano_04",
+                    "shadow_01"
+                ],
+                "HIGH": [
+                    "furni_dreamCastle_piano_01",
+                    "furni_dreamCastle_piano_02",
+                    "furni_dreamCastle_piano_03",
+                    "furni_dreamCastle_piano_04"
+                ],
+                "LOW": [
+                    "furni_dreamCastle_piano_01",
+                    "furni_dreamCastle_piano_02",
+                    "furni_dreamCastle_piano_03"
+                ],
+                "LOWEST": [
+                    "furni_dreamCastle_piano_01",
+                    "furni_dreamCastle_piano_02",
+                    "furni_dreamCastle_piano_03"
+                ]
+            },
+            "isOverWrite": false
+        },
+        "furni_dreamCastle_chair_01": {
+            "showedObjNames": {
+                "HIGHEST": [
+                    "furni_dreamCastle_chair_01",
+                    "furni_dreamCastle_chair_02",
+                    "shadow_01"
+                ],
+                "HIGH": [
+                    "furni_dreamCastle_chair_01",
+                    "furni_dreamCastle_chair_02"
+                ],
+                "LOW": [
+                    "furni_dreamCastle_chair_01"
+                ],
+                "LOWEST": []
+            },
+            "isOverWrite": false
+        },
+        "furni_dreamCastle_candle_01": {
+            "showedObjNames": {
+                "HIGHEST": [
+                    "furni_dreamCastle_candle_01",
+                    "furni_dreamCastle_candle_02",
+                    "furni_dreamCastle_candle_03",
+                    "furni_dreamCastle_candle_04",
+                    "furni_dreamCastle_candle_05",
+                    "shadow_01"
+                ],
+                "HIGH": [
+                    "furni_dreamCastle_candle_01",
+                    "furni_dreamCastle_candle_02",
+                    "furni_dreamCastle_candle_03",
+                    "furni_dreamCastle_candle_05"
+                ],
+                "LOW": [],
+                "LOWEST": []
+            },
+            "isOverWrite": false
+        },
+        "furni_dreamCastle_chair_02": {
+            "showedObjNames": {
+                "HIGHEST": [
+                    "furni_dreamCastle_chair_02",
+                    "furni_dreamCastle_chair_03",
+                    "shadow_01"
+                ],
+                "HIGH": [
+                    "furni_dreamCastle_chair_02",
+                    "furni_dreamCastle_chair_03"
+                ],
+                "LOW": [
+                    "furni_dreamCastle_chair_02",
+                    "furni_dreamCastle_chair_03"
+                ],
+                "LOWEST": []
+            },
+            "isOverWrite": false
+        },
+        "furni_dreamCastle_table_01": {
+            "showedObjNames": {
+                "HIGHEST": [
+                    "furni_dreamCastle_table_01",
+                    "furni_dreamCastle_table_02",
+                    "furni_dreamCastle_table_03",
+                    "shadow_01"
+                ],
+                "HIGH": [
+                    "furni_dreamCastle_table_01",
+                    "furni_dreamCastle_table_02",
+                    "furni_dreamCastle_table_03"
+                ],
+                "LOW": [],
+                "LOWEST": []
+            },
+            "isOverWrite": false
+        },
+        "furni_dreamCastle_drawing_01": {
+            "showedObjNames": {
+                "HIGHEST": [
+                    "furni_dreamCastle_drawing_01"
+                ],
+                "HIGH": [
+                    "furni_dreamCastle_drawing_01"
+                ],
+                "LOW": [
+                    "furni_dreamCastle_drawing_01"
+                ],
+                "LOWEST": [
+                    "furni_dreamCastle_drawing_01"
+                ]
+            },
+            "isOverWrite": false
+        },
+        "furni_dreamCastle_table_02": {
+            "showedObjNames": {
+                "HIGHEST": [
+                    "furni_dreamCastle_table_02",
+                    "furni_dreamCastle_table_03",
+                    "furni_dreamCastle_table_04",
+                    "furni_dreamCastle_table_05",
+                    "shadow_01"
+                ],
+                "HIGH": [
+                    "furni_dreamCastle_table_02",
+                    "furni_dreamCastle_table_03",
+                    "furni_dreamCastle_table_04"
+                ],
+                "LOW": [
+                    "furni_dreamCastle_table_02",
+                    "furni_dreamCastle_table_03",
+                    "furni_dreamCastle_table_04"
+                ],
+                "LOWEST": [
+                    "furni_dreamCastle_table_02",
+                    "furni_dreamCastle_table_03",
+                    "furni_dreamCastle_table_04"
+                ]
+            },
+            "isOverWrite": false
+        },
+        "furni_dreamCastle_carpet_01": {
+            "showedObjNames": {
+                "HIGHEST": [
+                    "furni_dreamCastle_carpet_01"
+                ],
+                "HIGH": [
+                    "furni_dreamCastle_carpet_01"
+                ],
+                "LOW": [
+                    "furni_dreamCastle_carpet_01"
+                ],
+                "LOWEST": []
+            },
+            "isOverWrite": false
+        },
+        "furni_dreamCastle_curtainPlatform_01": {
+            "showedObjNames": {
+                "HIGHEST": [
+                    "furni_dreamCastle_curtainPlatform_01",
+                    "furni_dreamCastle_curtainPlatform_02",
+                    "furni_dreamCastle_curtainPlatform_03",
+                    "furni_dreamCastle_curtainPlatform_04",
+                    "shadow_01",
+                    "shadow_02"
+                ],
+                "HIGH": [
+                    "furni_dreamCastle_curtainPlatform_01",
+                    "furni_dreamCastle_curtainPlatform_02",
+                    "furni_dreamCastle_curtainPlatform_03",
+                    "furni_dreamCastle_curtainPlatform_04"
+                ],
+                "LOW": [
+                    "furni_dreamCastle_curtainPlatform_01",
+                    "furni_dreamCastle_curtainPlatform_02",
+                    "furni_dreamCastle_curtainPlatform_03",
+                    "furni_dreamCastle_curtainPlatform_04"
+                ],
+                "LOWEST": [
+                    "furni_dreamCastle_curtainPlatform_01",
+                    "furni_dreamCastle_curtainPlatform_02",
+                    "furni_dreamCastle_curtainPlatform_03",
+                    "furni_dreamCastle_curtainPlatform_04"
+                ]
+            },
+            "isOverWrite": false
+        },
+        "furni_dreamCastle_wall_01": {
+            "showedObjNames": {
+                "HIGHEST": [
+                    "furni_dreamCastle_wall_01",
+                    "furni_dreamCastle_wall_02",
+                    "shadow_01"
+                ],
+                "HIGH": [
+                    "furni_dreamCastle_wall_01",
+                    "furni_dreamCastle_wall_02"
+                ],
+                "LOW": [
+                    "furni_dreamCastle_wall_01",
+                    "furni_dreamCastle_wall_02"
+                ],
+                "LOWEST": [
+                    "furni_dreamCastle_wall_01",
+                    "furni_dreamCastle_wall_02"
+                ]
+            },
+            "isOverWrite": false
+        },
+        "furni_dreamCastle_carpet_02": {
+            "showedObjNames": {
+                "HIGHEST": [
+                    "furni_dreamCastle_carpet_02"
+                ],
+                "HIGH": [
+                    "furni_dreamCastle_carpet_02"
+                ],
+                "LOW": [],
+                "LOWEST": []
+            },
+            "isOverWrite": false
+        },
+        "furni_dreamCastle_table_03": {
+            "showedObjNames": {
+                "HIGHEST": [
+                    "furni_dreamCastle_table_03",
+                    "furni_dreamCastle_table_04",
+                    "furni_dreamCastle_table_05",
+                    "furni_dreamCastle_table_06",
+                    "shadow_01"
+                ],
+                "HIGH": [
+                    "furni_dreamCastle_table_03",
+                    "furni_dreamCastle_table_04",
+                    "furni_dreamCastle_table_06",
+                    "shadow_01"
+                ],
+                "LOW": [
+                    "furni_dreamCastle_table_03",
+                    "furni_dreamCastle_table_04",
+                    "furni_dreamCastle_table_06"
+                ],
+                "LOWEST": [
+                    "furni_dreamCastle_table_03",
+                    "furni_dreamCastle_table_04",
+                    "furni_dreamCastle_table_06"
+                ]
+            },
+            "isOverWrite": false
+        },
+        "furni_dreamCastle_bookcase_02": {
+            "showedObjNames": {
+                "HIGHEST": [
+                    "furni_dreamCastle_bookcase_02",
+                    "furni_dreamCastle_bookcase_03",
+                    "furni_dreamCastle_bookcase_04",
+                    "shadow_01"
+                ],
+                "HIGH": [
+                    "furni_dreamCastle_bookcase_02",
+                    "furni_dreamCastle_bookcase_03",
+                    "furni_dreamCastle_bookcase_04"
+                ],
+                "LOW": [
+                    "furni_dreamCastle_bookcase_02",
+                    "furni_dreamCastle_bookcase_03"
+                ],
+                "LOWEST": []
+            },
+            "isOverWrite": false
+        },
+        "furni_dreamCastle_wallpaper_01": {
+            "showedObjNames": {},
+            "isOverWrite": false
+        },
+        "furni_dreamCastle_floor_01": {
+            "showedObjNames": {},
+            "isOverWrite": false
+        },
+        "furni_eliteLounge_equipmentWall_01": {
+            "showedObjNames": {
+                "HIGHEST": [
+                    "furni_eliteLounge_equipmentWall_01",
+                    "furni_eliteLounge_equipmentWall_02",
+                    "furni_eliteLounge_equipmentWall_light_01",
+                    "furni_eliteLounge_equipmentWall_light_02",
+                    "shadow_01"
+                ],
+                "HIGH": [
+                    "furni_eliteLounge_equipmentWall_01",
+                    "furni_eliteLounge_equipmentWall_02",
+                    "furni_eliteLounge_equipmentWall_light_01"
+                ],
+                "LOW": [
+                    "furni_eliteLounge_equipmentWall_01",
+                    "furni_eliteLounge_equipmentWall_02",
+                    "furni_eliteLounge_equipmentWall_light_01"
+                ],
+                "LOWEST": [
+                    "furni_eliteLounge_equipmentWall_01",
+                    "furni_eliteLounge_equipmentWall_02",
+                    "furni_eliteLounge_equipmentWall_light_01"
+                ]
+            },
+            "isOverWrite": false
+        },
+        "furni_eliteLounge_bowAndArrow_01": {
+            "showedObjNames": {
+                "HIGHEST": [
+                    "furni_eliteLounge_bowAndArrow_01",
+                    "furni_eliteLounge_bowAndArrow_02",
+                    "furni_eliteLounge_bowAndArrow_03",
+                    "shadow_01"
+                ],
+                "HIGH": [
+                    "furni_eliteLounge_bowAndArrow_01",
+                    "furni_eliteLounge_bowAndArrow_02",
+                    "furni_eliteLounge_bowAndArrow_03"
+                ],
+                "LOW": [
+                    "furni_eliteLounge_bowAndArrow_01",
+                    "furni_eliteLounge_bowAndArrow_02",
+                    "furni_eliteLounge_bowAndArrow_03"
+                ],
+                "LOWEST": []
+            },
+            "isOverWrite": false
+        },
+        "furni_eliteLounge_roundStool_01": {
+            "showedObjNames": {
+                "HIGHEST": [
+                    "furni_eliteLounge_roundStool_01",
+                    "furni_eliteLounge_roundStool_02",
+                    "shadow_01"
+                ],
+                "HIGH": [
+                    "furni_eliteLounge_roundStool_01",
+                    "furni_eliteLounge_roundStool_02"
+                ],
+                "LOW": [
+                    "furni_eliteLounge_roundStool_01"
+                ],
+                "LOWEST": []
+            },
+            "isOverWrite": false
+        },
+        "furni_eliteLounge_partitionWall_01": {
+            "showedObjNames": {
+                "HIGHEST": [
+                    "furni_eliteLounge_partitionWall_01",
+                    "furni_eliteLounge_partitionWall_02",
+                    "furni_eliteLounge_partitionWall_03",
+                    "furni_eliteLounge_partitionWall_04",
+                    "shadow_01"
+                ],
+                "HIGH": [
+                    "furni_eliteLounge_partitionWall_01",
+                    "furni_eliteLounge_partitionWall_02",
+                    "furni_eliteLounge_partitionWall_03"
+                ],
+                "LOW": [
+                    "furni_eliteLounge_partitionWall_01",
+                    "furni_eliteLounge_partitionWall_02",
+                    "furni_eliteLounge_partitionWall_03"
+                ],
+                "LOWEST": [
+                    "furni_eliteLounge_partitionWall_01",
+                    "furni_eliteLounge_partitionWall_02",
+                    "furni_eliteLounge_partitionWall_03"
+                ]
+            },
+            "isOverWrite": false
+        },
+        "furni_eliteLounge_overheadLight_01": {
+            "showedObjNames": {
+                "HIGHEST": [
+                    "furni_eliteLounge_overheadLight_01",
+                    "furni_eliteLounge_overheadLight_light_01"
+                ],
+                "HIGH": [
+                    "furni_eliteLounge_overheadLight_01",
+                    "furni_eliteLounge_overheadLight_light_01"
+                ],
+                "LOW": [
+                    "furni_eliteLounge_overheadLight_01",
+                    "furni_eliteLounge_overheadLight_light_01"
+                ],
+                "LOWEST": [
+                    "furni_eliteLounge_overheadLight_01",
+                    "furni_eliteLounge_overheadLight_light_01"
+                ]
+            },
+            "isOverWrite": false
+        },
+        "furni_eliteLounge_blackboard_01": {
+            "showedObjNames": {
+                "HIGHEST": [
+                    "furni_eliteLounge_blackboard_01"
+                ],
+                "HIGH": [
+                    "furni_eliteLounge_blackboard_01"
+                ],
+                "LOW": [
+                    "furni_eliteLounge_blackboard_01"
+                ],
+                "LOWEST": [
+                    "furni_eliteLounge_blackboard_01"
+                ]
+            },
+            "isOverWrite": false
+        },
+        "furni_eliteLounge_workbench_01": {
+            "showedObjNames": {
+                "HIGHEST": [
+                    "furni_eliteLounge_workbench_01",
+                    "furni_eliteLounge_workbench_02",
+                    "furni_eliteLounge_workbench_03",
+                    "furni_eliteLounge_workbench_04",
+                    "furni_eliteLounge_workbench_light_01",
+                    "furni_eliteLounge_workbench_light_02",
+                    "shadow_01"
+                ],
+                "HIGH": [
+                    "furni_eliteLounge_workbench_01",
+                    "furni_eliteLounge_workbench_02",
+                    "furni_eliteLounge_workbench_03",
+                    "furni_eliteLounge_workbench_04",
+                    "furni_eliteLounge_workbench_light_02",
+                    "shadow_01"
+                ],
+                "LOW": [
+                    "furni_eliteLounge_workbench_01",
+                    "furni_eliteLounge_workbench_02",
+                    "furni_eliteLounge_workbench_03",
+                    "furni_eliteLounge_workbench_04",
+                    "furni_eliteLounge_workbench_light_02"
+                ],
+                "LOWEST": [
+                    "furni_eliteLounge_workbench_01",
+                    "furni_eliteLounge_workbench_02",
+                    "furni_eliteLounge_workbench_03",
+                    "furni_eliteLounge_workbench_04",
+                    "furni_eliteLounge_workbench_light_02"
+                ]
+            },
+            "isOverWrite": false
+        },
+        "furni_eliteLounge_originiumsCabinet_01": {
+            "showedObjNames": {
+                "HIGHEST": [
+                    "furni_eliteLounge_originiumsCabinet_01",
+                    "furni_eliteLounge_originiumsCabinet_02",
+                    "shadow_01"
+                ],
+                "HIGH": [
+                    "furni_eliteLounge_originiumsCabinet_01",
+                    "furni_eliteLounge_originiumsCabinet_02"
+                ],
+                "LOW": [
+                    "furni_eliteLounge_originiumsCabinet_01",
+                    "furni_eliteLounge_originiumsCabinet_02"
+                ],
+                "LOWEST": [
+                    "furni_eliteLounge_originiumsCabinet_01",
+                    "furni_eliteLounge_originiumsCabinet_02"
+                ]
+            },
+            "isOverWrite": false
+        },
+        "furni_eliteLounge_hangingLamp_01": {
+            "showedObjNames": {
+                "HIGHEST": [
+                    "furni_eliteLounge_hangingLamp_01",
+                    "furni_eliteLounge_hangingLamp_02",
+                    "furni_eliteLounge_hangingLamp_03",
+                    "furni_eliteLounge_hangingLamp_light_01",
+                    "furni_eliteLounge_hangingLamp_light_02"
+                ],
+                "HIGH": [
+                    "furni_eliteLounge_hangingLamp_01",
+                    "furni_eliteLounge_hangingLamp_02",
+                    "furni_eliteLounge_hangingLamp_03",
+                    "furni_eliteLounge_hangingLamp_light_02"
+                ],
+                "LOW": [
+                    "furni_eliteLounge_hangingLamp_01",
+                    "furni_eliteLounge_hangingLamp_02",
+                    "furni_eliteLounge_hangingLamp_03",
+                    "furni_eliteLounge_hangingLamp_light_02"
+                ],
+                "LOWEST": [
+                    "furni_eliteLounge_hangingLamp_01",
+                    "furni_eliteLounge_hangingLamp_02",
+                    "furni_eliteLounge_hangingLamp_03",
+                    "furni_eliteLounge_hangingLamp_light_02"
+                ]
+            },
+            "isOverWrite": false
+        },
+        "furni_eliteLounge_roundSofa_01": {
+            "showedObjNames": {
+                "HIGHEST": [
+                    "furni_eliteLounge_roundSofa_01",
+                    "furni_eliteLounge_roundSofa_02",
+                    "furni_eliteLounge_roundSofa_03",
+                    "shadow_01"
+                ],
+                "HIGH": [
+                    "furni_eliteLounge_roundSofa_01",
+                    "furni_eliteLounge_roundSofa_02",
+                    "furni_eliteLounge_roundSofa_03"
+                ],
+                "LOW": [
+                    "furni_eliteLounge_roundSofa_01",
+                    "furni_eliteLounge_roundSofa_02",
+                    "furni_eliteLounge_roundSofa_03"
+                ],
+                "LOWEST": []
+            },
+            "isOverWrite": false
+        },
+        "furni_eliteLounge_docTable_01": {
+            "showedObjNames": {
+                "HIGHEST": [
+                    "furni_eliteLounge_docTable_01",
+                    "furni_eliteLounge_docTable_02",
+                    "furni_eliteLounge_docTable_03",
+                    "furni_eliteLounge_docTable_04",
+                    "shadow_01"
+                ],
+                "HIGH": [
+                    "furni_eliteLounge_docTable_01",
+                    "furni_eliteLounge_docTable_02",
+                    "furni_eliteLounge_docTable_03",
+                    "furni_eliteLounge_docTable_04"
+                ],
+                "LOW": [
+                    "furni_eliteLounge_docTable_01",
+                    "furni_eliteLounge_docTable_02",
+                    "furni_eliteLounge_docTable_03",
+                    "furni_eliteLounge_docTable_04"
+                ],
+                "LOWEST": [
+                    "furni_eliteLounge_docTable_01",
+                    "furni_eliteLounge_docTable_02",
+                    "furni_eliteLounge_docTable_04"
+                ]
+            },
+            "isOverWrite": false
+        },
+        "furni_eliteLounge_carpet_01": {
+            "showedObjNames": {
+                "HIGHEST": [
+                    "furni_eliteLounge_carpet_01"
+                ],
+                "HIGH": [
+                    "furni_eliteLounge_carpet_01"
+                ],
+                "LOW": [],
+                "LOWEST": []
+            },
+            "isOverWrite": false
+        },
+        "furni_eliteLounge_hangingSocket_01": {
+            "showedObjNames": {
+                "HIGHEST": [
+                    "furni_eliteLounge_hangingSocket_01",
+                    "furni_eliteLounge_hangingSocket_02"
+                ],
+                "HIGH": [
+                    "furni_eliteLounge_hangingSocket_01",
+                    "furni_eliteLounge_hangingSocket_02"
+                ],
+                "LOW": [],
+                "LOWEST": []
+            },
+            "isOverWrite": false
+        },
+        "furni_eliteLounge_couch_01": {
+            "showedObjNames": {
+                "HIGHEST": [
+                    "furni_eliteLounge_couch_01",
+                    "furni_eliteLounge_couch_02",
+                    "furni_eliteLounge_couch_03",
+                    "furni_eliteLounge_couch_light_01",
+                    "shadow_01"
+                ],
+                "HIGH": [
+                    "furni_eliteLounge_couch_01",
+                    "furni_eliteLounge_couch_02",
+                    "shadow_01"
+                ],
+                "LOW": [
+                    "furni_eliteLounge_couch_01",
+                    "furni_eliteLounge_couch_02"
+                ],
+                "LOWEST": [
+                    "furni_eliteLounge_couch_01",
+                    "furni_eliteLounge_couch_02"
+                ]
+            },
+            "isOverWrite": false
+        },
+        "furni_eliteLounge_smallCouch_01": {
+            "showedObjNames": {
+                "HIGHEST": [
+                    "furni_eliteLounge_smallCouch_01",
+                    "shadow_01"
+                ],
+                "HIGH": [
+                    "furni_eliteLounge_smallCouch_01"
+                ],
+                "LOW": [
+                    "furni_eliteLounge_smallCouch_01"
+                ],
+                "LOWEST": []
+            },
+            "isOverWrite": false
+        },
+        "furni_eliteLounge_wallpaper_01": {
+            "showedObjNames": {},
+            "isOverWrite": false
+        },
+        "furni_eliteLounge_floor_01": {
+            "showedObjNames": {},
+            "isOverWrite": false
+        },
+        "furni_oct1st_television_01": {
+            "showedObjNames": {
+                "HIGHEST": [
+                    "furni_oct1st_television_01",
+                    "furni_oct1st_television_02",
+                    "furni_oct1st_television_03",
+                    "furni_oct1st_television_04",
+                    "shadow_01",
+                    "shadow_02"
+                ],
+                "HIGH": [
+                    "furni_oct1st_television_01",
+                    "furni_oct1st_television_02",
+                    "furni_oct1st_television_03",
+                    "furni_oct1st_television_04",
+                    "shadow_01"
+                ],
+                "LOW": [
+                    "furni_oct1st_television_01",
+                    "furni_oct1st_television_02",
+                    "furni_oct1st_television_03",
+                    "furni_oct1st_television_04"
+                ],
+                "LOWEST": [
+                    "furni_oct1st_television_01",
+                    "furni_oct1st_television_02",
+                    "furni_oct1st_television_03",
+                    "furni_oct1st_television_04"
+                ]
+            },
+            "isOverWrite": false
+        },
+        "furni_animation_projector_03": {
+            "showedObjNames": {
+                "HIGHEST": [
+                    "furni_animation_projector_03",
+                    "furni_animation_projector_04",
+                    "furni_animation_projector_05",
+                    "furni_animation_projector_06",
+                    "shadow_01"
+                ],
+                "HIGH": [
+                    "furni_animation_projector_03",
+                    "furni_animation_projector_04",
+                    "furni_animation_projector_05"
+                ],
+                "LOW": [
+                    "furni_animation_projector_03",
+                    "furni_animation_projector_04",
+                    "furni_animation_projector_05"
+                ],
+                "LOWEST": [
+                    "furni_animation_projector_03",
+                    "furni_animation_projector_04",
+                    "furni_animation_projector_05"
+                ]
+            },
+            "isOverWrite": false
+        },
+        "furni_act1vhalfidle_bonsai_01": {
+            "showedObjNames": {
+                "HIGHEST": [
+                    "furni_act1vhalfidle_bonsai_01",
+                    "furni_act1vhalfidle_bonsai_02",
+                    "furni_act1vhalfidle_bonsai_03",
+                    "furni_act1vhalfidle_bonsai_04",
+                    "shadow_01"
+                ],
+                "HIGH": [
+                    "furni_act1vhalfidle_bonsai_01",
+                    "furni_act1vhalfidle_bonsai_02",
+                    "furni_act1vhalfidle_bonsai_03",
+                    "furni_act1vhalfidle_bonsai_04",
+                    "shadow_01"
+                ],
+                "LOW": [
+                    "furni_act1vhalfidle_bonsai_01",
+                    "furni_act1vhalfidle_bonsai_02",
+                    "furni_act1vhalfidle_bonsai_03",
+                    "furni_act1vhalfidle_bonsai_04"
+                ],
+                "LOWEST": [
+                    "furni_act1vhalfidle_bonsai_01",
+                    "furni_act1vhalfidle_bonsai_02",
+                    "furni_act1vhalfidle_bonsai_03",
+                    "furni_act1vhalfidle_bonsai_04"
+                ]
+            },
+            "isOverWrite": false
+        },
+        "furni_sanrio_s2_pochacco_01": {
+            "showedObjNames": {
+                "HIGHEST": [
+                    "furni_sanrio_s2_pochacco_01",
+                    "furni_sanrio_s2_pochacco_02",
+                    "furni_sanrio_s2_pochacco_03",
+                    "furni_sanrio_s2_pochacco_04",
+                    "furni_sanrio_s2_pochacco_05",
+                    "shadow_01"
+                ],
+                "HIGH": [
+                    "furni_sanrio_s2_pochacco_01",
+                    "furni_sanrio_s2_pochacco_02",
+                    "furni_sanrio_s2_pochacco_03",
+                    "furni_sanrio_s2_pochacco_04",
+                    "furni_sanrio_s2_pochacco_05"
+                ],
+                "LOW": [
+                    "furni_sanrio_s2_pochacco_01",
+                    "furni_sanrio_s2_pochacco_02",
+                    "furni_sanrio_s2_pochacco_03",
+                    "furni_sanrio_s2_pochacco_04"
+                ],
+                "LOWEST": [
+                    "furni_sanrio_s2_pochacco_01",
+                    "furni_sanrio_s2_pochacco_02",
+                    "furni_sanrio_s2_pochacco_03",
+                    "furni_sanrio_s2_pochacco_04"
+                ]
+            },
+            "isOverWrite": false
+        },
+        "furni_POPUCOM_stack_01": {
+            "showedObjNames": {
+                "HIGHEST": [
+                    "furni_POPUCOM_stack_01",
+                    "furni_POPUCOM_stack_02",
+                    "furni_POPUCOM_stack_03",
+                    "furni_POPUCOM_stack_04",
+                    "furni_POPUCOM_stack_05",
+                    "furni_POPUCOM_stack_light_01",
+                    "furni_POPUCOM_stack_light_02"
+                ],
+                "HIGH": [
+                    "furni_POPUCOM_stack_01",
+                    "furni_POPUCOM_stack_02",
+                    "furni_POPUCOM_stack_03",
+                    "furni_POPUCOM_stack_04",
+                    "furni_POPUCOM_stack_05",
+                    "furni_POPUCOM_stack_light_02"
+                ],
+                "LOW": [
+                    "furni_POPUCOM_stack_01",
+                    "furni_POPUCOM_stack_02",
+                    "furni_POPUCOM_stack_03",
+                    "furni_POPUCOM_stack_04",
+                    "furni_POPUCOM_stack_05"
+                ],
+                "LOWEST": [
+                    "furni_POPUCOM_stack_01",
+                    "furni_POPUCOM_stack_02",
+                    "furni_POPUCOM_stack_03",
+                    "furni_POPUCOM_stack_05"
+                ]
+            },
+            "isOverWrite": false
+        },
+        "furni_terratimes_Ursus_01": {
+            "showedObjNames": {
+                "HIGHEST": [
+                    "furni_terratimes_Ursus_01"
+                ],
+                "HIGH": [
+                    "furni_terratimes_Ursus_01"
+                ],
+                "LOW": [
+                    "furni_terratimes_Ursus_01"
+                ],
+                "LOWEST": [
+                    "furni_terratimes_Ursus_01"
+                ]
+            },
+            "isOverWrite": false
+        },
+        "furni_7eleven_store_01": {
+            "showedObjNames": {
+                "HIGHEST": [
+                    "furni_7eleven_store_01",
+                    "furni_7eleven_store_02",
+                    "furni_7eleven_store_03",
+                    "furni_7eleven_store_04",
+                    "furni_7eleven_store_light_01",
+                    "furni_7eleven_store_light_02",
+                    "shadow_01"
+                ],
+                "HIGH": [
+                    "furni_7eleven_store_01",
+                    "furni_7eleven_store_02",
+                    "furni_7eleven_store_03",
+                    "furni_7eleven_store_04",
+                    "furni_7eleven_store_light_01",
+                    "furni_7eleven_store_light_02"
+                ],
+                "LOW": [
+                    "furni_7eleven_store_01",
+                    "furni_7eleven_store_02",
+                    "furni_7eleven_store_03",
+                    "furni_7eleven_store_04",
+                    "furni_7eleven_store_light_02"
+                ],
+                "LOWEST": [
+                    "furni_7eleven_store_01",
+                    "furni_7eleven_store_02",
+                    "furni_7eleven_store_03",
+                    "furni_7eleven_store_04",
+                    "furni_7eleven_store_light_02"
+                ]
+            },
+            "isOverWrite": false
+        },
+        "furni_animation_musicBox_01": {
+            "showedObjNames": {
+                "HIGHEST": [
+                    "Bone_all_01",
+                    "furni_musicBox_01",
+                    "S_furni_animation_musicBox_01"
+                ],
+                "HIGH": [
+                    "Bone_all_01",
+                    "furni_musicBox_01",
+                    "S_furni_animation_musicBox_01"
+                ],
+                "LOW": [
+                    "Bone_all_01",
+                    "furni_musicBox_01",
+                    "S_furni_animation_musicBox_01"
+                ],
+                "LOWEST": [
+                    "Bone_all_01",
+                    "furni_musicBox_01",
+                    "S_furni_animation_musicBox_01"
+                ]
+            },
+            "isOverWrite": false
         }
     }
 }

@@ -10,6 +10,7 @@
         "isTrainingLevel": false,
         "isHardTrainingLevel": false,
         "isPredefinedCardsSelectable": false,
+        "displayRestTime": false,
         "maxPlayTime": -1.0,
         "functionDisableMask": "NONE",
         "configBlackBoard": null
@@ -4019,10 +4020,17 @@
                 "alias": null,
                 "uniEquipIds": null,
                 "showSpIllust": false,
-                "inst": null,
-                "skillIndex": 4,
-                "mainSkillLvl": -1,
-                "skinId": "",
+                "masterInfos": null,
+                "inst": {
+                    "characterKey": "trap_229_mpcata",
+                    "level": 1,
+                    "phase": "PHASE_0",
+                    "favorPoint": 0,
+                    "potentialRank": 0
+                },
+                "skillIndex": -1,
+                "mainSkillLvl": 1,
+                "skinId": null,
                 "tmplId": null,
                 "overrideSkillBlackboard": null
             },
@@ -4032,10 +4040,17 @@
                 "alias": null,
                 "uniEquipIds": null,
                 "showSpIllust": false,
-                "inst": null,
-                "skillIndex": 4,
-                "mainSkillLvl": -1,
-                "skinId": "",
+                "masterInfos": null,
+                "inst": {
+                    "characterKey": "trap_230_mpcatab",
+                    "level": 1,
+                    "phase": "PHASE_0",
+                    "favorPoint": 0,
+                    "potentialRank": 0
+                },
+                "skillIndex": -1,
+                "mainSkillLvl": 1,
+                "skinId": null,
                 "tmplId": null,
                 "overrideSkillBlackboard": null
             }
