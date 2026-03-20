@@ -215969,6 +215969,160 @@
         {
             "sounds": [
                 {
+                    "asset": "Audio/Sound_Beta_2/Enemy/e_atk/e_atk_rbtlcrtn_n_u",
+                    "weight": 1.0,
+                    "important": false,
+                    "is2D": false,
+                    "delay": 0.0,
+                    "minPitch": 0.8,
+                    "maxPitch": 1.2,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 2,
+            "popOldest": true,
+            "customMixerGroup": "Battle_BE_NAtk",
+            "loop": false,
+            "name": "battle.ON_ABILITY_START.enemy_6032_fxdjj.attack.0",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
+                    "asset": "Audio/Sound_Beta_2/Enemy/e_atk/e_atk_rbtlcrtnfr_n_u",
+                    "weight": 1.0,
+                    "important": false,
+                    "is2D": false,
+                    "delay": 0.0,
+                    "minPitch": 0.8,
+                    "maxPitch": 1.2,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 2,
+            "popOldest": true,
+            "customMixerGroup": "Battle_BE_NAtk",
+            "loop": false,
+            "name": "battle.ON_ABILITY_ON.enemy_6032_fxdjj.attack.0",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
+                    "asset": "Audio/Sound_Beta_2/Enemy/e_imp/e_imp_rbtlcrtn_n_u",
+                    "weight": 1.0,
+                    "important": false,
+                    "is2D": false,
+                    "delay": 0.0,
+                    "minPitch": 0.8,
+                    "maxPitch": 1.2,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 2,
+            "popOldest": true,
+            "customMixerGroup": "Battle_BE_NImp",
+            "loop": false,
+            "name": "battle.ON_PROJECTILE_HIT.projectile_enemy_fxdjj",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
+                    "asset": "Audio/Sound_Beta_2/Enemy/e_atk/e_atk_rbtlcrtn_d_u",
+                    "weight": 1.0,
+                    "important": false,
+                    "is2D": false,
+                    "delay": 0.0,
+                    "minPitch": 0.8,
+                    "maxPitch": 1.2,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 2,
+            "popOldest": true,
+            "customMixerGroup": "Battle_BE_NAtk",
+            "loop": false,
+            "name": "battle.ON_ABILITY_START.enemy_6032_fxdjj.SpawnTrap",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
+                    "asset": "Audio/Sound_Beta_2/Enemy/e_skill/e_skill_rbtlcrtn_h_u",
+                    "weight": 1.0,
+                    "important": true,
+                    "is2D": false,
+                    "delay": 0.0,
+                    "minPitch": 0.8,
+                    "maxPitch": 1.2,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 2,
+            "popOldest": true,
+            "customMixerGroup": "Battle_BE_NAtk",
+            "loop": false,
+            "name": "battle.ON_ABILITY_START.enemy_6032_fxdjj.Skill2",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
+                    "asset": "Audio/Sound_Beta_2/Enemy/e_atk/e_atk_rbtlcrtn_h_u",
+                    "weight": 1.0,
+                    "important": true,
+                    "is2D": false,
+                    "delay": 0.0,
+                    "minPitch": 0.8,
+                    "maxPitch": 1.2,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 2,
+            "popOldest": true,
+            "customMixerGroup": "Battle_BE_NAtk",
+            "loop": false,
+            "name": "battle.ON_ABILITY_ON.enemy_6032_fxdjj.Skill2",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
+                    "asset": "Audio/Sound_Beta_2/Enemy/e_imp/e_imp_rbtlcrtn_h_u",
+                    "weight": 1.0,
+                    "important": true,
+                    "is2D": false,
+                    "delay": 0.0,
+                    "minPitch": 0.8,
+                    "maxPitch": 1.2,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 2,
+            "popOldest": true,
+            "customMixerGroup": "Battle_BE_NImp",
+            "loop": false,
+            "name": "battle.ON_CUSTOM_TRIGGER.enemy_6032_fxdjj.explode",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
                     "asset": "Audio/Sound_Beta_2/Enemy/e_atk/e_atk_rbtcnn_n_u",
                     "weight": 1.0,
                     "important": false,
@@ -223211,6 +223365,7 @@
         "sys.ON_ROGUELIKE_SHOP.rogue_5": "sys.ON_ROGUELIKE_SHOP.rogue_1",
         "sys.ON_ROGUELIKE_LOADED.rogue_5": "sys.ON_ROGUELIKE_MAPLOW.rogue_5",
         "battle.ON_GAME_READY.crisis_v2_season_4_1_main_challenge": "battle.ON_GAME_READY.crisis_v2_season_4_1_main",
-        "battle.ON_GAME_READY.enemydue2": "battle.ON_GAME_READY.enemyduel"
+        "battle.ON_GAME_READY.enemydue2": "battle.ON_GAME_READY.enemyduel",
+        "sys.ON_ACTIVITY_LOADED.act2enemyduel": "sys.ON_ACTIVITY_LOADED.act1enemyduel"
     }
 }
