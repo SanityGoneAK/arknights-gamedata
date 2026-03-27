@@ -7,8 +7,11 @@ local list =
   "HotFixes/AutoChessUtilHotfixer",
   "HotFixes/AdvancedSelectorWithEnemyOptionsHotfixer",
   "HotFixes/PCHotfixer",
+  "HotFixes/PCKeyDefaultRestoreHotfixer",
   "HotFixes/AbilityEventCounterHotfixer",
-  "HotFixes/WangVisualStoneCtrlAbilityHotfixer"
+  "HotFixes/WangVisualStoneCtrlAbilityHotfixer",
+  "HotFixes/UICharTabGroupInAutochessHotfixer",
+  "Hotfixes/AVGControllerHotfixer"
 };
 
 return list;
