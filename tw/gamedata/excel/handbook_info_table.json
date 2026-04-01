@@ -35468,7 +35468,41 @@
                     "unLockorNot": true
                 }
             ],
-            "handbookAvgList": []
+            "handbookAvgList": [
+                {
+                    "storySetId": "story_ashlok_set_1",
+                    "storySetName": "決鬥",
+                    "sortId": 1,
+                    "storyGetTime": 1775030400,
+                    "rewardItem": [],
+                    "unlockParam": [
+                        {
+                            "unlockType": "AWAKE",
+                            "unlockParam1": "2",
+                            "unlockParam2": "1",
+                            "unlockParam3": null
+                        },
+                        {
+                            "unlockType": "FAVOR",
+                            "unlockParam1": "50",
+                            "unlockParam2": null,
+                            "unlockParam3": null
+                        }
+                    ],
+                    "avgList": [
+                        {
+                            "storyId": "story_ashlok_set_1_story_1",
+                            "storySetId": "story_ashlok_set_1",
+                            "storySort": 1,
+                            "storyCanShow": true,
+                            "storyIntro": "今天，卡西米爾競技場將上演“騎士之死”。",
+                            "storyInfo": "info/obt/memory/story_ashlok_1_1",
+                            "storyTxt": "obt/memory/story_ashlok_1_1"
+                        }
+                    ],
+                    "charId": "char_431_ashlok"
+                }
+            ]
         },
         "char_1014_nearl2": {
             "charID": "char_1014_nearl2",
@@ -56947,7 +56981,41 @@
                     "unLockorNot": true
                 }
             ],
-            "handbookAvgList": []
+            "handbookAvgList": [
+                {
+                    "storySetId": "story_nymph_set_1",
+                    "storySetName": "躍動的微光",
+                    "sortId": 1,
+                    "storyGetTime": 1775030400,
+                    "rewardItem": [],
+                    "unlockParam": [
+                        {
+                            "unlockType": "AWAKE",
+                            "unlockParam1": "2",
+                            "unlockParam2": "1",
+                            "unlockParam3": null
+                        },
+                        {
+                            "unlockType": "FAVOR",
+                            "unlockParam1": "50",
+                            "unlockParam2": null,
+                            "unlockParam3": null
+                        }
+                    ],
+                    "avgList": [
+                        {
+                            "storyId": "story_nymph_set_1_story_1",
+                            "storySetId": "story_nymph_set_1",
+                            "storySort": 1,
+                            "storyCanShow": true,
+                            "storyIntro": "當初飄落在她手心的那一點微光，如今已能為許多人驅散黑暗。",
+                            "storyInfo": "info/obt/memory/story_nymph_1_1",
+                            "storyTxt": "obt/memory/story_nymph_1_1"
+                        }
+                    ],
+                    "charId": "char_4146_nymph"
+                }
+            ]
         },
         "char_4151_tinman": {
             "charID": "char_4151_tinman",
@@ -59473,7 +59541,41 @@
                     "unLockorNot": true
                 }
             ],
-            "handbookAvgList": []
+            "handbookAvgList": [
+                {
+                    "storySetId": "story_whitw2_set_1",
+                    "storySetName": "氣味遊戲",
+                    "sortId": 1,
+                    "storyGetTime": 1775030400,
+                    "rewardItem": [],
+                    "unlockParam": [
+                        {
+                            "unlockType": "AWAKE",
+                            "unlockParam1": "2",
+                            "unlockParam2": "1",
+                            "unlockParam3": null
+                        },
+                        {
+                            "unlockType": "FAVOR",
+                            "unlockParam1": "50",
+                            "unlockParam2": null,
+                            "unlockParam3": null
+                        }
+                    ],
+                    "avgList": [
+                        {
+                            "storyId": "story_whitw2_set_1_story_1",
+                            "storySetId": "story_whitw2_set_1",
+                            "storySort": 1,
+                            "storyCanShow": true,
+                            "storyIntro": "拉普蘭德羞辱了她的狼群，但這並非她的樂趣。",
+                            "storyInfo": "info/obt/memory/story_whitw2_1_1",
+                            "storyTxt": "obt/memory/story_whitw2_1_1"
+                        }
+                    ],
+                    "charId": "char_1038_whitw2"
+                }
+            ]
         },
         "char_4026_vulpis": {
             "charID": "char_4026_vulpis",
@@ -62251,7 +62353,41 @@
                     "unLockorNot": true
                 }
             ],
-            "handbookAvgList": []
+            "handbookAvgList": [
+                {
+                    "storySetId": "story_wscoot_set_1",
+                    "storySetName": "只待天明",
+                    "sortId": 1,
+                    "storyGetTime": 1775030400,
+                    "rewardItem": [],
+                    "unlockParam": [
+                        {
+                            "unlockType": "AWAKE",
+                            "unlockParam1": "2",
+                            "unlockParam2": "1",
+                            "unlockParam3": null
+                        },
+                        {
+                            "unlockType": "FAVOR",
+                            "unlockParam1": "50",
+                            "unlockParam2": null,
+                            "unlockParam3": null
+                        }
+                    ],
+                    "avgList": [
+                        {
+                            "storyId": "story_wscoot_set_1_story_1",
+                            "storySetId": "story_wscoot_set_1",
+                            "storySort": 1,
+                            "storyCanShow": true,
+                            "storyIntro": "他還在擔心自己將叔叔阿姨們帶錯了路，他們卻已在背後推著他走。",
+                            "storyInfo": "info/obt/memory/story_wscoot_1_1",
+                            "storyTxt": "obt/memory/story_wscoot_1_1"
+                        }
+                    ],
+                    "charId": "char_445_wscoot"
+                }
+            ]
         },
         "char_4193_lemuen": {
             "charID": "char_4193_lemuen",
@@ -64377,6 +64513,721 @@
                     "stories": [
                         {
                             "storyText": "姓？\n父親死後我還真的問過鐵齋叔。別人叫我爹須佐，叫我星熊，叫他鐵齋……我們都沒有姓氏，其他人卻有。節子阿姨原本姓稻葉，跟他結婚之後卻沒有了。\n不過這件事其實蠻無聊的，你真的要聽嗎？\n也好，就當成是下酒的話題好了。\n公認的解釋是，不稱姓，只稱名，這是鬼菖蒲征作死後開始在鬼族流傳開來的習俗。為了避禍，他的子孫有很多都投奔僧院，隱去本名，只稱法號。當然，也有冒稱鬼菖蒲氏後裔的人，其中也不乏真正崇拜鬼菖蒲征作的人。\n問題是，叫一聲三郎，三四個鬼族一起回頭看你，無論是課稅還是戰場指揮都會出問題。所以北院後來頒布了《萬民姓氏必稱義務令》，南院也頒布了差不多的法令，要求所謂萬民，其實主要就是鬼族，尊重“東皇賜姓”的傳統，恢復原有姓氏。但時間已經過了太久，誰是為了避禍，誰是為了沾光，早就分不清楚了。再加上兩邊在實際操作時都禁止無姓的鬼自稱鬼菖蒲，很多人根本就不願意配合。到了最後，整件事不了了之。\n至於我，按照鐵齋叔的說法，我家和鐵齋叔家都是鬼菖蒲氏的旁支，我家主要負責醫藥占卜，他家主要負責武具裝備。要是恢復姓氏，應該叫“持國院”或者“等持院”……不記得了。鐵齋叔在這些事上多少有點顛三倒四，說的話難以全信，所謂誰負責醫藥占卜誰負責武具裝備，也像是他把我和我爹的事強加在祖先的身上，最好不要當真。\n什麼？……哈哈，免談。Missy被我叫局長會生氣，你要是在“星熊”兩個字上面加個莫名其妙的姓氏，我也會生氣的。像“須佐”、“星熊”這樣的名字，本來也不適合跟在姓氏後面。\n上次我來羅德島，倒是有個研究歷史的薩卡茲，看見我戰鬥時的藍色火焰，覺得我說不定和那位奎隆有什麼關係……反正我不信。我信他東遷給大炎和東國帶來了阿納薩和鬼，但再往下的揣測，沒有必要，也沒有意義。難道我是奎隆後裔，Missy就能幫我加薪嗎？\n……什麼叫“想不到你真的像是魏彥吾說的一樣文武雙全”，我們好不容易見一面，結果你就這樣調侃我嗎？已經很晚了，羅德島的訓練室沒人，要不要幫我、幫鐵齋叔了結一樁心願？\n嘖。兩三年過去了，你的酒量完全沒進步。沒意思。\n別逞強了，老陳，我扶你回房間吧。",
+                            "unLockType": "AWAKE",
+                            "unLockParam": "2;1",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "晉升記錄",
+                    "unLockorNot": true
+                }
+            ],
+            "handbookAvgList": []
+        },
+        "char_4182_oblvns": {
+            "charID": "char_4182_oblvns",
+            "infoName": "Unknown",
+            "isLimited": true,
+            "storyTextAudio": [
+                {
+                    "stories": [
+                        {
+                            "storyText": "【姓名】豐川祥子\n【性別】女\n【戰鬥經驗】沒有戰鬥經驗\n【出身地】未知\n【生日】2月14日\n【種族】未知\n【身高】155cm\n【礦石病感染情況】\n參照醫學檢測報告，確認為非感染者。",
+                            "unLockType": "DIRECT",
+                            "unLockParam": "",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "基礎檔案",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "【物理強度】普通\n【戰場機動】普通\n【生理耐受】普通\n【戰術規劃】優良\n【戰鬥技巧】標準\n【源石技藝適應性】■■",
+                            "unLockType": "DIRECT",
+                            "unLockParam": "",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "綜合體檢測試",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "Ave Mujica的鍵盤手豐川祥子。與其他成員一起暫居羅德島，在此期間，積極參與艦上的各項工作。不管是音樂上的造詣，還是行為禮儀，都彰顯了她不折不扣的名門大小姐身分。",
+                            "unLockType": "DIRECT",
+                            "unLockParam": "",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "客觀履歷",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "造影檢測結果顯示，該幹員體內臟器輪廓清晰，未見異常陰影，循環系統內源石顆粒檢測未見異常，無礦石病感染跡象，現階段可確認為非礦石病感染者。\n\n【體細胞與源石融合率】0%\n豐川祥子沒有被源石感染的跡象。\n\n【血液源石結晶密度】未公開\n根據醫療部決議，不公開相關數據。",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "25",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "臨床診斷分析",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "經過愛麗絲小姐的擔保，我們接納了包括豐川祥子在內的Ave Mujica的五名成員。愛麗絲告訴我們，希望羅德島能為這群孩子提供暫時居住的場所。考慮到她們遠離故鄉且年紀不大，我們想要讓Mujica的孩子們好好休息，但是她們每個人都不願意白白留宿。特別是祥子，她很強硬地表達了希望得到一些艦上的工作的要求，無論是怎樣的工作。",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "50",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "檔案資料一",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "祥子在艦上工作得十分積極。舉手投足都十足優雅的她，卻出乎意料地一直參與著各種基礎工作。無論是簡單的遞送資料，還是清潔、搬運等體力勞動，她從來沒有抱怨過苦和累，彷彿在來到羅德島前她就已經習慣了這樣繁重的工作。在她完成這些工作的時候，還總能帶著樂觀開朗的態度面對身邊的人。祥子總會關心身邊的幹員的狀況，為他人擔憂，她關切的笑容讓很多幹員留下了深刻的印象。",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "100",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "檔案資料二",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "從夢城堡來到羅德島的祥子，總是跟Mujica的大家一同行動。她們雖是一個整體，但是每個人都有著自己的想法，追求著不同的東西。明明性格迥異，但卻能緊密合作，而這都是因為祥子。\n祥子當然也會失誤，但是她總能勇於做出決定。祥子柔和而又堅定，正是有如此的她，才有如此的Ave Mujica。",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "150",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "檔案資料三",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "據我們的粗淺瞭解，祥子出身名門，自幼接受的教育塑造了她友愛關懷的一面。這樣的祥子因為憧憬學校裡的前輩而組建了自己的樂隊。後來她的家中遭遇了變故，父親因為公司遭到詐騙而引咎辭職，一蹶不振。祥子不得不退出了自己喜歡的樂隊，透過一份一份的零工來維持自己破碎的家庭。\n但祥子是個不願意服輸和妥協的人，她不希望在別人面前展露軟弱的一面。要強的她徹底告別了過去，組建起了新的樂隊Ave Mujica。然而Ave Mujica的發展也不如祥子所願，也有大家無法打開心扉的時候。祥子的堅持引發了大家的重大爭執，造成了成員的不和，但她同時也是那個最痛苦的人。她也會自責，也會迷茫，也會因為害怕而一次一次犯錯。\n如今在羅德島的她似乎有了一些變化，大概是在夢城堡裡經歷了什麼特別的事情吧。",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "200",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "檔案資料四",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "【愛麗絲記錄】\n祥子是一個主動、溫柔、積極，很重視身邊同伴的人，同時也是個總會一根筋向前，以至於不小心傷害身邊同伴的人。祥子的開朗總會吸引身邊的人一起跟隨她，卻也可能因此讓她容易忽視他人感受。\n祥子總是相信自己的決定。她覺得自己必須肩負身邊的人的一生，她從不會逃避這樣的責任。\n但是做到這一點遠比她想像中困難。\n她也會不成熟、會害怕，害怕自己的選擇會為別人帶來痛苦。她也會質疑自己，是否配得上同伴們的一生。\n在夢城堡的夢裡，祥子最終還是相信自己可以實踐自己的承諾。不管夢有多美好，她都要醒來去面對她真正的生活。\n當祥子真正從夢中醒來，她不會記得這裡發生的一切。但是我們絲毫不會懷疑，祥子在夢裡的這些經歷會留在她的潛意識裡，給予她勇氣——\n讓她勇敢面對自己、相信自己能肩負Ave Mujica走下去的勇氣。",
+                            "unLockType": "AWAKE",
+                            "unLockParam": "2;1",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "晉升記錄",
+                    "unLockorNot": true
+                }
+            ],
+            "handbookAvgList": []
+        },
+        "char_4186_tmoris": {
+            "charID": "char_4186_tmoris",
+            "infoName": "Unknown",
+            "isLimited": true,
+            "storyTextAudio": [
+                {
+                    "stories": [
+                        {
+                            "storyText": "【姓名】八幡海鈴\n【性別】女\n【戰鬥經驗】沒有戰鬥經驗\n【出身地】未知\n【生日】4月7日\n【種族】未知\n【身高】158cm\n【礦石病感染情況】\n參照醫學檢測報告，確認為非感染者。",
+                            "unLockType": "DIRECT",
+                            "unLockParam": "",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "基礎檔案",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "【物理強度】普通\n【戰場機動】普通\n【生理耐受】標準\n【戰術規劃】普通\n【戰鬥技巧】普通\n【源石技藝適應性】■■",
+                            "unLockType": "DIRECT",
+                            "unLockParam": "",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "綜合體檢測試",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "經愛麗絲介紹加入羅德島的幹員。Ave Mujica的貝斯手。不管是演奏中還是作戰中，八幡海鈴總是能展現出極高的專業度。",
+                            "unLockType": "DIRECT",
+                            "unLockParam": "",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "客觀履歷",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "造影檢測結果顯示，該幹員體內臟器輪廓清晰，未見異常陰影，循環系統內源石顆粒檢測未見異常，無礦石病感染跡象，現階段可確認為非礦石病感染者。\n\n【體細胞與源石融合率】0%\n八幡海鈴沒有被源石感染的跡象。\n\n【血液源石結晶密度】未公開\n根據醫療部決議，不公開相關數據。",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "25",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "臨床診斷分析",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "我們在一開始接觸Ave Mujica時，只覺得這是一支遇難的高中樂隊。當她們逐漸融入羅德島，並表示希望提供幫助時，我們對她們有了新的認識。\n八幡海鈴最令我們驚訝的地方在於，她快速地學習、實踐，積極地溝通、協作。就像是她的貝斯之於整個樂隊一樣，海鈴就是這樣一個能支持團隊的人。\n她總是冷靜沉穩、處變不驚，在很長一段時間裡，我們都覺得她是這樣的人。",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "50",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "檔案資料一",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "“海鈴啊，我們確實受了她很多幫助。她幫我們分擔了一部分規劃工作，制定了很多簡單易懂又容易執行的計劃，真的很可靠……”\n海鈴在羅德島上學習得很快，大家發現她總能快速地幫助各個部門清晰列出後續規劃和安排，很多小組都得到了海鈴或多或少的幫助。\n海鈴確實是一位完美的合作夥伴，她總能夠精準地理解任務的核心，並且一絲不苟地執行。\n那個孩子做事很認真，但她似乎跟我們保持著微妙的距離？羅德島的大家偶爾會產生這樣的感覺，不過轉念就會把它當成自己的錯覺。",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "100",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "檔案資料二",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "我們瞭解到，海鈴確實在刻意地保持距離。但這並不是因為她對大家有戒心。過去海鈴對自己加入的第一支樂隊付出了太多，為了樂隊的發展做了很多工作，結果海鈴的大量安排引起了樂隊成員的反感，最終樂隊解散，這件事導致她再也不敢對團隊工作投入過多感情。她開始恰到好處地保持安全距離，並且分散情感，以此構築起自己的心理防線。\n因為害怕失去，索性讓自己置身事外，海鈴正是這樣一個內心可愛而又笨拙的人。",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "150",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "檔案資料三",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "因為超強的貝斯實力和精湛的經營能力，我們甚至會偶爾忘記海鈴還是個年齡尚小的高中生。\n她對自己一直保持著極高的要求，她總是把自己的練習和工作安排得十分緊湊。\n遇到超出計劃的事情時，海鈴也會累積起壓力，然後來到羅德島商店購物消費。雖然店裡的幹員對此表示歡迎，還將海鈴雙手提滿購物袋的照片留作收藏，但也會因為她買得實在太多而勸說她住手。",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "200",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "檔案資料四",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "【愛麗絲記錄】\n她將會在潛意識裡面知道，自己不能得到別人信任的原因，是自己一直無法真心面對別人。\n她需要克服往事帶來的恐懼，走出自己為自己劃定的安全區域，重新對自己看重的夥伴付出真心。\n希望即使海鈴從夢中醒來，忘記了這裡的一切，夢裡的經歷仍然能化作她潛意識裡的勇氣——\n讓她能與他人真心相對的勇氣。",
+                            "unLockType": "AWAKE",
+                            "unLockParam": "2;1",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "晉升記錄",
+                    "unLockorNot": true
+                }
+            ],
+            "handbookAvgList": []
+        },
+        "char_4184_dolris": {
+            "charID": "char_4184_dolris",
+            "infoName": "Unknown",
+            "isLimited": true,
+            "storyTextAudio": [
+                {
+                    "stories": [
+                        {
+                            "storyText": "【姓名】三角初華\n【性別】女\n【戰鬥經驗】沒有戰鬥經驗\n【出身地】未知\n【生日】6月26日\n【種族】未知\n【身高】160cm\n【礦石病感染情況】\n參照醫學檢測報告，確認為非感染者。",
+                            "unLockType": "DIRECT",
+                            "unLockParam": "",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "基礎檔案",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "【物理強度】標準\n【戰場機動】標準\n【生理耐受】標準\n【戰術規劃】標準\n【戰鬥技巧】標準\n【源石技藝適應性】■■",
+                            "unLockType": "DIRECT",
+                            "unLockParam": "",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "綜合體檢測試",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "Ave Mujica的主唱兼吉他手三角初華。既是Mujica的成員，也是著名偶像組合sumimi的一員。擁有出眾的個人魅力，愛好觀星，總是把祥子掛在嘴邊。",
+                            "unLockType": "DIRECT",
+                            "unLockParam": "",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "客觀履歷",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "造影檢測結果顯示，該幹員體內臟器輪廓清晰，未見異常陰影，循環系統內源石顆粒檢測未見異常，無礦石病感染跡象，現階段可確認為非礦石病感染者。\n\n【體細胞與源石融合率】0%\n三角初華沒有被源石感染的跡象。\n\n【血液源石結晶密度】未公開\n根據醫療部決議，不公開相關數據。",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "25",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "臨床診斷分析",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "三角初華在羅德島與大家相處時，展現出了特別的親和力。她總是對大家笑顏相向，很快，大家就喜歡上了這樣的初華。初華踏實耐心地學習著羅德島上的事務，與Ave Mujica的其他同伴一起獲得了幹員們的信賴。",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "50",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "檔案資料一",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "明明還只是高一的學生，初華就已經在故鄉以偶像組合sumimi成員的身分出道，並且獲得了不小的成就。她有著極其美妙的歌喉、嫻熟的吉他技巧，還能夠自己作詞作曲，在多個方面刻苦學習提升自己。後來，初華受到祥子的邀請，加入了Ave Mujica。\n成為Mujica主唱的初華，無論何時都為樂隊貢獻著自己的全部力量，大家都能看出來，她是真的愛著這個樂隊。",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "100",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "檔案資料二",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "初華與祥子自小便相識，也是得益於這一層關係，祥子才能邀請到初華加入樂隊。對於初華來說，祥子不僅僅是她的好友，也是她一直以來憧憬的目標。\n她們兩個人在羅德島時，喜歡在夜間來到甲板上，一起看星星。泰拉的星空如此陌生，但是在這一刻的初華眼裡，它也是最珍貴的美景。",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "150",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "檔案資料三",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "在與Ave Mujica的成員們接觸的過程中，我們發現初華與其他人之間總會有一種淡淡的距離感。當然這並不是指初華不是一個真誠的人，而是說，她好像不太知道要怎樣展現自己的真實想法。比起說出自己所想，她總是更想要瞭解祥子所想。她對祥子除了關切和憧憬，似乎還有一些晦暗不明的感情。",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "200",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "檔案資料四",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "【愛麗絲記錄】\n初華一直活在內疚中。她明明已經站在了自己最嚮往的地方，站在了祥子的身邊，但她還是無法放下過去。她害怕現狀會被打破，所以她選擇止步不前。\n在祥子陷入痛苦時，她不敢靠近，因為她消極地認為自己的關心毫無作用。她覺得自己是騙子，是為祥子帶來痛苦的元兇。\n總有一天，她會明白，自己不能只是展現完美無瑕的笑容給身邊的人。她是她自己，不是其他人，她不能永遠隱藏起真正的自己。\n當初華醒來時，她不會記得在泰拉發生的一切。但是我們希望在這裡的經歷能化作她潛意識裡的勇氣——\n讓她能面對自己的過去和悲傷，並找到向前邁進的勇氣。",
+                            "unLockType": "AWAKE",
+                            "unLockParam": "2;1",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "晉升記錄",
+                    "unLockorNot": true
+                }
+            ],
+            "handbookAvgList": []
+        },
+        "char_4185_amoris": {
+            "charID": "char_4185_amoris",
+            "infoName": "Unknown",
+            "isLimited": true,
+            "storyTextAudio": [
+                {
+                    "stories": [
+                        {
+                            "storyText": "【姓名】祐天寺若麥\n【性別】女\n【戰鬥經驗】沒有戰鬥經驗\n【出身地】未知\n【生日】6月1日\n【種族】未知\n【身高】164cm\n【礦石病感染情況】\n參照醫學檢測報告，確認為非感染者。",
+                            "unLockType": "DIRECT",
+                            "unLockParam": "",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "基礎檔案",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "【物理強度】標準\n【戰場機動】普通\n【生理耐受】標準\n【戰術規劃】普通\n【戰鬥技巧】普通\n【源石技藝適應性】■■",
+                            "unLockType": "DIRECT",
+                            "unLockParam": "",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "綜合體檢測試",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "Ave Mujica的鼓手祐天寺若麥。一直積極輔助艦內各種溝通任務，是個率直的人。平時喜歡與澄閃一起為幹員們化妝，深受大家喜愛。",
+                            "unLockType": "DIRECT",
+                            "unLockParam": "",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "客觀履歷",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "造影檢測結果顯示，該幹員體內臟器輪廓清晰，未見異常陰影，循環系統內源石顆粒檢測未見異常，無礦石病感染跡象，現階段可確認為非礦石病感染者。\n\n【體細胞與源石融合率】0%\n祐天寺若麥沒有被源石感染的跡象。\n\n【血液源石結晶密度】未公開\n根據醫療部決議，不公開相關數據。",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "25",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "臨床診斷分析",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "來到羅德島的若麥小姐一開始就展現出了極強的好奇心。在完成工作之餘，她會在資料庫裡面花很多時間瞭解羅德島和泰拉相關的知識。我們詢問她是否需要幫助時總會被她笑著拒絕，真是神神秘秘的人啊。",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "50",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "檔案資料一",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "作為Mujica的鼓手，若麥有著較強的體能，大多數幹員對若麥充滿了好感。我們在跟若麥的短暫接觸中發現，她隨和且開朗，總能很快跟大家打成一片；她看起來十分熱情親切，卻很擅長察言觀色，總能很快注意到身邊人的情緒變化，讀出每個人真實的意願，並做出反應，緩和氣氛。\n她本人不太好意思承認，但是醫療部的幹員都能輕易地看出來，若麥是個善良的好孩子。",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "100",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "檔案資料二",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "在Ave Mujica，若麥能輕鬆地完成極其困難的演奏，在羅德島，她也總能得心應手地執行工作，我們本以為這都是她的天賦之才。\n我們後來瞭解到，讓她的技術爐火純青的不僅僅是天賦，她總是一個人偷偷地進行高強度的練習，從不間斷。若麥是個從來不願意停在原地的人，她似乎一直在默默地逼迫著自己前進，像是對停滯不前的自己感到憤怒和害怕一樣。\n希望至少在羅德島上，她能稍稍放緩自己的腳步，也讓自己休息休息。",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "150",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "檔案資料三",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "為了實現自己的理想，若麥願意拼盡全力不惜代價去努力。\n根據若麥的行動和Mujica隊員的隻言片語，我們這樣猜想。\n若麥習慣了去選擇自己覺得最快捷的道路，她不在意別人的看法，她甚至沒有多餘的時間去思考是否要放棄。\n她嫉妒著又憧憬著身邊那些真正的天才，那些不用像她一樣需要付出巨大努力的人，然後將這些情緒再默默化作自己的動力。",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "200",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "檔案資料四",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "【愛麗絲記錄】\n若麥覺得朝著目標直線前進是理所當然的，在她的生活中是，在夢中也是。\n好在她最後還是找回了自己捨棄的愛。\n當她從夢中醒來回到自己的生活，她不會記得這裡發生的一切。可能她依然會鞭策著自己不惜代價地去追求既定的目標，但是至少在夢中的這些經歷會留在她的潛意識裡，給予她勇氣——\n讓她去追尋自己所愛之物的勇氣。",
+                            "unLockType": "AWAKE",
+                            "unLockParam": "2;1",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "晉升記錄",
+                    "unLockorNot": true
+                }
+            ],
+            "handbookAvgList": []
+        },
+        "char_4183_mortis": {
+            "charID": "char_4183_mortis",
+            "infoName": "Unknown",
+            "isLimited": true,
+            "storyTextAudio": [
+                {
+                    "stories": [
+                        {
+                            "storyText": "【姓名】若葉睦\n【性別】女\n【戰鬥經驗】沒有戰鬥經驗\n【出身地】未知\n【生日】1月14日\n【種族】未知\n【身高】153cm\n【礦石病感染情況】\n參照醫學檢測報告，確認為非感染者。",
+                            "unLockType": "DIRECT",
+                            "unLockParam": "",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "基礎檔案",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "【物理強度】普通\n【戰場機動】普通\n【生理耐受】普通\n【戰術規劃】標準\n【戰鬥技巧】標準\n【源石技藝適應性】■■",
+                            "unLockType": "DIRECT",
+                            "unLockParam": "",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "綜合體檢測試",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "Ave Mujica的吉他手若葉睦。沉默寡言的她在羅德島上大多時候負責一些簡單的工作。除此以外，她還在療養庭院承包了一小塊區域，用作果蔬的栽培。",
+                            "unLockType": "DIRECT",
+                            "unLockParam": "",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "客觀履歷",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "造影檢測結果顯示，該幹員體內臟器輪廓清晰，未見異常陰影，循環系統內源石顆粒檢測未見異常，無礦石病感染跡象，現階段可確認為非礦石病感染者。\n\n【體細胞與源石融合率】0%\n若葉睦沒有被源石感染的跡象。\n\n【血液源石結晶密度】未公開\n根據醫療部決議，不公開相關數據。",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "25",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "臨床診斷分析",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "若葉睦同豐川祥子一樣來自名門世家。睦的父母都是當地十分有名的演員，所以睦自小就在各界的關注中成長，而她也是在那個時候成了祥子的好友。即使睦不善言辭，我們也能感受到她對祥子的重視，和她一直以來對祥子的默默支持。",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "50",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "檔案資料一",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "在羅德島上，睦也不太擅長跟他人交流。睦常常在祥子工作時從旁幫忙，做一些力所能及的事，基本不會主動獨自跟其他人交流。\n偶爾我們會發現睦一人在療養庭院裡照料蔬果。其他負責庭院的幹員想要跟她打招呼，她總是反應平淡，話也較少，沒有什麼情緒波動。不過幹員們發現，睦不僅好好地照料了自己那一小塊種植區，還幫助他人管理好了其他區域的植物。知曉這一切的幹員們都會默默地幫睦照顧她的植物，大家心照不宣地一起維護著庭院。\n後來，幹員們留意到自己的宿舍門口總會放著睦送來的紙袋，裡面裝著睦種植的小小蔬果，看來她也想要努力地向大家表達感謝。",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "100",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "檔案資料二",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "祥子囑託我們，希望羅德島的大家不要給睦太大的壓力。睦作為著名女演員和搞笑藝人的女兒，從小被整個演藝圈和大眾寄予厚望，而這種厚望恰恰是她最大的苦惱。明明拋開顯赫的家世，睦本質上只是個不善表達、心地善良的少女。\n祥子告訴我們，她知道自己並不能完全保護好睦，但是，她仍想要為睦建立一個能稍微安心的地方。",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "150",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "檔案資料三",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "即使不怎麼說話，大家也能知道，睦是一個內心溫柔的人。睦雖然沉默寡言，但是也總會盡自己努力完成任務。大家看到任務結束後睦提交的記錄就會感嘆，原來這個孩子把大家的話都認真聽進去了。她是如此在意身邊的人的願望，但也正是這種不想讓身邊的人失望的心情，成了睦最大的壓力。她不擅長把這種壓力帶來的痛苦告訴別人，只會自己逼迫自己。這對睦帶來了很多的困難，在這以前只有從小和她一起長大的朋友祥子對此有些微的瞭解，希望在羅德島上，有眾多幹員的幫助，她能少一些這樣的壓力。",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "200",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "檔案資料四",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "【愛麗絲記錄】\n睦一直被身邊的人注視著。那些來自母親父親的目光，來自演藝圈的目光，來自社會大眾的目光——似乎所有人都自顧自地期待著“若葉睦”成為他們想要的樣子。\n恐慌無助的睦，利用她那比母親更甚的“演技”，在各個場合裡“扮演”不同的“自己”——懂事的女兒、名演員的後代。\n出於自我保護，睦塑造了無數“角色”。這些“角色”一個個走上舞台，又一個個離開舞台，她已然麻木，一心只想成為別人期待的那個“若葉睦”。睦就是這樣一個被這些“角色”掩埋，自我變得模糊不清的尚不成熟的少女。\n當睦從故鄉醒來，希望在泰拉的這些經歷會留在她的潛意識裡，給予她勇氣——\n去接納每一個自己，不再讓任何一個自己死去的勇氣。",
                             "unLockType": "AWAKE",
                             "unLockParam": "2;1",
                             "showType": "DIRECT",
@@ -71858,6 +72709,136 @@
                 }
             ],
             "stageGetTime": 1772092800
+        },
+        "char_4146_nymph": {
+            "charId": "char_4146_nymph",
+            "stageId": "mem_nymph_1",
+            "levelId": "Obt/Memory/level_memory_nymph_1",
+            "zoneId": "storyMission",
+            "code": "mem_nymph_1",
+            "name": "直面心靈",
+            "loadingPicId": "loading_DM",
+            "description": "笞心魔的身分讓妮芙能敏銳地洞察他人所隱藏的心緒，但生長在卡茲戴爾，如果不守住心防，恐怕很快就會被那些可怕的心緒壓垮。可是妮芙不想一直逃避，她會一次次鼓起勇氣，重新去面對那些心靈的風暴，用自己的鑰索撐開一條道路。她確信，她已經在那沒有邊際的風暴中看見了一道曙光。",
+            "unlockParam": [
+                {
+                    "unlockType": "AWAKE",
+                    "unlockParam1": "2",
+                    "unlockParam2": "1",
+                    "unlockParam3": null
+                }
+            ],
+            "rewardItem": [
+                {
+                    "id": "4003",
+                    "count": 200,
+                    "type": "DIAMOND_SHD"
+                }
+            ],
+            "stageGetTime": 1775030400
+        },
+        "char_445_wscoot": {
+            "charId": "char_445_wscoot",
+            "stageId": "mem_wscoot_1",
+            "levelId": "Obt/Memory/level_memory_wscoot_1",
+            "zoneId": "storyMission",
+            "code": "mem_wscoot_1",
+            "name": "先禮後兵",
+            "loadingPicId": "loading_SN_Boat",
+            "description": "即便是匪徒擋道，也未必不能勸回去——騁風相信，摒棄暴力至上的做法，是帶著義幫的叔叔阿姨們金盆洗手的第一步。但如果對方苦苦相逼，他也不介意動武。",
+            "unlockParam": [
+                {
+                    "unlockType": "AWAKE",
+                    "unlockParam1": "2",
+                    "unlockParam2": "1",
+                    "unlockParam3": null
+                }
+            ],
+            "rewardItem": [
+                {
+                    "id": "4003",
+                    "count": 200,
+                    "type": "DIAMOND_SHD"
+                }
+            ],
+            "stageGetTime": 1775030400
+        },
+        "char_1038_whitw2": {
+            "charId": "char_1038_whitw2",
+            "stageId": "mem_whitw2_1",
+            "levelId": "Obt/Memory/level_memory_whitw2_1",
+            "zoneId": "storyMission",
+            "code": "mem_whitw2_1",
+            "name": "玩家",
+            "loadingPicId": "loading_SN_Boat",
+            "description": "拉普蘭德的敵人來自文明，也來自荒野。她找來的幫手也如是。",
+            "unlockParam": [
+                {
+                    "unlockType": "AWAKE",
+                    "unlockParam1": "2",
+                    "unlockParam2": "1",
+                    "unlockParam3": null
+                }
+            ],
+            "rewardItem": [
+                {
+                    "id": "4003",
+                    "count": 200,
+                    "type": "DIAMOND_SHD"
+                }
+            ],
+            "stageGetTime": 1775030400
+        },
+        "char_431_ashlok": {
+            "charId": "char_431_ashlok",
+            "stageId": "mem_ashlok_1",
+            "levelId": "Obt/Memory/level_memory_ashlok_1",
+            "zoneId": "storyMission",
+            "code": "mem_ashlok_1",
+            "name": "轟響",
+            "loadingPicId": "loading_Kazimierz_Final",
+            "description": "誰說灰毫是紅松騎士團裡戰術最保守的一個？你摀住耳朵，背對火光，躲在她身後。對於在卡西米爾生活過、戰鬥過的感染者騎士而言，進攻也只算一種防守。",
+            "unlockParam": [
+                {
+                    "unlockType": "AWAKE",
+                    "unlockParam1": "2",
+                    "unlockParam2": "1",
+                    "unlockParam3": null
+                }
+            ],
+            "rewardItem": [
+                {
+                    "id": "4003",
+                    "count": 200,
+                    "type": "DIAMOND_SHD"
+                }
+            ],
+            "stageGetTime": 1775030400
+        },
+        "char_4147_mitm": {
+            "charId": "char_4147_mitm",
+            "stageId": "mem_mitm_1",
+            "levelId": "Obt/Memory/level_memory_mitm_1",
+            "zoneId": "storyMission",
+            "code": "mem_mitm_1",
+            "name": "多管閒事",
+            "loadingPicId": "loading_DM",
+            "description": "“顧問”是如何成為“顧問”的，他自己也說不清。那些糾紛大抵本來與他無關，可他往旁邊一站，卻很難說服自己不要“多管閒事”。漸漸地，那些事便也成了他的事。",
+            "unlockParam": [
+                {
+                    "unlockType": "AWAKE",
+                    "unlockParam1": "2",
+                    "unlockParam2": "1",
+                    "unlockParam3": null
+                }
+            ],
+            "rewardItem": [
+                {
+                    "id": "4003",
+                    "count": 200,
+                    "type": "DIAMOND_SHD"
+                }
+            ],
+            "stageGetTime": 1775030400
         }
     },
     "handbookStageTime": [
@@ -72488,6 +73469,16 @@
                 "char_136_hsguma",
                 "char_4140_lasher",
                 "char_4139_papyrs"
+            ]
+        },
+        {
+            "timestamp": 1775030400,
+            "charSet": [
+                "char_4146_nymph",
+                "char_445_wscoot",
+                "char_1038_whitw2",
+                "char_431_ashlok",
+                "char_4147_mitm"
             ]
         }
     ]

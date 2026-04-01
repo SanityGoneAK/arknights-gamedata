@@ -91648,6 +91648,2821 @@
             "advancedRuneIdList2": [],
             "useSpecialSizeMapPreview": false
         },
+        "act45side_st01": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "main_01-10",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act45side_st01",
+            "levelId": null,
+            "zoneId": "act45side_zone1",
+            "code": "SS-ST-1",
+            "name": "路口的紅綠燈",
+            "description": "窸窸小雨中，少女一陣恍惚，清醒時已身在他鄉。",
+            "hardStagedId": null,
+            "sixStarStageId": null,
+            "dangerLevel": "-",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_SS_castleStage",
+            "canPractice": true,
+            "canBattleReplay": false,
+            "apCost": 0,
+            "apFailReturn": 0,
+            "maxSlot": -1,
+            "etItemId": null,
+            "etCost": -1,
+            "etFailReturn": -1,
+            "etButtonStyle": null,
+            "apProtectTimes": 0,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 0,
+            "dailyStageDifficulty": 0,
+            "expGain": 0,
+            "goldGain": 0,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 0,
+            "completeFavor": 0,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": true,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": false,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act45side_st01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act45side_tr01": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act45side_st01",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act45side_tr01",
+            "levelId": "Activities/act45side/level_act45side_tr01",
+            "zoneId": "act45side_zone1",
+            "code": "SS-TR-1",
+            "name": "吊橋外的月光",
+            "description": "巨大的絞盤轉動一圈，通向正門的吊橋緩緩放下。現在，向前邁步，去探索清冷月光下的城堡吧。\n<@lv.item><月光></>一段時間後順時針旋轉，照耀的單位隱匿失效且移動和攻擊速度提升\n<@lv.item><月影之繭></>可以阻擋月光",
+            "hardStagedId": null,
+            "sixStarStageId": null,
+            "dangerLevel": "LV.20",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_SS_castleHall",
+            "canPractice": false,
+            "canBattleReplay": false,
+            "apCost": 0,
+            "apFailReturn": 0,
+            "maxSlot": -1,
+            "etItemId": null,
+            "etCost": -1,
+            "etFailReturn": -1,
+            "etButtonStyle": null,
+            "apProtectTimes": 0,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": -1,
+            "dailyStageDifficulty": 0,
+            "expGain": 0,
+            "goldGain": 0,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 0,
+            "completeFavor": 0,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": true,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "TRAINING",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": false,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act45side_st01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act45side_01": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act45side_tr01",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act45side_01",
+            "levelId": "Activities/act45side/level_act45side_01",
+            "zoneId": "act45side_zone1",
+            "code": "SS-1",
+            "name": "花格窗邊的夢想",
+            "description": "這裡有懷抱著探險精神的訪客，也有不小心誤入的來賓。暗色金屬的窗格內，他們將見證同一個童話。\n<@lv.item><月光></>一段時間後逆時針旋轉，照耀的單位隱匿失效且移動和攻擊速度提升\n<@lv.item><月影之繭></>可以阻擋月光",
+            "hardStagedId": null,
+            "sixStarStageId": null,
+            "dangerLevel": "LV.35",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_SS_castleHall",
+            "canPractice": true,
+            "canBattleReplay": true,
+            "apCost": 9,
+            "apFailReturn": 9,
+            "maxSlot": -1,
+            "etItemId": null,
+            "etCost": -1,
+            "etFailReturn": -1,
+            "etButtonStyle": null,
+            "apProtectTimes": 0,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 1,
+            "dailyStageDifficulty": 0,
+            "expGain": 90,
+            "goldGain": 90,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 9,
+            "completeFavor": 9,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "ACTIVITY_ITEM",
+                        "id": "act45side_token_puzzlepieces",
+                        "dropType": "COMPLETE"
+                    },
+                    {
+                        "type": "ACTIVITY_ITEM",
+                        "id": "act45side_token_puzzlepieces",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "type": "MATERIAL",
+                        "id": "30031",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "type": "MATERIAL",
+                        "id": "30061",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "type": "MATERIAL",
+                        "id": "30041",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "type": "MATERIAL",
+                        "id": "30051",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "type": "MATERIAL",
+                        "id": "30021",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "type": "MATERIAL",
+                        "id": "30011",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "ACTIVITY_ITEM",
+                        "id": "act45side_token_puzzlepieces",
+                        "dropType": "COMPLETE"
+                    },
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "ACTIVITY_ITEM",
+                        "id": "act45side_token_puzzlepieces",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "occPercent": "OFTEN",
+                        "type": "MATERIAL",
+                        "id": "30031",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "occPercent": "OFTEN",
+                        "type": "MATERIAL",
+                        "id": "30061",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "occPercent": "OFTEN",
+                        "type": "MATERIAL",
+                        "id": "30041",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "occPercent": "OFTEN",
+                        "type": "MATERIAL",
+                        "id": "30051",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "occPercent": "OFTEN",
+                        "type": "MATERIAL",
+                        "id": "30021",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "occPercent": "USUAL",
+                        "type": "MATERIAL",
+                        "id": "30011",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": true,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act45side_st01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act45side_02": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act45side_01",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act45side_02",
+            "levelId": "Activities/act45side/level_act45side_02",
+            "zoneId": "act45side_zone1",
+            "code": "SS-2",
+            "name": "寂靜長廊的兩端",
+            "description": "你們剛才有沒有看到走廊盡頭的那隻娃娃睜開眼睛了？錯覺？那我們身後這一隻娃娃又是什麼時候出現的？\n<@lv.item><月光></>一段時間後逆時針旋轉，照耀的單位隱匿失效且移動和攻擊速度提升\n<@lv.item><月影之繭></>可以阻擋月光",
+            "hardStagedId": null,
+            "sixStarStageId": null,
+            "dangerLevel": "精英1 LV.1",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_SS_castleHall",
+            "canPractice": true,
+            "canBattleReplay": true,
+            "apCost": 9,
+            "apFailReturn": 9,
+            "maxSlot": -1,
+            "etItemId": null,
+            "etCost": -1,
+            "etFailReturn": -1,
+            "etButtonStyle": null,
+            "apProtectTimes": 0,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 1,
+            "dailyStageDifficulty": 0,
+            "expGain": 90,
+            "goldGain": 90,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 9,
+            "completeFavor": 9,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "ACTIVITY_ITEM",
+                        "id": "act45side_token_puzzlepieces",
+                        "dropType": "COMPLETE"
+                    },
+                    {
+                        "type": "ACTIVITY_ITEM",
+                        "id": "act45side_token_puzzlepieces",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "type": "MATERIAL",
+                        "id": "30031",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "type": "MATERIAL",
+                        "id": "30061",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "type": "MATERIAL",
+                        "id": "30041",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "type": "MATERIAL",
+                        "id": "30051",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "type": "MATERIAL",
+                        "id": "30021",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "type": "MATERIAL",
+                        "id": "30011",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "ACTIVITY_ITEM",
+                        "id": "act45side_token_puzzlepieces",
+                        "dropType": "COMPLETE"
+                    },
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "ACTIVITY_ITEM",
+                        "id": "act45side_token_puzzlepieces",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "occPercent": "OFTEN",
+                        "type": "MATERIAL",
+                        "id": "30031",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "occPercent": "OFTEN",
+                        "type": "MATERIAL",
+                        "id": "30061",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "occPercent": "OFTEN",
+                        "type": "MATERIAL",
+                        "id": "30041",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "occPercent": "OFTEN",
+                        "type": "MATERIAL",
+                        "id": "30051",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "occPercent": "OFTEN",
+                        "type": "MATERIAL",
+                        "id": "30021",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "occPercent": "USUAL",
+                        "type": "MATERIAL",
+                        "id": "30011",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": true,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act45side_st01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act45side_03": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act45side_02",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act45side_03",
+            "levelId": "Activities/act45side/level_act45side_03",
+            "zoneId": "act45side_zone1",
+            "code": "SS-3",
+            "name": "音樂室內的光芒",
+            "description": "月光恰好灑在管風琴前的琴椅上，就像是城堡發出的一份特殊邀請，期盼有人能將讚頌永夜的旋律奏響。\n<@lv.item><月光></>一段時間後逆時針旋轉，照耀的單位隱匿失效且移動和攻擊速度提升\n<@lv.item><月影之繭></>可以阻擋月光",
+            "hardStagedId": null,
+            "sixStarStageId": null,
+            "dangerLevel": "精英1 LV.20",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_SS_castleHall",
+            "canPractice": true,
+            "canBattleReplay": true,
+            "apCost": 12,
+            "apFailReturn": 12,
+            "maxSlot": -1,
+            "etItemId": null,
+            "etCost": -1,
+            "etFailReturn": -1,
+            "etButtonStyle": null,
+            "apProtectTimes": 0,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 1,
+            "dailyStageDifficulty": 0,
+            "expGain": 120,
+            "goldGain": 120,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 12,
+            "completeFavor": 12,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "ACTIVITY_ITEM",
+                        "id": "act45side_token_puzzlepieces",
+                        "dropType": "COMPLETE"
+                    },
+                    {
+                        "type": "ACTIVITY_ITEM",
+                        "id": "act45side_token_puzzlepieces",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "type": "MATERIAL",
+                        "id": "30032",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "type": "MATERIAL",
+                        "id": "30062",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "ACTIVITY_ITEM",
+                        "id": "act45side_token_puzzlepieces",
+                        "dropType": "COMPLETE"
+                    },
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "ACTIVITY_ITEM",
+                        "id": "act45side_token_puzzlepieces",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "MATERIAL",
+                        "id": "30032",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "occPercent": "OFTEN",
+                        "type": "MATERIAL",
+                        "id": "30062",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": true,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act45side_st01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act45side_04": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act45side_03",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act45side_04",
+            "levelId": "Activities/act45side/level_act45side_04",
+            "zoneId": "act45side_zone1",
+            "code": "SS-4",
+            "name": "名為客房區的迷宮",
+            "description": "每一扇門都沒有任何標示，每一間客房的布置都完全一樣。迷失對於訪客來說是折磨，但對夢的主人而言卻是樂趣。\n<@lv.item><月光></>一段時間後逆時針旋轉，照耀的單位隱匿失效且移動和攻擊速度提升\n<@lv.item><月影之繭></>可以阻擋月光",
+            "hardStagedId": null,
+            "sixStarStageId": null,
+            "dangerLevel": "精英1 LV.30",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_SS_castleHall",
+            "canPractice": true,
+            "canBattleReplay": true,
+            "apCost": 12,
+            "apFailReturn": 12,
+            "maxSlot": -1,
+            "etItemId": null,
+            "etCost": -1,
+            "etFailReturn": -1,
+            "etButtonStyle": null,
+            "apProtectTimes": 0,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 1,
+            "dailyStageDifficulty": 0,
+            "expGain": 120,
+            "goldGain": 120,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 12,
+            "completeFavor": 12,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "ACTIVITY_ITEM",
+                        "id": "act45side_token_puzzlepieces",
+                        "dropType": "COMPLETE"
+                    },
+                    {
+                        "type": "ACTIVITY_ITEM",
+                        "id": "act45side_token_puzzlepieces",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "type": "MATERIAL",
+                        "id": "30042",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "type": "MATERIAL",
+                        "id": "30022",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "ACTIVITY_ITEM",
+                        "id": "act45side_token_puzzlepieces",
+                        "dropType": "COMPLETE"
+                    },
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "ACTIVITY_ITEM",
+                        "id": "act45side_token_puzzlepieces",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "occPercent": "ALMOST",
+                        "type": "MATERIAL",
+                        "id": "30042",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "occPercent": "USUAL",
+                        "type": "MATERIAL",
+                        "id": "30022",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": true,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act45side_st01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act45side_05": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act45side_04",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act45side_05",
+            "levelId": "Activities/act45side/level_act45side_05",
+            "zoneId": "act45side_zone1",
+            "code": "SS-5",
+            "name": "通往舞會的邀請函",
+            "description": "衣帽已穿戴妥當，儀容也整理完畢，只差一封邀請函，就能參加童話中的舞會。\n<@lv.item><月光></>一段時間後順時針旋轉，照耀的單位隱匿失效且移動和攻擊速度提升\n<@lv.item><月影之繭></>可以阻擋月光",
+            "hardStagedId": null,
+            "sixStarStageId": null,
+            "dangerLevel": "精英1 LV.50",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_SS_castleHall",
+            "canPractice": true,
+            "canBattleReplay": true,
+            "apCost": 12,
+            "apFailReturn": 12,
+            "maxSlot": -1,
+            "etItemId": null,
+            "etCost": -1,
+            "etFailReturn": -1,
+            "etButtonStyle": null,
+            "apProtectTimes": 0,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 1,
+            "dailyStageDifficulty": 0,
+            "expGain": 120,
+            "goldGain": 120,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 12,
+            "completeFavor": 12,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "ACTIVITY_ITEM",
+                        "id": "act45side_token_puzzlepieces",
+                        "dropType": "COMPLETE"
+                    },
+                    {
+                        "type": "ACTIVITY_ITEM",
+                        "id": "act45side_token_puzzlepieces",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "type": "MATERIAL",
+                        "id": "30052",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "type": "MATERIAL",
+                        "id": "30012",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "ACTIVITY_ITEM",
+                        "id": "act45side_token_puzzlepieces",
+                        "dropType": "COMPLETE"
+                    },
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "ACTIVITY_ITEM",
+                        "id": "act45side_token_puzzlepieces",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "occPercent": "ALMOST",
+                        "type": "MATERIAL",
+                        "id": "30052",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "occPercent": "ALMOST",
+                        "type": "MATERIAL",
+                        "id": "30012",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": true,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act45side_st01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act45side_06": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act45side_05",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act45side_06",
+            "levelId": "Activities/act45side/level_act45side_06",
+            "zoneId": "act45side_zone1",
+            "code": "SS-6",
+            "name": "回聲飄蕩的大廳",
+            "description": "駐足看看那些具有雕刻的立柱，還有腳下的花紋地板。仔細聽，這迴盪的腳步聲是從何而來？\n<@lv.item><月光></>一段時間後逆時針旋轉，照耀的單位隱匿失效且移動和攻擊速度提升\n<@lv.item><月影之繭></>可以阻擋月光",
+            "hardStagedId": null,
+            "sixStarStageId": null,
+            "dangerLevel": "精英1 LV.60",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_SS_castleHall",
+            "canPractice": true,
+            "canBattleReplay": true,
+            "apCost": 21,
+            "apFailReturn": 21,
+            "maxSlot": -1,
+            "etItemId": null,
+            "etCost": -1,
+            "etFailReturn": -1,
+            "etButtonStyle": null,
+            "apProtectTimes": 0,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 1,
+            "dailyStageDifficulty": 0,
+            "expGain": 210,
+            "goldGain": 210,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 21,
+            "completeFavor": 21,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "ACTIVITY_ITEM",
+                        "id": "act45side_token_puzzlepieces",
+                        "dropType": "COMPLETE"
+                    },
+                    {
+                        "type": "ACTIVITY_ITEM",
+                        "id": "act45side_token_puzzlepieces",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "type": "MATERIAL",
+                        "id": "30033",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "ACTIVITY_ITEM",
+                        "id": "act45side_token_puzzlepieces",
+                        "dropType": "COMPLETE"
+                    },
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "ACTIVITY_ITEM",
+                        "id": "act45side_token_puzzlepieces",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "occPercent": "ALMOST",
+                        "type": "MATERIAL",
+                        "id": "30033",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": true,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act45side_st01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act45side_07": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act45side_06",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act45side_07",
+            "levelId": "Activities/act45side/level_act45side_07",
+            "zoneId": "act45side_zone1",
+            "code": "SS-7",
+            "name": "永恆絢爛的藏品",
+            "description": "在不醒童話之中，一切美好都是永恆。\n<@lv.item><月光></>一段時間後順時針旋轉，照耀的單位隱匿失效且移動和攻擊速度提升\n<@lv.item><月影之繭></>可以阻擋月光",
+            "hardStagedId": null,
+            "sixStarStageId": null,
+            "dangerLevel": "精英2 LV.10",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_SS_castleHall",
+            "canPractice": true,
+            "canBattleReplay": true,
+            "apCost": 21,
+            "apFailReturn": 21,
+            "maxSlot": -1,
+            "etItemId": null,
+            "etCost": -1,
+            "etFailReturn": -1,
+            "etButtonStyle": null,
+            "apProtectTimes": 0,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 1,
+            "dailyStageDifficulty": 0,
+            "expGain": 210,
+            "goldGain": 210,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 21,
+            "completeFavor": 21,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "ACTIVITY_ITEM",
+                        "id": "act45side_token_puzzlepieces",
+                        "dropType": "COMPLETE"
+                    },
+                    {
+                        "type": "ACTIVITY_ITEM",
+                        "id": "act45side_token_puzzlepieces",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "type": "MATERIAL",
+                        "id": "31063",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "ACTIVITY_ITEM",
+                        "id": "act45side_token_puzzlepieces",
+                        "dropType": "COMPLETE"
+                    },
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "ACTIVITY_ITEM",
+                        "id": "act45side_token_puzzlepieces",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "occPercent": "USUAL",
+                        "type": "MATERIAL",
+                        "id": "31063",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": true,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act45side_st01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act45side_08": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act45side_07",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act45side_08",
+            "levelId": "Activities/act45side/level_act45side_08",
+            "zoneId": "act45side_zone1",
+            "code": "SS-8",
+            "name": "童話的開場",
+            "description": "童話的劇本已然寫就，舞台的布景已等候多時。別急著離開——精彩的故事將由你們來演繹。\n<@lv.item><月光></>一段時間後逆時針旋轉，照耀的單位隱匿失效且移動和攻擊速度提升\n<@lv.item><月影之繭></>可以阻擋月光\n<@lv.rem>遠程幹員可部署於部分近戰位</>",
+            "hardStagedId": null,
+            "sixStarStageId": null,
+            "dangerLevel": "精英2 LV.20",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_SS_castleStage",
+            "canPractice": true,
+            "canBattleReplay": true,
+            "apCost": 21,
+            "apFailReturn": 21,
+            "maxSlot": -1,
+            "etItemId": null,
+            "etCost": -1,
+            "etFailReturn": -1,
+            "etButtonStyle": null,
+            "apProtectTimes": 0,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 1,
+            "dailyStageDifficulty": 0,
+            "expGain": 210,
+            "goldGain": 210,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 21,
+            "completeFavor": 21,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": true,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "ACTIVITY_ITEM",
+                        "id": "act45side_token_puzzlepieces",
+                        "dropType": "COMPLETE"
+                    },
+                    {
+                        "type": "ACTIVITY_ITEM",
+                        "id": "act45side_token_puzzlepieces",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "type": "MATERIAL",
+                        "id": "31073",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "ACTIVITY_ITEM",
+                        "id": "act45side_token_puzzlepieces",
+                        "dropType": "COMPLETE"
+                    },
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "ACTIVITY_ITEM",
+                        "id": "act45side_token_puzzlepieces",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "occPercent": "USUAL",
+                        "type": "MATERIAL",
+                        "id": "31073",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": true,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act45side_st01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act45side_ex01": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act45side_08",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act45side_ex01",
+            "levelId": "Activities/act45side/level_act45side_ex01",
+            "zoneId": "act45side_zone2",
+            "code": "SS-EX-1",
+            "name": "第一篇·糖果小屋",
+            "description": "一篇無需擔憂疾病的甜蜜童話。\n<@lv.item><月光></>一段時間後逆時針旋轉，照耀的單位隱匿失效且移動和攻擊速度提升\n<@lv.item><月影之繭></>可以阻擋月光",
+            "hardStagedId": "act45side_ex01#f#",
+            "sixStarStageId": null,
+            "dangerLevel": "精英1 LV.50",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_SS_castleHall",
+            "canPractice": true,
+            "canBattleReplay": true,
+            "apCost": 10,
+            "apFailReturn": 10,
+            "maxSlot": -1,
+            "etItemId": null,
+            "etCost": -1,
+            "etFailReturn": -1,
+            "etButtonStyle": null,
+            "apProtectTimes": 0,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 1,
+            "dailyStageDifficulty": 0,
+            "expGain": 100,
+            "goldGain": 100,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 10,
+            "completeFavor": 10,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "ACTIVITY_ITEM",
+                        "id": "act45side_token_puzzlepieces",
+                        "dropType": "COMPLETE"
+                    },
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "ACTIVITY_ITEM",
+                        "id": "act45side_token_puzzlepieces",
+                        "dropType": "COMPLETE"
+                    },
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": true,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act45side_ex01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act45side_ex01#f#": {
+            "stageType": "ACTIVITY",
+            "difficulty": "FOUR_STAR",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "main_02-08",
+                    "completeState": "PASS"
+                },
+                {
+                    "stageId": "act45side_ex01",
+                    "completeState": "COMPLETE"
+                }
+            ],
+            "stageId": "act45side_ex01#f#",
+            "levelId": "Activities/act45side/level_act45side_ex01",
+            "zoneId": "act45side_zone2",
+            "code": "SS-EX-1",
+            "name": "第一篇·糖果小屋",
+            "description": "<@lv.fs>附加條件：</>\n敵人處於月光下提升更多攻擊速度，且布景大師吹起氣球後獲得屏障大幅提升",
+            "hardStagedId": null,
+            "sixStarStageId": null,
+            "dangerLevel": "-",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_SS_castleHall",
+            "canPractice": true,
+            "canBattleReplay": false,
+            "apCost": 10,
+            "apFailReturn": 10,
+            "maxSlot": -1,
+            "etItemId": null,
+            "etCost": -1,
+            "etFailReturn": -1,
+            "etButtonStyle": null,
+            "apProtectTimes": 0,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 3,
+            "dailyStageDifficulty": 0,
+            "expGain": 100,
+            "goldGain": 100,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 10,
+            "completeFavor": 10,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": false,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act45side_ex01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act45side_ex02": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act45side_ex01",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act45side_ex02",
+            "levelId": "Activities/act45side/level_act45side_ex02",
+            "zoneId": "act45side_zone2",
+            "code": "SS-EX-2",
+            "name": "第二篇·玩具盒子",
+            "description": "一篇無需擔憂孤獨的歡快童話。\n<@lv.item><月光></>一段時間後順時針旋轉，照耀的單位隱匿失效且移動和攻擊速度提升\n<@lv.item><月影之繭></>可以阻擋月光",
+            "hardStagedId": "act45side_ex02#f#",
+            "sixStarStageId": null,
+            "dangerLevel": "精英1 LV.60",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_SS_castleHall",
+            "canPractice": true,
+            "canBattleReplay": true,
+            "apCost": 10,
+            "apFailReturn": 10,
+            "maxSlot": -1,
+            "etItemId": null,
+            "etCost": -1,
+            "etFailReturn": -1,
+            "etButtonStyle": null,
+            "apProtectTimes": 0,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 1,
+            "dailyStageDifficulty": 0,
+            "expGain": 100,
+            "goldGain": 100,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 10,
+            "completeFavor": 10,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "ACTIVITY_ITEM",
+                        "id": "act45side_token_puzzlepieces",
+                        "dropType": "COMPLETE"
+                    },
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "ACTIVITY_ITEM",
+                        "id": "act45side_token_puzzlepieces",
+                        "dropType": "COMPLETE"
+                    },
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": true,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act45side_ex01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act45side_ex02#f#": {
+            "stageType": "ACTIVITY",
+            "difficulty": "FOUR_STAR",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "main_02-08",
+                    "completeState": "PASS"
+                },
+                {
+                    "stageId": "act45side_ex02",
+                    "completeState": "COMPLETE"
+                }
+            ],
+            "stageId": "act45side_ex02#f#",
+            "levelId": "Activities/act45side/level_act45side_ex02",
+            "zoneId": "act45side_zone2",
+            "code": "SS-EX-2",
+            "name": "第二篇·玩具盒子",
+            "description": "<@lv.fs>附加條件：</>\n出現額外的暗黑發條僕從且其防禦力提升",
+            "hardStagedId": null,
+            "sixStarStageId": null,
+            "dangerLevel": "-",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_SS_castleHall",
+            "canPractice": true,
+            "canBattleReplay": false,
+            "apCost": 10,
+            "apFailReturn": 10,
+            "maxSlot": -1,
+            "etItemId": null,
+            "etCost": -1,
+            "etFailReturn": -1,
+            "etButtonStyle": null,
+            "apProtectTimes": 0,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 3,
+            "dailyStageDifficulty": 0,
+            "expGain": 100,
+            "goldGain": 100,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 10,
+            "completeFavor": 10,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": false,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act45side_ex01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act45side_ex03": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act45side_ex02",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act45side_ex03",
+            "levelId": "Activities/act45side/level_act45side_ex03",
+            "zoneId": "act45side_zone2",
+            "code": "SS-EX-3",
+            "name": "第三篇·閃亮翅膀",
+            "description": "一篇無需擔憂沉淪的輕鬆童話。\n<@lv.item><月光></>一段時間後逆時針旋轉，照耀的單位隱匿失效且移動和攻擊速度提升\n<@lv.item><月影之繭></>可以阻擋月光",
+            "hardStagedId": "act45side_ex03#f#",
+            "sixStarStageId": null,
+            "dangerLevel": "精英2 LV.1",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_SS_castleHall",
+            "canPractice": true,
+            "canBattleReplay": true,
+            "apCost": 15,
+            "apFailReturn": 15,
+            "maxSlot": -1,
+            "etItemId": null,
+            "etCost": -1,
+            "etFailReturn": -1,
+            "etButtonStyle": null,
+            "apProtectTimes": 0,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 1,
+            "dailyStageDifficulty": 0,
+            "expGain": 150,
+            "goldGain": 150,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 15,
+            "completeFavor": 15,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "ACTIVITY_ITEM",
+                        "id": "act45side_token_puzzlepieces",
+                        "dropType": "COMPLETE"
+                    },
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "ACTIVITY_ITEM",
+                        "id": "act45side_token_puzzlepieces",
+                        "dropType": "COMPLETE"
+                    },
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": true,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act45side_ex01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act45side_ex03#f#": {
+            "stageType": "ACTIVITY",
+            "difficulty": "FOUR_STAR",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "main_02-08",
+                    "completeState": "PASS"
+                },
+                {
+                    "stageId": "act45side_ex03",
+                    "completeState": "COMPLETE"
+                }
+            ],
+            "stageId": "act45side_ex03#f#",
+            "levelId": "Activities/act45side/level_act45side_ex03",
+            "zoneId": "act45side_zone2",
+            "code": "SS-EX-3",
+            "name": "第三篇·閃亮翅膀",
+            "description": "<@lv.fs>附加條件：</>\n歡快的卡爾頓生命值大幅提升",
+            "hardStagedId": null,
+            "sixStarStageId": null,
+            "dangerLevel": "-",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_SS_castleHall",
+            "canPractice": true,
+            "canBattleReplay": false,
+            "apCost": 15,
+            "apFailReturn": 15,
+            "maxSlot": -1,
+            "etItemId": null,
+            "etCost": -1,
+            "etFailReturn": -1,
+            "etButtonStyle": null,
+            "apProtectTimes": 0,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 3,
+            "dailyStageDifficulty": 0,
+            "expGain": 150,
+            "goldGain": 150,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 15,
+            "completeFavor": 15,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": false,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act45side_ex01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act45side_ex04": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act45side_ex03",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act45side_ex04",
+            "levelId": "Activities/act45side/level_act45side_ex04",
+            "zoneId": "act45side_zone2",
+            "code": "SS-EX-4",
+            "name": "第四篇·輕輕眨眼",
+            "description": "一篇無需擔憂喧囂的靜謐童話。\n<@lv.item><月光></>一段時間後逆時針旋轉，照耀的單位隱匿失效且移動和攻擊速度提升\n<@lv.item><月影之繭></>可以阻擋月光",
+            "hardStagedId": "act45side_ex04#f#",
+            "sixStarStageId": null,
+            "dangerLevel": "精英2 LV.1",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_SS_castleHall",
+            "canPractice": true,
+            "canBattleReplay": true,
+            "apCost": 15,
+            "apFailReturn": 15,
+            "maxSlot": -1,
+            "etItemId": null,
+            "etCost": -1,
+            "etFailReturn": -1,
+            "etButtonStyle": null,
+            "apProtectTimes": 0,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 1,
+            "dailyStageDifficulty": 0,
+            "expGain": 150,
+            "goldGain": 150,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 15,
+            "completeFavor": 15,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "ACTIVITY_ITEM",
+                        "id": "act45side_token_puzzlepieces",
+                        "dropType": "COMPLETE"
+                    },
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "ACTIVITY_ITEM",
+                        "id": "act45side_token_puzzlepieces",
+                        "dropType": "COMPLETE"
+                    },
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": true,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act45side_ex01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act45side_ex04#f#": {
+            "stageType": "ACTIVITY",
+            "difficulty": "FOUR_STAR",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "main_02-08",
+                    "completeState": "PASS"
+                },
+                {
+                    "stageId": "act45side_ex04",
+                    "completeState": "COMPLETE"
+                }
+            ],
+            "stageId": "act45side_ex04#f#",
+            "levelId": "Activities/act45side/level_act45side_ex04",
+            "zoneId": "act45side_zone2",
+            "code": "SS-EX-4",
+            "name": "第四篇·輕輕眨眼",
+            "description": "<@lv.fs>附加條件：</>\n沃爾夫幽影的攻擊範圍擴大，但攻擊速度降低",
+            "hardStagedId": null,
+            "sixStarStageId": null,
+            "dangerLevel": "-",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_SS_castleHall",
+            "canPractice": true,
+            "canBattleReplay": false,
+            "apCost": 15,
+            "apFailReturn": 15,
+            "maxSlot": -1,
+            "etItemId": null,
+            "etCost": -1,
+            "etFailReturn": -1,
+            "etButtonStyle": null,
+            "apProtectTimes": 0,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 3,
+            "dailyStageDifficulty": 0,
+            "expGain": 150,
+            "goldGain": 150,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 15,
+            "completeFavor": 15,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": false,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act45side_ex01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act45side_ex05": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act45side_ex04",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act45side_ex05",
+            "levelId": "Activities/act45side/level_act45side_ex05",
+            "zoneId": "act45side_zone2",
+            "code": "SS-EX-5",
+            "name": "第五篇·羽絨被褥",
+            "description": "一篇無需擔憂睏倦的安詳童話。\n<@lv.item><月光></>一段時間後順時針旋轉，照耀的單位隱匿失效且移動和攻擊速度提升\n<@lv.item><月影之繭></>可以阻擋月光",
+            "hardStagedId": "act45side_ex05#f#",
+            "sixStarStageId": null,
+            "dangerLevel": "精英2 LV.10",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_SS_castleHall",
+            "canPractice": true,
+            "canBattleReplay": true,
+            "apCost": 15,
+            "apFailReturn": 15,
+            "maxSlot": -1,
+            "etItemId": null,
+            "etCost": -1,
+            "etFailReturn": -1,
+            "etButtonStyle": null,
+            "apProtectTimes": 0,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 1,
+            "dailyStageDifficulty": 0,
+            "expGain": 150,
+            "goldGain": 150,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 15,
+            "completeFavor": 15,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "ACTIVITY_ITEM",
+                        "id": "act45side_token_puzzlepieces",
+                        "dropType": "COMPLETE"
+                    },
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "ACTIVITY_ITEM",
+                        "id": "act45side_token_puzzlepieces",
+                        "dropType": "COMPLETE"
+                    },
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": true,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act45side_ex01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act45side_ex05#f#": {
+            "stageType": "ACTIVITY",
+            "difficulty": "FOUR_STAR",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "main_02-08",
+                    "completeState": "PASS"
+                },
+                {
+                    "stageId": "act45side_ex05",
+                    "completeState": "COMPLETE"
+                }
+            ],
+            "stageId": "act45side_ex05#f#",
+            "levelId": "Activities/act45side/level_act45side_ex05",
+            "zoneId": "act45side_zone2",
+            "code": "SS-EX-5",
+            "name": "第五篇·羽絨被褥",
+            "description": "<@lv.fs>附加條件：</>\n沉眠伴隨獸的移動速度提升，關卡內一個部署位無法部署",
+            "hardStagedId": null,
+            "sixStarStageId": null,
+            "dangerLevel": "-",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_SS_castleHall",
+            "canPractice": true,
+            "canBattleReplay": false,
+            "apCost": 15,
+            "apFailReturn": 15,
+            "maxSlot": -1,
+            "etItemId": null,
+            "etCost": -1,
+            "etFailReturn": -1,
+            "etButtonStyle": null,
+            "apProtectTimes": 0,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 3,
+            "dailyStageDifficulty": 0,
+            "expGain": 150,
+            "goldGain": 150,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 15,
+            "completeFavor": 15,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": false,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act45side_ex01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act45side_ex06": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act45side_ex05",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act45side_ex06",
+            "levelId": "Activities/act45side/level_act45side_ex06",
+            "zoneId": "act45side_zone2",
+            "code": "SS-EX-6",
+            "name": "第六篇·鏡中茶會",
+            "description": "一篇無需擔憂煩悶的熱情童話。\n<@lv.item><月光></>一段時間後順時針旋轉，照耀的單位隱匿失效且移動和攻擊速度提升\n<@lv.item><月影之繭></>可以阻擋月光",
+            "hardStagedId": "act45side_ex06#f#",
+            "sixStarStageId": null,
+            "dangerLevel": "精英2 LV.20",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_SS_castleHall",
+            "canPractice": true,
+            "canBattleReplay": true,
+            "apCost": 15,
+            "apFailReturn": 15,
+            "maxSlot": -1,
+            "etItemId": null,
+            "etCost": -1,
+            "etFailReturn": -1,
+            "etButtonStyle": null,
+            "apProtectTimes": 0,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 1,
+            "dailyStageDifficulty": 0,
+            "expGain": 150,
+            "goldGain": 150,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 15,
+            "completeFavor": 15,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "ACTIVITY_ITEM",
+                        "id": "act45side_token_puzzlepieces",
+                        "dropType": "COMPLETE"
+                    },
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "ACTIVITY_ITEM",
+                        "id": "act45side_token_puzzlepieces",
+                        "dropType": "COMPLETE"
+                    },
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": true,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act45side_ex01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act45side_ex06#f#": {
+            "stageType": "ACTIVITY",
+            "difficulty": "FOUR_STAR",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "main_02-08",
+                    "completeState": "PASS"
+                },
+                {
+                    "stageId": "act45side_ex06",
+                    "completeState": "COMPLETE"
+                }
+            ],
+            "stageId": "act45side_ex06#f#",
+            "levelId": "Activities/act45side/level_act45side_ex06",
+            "zoneId": "act45side_zone2",
+            "code": "SS-EX-6",
+            "name": "第六篇·鏡中茶會",
+            "description": "<@lv.fs>附加條件：</>\n出現額外的“羽化之夢”",
+            "hardStagedId": null,
+            "sixStarStageId": null,
+            "dangerLevel": "-",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_SS_castleHall",
+            "canPractice": true,
+            "canBattleReplay": false,
+            "apCost": 15,
+            "apFailReturn": 15,
+            "maxSlot": -1,
+            "etItemId": null,
+            "etCost": -1,
+            "etFailReturn": -1,
+            "etButtonStyle": null,
+            "apProtectTimes": 0,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 3,
+            "dailyStageDifficulty": 0,
+            "expGain": 150,
+            "goldGain": 150,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 15,
+            "completeFavor": 15,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": false,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act45side_ex01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act45side_ex07": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act45side_ex06",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act45side_ex07",
+            "levelId": "Activities/act45side/level_act45side_ex07",
+            "zoneId": "act45side_zone2",
+            "code": "SS-EX-7",
+            "name": "第七篇·月下幻夢",
+            "description": "一篇無需擔憂悲傷的夢幻童話。\n<@lv.item><月光></>一段時間後逆時針旋轉，照耀的單位隱匿失效且移動和攻擊速度提升\n<@lv.item><月影之繭></>可以阻擋月光",
+            "hardStagedId": "act45side_ex07#f#",
+            "sixStarStageId": null,
+            "dangerLevel": "精英2 LV.35",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_SS_castleHall",
+            "canPractice": true,
+            "canBattleReplay": true,
+            "apCost": 20,
+            "apFailReturn": 20,
+            "maxSlot": -1,
+            "etItemId": null,
+            "etCost": -1,
+            "etFailReturn": -1,
+            "etButtonStyle": null,
+            "apProtectTimes": 0,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 1,
+            "dailyStageDifficulty": 0,
+            "expGain": 200,
+            "goldGain": 200,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 20,
+            "completeFavor": 20,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "ACTIVITY_ITEM",
+                        "id": "act45side_token_puzzlepieces",
+                        "dropType": "COMPLETE"
+                    },
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "ACTIVITY_ITEM",
+                        "id": "act45side_token_puzzlepieces",
+                        "dropType": "COMPLETE"
+                    },
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": true,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act45side_ex01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act45side_ex07#f#": {
+            "stageType": "ACTIVITY",
+            "difficulty": "FOUR_STAR",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "main_02-08",
+                    "completeState": "PASS"
+                },
+                {
+                    "stageId": "act45side_ex07",
+                    "completeState": "COMPLETE"
+                }
+            ],
+            "stageId": "act45side_ex07#f#",
+            "levelId": "Activities/act45side/level_act45side_ex07",
+            "zoneId": "act45side_zone2",
+            "code": "SS-EX-7",
+            "name": "第七篇·月下幻夢",
+            "description": "<@lv.fs>附加條件：</>\n沉眠伴隨獸的移動速度和最大生命值大幅提升",
+            "hardStagedId": null,
+            "sixStarStageId": null,
+            "dangerLevel": "-",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_SS_castleHall",
+            "canPractice": true,
+            "canBattleReplay": false,
+            "apCost": 20,
+            "apFailReturn": 20,
+            "maxSlot": -1,
+            "etItemId": null,
+            "etCost": -1,
+            "etFailReturn": -1,
+            "etButtonStyle": null,
+            "apProtectTimes": 0,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 3,
+            "dailyStageDifficulty": 0,
+            "expGain": 200,
+            "goldGain": 200,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 20,
+            "completeFavor": 20,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": false,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act45side_ex01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act45side_ex08": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act45side_ex07",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act45side_ex08",
+            "levelId": "Activities/act45side/level_act45side_ex08",
+            "zoneId": "act45side_zone2",
+            "code": "SS-EX-8",
+            "name": "童話的結局",
+            "description": "他們幸福又快樂，就這樣永遠留在了童話裡。世上何處還有比這更好的結局？\n<@lv.item><月光></>一段時間後逆時針旋轉，照耀的單位隱匿失效且移動和攻擊速度提升\n<@lv.item><月影之繭></>可以阻擋月光",
+            "hardStagedId": "act45side_ex08#f#",
+            "sixStarStageId": null,
+            "dangerLevel": "精英2 LV.40",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_SS_castleStage",
+            "canPractice": true,
+            "canBattleReplay": true,
+            "apCost": 20,
+            "apFailReturn": 20,
+            "maxSlot": -1,
+            "etItemId": null,
+            "etCost": -1,
+            "etFailReturn": -1,
+            "etButtonStyle": null,
+            "apProtectTimes": 0,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 1,
+            "dailyStageDifficulty": 0,
+            "expGain": 200,
+            "goldGain": 200,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 20,
+            "completeFavor": 20,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "ACTIVITY_ITEM",
+                        "id": "act45side_token_puzzlepieces",
+                        "dropType": "COMPLETE"
+                    },
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "ACTIVITY_ITEM",
+                        "id": "act45side_token_puzzlepieces",
+                        "dropType": "COMPLETE"
+                    },
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": true,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act45side_ex01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act45side_ex08#f#": {
+            "stageType": "ACTIVITY",
+            "difficulty": "FOUR_STAR",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "main_02-08",
+                    "completeState": "PASS"
+                },
+                {
+                    "stageId": "act45side_ex08",
+                    "completeState": "COMPLETE"
+                }
+            ],
+            "stageId": "act45side_ex08#f#",
+            "levelId": "Activities/act45side/level_act45side_ex08",
+            "zoneId": "act45side_zone2",
+            "code": "SS-EX-8",
+            "name": "童話的結局",
+            "description": "<@lv.fs>附加條件：</>\n莫菲絲釋放“夢境的演變”獲得屏障大幅提升，“幻夢的糾纏”傷害大幅提升且擊倒的單位受困時間大幅延長",
+            "hardStagedId": null,
+            "sixStarStageId": null,
+            "dangerLevel": "-",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_SS_castleStage",
+            "canPractice": true,
+            "canBattleReplay": false,
+            "apCost": 20,
+            "apFailReturn": 20,
+            "maxSlot": -1,
+            "etItemId": null,
+            "etCost": -1,
+            "etFailReturn": -1,
+            "etButtonStyle": null,
+            "apProtectTimes": 0,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 3,
+            "dailyStageDifficulty": 0,
+            "expGain": 200,
+            "goldGain": 200,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 20,
+            "completeFavor": 20,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": false,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act45side_ex01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
         "act2enemyduel_01a": {
             "stageType": "ACTIVITY",
             "difficulty": "NORMAL",
@@ -326508,6 +329323,18 @@
             "description": "敵方會從此進入戰場",
             "isFunctional": true
         },
+        "tile_act6fun_start": {
+            "tileKey": "tile_act6fun_start",
+            "name": "進攻點",
+            "description": "我方戰士會從此進入戰場",
+            "isFunctional": true
+        },
+        "tile_act6fun_end": {
+            "tileKey": "tile_act6fun_end",
+            "name": "攻略目標",
+            "description": "藍色目標點，進入後獲得本次行動勝利",
+            "isFunctional": true
+        },
         "tile_mpprts_enemy_born": {
             "tileKey": "tile_mpprts_enemy_born",
             "name": "未授權重構介面",
@@ -525412,6 +528239,110 @@
             "startTs": 1741852800,
             "endTs": -1
         },
+        "act45side_st01": {
+            "startTs": 1775030400,
+            "endTs": 1776196799
+        },
+        "act45side_tr01": {
+            "startTs": 1775030400,
+            "endTs": 1776196799
+        },
+        "act45side_01": {
+            "startTs": 1775030400,
+            "endTs": 1776196799
+        },
+        "act45side_02": {
+            "startTs": 1775030400,
+            "endTs": 1776196799
+        },
+        "act45side_03": {
+            "startTs": 1775030400,
+            "endTs": 1776196799
+        },
+        "act45side_04": {
+            "startTs": 1775030400,
+            "endTs": 1776196799
+        },
+        "act45side_05": {
+            "startTs": 1775030400,
+            "endTs": 1776196799
+        },
+        "act45side_06": {
+            "startTs": 1775030400,
+            "endTs": 1776196799
+        },
+        "act45side_07": {
+            "startTs": 1775030400,
+            "endTs": 1776196799
+        },
+        "act45side_08": {
+            "startTs": 1775030400,
+            "endTs": 1776196799
+        },
+        "act45side_ex01": {
+            "startTs": 1775635200,
+            "endTs": 1776196799
+        },
+        "act45side_ex01#f#": {
+            "startTs": 1775635200,
+            "endTs": 1776196799
+        },
+        "act45side_ex02": {
+            "startTs": 1775635200,
+            "endTs": 1776196799
+        },
+        "act45side_ex02#f#": {
+            "startTs": 1775635200,
+            "endTs": 1776196799
+        },
+        "act45side_ex03": {
+            "startTs": 1775635200,
+            "endTs": 1776196799
+        },
+        "act45side_ex03#f#": {
+            "startTs": 1775635200,
+            "endTs": 1776196799
+        },
+        "act45side_ex04": {
+            "startTs": 1775635200,
+            "endTs": 1776196799
+        },
+        "act45side_ex04#f#": {
+            "startTs": 1775635200,
+            "endTs": 1776196799
+        },
+        "act45side_ex05": {
+            "startTs": 1775635200,
+            "endTs": 1776196799
+        },
+        "act45side_ex05#f#": {
+            "startTs": 1775635200,
+            "endTs": 1776196799
+        },
+        "act45side_ex06": {
+            "startTs": 1775635200,
+            "endTs": 1776196799
+        },
+        "act45side_ex06#f#": {
+            "startTs": 1775635200,
+            "endTs": 1776196799
+        },
+        "act45side_ex07": {
+            "startTs": 1775635200,
+            "endTs": 1776196799
+        },
+        "act45side_ex07#f#": {
+            "startTs": 1775635200,
+            "endTs": 1776196799
+        },
+        "act45side_ex08": {
+            "startTs": 1775635200,
+            "endTs": 1776196799
+        },
+        "act45side_ex08#f#": {
+            "startTs": 1775635200,
+            "endTs": 1776196799
+        },
         "act2enemyduel_01a": {
             "startTs": 1773388800,
             "endTs": 1773986399
@@ -531745,8 +534676,8 @@
             "endTs": 1649793599
         },
         "act17d7_01": {
-            "startTs": 1743494400,
-            "endTs": 1744055999
+            "startTs": 1775030400,
+            "endTs": 1775591999
         },
         "act7mini_01": {
             "startTs": 1646719200,

@@ -1,5 +1,27 @@
 {
     "basicInfo": {
+        "act6collection": {
+            "id": "act6collection",
+            "type": "COLLECTION",
+            "displayType": "NONE",
+            "name": "夢城堡模擬訓練",
+            "startTime": 1775030400,
+            "endTime": 1776801599,
+            "rewardEndTime": 1776801599,
+            "displayOnHome": false,
+            "hasStage": false,
+            "templateShopId": null,
+            "medalGroupId": null,
+            "ungroupedMedalIds": null,
+            "isReplicate": false,
+            "needFixedSync": false,
+            "trapDomainId": null,
+            "recType": "CAN_COMPLETE",
+            "isPageEntry": false,
+            "isMagnify": false,
+            "picGroup": [],
+            "usePicGroup": false
+        },
         "act37sre": {
             "id": "act37sre",
             "type": "TYPE_ACT9D0",
@@ -14,6 +36,53 @@
             "medalGroupId": "medalGroupActivity37side",
             "ungroupedMedalIds": null,
             "isReplicate": true,
+            "needFixedSync": false,
+            "trapDomainId": null,
+            "recType": "SPECIAL",
+            "isPageEntry": false,
+            "isMagnify": false,
+            "picGroup": [],
+            "usePicGroup": false
+        },
+        "act51sign": {
+            "id": "act51sign",
+            "type": "CHECKIN_ONLY",
+            "displayType": "NONE",
+            "name": "提線人偶的迎賓禮簽到活動",
+            "startTime": 1775030400,
+            "endTime": 1776196799,
+            "rewardEndTime": 1776196799,
+            "displayOnHome": false,
+            "hasStage": false,
+            "templateShopId": null,
+            "medalGroupId": null,
+            "ungroupedMedalIds": null,
+            "isReplicate": false,
+            "needFixedSync": false,
+            "trapDomainId": null,
+            "recType": "CAN_COMPLETE",
+            "isPageEntry": false,
+            "isMagnify": false,
+            "picGroup": [],
+            "usePicGroup": false
+        },
+        "act45side": {
+            "id": "act45side",
+            "type": "TYPE_ACT45SIDE",
+            "displayType": "NONE",
+            "name": "無憂夢囈",
+            "startTime": 1775030400,
+            "endTime": 1776196799,
+            "rewardEndTime": 1776801599,
+            "displayOnHome": true,
+            "hasStage": true,
+            "templateShopId": "shop_act45side",
+            "medalGroupId": null,
+            "ungroupedMedalIds": [
+                "medal_hidden_45side_01",
+                "medal_hidden_45side_02"
+            ],
+            "isReplicate": false,
             "needFixedSync": false,
             "trapDomainId": null,
             "recType": "SPECIAL",
@@ -564,6 +633,28 @@
                 }
             ],
             "usePicGroup": true
+        },
+        "act6fun": {
+            "id": "act6fun",
+            "type": "APRIL_FOOL",
+            "displayType": "NONE",
+            "name": "愚人節活動",
+            "startTime": 1775030400,
+            "endTime": 1775591999,
+            "rewardEndTime": 1775591999,
+            "displayOnHome": false,
+            "hasStage": false,
+            "templateShopId": null,
+            "medalGroupId": null,
+            "ungroupedMedalIds": null,
+            "isReplicate": false,
+            "needFixedSync": false,
+            "trapDomainId": null,
+            "recType": "SPECIAL",
+            "isPageEntry": false,
+            "isMagnify": false,
+            "picGroup": [],
+            "usePicGroup": false
         },
         "act1multi": {
             "id": "act1multi",
@@ -5460,6 +5551,20 @@
         }
     },
     "homeActConfig": {
+        "act6collection": {
+            "actId": "act6collection",
+            "isPopupAfterCheckin": false,
+            "showTopBarMenu": true,
+            "actTopBarColor": "d2034d",
+            "actTopBarText": "特別模擬演習"
+        },
+        "act51sign": {
+            "actId": "act51sign",
+            "isPopupAfterCheckin": false,
+            "showTopBarMenu": true,
+            "actTopBarColor": "e92266",
+            "actTopBarText": "提線人偶的迎賓禮"
+        },
         "act50sign": {
             "actId": "act50sign",
             "isPopupAfterCheckin": false,
@@ -5529,6 +5634,13 @@
             "showTopBarMenu": true,
             "actTopBarColor": "b20030",
             "actTopBarText": "活動推薦月卡"
+        },
+        "act6fun": {
+            "actId": "act6fun",
+            "isPopupAfterCheckin": false,
+            "showTopBarMenu": true,
+            "actTopBarColor": null,
+            "actTopBarText": null
         },
         "act3collection": {
             "actId": "act3collection",
@@ -6311,6 +6423,8 @@
     "zoneToActivity": {
         "act37sre_zone1": "act37sre",
         "act37sre_zone2": "act37sre",
+        "act45side_zone1": "act45side",
+        "act45side_zone2": "act45side",
         "act2enemyduel_zone1": "act2enemyduel",
         "act35sre_zone1": "act35sre",
         "act35sre_zone2": "act35sre",
@@ -6335,6 +6449,7 @@
         "act33sre_zone2": "act33sre",
         "act33sre_zone3": "act33sre",
         "act2mainss_zone1": "act2mainss",
+        "act6fun_zone1": "act6fun",
         "act1multi_zone1": "act1multi",
         "act41side_zone1": "act41side",
         "act41side_zone2": "act41side",
@@ -6503,7 +6618,7 @@
         "act6sre_zone2": "act6sre",
         "act8mini_zone1": "act8mini",
         "act1lock_zone1": "act1lock",
-        "act17d7_zone1": "act5fun",
+        "act17d7_zone1": "act6fun",
         "act5sre_zone1": "act5sre",
         "act5sre_zone2": "act5sre",
         "act5sre_zone3": "act5sre",
@@ -7403,6 +7518,739 @@
                 {
                     "type": "ACTIVITY_ITEM",
                     "id": "act37side_token_nay_rep_1",
+                    "count": 120
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "45sideActivity_1",
+            "sortId": 1,
+            "description": "通關SS-1",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteAnyStage",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act45side_01",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act45side",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act45side_token_puzzlepieces",
+                    "count": 40
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "45sideActivity_2",
+            "sortId": 2,
+            "description": "通關SS-2",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteAnyStage",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act45side_02",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act45side",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act45side_token_puzzlepieces",
+                    "count": 40
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "45sideActivity_3",
+            "sortId": 3,
+            "description": "通關SS-3",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteAnyStage",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act45side_03",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act45side",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act45side_token_puzzlepieces",
+                    "count": 70
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "45sideActivity_4",
+            "sortId": 4,
+            "description": "通關SS-4",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteAnyStage",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act45side_04",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act45side",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act45side_token_puzzlepieces",
+                    "count": 70
+                },
+                {
+                    "type": "CHAR",
+                    "id": "char_4185_amoris",
+                    "count": 1
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "45sideActivity_5",
+            "sortId": 5,
+            "description": "通關SS-5",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteAnyStage",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act45side_05",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act45side",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act45side_token_puzzlepieces",
+                    "count": 70
+                },
+                {
+                    "type": "CHAR",
+                    "id": "char_4186_tmoris",
+                    "count": 1
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "45sideActivity_6",
+            "sortId": 6,
+            "description": "以3星評價完成SS-5",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteAnyStage",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act45side_05",
+                "3"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act45side",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "MATERIAL",
+                    "id": "mod_unlock_token",
+                    "count": 1
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "45sideActivity_7",
+            "sortId": 7,
+            "description": "通關SS-6",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteAnyStage",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act45side_06",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act45side",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act45side_token_puzzlepieces",
+                    "count": 100
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "45sideActivity_8",
+            "sortId": 8,
+            "description": "以3星評價完成SS-6",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteAnyStage",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act45side_06",
+                "3"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act45side",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "FURN",
+                    "id": "furni_dreamCastle_carpet_02",
+                    "count": 1
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "45sideActivity_9",
+            "sortId": 9,
+            "description": "通關SS-7",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteAnyStage",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act45side_07",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act45side",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act45side_token_puzzlepieces",
+                    "count": 100
+                },
+                {
+                    "type": "FURN",
+                    "id": "furni_dreamCastle_drawing_01",
+                    "count": 1
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "45sideActivity_10",
+            "sortId": 10,
+            "description": "以3星評價完成SS-7",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteAnyStage",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act45side_07",
+                "3"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act45side",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "FURN",
+                    "id": "furni_dreamCastle_wallpaper_01",
+                    "count": 1
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "45sideActivity_11",
+            "sortId": 11,
+            "description": "通關SS-8",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteAnyStage",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act45side_08",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act45side",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act45side_token_puzzlepieces",
+                    "count": 100
+                },
+                {
+                    "type": "FURN",
+                    "id": "furni_dreamCastle_floor_01",
+                    "count": 1
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "45sideActivity_12",
+            "sortId": 12,
+            "description": "以3星評價完成SS-8",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteAnyStage",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act45side_08",
+                "3"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act45side",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "MATERIAL",
+                    "id": "mod_unlock_token",
+                    "count": 1
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "45sideActivity_13",
+            "sortId": 13,
+            "description": "通關SS-EX-1",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteAnyStage",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act45side_ex01",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act45side",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act45side_token_puzzlepieces",
+                    "count": 60
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "45sideActivity_14",
+            "sortId": 14,
+            "description": "通關SS-EX-2",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteAnyStage",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act45side_ex02",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act45side",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act45side_token_puzzlepieces",
+                    "count": 60
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "45sideActivity_15",
+            "sortId": 15,
+            "description": "通關SS-EX-3",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteAnyStage",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act45side_ex03",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act45side",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act45side_token_puzzlepieces",
+                    "count": 80
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "45sideActivity_16",
+            "sortId": 16,
+            "description": "通關SS-EX-4",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteAnyStage",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act45side_ex04",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act45side",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act45side_token_puzzlepieces",
+                    "count": 80
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "45sideActivity_17",
+            "sortId": 17,
+            "description": "通關SS-EX-5",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteAnyStage",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act45side_ex05",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act45side",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act45side_token_puzzlepieces",
+                    "count": 80
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "45sideActivity_18",
+            "sortId": 18,
+            "description": "通關SS-EX-6",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteAnyStage",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act45side_ex06",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act45side",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act45side_token_puzzlepieces",
+                    "count": 80
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "45sideActivity_19",
+            "sortId": 19,
+            "description": "通關SS-EX-7",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteAnyStage",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act45side_ex07",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act45side",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act45side_token_puzzlepieces",
+                    "count": 100
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "45sideActivity_20",
+            "sortId": 20,
+            "description": "通關SS-EX-8",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteAnyStage",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act45side_ex08",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act45side",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act45side_token_puzzlepieces",
+                    "count": 100
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "45sideActivity_21",
+            "sortId": 21,
+            "description": "通關活動關卡15次，不含教學關",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteStageAct",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act45side_01^act45side_02^act45side_03^act45side_04^act45side_05^act45side_06^act45side_07^act45side_08^act45side_ex01^act45side_ex01#f#^act45side_ex02^act45side_ex02#f#^act45side_ex03^act45side_ex03#f#^act45side_ex04^act45side_ex04#f#^act45side_ex05^act45side_ex05#f#^act45side_ex06^act45side_ex06#f#^act45side_ex07^act45side_ex07#f#^act45side_ex08^act45side_ex08#f#",
+                "15"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act45side",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act45side_token_puzzlepieces",
+                    "count": 80
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "45sideActivity_22",
+            "sortId": 22,
+            "description": "通關活動關卡45次，不含教學關",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteStageAct",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act45side_01^act45side_02^act45side_03^act45side_04^act45side_05^act45side_06^act45side_07^act45side_08^act45side_ex01^act45side_ex01#f#^act45side_ex02^act45side_ex02#f#^act45side_ex03^act45side_ex03#f#^act45side_ex04^act45side_ex04#f#^act45side_ex05^act45side_ex05#f#^act45side_ex06^act45side_ex06#f#^act45side_ex07^act45side_ex07#f#^act45side_ex08^act45side_ex08#f#",
+                "45"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act45side",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act45side_token_puzzlepieces",
+                    "count": 100
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "45sideActivity_23",
+            "sortId": 23,
+            "description": "通關活動關卡85次，不含教學關",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteStageAct",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act45side_01^act45side_02^act45side_03^act45side_04^act45side_05^act45side_06^act45side_07^act45side_08^act45side_ex01^act45side_ex01#f#^act45side_ex02^act45side_ex02#f#^act45side_ex03^act45side_ex03#f#^act45side_ex04^act45side_ex04#f#^act45side_ex05^act45side_ex05#f#^act45side_ex06^act45side_ex06#f#^act45side_ex07^act45side_ex07#f#^act45side_ex08^act45side_ex08#f#",
+                "85"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act45side",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act45side_token_puzzlepieces",
                     "count": 120
                 }
             ],
@@ -85539,6 +86387,806 @@
             "countEndTs": -1
         },
         {
+            "id": "6clloctionActivity_1",
+            "sortId": 1,
+            "description": "晉升1名5星幹員到精英階段1",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "ActEvolveChar",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act6collection",
+                "1",
+                "5",
+                "1"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act6collection",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act6collection_point_token",
+                    "count": 200
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "6clloctionActivity_2",
+            "sortId": 2,
+            "description": "晉升2名5星幹員到精英階段1",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "ActEvolveChar",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act6collection",
+                "2",
+                "5",
+                "1"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act6collection",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act6collection_point_token",
+                    "count": 200
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "6clloctionActivity_3",
+            "sortId": 3,
+            "description": "晉升3名5星幹員到精英階段1",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "ActEvolveChar",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act6collection",
+                "3",
+                "5",
+                "1"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act6collection",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act6collection_point_token",
+                    "count": 200
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "6clloctionActivity_4",
+            "sortId": 4,
+            "description": "晉升4名5星幹員到精英階段1",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "ActEvolveChar",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act6collection",
+                "4",
+                "5",
+                "1"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act6collection",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act6collection_point_token",
+                    "count": 200
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "6clloctionActivity_5",
+            "sortId": 9,
+            "description": "晉升1名5星幹員到精英階段2",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "ActEvolveChar",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act6collection",
+                "1",
+                "5",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act6collection",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act6collection_point_token",
+                    "count": 400
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "6clloctionActivity_6",
+            "sortId": 10,
+            "description": "晉升2名5星幹員到精英階段2",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "ActEvolveChar",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act6collection",
+                "2",
+                "5",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act6collection",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act6collection_point_token",
+                    "count": 400
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "6clloctionActivity_7",
+            "sortId": 11,
+            "description": "晉升3名5星幹員到精英階段2",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "ActEvolveChar",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act6collection",
+                "3",
+                "5",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act6collection",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act6collection_point_token",
+                    "count": 400
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "6clloctionActivity_8",
+            "sortId": 12,
+            "description": "晉升4名5星幹員到精英階段2",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "ActEvolveChar",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act6collection",
+                "4",
+                "5",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act6collection",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act6collection_point_token",
+                    "count": 400
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "6clloctionActivity_9",
+            "sortId": 5,
+            "description": "活動期間，任意1個5星幹員達到精英階段1的40級",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "ActUpgradeChar",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act6collection",
+                "1",
+                "5",
+                "1",
+                "40"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act6collection",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act6collection_point_token",
+                    "count": 200
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "6clloctionActivity_10",
+            "sortId": 6,
+            "description": "活動期間，任意2個5星幹員達到精英階段1的40級",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "ActUpgradeChar",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act6collection",
+                "2",
+                "5",
+                "1",
+                "40"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act6collection",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act6collection_point_token",
+                    "count": 200
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "6clloctionActivity_11",
+            "sortId": 7,
+            "description": "活動期間，任意3個5星幹員達到精英階段1的40級",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "ActUpgradeChar",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act6collection",
+                "3",
+                "5",
+                "1",
+                "40"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act6collection",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act6collection_point_token",
+                    "count": 200
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "6clloctionActivity_12",
+            "sortId": 8,
+            "description": "活動期間，任意4個5星幹員達到精英階段1的40級",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "ActUpgradeChar",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act6collection",
+                "4",
+                "5",
+                "1",
+                "40"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act6collection",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act6collection_point_token",
+                    "count": 200
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "6clloctionActivity_13",
+            "sortId": 13,
+            "description": "活動期間，任意1個5星幹員達到精英階段2的50級",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "ActUpgradeChar",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act6collection",
+                "1",
+                "5",
+                "2",
+                "50"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act6collection",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act6collection_point_token",
+                    "count": 300
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "6clloctionActivity_14",
+            "sortId": 14,
+            "description": "活動期間，任意2個5星幹員達到精英階段2的50級",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "ActUpgradeChar",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act6collection",
+                "2",
+                "5",
+                "2",
+                "50"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act6collection",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act6collection_point_token",
+                    "count": 300
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "6clloctionActivity_15",
+            "sortId": 15,
+            "description": "活動期間，任意3個5星幹員達到精英階段2的50級",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "ActUpgradeChar",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act6collection",
+                "3",
+                "5",
+                "2",
+                "50"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act6collection",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act6collection_point_token",
+                    "count": 300
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "6clloctionActivity_16",
+            "sortId": 16,
+            "description": "活動期間，任意4個5星幹員達到精英階段2的50級",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "ActUpgradeChar",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act6collection",
+                "4",
+                "5",
+                "2",
+                "50"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act6collection",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act6collection_point_token",
+                    "count": 300
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "6clloctionActivity_17",
+            "sortId": 17,
+            "description": "提升任意1個5星幹員的技能達到Rank4",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "ActUpgradeSkill",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act6collection",
+                "1",
+                "5",
+                "4"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act6collection",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act6collection_point_token",
+                    "count": 150
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "6clloctionActivity_18",
+            "sortId": 18,
+            "description": "提升任意2個5星幹員的技能達到Rank4",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "ActUpgradeSkill",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act6collection",
+                "2",
+                "5",
+                "4"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act6collection",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act6collection_point_token",
+                    "count": 150
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "6clloctionActivity_19",
+            "sortId": 19,
+            "description": "提升任意3個5星幹員的技能達到Rank4",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "ActUpgradeSkill",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act6collection",
+                "3",
+                "5",
+                "4"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act6collection",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act6collection_point_token",
+                    "count": 150
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "6clloctionActivity_20",
+            "sortId": 20,
+            "description": "提升任意4個5星幹員的技能達到Rank4",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "ActUpgradeSkill",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act6collection",
+                "4",
+                "5",
+                "4"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act6collection",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act6collection_point_token",
+                    "count": 150
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "6clloctionActivity_21",
+            "sortId": 21,
+            "description": "提升任意1個5星幹員的技能達到Rank7",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "ActUpgradeSkill",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act6collection",
+                "1",
+                "5",
+                "7"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act6collection",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act6collection_point_token",
+                    "count": 250
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "6clloctionActivity_22",
+            "sortId": 22,
+            "description": "提升任意2個5星幹員的技能達到Rank7",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "ActUpgradeSkill",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act6collection",
+                "2",
+                "5",
+                "7"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act6collection",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act6collection_point_token",
+                    "count": 250
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "6clloctionActivity_23",
+            "sortId": 23,
+            "description": "提升任意3個5星幹員的技能達到Rank7",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "ActUpgradeSkill",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act6collection",
+                "3",
+                "5",
+                "7"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act6collection",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act6collection_point_token",
+                    "count": 250
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "6clloctionActivity_24",
+            "sortId": 24,
+            "description": "提升任意4個5星幹員的技能達到Rank7",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "ActUpgradeSkill",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act6collection",
+                "4",
+                "5",
+                "7"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act6collection",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act6collection_point_token",
+                    "count": 250
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
             "id": "5clloctionActivity_1",
             "sortId": 1,
             "description": "攜帶特勤幹員電弧完成曲譜、資源收集、集成戰略關卡共5次",
@@ -97436,6 +99084,41 @@
             "endTs": 1775159999
         },
         {
+            "id": "act45side",
+            "title": null,
+            "type": "ACTIVITY",
+            "preMissionGroup": null,
+            "period": null,
+            "rewards": [],
+            "missionIds": [
+                "45sideActivity_1",
+                "45sideActivity_2",
+                "45sideActivity_3",
+                "45sideActivity_4",
+                "45sideActivity_5",
+                "45sideActivity_6",
+                "45sideActivity_7",
+                "45sideActivity_8",
+                "45sideActivity_9",
+                "45sideActivity_10",
+                "45sideActivity_11",
+                "45sideActivity_12",
+                "45sideActivity_13",
+                "45sideActivity_14",
+                "45sideActivity_15",
+                "45sideActivity_16",
+                "45sideActivity_17",
+                "45sideActivity_18",
+                "45sideActivity_19",
+                "45sideActivity_20",
+                "45sideActivity_21",
+                "45sideActivity_22",
+                "45sideActivity_23"
+            ],
+            "startTs": 1775030400,
+            "endTs": 1776801599
+        },
+        {
             "id": "act35sre",
             "title": null,
             "type": "ACTIVITY",
@@ -100960,6 +102643,42 @@
             "endTs": 1607543999
         },
         {
+            "id": "act6collection",
+            "title": null,
+            "type": "ACTIVITY",
+            "preMissionGroup": null,
+            "period": null,
+            "rewards": null,
+            "missionIds": [
+                "6clloctionActivity_1",
+                "6clloctionActivity_2",
+                "6clloctionActivity_3",
+                "6clloctionActivity_4",
+                "6clloctionActivity_5",
+                "6clloctionActivity_6",
+                "6clloctionActivity_7",
+                "6clloctionActivity_8",
+                "6clloctionActivity_9",
+                "6clloctionActivity_10",
+                "6clloctionActivity_11",
+                "6clloctionActivity_12",
+                "6clloctionActivity_13",
+                "6clloctionActivity_14",
+                "6clloctionActivity_15",
+                "6clloctionActivity_16",
+                "6clloctionActivity_17",
+                "6clloctionActivity_18",
+                "6clloctionActivity_19",
+                "6clloctionActivity_20",
+                "6clloctionActivity_21",
+                "6clloctionActivity_22",
+                "6clloctionActivity_23",
+                "6clloctionActivity_24"
+            ],
+            "startTs": 1775030400,
+            "endTs": 1776801599
+        },
+        {
             "id": "act5collection",
             "title": null,
             "type": "ACTIVITY",
@@ -101487,6 +103206,205 @@
             }
         },
         "CHECKIN_ONLY": {
+            "act51sign": {
+                "checkInList": {
+                    "0": {
+                        "itemList": [
+                            {
+                                "id": "LINKAGE_TKT_GACHA_10_6501",
+                                "count": 1,
+                                "type": "LINKAGE_TKT_GACHA_10"
+                            },
+                            {
+                                "id": "ap_supply_lt_120",
+                                "count": 1,
+                                "type": "AP_SUPPLY"
+                            }
+                        ],
+                        "order": 1,
+                        "color": 0,
+                        "keyItem": 1,
+                        "showItemOrder": 1,
+                        "isDynItem": false
+                    },
+                    "1": {
+                        "itemList": [
+                            {
+                                "id": "4003",
+                                "count": 200,
+                                "type": "DIAMOND_SHD"
+                            },
+                            {
+                                "id": "mod_update_token_1",
+                                "count": 10,
+                                "type": "MATERIAL"
+                            }
+                        ],
+                        "order": 2,
+                        "color": 0,
+                        "keyItem": 0,
+                        "showItemOrder": 0,
+                        "isDynItem": false
+                    },
+                    "2": {
+                        "itemList": [
+                            {
+                                "id": "2003",
+                                "count": 20,
+                                "type": "CARD_EXP"
+                            },
+                            {
+                                "id": "7002",
+                                "count": 5,
+                                "type": "TKT_INST_FIN"
+                            }
+                        ],
+                        "order": 3,
+                        "color": 0,
+                        "keyItem": 0,
+                        "showItemOrder": 0,
+                        "isDynItem": false
+                    },
+                    "3": {
+                        "itemList": [
+                            {
+                                "id": "4003",
+                                "count": 200,
+                                "type": "DIAMOND_SHD"
+                            },
+                            {
+                                "id": "3401",
+                                "count": 300,
+                                "type": "MATERIAL"
+                            }
+                        ],
+                        "order": 4,
+                        "color": 0,
+                        "keyItem": 0,
+                        "showItemOrder": 0,
+                        "isDynItem": false
+                    },
+                    "4": {
+                        "itemList": [
+                            {
+                                "id": "avatar_activity_mujica",
+                                "count": 1,
+                                "type": "PLAYER_AVATAR"
+                            },
+                            {
+                                "id": "3003",
+                                "count": 20,
+                                "type": "MATERIAL"
+                            }
+                        ],
+                        "order": 5,
+                        "color": 0,
+                        "keyItem": 1,
+                        "showItemOrder": 2,
+                        "isDynItem": false
+                    },
+                    "5": {
+                        "itemList": [
+                            {
+                                "id": "3302",
+                                "count": 20,
+                                "type": "MATERIAL"
+                            },
+                            {
+                                "id": "2004",
+                                "count": 10,
+                                "type": "CARD_EXP"
+                            }
+                        ],
+                        "order": 6,
+                        "color": 0,
+                        "keyItem": 0,
+                        "showItemOrder": 0,
+                        "isDynItem": false
+                    },
+                    "6": {
+                        "itemList": [
+                            {
+                                "id": "4003",
+                                "count": 200,
+                                "type": "DIAMOND_SHD"
+                            },
+                            {
+                                "id": "4001",
+                                "count": 30000,
+                                "type": "GOLD"
+                            }
+                        ],
+                        "order": 7,
+                        "color": 0,
+                        "keyItem": 0,
+                        "showItemOrder": 0,
+                        "isDynItem": false
+                    },
+                    "7": {
+                        "itemList": [
+                            {
+                                "id": "LINKAGE_TKT_GACHA_10_6501",
+                                "count": 1,
+                                "type": "LINKAGE_TKT_GACHA_10"
+                            },
+                            {
+                                "id": "mod_update_token_2",
+                                "count": 3,
+                                "type": "MATERIAL"
+                            }
+                        ],
+                        "order": 8,
+                        "color": 0,
+                        "keyItem": 1,
+                        "showItemOrder": 3,
+                        "isDynItem": false
+                    },
+                    "8": {
+                        "itemList": [
+                            {
+                                "id": "32001",
+                                "count": 1,
+                                "type": "MATERIAL"
+                            },
+                            {
+                                "id": "7001",
+                                "count": 5,
+                                "type": "TKT_RECRUIT"
+                            }
+                        ],
+                        "order": 9,
+                        "color": 0,
+                        "keyItem": 0,
+                        "showItemOrder": 0,
+                        "isDynItem": false
+                    },
+                    "9": {
+                        "itemList": [
+                            {
+                                "id": "mod_unlock_token",
+                                "count": 1,
+                                "type": "MATERIAL"
+                            },
+                            {
+                                "id": "3303",
+                                "count": 8,
+                                "type": "MATERIAL"
+                            }
+                        ],
+                        "order": 10,
+                        "color": 0,
+                        "keyItem": 0,
+                        "showItemOrder": 0,
+                        "isDynItem": false
+                    }
+                },
+                "apSupplyOutOfDateDict": {
+                    "ap_supply_lt_120": 1777233599
+                },
+                "dynCheckInData": null,
+                "extraCheckinList": null
+            },
             "act50sign": {
                 "checkInList": {
                     "0": {
@@ -123642,6 +125560,320 @@
         },
         "TYPE_ACT5D1": {},
         "COLLECTION": {
+            "act6collection": {
+                "collections": [
+                    {
+                        "id": 1,
+                        "itemType": "GOLD",
+                        "itemId": "4001",
+                        "itemCnt": 10000,
+                        "pointId": "act6collection_point_token",
+                        "pointCnt": 100,
+                        "isBonus": false,
+                        "pngName": null,
+                        "pngSort": 0,
+                        "isShow": false,
+                        "showInList": false,
+                        "showIconBG": true,
+                        "isBonusShow": false
+                    },
+                    {
+                        "id": 2,
+                        "itemType": "MATERIAL",
+                        "itemId": "30013",
+                        "itemCnt": 2,
+                        "pointId": "act6collection_point_token",
+                        "pointCnt": 200,
+                        "isBonus": false,
+                        "pngName": null,
+                        "pngSort": 0,
+                        "isShow": false,
+                        "showInList": false,
+                        "showIconBG": true,
+                        "isBonusShow": false
+                    },
+                    {
+                        "id": 3,
+                        "itemType": "CARD_EXP",
+                        "itemId": "2003",
+                        "itemCnt": 15,
+                        "pointId": "act6collection_point_token",
+                        "pointCnt": 300,
+                        "isBonus": false,
+                        "pngName": null,
+                        "pngSort": 0,
+                        "isShow": false,
+                        "showInList": false,
+                        "showIconBG": true,
+                        "isBonusShow": false
+                    },
+                    {
+                        "id": 4,
+                        "itemType": "MATERIAL",
+                        "itemId": "31013",
+                        "itemCnt": 2,
+                        "pointId": "act6collection_point_token",
+                        "pointCnt": 400,
+                        "isBonus": false,
+                        "pngName": null,
+                        "pngSort": 0,
+                        "isShow": false,
+                        "showInList": false,
+                        "showIconBG": true,
+                        "isBonusShow": false
+                    },
+                    {
+                        "id": 5,
+                        "itemType": "VOUCHER_ELITE_II_4",
+                        "itemId": "voucher_elite_II_4",
+                        "itemCnt": 1,
+                        "pointId": "act6collection_point_token",
+                        "pointCnt": 600,
+                        "isBonus": true,
+                        "pngName": null,
+                        "pngSort": 0,
+                        "isShow": false,
+                        "showInList": false,
+                        "showIconBG": true,
+                        "isBonusShow": false
+                    },
+                    {
+                        "id": 6,
+                        "itemType": "MATERIAL",
+                        "itemId": "3302",
+                        "itemCnt": 10,
+                        "pointId": "act6collection_point_token",
+                        "pointCnt": 800,
+                        "isBonus": false,
+                        "pngName": null,
+                        "pngSort": 0,
+                        "isShow": false,
+                        "showInList": false,
+                        "showIconBG": true,
+                        "isBonusShow": false
+                    },
+                    {
+                        "id": 7,
+                        "itemType": "MATERIAL",
+                        "itemId": "31033",
+                        "itemCnt": 2,
+                        "pointId": "act6collection_point_token",
+                        "pointCnt": 1000,
+                        "isBonus": false,
+                        "pngName": null,
+                        "pngSort": 0,
+                        "isShow": false,
+                        "showInList": false,
+                        "showIconBG": true,
+                        "isBonusShow": false
+                    },
+                    {
+                        "id": 8,
+                        "itemType": "GOLD",
+                        "itemId": "4001",
+                        "itemCnt": 10000,
+                        "pointId": "act6collection_point_token",
+                        "pointCnt": 1200,
+                        "isBonus": false,
+                        "pngName": null,
+                        "pngSort": 0,
+                        "isShow": false,
+                        "showInList": false,
+                        "showIconBG": true,
+                        "isBonusShow": false
+                    },
+                    {
+                        "id": 9,
+                        "itemType": "MATERIAL",
+                        "itemId": "30013",
+                        "itemCnt": 2,
+                        "pointId": "act6collection_point_token",
+                        "pointCnt": 1400,
+                        "isBonus": false,
+                        "pngName": null,
+                        "pngSort": 0,
+                        "isShow": false,
+                        "showInList": false,
+                        "showIconBG": true,
+                        "isBonusShow": false
+                    },
+                    {
+                        "id": 10,
+                        "itemType": "VOUCHER_LEVELMAX_4",
+                        "itemId": "voucher_levelmax_4",
+                        "itemCnt": 1,
+                        "pointId": "act6collection_point_token",
+                        "pointCnt": 1650,
+                        "isBonus": true,
+                        "pngName": null,
+                        "pngSort": 0,
+                        "isShow": false,
+                        "showInList": false,
+                        "showIconBG": true,
+                        "isBonusShow": false
+                    },
+                    {
+                        "id": 11,
+                        "itemType": "CARD_EXP",
+                        "itemId": "2003",
+                        "itemCnt": 15,
+                        "pointId": "act6collection_point_token",
+                        "pointCnt": 1900,
+                        "isBonus": false,
+                        "pngName": null,
+                        "pngSort": 0,
+                        "isShow": false,
+                        "showInList": false,
+                        "showIconBG": true,
+                        "isBonusShow": false
+                    },
+                    {
+                        "id": 12,
+                        "itemType": "MATERIAL",
+                        "itemId": "31013",
+                        "itemCnt": 2,
+                        "pointId": "act6collection_point_token",
+                        "pointCnt": 2150,
+                        "isBonus": false,
+                        "pngName": null,
+                        "pngSort": 0,
+                        "isShow": false,
+                        "showInList": false,
+                        "showIconBG": true,
+                        "isBonusShow": false
+                    },
+                    {
+                        "id": 13,
+                        "itemType": "MATERIAL",
+                        "itemId": "3302",
+                        "itemCnt": 10,
+                        "pointId": "act6collection_point_token",
+                        "pointCnt": 2400,
+                        "isBonus": false,
+                        "pngName": null,
+                        "pngSort": 0,
+                        "isShow": false,
+                        "showInList": false,
+                        "showIconBG": true,
+                        "isBonusShow": false
+                    },
+                    {
+                        "id": 14,
+                        "itemType": "MATERIAL",
+                        "itemId": "31033",
+                        "itemCnt": 2,
+                        "pointId": "act6collection_point_token",
+                        "pointCnt": 2650,
+                        "isBonus": false,
+                        "pngName": null,
+                        "pngSort": 0,
+                        "isShow": false,
+                        "showInList": false,
+                        "showIconBG": true,
+                        "isBonusShow": false
+                    },
+                    {
+                        "id": 15,
+                        "itemType": "VOUCHER_ELITE_II_5",
+                        "itemId": "voucher_elite_II_5",
+                        "itemCnt": 1,
+                        "pointId": "act6collection_point_token",
+                        "pointCnt": 2950,
+                        "isBonus": true,
+                        "pngName": null,
+                        "pngSort": 0,
+                        "isShow": false,
+                        "showInList": false,
+                        "showIconBG": true,
+                        "isBonusShow": false
+                    },
+                    {
+                        "id": 16,
+                        "itemType": "GOLD",
+                        "itemId": "4001",
+                        "itemCnt": 10000,
+                        "pointId": "act6collection_point_token",
+                        "pointCnt": 3250,
+                        "isBonus": false,
+                        "pngName": null,
+                        "pngSort": 0,
+                        "isShow": false,
+                        "showInList": false,
+                        "showIconBG": true,
+                        "isBonusShow": false
+                    },
+                    {
+                        "id": 17,
+                        "itemType": "MATERIAL",
+                        "itemId": "30013",
+                        "itemCnt": 2,
+                        "pointId": "act6collection_point_token",
+                        "pointCnt": 3550,
+                        "isBonus": false,
+                        "pngName": null,
+                        "pngSort": 0,
+                        "isShow": false,
+                        "showInList": false,
+                        "showIconBG": true,
+                        "isBonusShow": false
+                    },
+                    {
+                        "id": 18,
+                        "itemType": "CARD_EXP",
+                        "itemId": "2003",
+                        "itemCnt": 15,
+                        "pointId": "act6collection_point_token",
+                        "pointCnt": 3850,
+                        "isBonus": false,
+                        "pngName": null,
+                        "pngSort": 0,
+                        "isShow": false,
+                        "showInList": false,
+                        "showIconBG": true,
+                        "isBonusShow": false
+                    },
+                    {
+                        "id": 19,
+                        "itemType": "MATERIAL",
+                        "itemId": "31013",
+                        "itemCnt": 2,
+                        "pointId": "act6collection_point_token",
+                        "pointCnt": 4150,
+                        "isBonus": false,
+                        "pngName": null,
+                        "pngSort": 0,
+                        "isShow": false,
+                        "showInList": false,
+                        "showIconBG": true,
+                        "isBonusShow": false
+                    },
+                    {
+                        "id": 20,
+                        "itemType": "VOUCHER_LEVELMAX_5",
+                        "itemId": "voucher_levelmax_5",
+                        "itemCnt": 1,
+                        "pointId": "act6collection_point_token",
+                        "pointCnt": 4500,
+                        "isBonus": true,
+                        "pngName": null,
+                        "pngSort": 0,
+                        "isShow": false,
+                        "showInList": false,
+                        "showIconBG": true,
+                        "isBonusShow": false
+                    }
+                ],
+                "apSupplyOutOfDateDict": {},
+                "consts": {
+                    "showJumpBtn": true,
+                    "jumpBtnType": "CHAR_REPO",
+                    "jumpBtnParam1": null,
+                    "jumpBtnParam2": null,
+                    "dailyTaskDisabled": true,
+                    "dailyTaskStartTime": 0,
+                    "isSimpleMode": false
+                }
+            },
             "act5collection": {
                 "collections": [
                     {
@@ -238040,7 +240272,181 @@
             }
         },
         "HALFIDLE_VERIFY1": {},
-        "TYPE_ACT45SIDE": {},
+        "TYPE_ACT45SIDE": {
+            "act45side": {
+                "charData": {
+                    "char_4182_oblvns": {
+                        "charId": "char_4182_oblvns",
+                        "sortId": 1,
+                        "charIllustId": "char_4182_oblvns",
+                        "charCardId": "tarot_char_4182_oblvns",
+                        "charName": "<@char.oblv>豐川祥子</>",
+                        "unlockStageId": "act45side_01"
+                    },
+                    "char_4186_tmoris": {
+                        "charId": "char_4186_tmoris",
+                        "sortId": 2,
+                        "charIllustId": "char_4186_tmoris",
+                        "charCardId": "tarot_char_4186_tmoris",
+                        "charName": "<@char.tmor>八幡海鈴</>",
+                        "unlockStageId": "act45side_02"
+                    },
+                    "char_4184_dolris": {
+                        "charId": "char_4184_dolris",
+                        "sortId": 3,
+                        "charIllustId": "char_4184_dolris",
+                        "charCardId": "tarot_char_4184_dolris",
+                        "charName": "<@char.dolr>三角初華</>",
+                        "unlockStageId": "act45side_04"
+                    },
+                    "char_4185_amoris": {
+                        "charId": "char_4185_amoris",
+                        "sortId": 4,
+                        "charIllustId": "char_4185_amoris",
+                        "charCardId": "tarot_char_4185_amoris",
+                        "charName": "<@char.amor>祐天寺若麥</>",
+                        "unlockStageId": "act45side_06"
+                    },
+                    "char_4183_mortis": {
+                        "charId": "char_4183_mortis",
+                        "sortId": 5,
+                        "charIllustId": "char_4183_mortis",
+                        "charCardId": "tarot_char_4183_mortis",
+                        "charName": "<@char.mort>若葉睦</>",
+                        "unlockStageId": "act45side_08"
+                    }
+                },
+                "mailData": {
+                    "letter_1": {
+                        "mailId": "letter_1",
+                        "sortId": 1,
+                        "charName": "可露希爾",
+                        "picId": "charId_closure",
+                        "mailTitle": "採購中心的來信",
+                        "mailContent": "聽說舞會的場景布置開始了？那身為粉絲的可露希爾我一定要來幫忙才行！別客氣，這些都是羅德島上閒置的舊桌子，我已經按照適合樂隊的風格重新修繕了一下，一定能派得上用場！所以，請務必邀請我參加化裝舞會哦！\n",
+                        "sendTime": 1775030400,
+                        "rewards": [
+                            {
+                                "id": "furni_dreamCastle_table_02",
+                                "count": 1,
+                                "type": "FURN"
+                            },
+                            {
+                                "id": "act45side_token_puzzlepieces",
+                                "count": 200,
+                                "type": "ACTIVITY_ITEM"
+                            }
+                        ]
+                    },
+                    "letter_2": {
+                        "mailId": "letter_2",
+                        "sortId": 2,
+                        "charName": "紅豆",
+                        "picId": "charId_vigna",
+                        "mailTitle": "幹員的來信",
+                        "mailContent": "這些是我和我樂隊的朋友們準備的舞台裝飾，能派上一點用場就好了。同是羅德島上的樂隊成員，如果還有什麼需要我幫忙的話，儘管開口。不過即使條件艱難，也要任性演奏，這不就是搖滾嗎！有空我們也來合奏一場吧！",
+                        "sendTime": 1775073600,
+                        "rewards": [
+                            {
+                                "id": "furni_dreamCastle_Column_01",
+                                "count": 1,
+                                "type": "FURN"
+                            },
+                            {
+                                "id": "act45side_token_puzzlepieces",
+                                "count": 200,
+                                "type": "ACTIVITY_ITEM"
+                            }
+                        ]
+                    },
+                    "letter_3": {
+                        "mailId": "letter_3",
+                        "sortId": 3,
+                        "charName": "溫米",
+                        "picId": "charId_warmy",
+                        "mailTitle": "工程部的訂單",
+                        "mailContent": "你好，這些是訂單中的照明設備，已經按照要求調整了外觀風格，確認無誤後，我們會幫大家安裝到舞台上。雖然我也不太懂，但是這個舞台看起來真的好厲害、好帥氣，如果可以的話，也能讓我帶我的朋友們來參加嗎？一定會是一場特別華麗、特別令人難忘的化裝舞會吧！",
+                        "sendTime": 1775160000,
+                        "rewards": [
+                            {
+                                "id": "furni_dreamCastle_ceilingLight_01",
+                                "count": 2,
+                                "type": "FURN"
+                            },
+                            {
+                                "id": "act45side_token_puzzlepieces",
+                                "count": 300,
+                                "type": "ACTIVITY_ITEM"
+                            }
+                        ]
+                    },
+                    "letter_4": {
+                        "mailId": "letter_4",
+                        "sortId": 4,
+                        "charName": "愛麗絲",
+                        "picId": "charId_iris",
+                        "mailTitle": "夢城堡的來信",
+                        "mailContent": "Ave Mujica的成員們還好嗎？聽說你們在羅德島上的舞會正在努力籌\n備中，請讓我也出一份力吧。這些本是夢城堡的傢俱，為了能為舞會增添一些氛圍，我就把它們送了過來。我們十分期待舞會的正式開始，孩子們也都迫不及待了，祝一切順利。",
+                        "sendTime": 1775246400,
+                        "rewards": [
+                            {
+                                "id": "furni_dreamCastle_candle_01",
+                                "count": 1,
+                                "type": "FURN"
+                            },
+                            {
+                                "id": "act45side_token_puzzlepieces",
+                                "count": 300,
+                                "type": "ACTIVITY_ITEM"
+                            }
+                        ]
+                    },
+                    "letter_5": {
+                        "mailId": "letter_5",
+                        "sortId": 5,
+                        "charName": "莫菲絲",
+                        "picId": "charId_morpheus",
+                        "mailTitle": "夢城堡的錄音",
+                        "mailContent": "唔……唔，愛麗絲讓我來向你們道歉，所以我才……之前是我做得太過分了，給你們帶來了不必要的麻煩，實在對不起。請收下這些，這是我和卡爾頓們一起做的舞台布景……好了吧！這樣就可以了吧愛麗絲！啊啊我不管了，就這樣吧！！你們的舞會一定要成功哦，不然愛麗絲肯定又要唸我了！",
+                        "sendTime": 1775332800,
+                        "rewards": [
+                            {
+                                "id": "furni_dreamCastle_table_03",
+                                "count": 1,
+                                "type": "FURN"
+                            },
+                            {
+                                "id": "act45side_token_puzzlepieces",
+                                "count": 500,
+                                "type": "ACTIVITY_ITEM"
+                            }
+                        ]
+                    }
+                },
+                "constData": {
+                    "entryStageId": "act45side_01",
+                    "toastCharUnlock": "{0}出現在舞會上",
+                    "toastLivePageUnlock": "演出大廳已解鎖",
+                    "toastLivePageLocked": "通關{0}解鎖",
+                    "textCharLocked": "通關{0}解鎖",
+                    "textMailTime": "來信將在{0}後送達",
+                    "textBtnMailTime": "下封來信到達時間：{0}",
+                    "gameTVSizeMusicId": "music_act45side_0",
+                    "gameFullSizeMusicId": "music_act45side_1",
+                    "entryMusicId": "music_act45side_2"
+                },
+                "zoneAdditionDataMap": {
+                    "act45side_zone1": {
+                        "zoneId": "act45side_zone1",
+                        "unlockText": "尚未解鎖"
+                    },
+                    "act45side_zone2": {
+                        "zoneId": "act45side_zone2",
+                        "unlockText": "完成「萬般皆夢」後解鎖"
+                    }
+                }
+            }
+        },
         "RECRUIT_ONLY": {}
     },
     "extraData": {
@@ -238062,8 +240468,14 @@
         }
     },
     "activityItems": {
+        "act6collection": [
+            "act6collection_point_token"
+        ],
         "act37sre": [
             "act37side_token_nay_rep_1"
+        ],
+        "act45side": [
+            "act45side_token_puzzlepieces"
         ],
         "act2enemyduel": [
             "act2enemyduel_milestone_point"
@@ -245248,6 +247660,26 @@
             "startTs": 1773388800
         },
         {
+            "id": "dis_side_45",
+            "type": "ACTIVITY",
+            "funcId": "act45side",
+            "endTs": 1776196799,
+            "sortId": 126,
+            "itemId": "act45side_token_puzzlepieces",
+            "timeNodes": [
+                {
+                    "title": "<無憂夢囈>活動已開放",
+                    "ts": 1775030400
+                },
+                {
+                    "title": "“擁抱命運”內關卡已開放",
+                    "ts": 1775635200
+                }
+            ],
+            "picGroups": [],
+            "startTs": 1775030400
+        },
+        {
             "id": "dis_side_37_sre",
             "type": "ACTIVITY",
             "funcId": "act37sre",
@@ -245413,6 +247845,116 @@
                         "type": "DIAMOND"
                     }
                 ]
+            },
+            "act6fun_01": {
+                "stageId": "act6fun_01",
+                "levelId": "Activities/act6fun/level_act6fun_01",
+                "code": "AK-1",
+                "name": "切爾諾伯格大撤退",
+                "appearanceStyle": "MAIN_NORMAL",
+                "loadingPicId": "loading1",
+                "difficulty": "NORMAL",
+                "unlockCondition": null,
+                "stageDropInfo": []
+            },
+            "act6fun_02": {
+                "stageId": "act6fun_02",
+                "levelId": "Activities/act6fun/level_act6fun_02",
+                "code": "AK-2",
+                "name": "龍門滲透作戰",
+                "appearanceStyle": "MAIN_NORMAL",
+                "loadingPicId": "loading_LM_day",
+                "difficulty": "NORMAL",
+                "unlockCondition": null,
+                "stageDropInfo": []
+            },
+            "act6fun_03": {
+                "stageId": "act6fun_03",
+                "levelId": "Activities/act6fun/level_act6fun_03",
+                "code": "AK-3",
+                "name": "荒野阻擊戰",
+                "appearanceStyle": "MAIN_NORMAL",
+                "loadingPicId": "loading3",
+                "difficulty": "NORMAL",
+                "unlockCondition": null,
+                "stageDropInfo": []
+            },
+            "act6fun_04": {
+                "stageId": "act6fun_04",
+                "levelId": "Activities/act6fun/level_act6fun_04",
+                "code": "AK-4",
+                "name": "切爾諾伯格保衛戰",
+                "appearanceStyle": "MAIN_NORMAL",
+                "loadingPicId": "loading1",
+                "difficulty": "NORMAL",
+                "unlockCondition": null,
+                "stageDropInfo": []
+            },
+            "act6fun_05": {
+                "stageId": "act6fun_05",
+                "levelId": "Activities/act6fun/level_act6fun_05",
+                "code": "AK-5",
+                "name": "金庫大逃亡",
+                "appearanceStyle": "MAIN_NORMAL",
+                "loadingPicId": "loading_SKZ_RL",
+                "difficulty": "NORMAL",
+                "unlockCondition": null,
+                "stageDropInfo": []
+            },
+            "act6fun_06": {
+                "stageId": "act6fun_06",
+                "levelId": "Activities/act6fun/level_act6fun_06",
+                "code": "AK-6",
+                "name": "擾亂貧民窟",
+                "appearanceStyle": "MAIN_NORMAL",
+                "loadingPicId": "loading_BB_ScarMarket",
+                "difficulty": "NORMAL",
+                "unlockCondition": null,
+                "stageDropInfo": []
+            },
+            "act6fun_07": {
+                "stageId": "act6fun_07",
+                "levelId": "Activities/act6fun/level_act6fun_07",
+                "code": "AK-7",
+                "name": "信任",
+                "appearanceStyle": "MAIN_NORMAL",
+                "loadingPicId": "loading_iceforest_2",
+                "difficulty": "NORMAL",
+                "unlockCondition": null,
+                "stageDropInfo": []
+            },
+            "act6fun_08": {
+                "stageId": "act6fun_08",
+                "levelId": "Activities/act6fun/level_act6fun_08",
+                "code": "AK-8",
+                "name": "伊莎瑪拉？",
+                "appearanceStyle": "MAIN_NORMAL",
+                "loadingPicId": "loading_PL_nest",
+                "difficulty": "NORMAL",
+                "unlockCondition": null,
+                "stageDropInfo": []
+            },
+            "act6fun_s01": {
+                "stageId": "act6fun_s01",
+                "levelId": "Activities/act6fun/level_act6fun_sub-1-1",
+                "code": "AK-S-1",
+                "name": "羅德島殲滅戰",
+                "appearanceStyle": "MAIN_NORMAL",
+                "loadingPicId": "loading1",
+                "difficulty": "NORMAL",
+                "unlockCondition": null,
+                "stageDropInfo": []
+            },
+            "act6fun_s02": {
+                "stageId": "act6fun_s02",
+                "levelId": "Activities/act6fun/level_act6fun_sub-2-1",
+                "code": "AK-S-2",
+                "name": "回應",
+                "appearanceStyle": "MAIN_NORMAL",
+                "loadingPicId": "loading_iceforest_2",
+                "difficulty": "NORMAL",
+                "unlockCondition": null,
+                "stageDropInfo": []
             }
         },
         "scoreDict": {
@@ -252476,15 +255018,289 @@
             ]
         },
         "act6FunData": {
-            "stageAdditionMap": {},
-            "stageAchievementMap": {},
-            "achievementRewardList": {},
+            "stageAdditionMap": {
+                "act6fun_01": {
+                    "description": "可惡的羅德島想要把整合運動堵在切爾諾伯格，讓我們與這座城市一同毀滅，決不能讓他們得逞！\n<color=#ed5016><士兵></color>覺得博士的帽兜和自己的有點像，對博士很有親近感。\n<@lv.item><熱泵通道></>每隔一段時間便會對其上的我軍和敵軍造成大量傷害",
+                    "npcDialogText": "“你想知道整合運動是什麼？那就看著吧，博士，我們會用行動告訴你的。”",
+                    "previewCharPicId": "act6fun_char_01",
+                    "feverCoinNum": 6,
+                    "isHiddenStage": false
+                },
+                "act6fun_02": {
+                    "description": "羅德島控制了龍門總督，意圖讓龍門和切爾諾伯格相撞！必須阻止他們的瘋狂計劃。\n<color=#ed5016><幽靈></color>在博士到來後，覺得自己的技能前所未有地有價值，如今鬥志昂揚。",
+                    "npcDialogText": "“博士，你說的是真的嗎？打完這場仗，我也可以去學校學習更先進的技術？哈——那我要好好拚一次了！”",
+                    "previewCharPicId": "act6fun_char_02",
+                    "feverCoinNum": 5,
+                    "isHiddenStage": false
+                },
+                "act6fun_03": {
+                    "description": "我們挫敗了羅德島的邪惡計劃，他們不會輕易放過我們。博士，帶大家走出荒野吧！\n<color=#ed5016><薩卡茲穿刺手></color>不信任博士，但為了整合運動的未來，還是聽從了博士的指揮。\n<@lv.item><震撼裝置></>可以被敵方開啟，傷害並暈眩周圍的我方單位\n<@lv.item><障礙物></>可以阻擋我方單位的行進路線，能夠透過攻擊拆除",
+                    "npcDialogText": "“哼，我會代替塔露拉盯著你，如果你有什麼奇怪的動作，我就把你從山上丟下去。”",
+                    "previewCharPicId": "act6fun_char_03",
+                    "feverCoinNum": 11,
+                    "isHiddenStage": false
+                },
+                "act6fun_04": {
+                    "description": "邪惡的羅德島想要佔領切爾諾伯格，為了切爾諾伯格的居民們，我們必須奪取切爾諾伯格的控制權！\n<color=#ed5016><士兵></color>在博士的影響下最近正努力識字，希望有一天能和博士一樣運籌帷幄。\n<@lv.item><障礙物></>可以阻擋我方單位的行進路線，能夠透過攻擊拆除",
+                    "npcDialogText": "“我有點明白你說的那些道理了，博士。我們拿起武器，不是為了殺人，而是為了讓感染者也能挺起胸膛活下去。”",
+                    "previewCharPicId": "act6fun_char_01",
+                    "feverCoinNum": 5,
+                    "isHiddenStage": false
+                },
+                "act6fun_05": {
+                    "description": "鴨爵從羅德島的大本營——卡茲戴爾的金庫中為整合運動帶來了一份大禮，唯一的問題是——他該怎麼出來？\n<color=#ed5016><鴨爵></color>在目睹了博士的指揮後，他毅然決定投資整合運動。為了展現誠意，他打算送出一份大禮。",
+                    "npcDialogText": "“博士，我很好奇，多少錢才能買下你的知識和眼界？”",
+                    "previewCharPicId": "act6fun_char_05",
+                    "feverCoinNum": 20,
+                    "isHiddenStage": false
+                },
+                "act6fun_06": {
+                    "description": "為了接應鴨爵，博士決定在卡茲戴爾的貧民窟製造混亂，而一名線人主動承擔了這個任務——\n<color=#ed5016><破爛拼湊者></color>卡茲戴爾居民，整合運動的線人，自願為了整合運動的事業而戰鬥。",
+                    "npcDialogText": "“我不能坐視卡茲戴爾淪為羅德島的附庸，所以，告訴我，博士，我該怎麼做？”",
+                    "previewCharPicId": "act6fun_char_06",
+                    "feverCoinNum": 6,
+                    "isHiddenStage": false
+                },
+                "act6fun_07": {
+                    "description": "羅德島似乎在和烏薩斯密謀著什麼，我們必須在層層守衛下竊取他們的計劃書，博士，請下定決心。\n<color=#ed5016><烏薩斯平民></color>烏薩斯平民，為了躲避糾察隊而在荒野上遊蕩，十分膽小。\n<@lv.item><活性源石></>經過的單位持續受到傷害，但攻擊力和攻速大幅度提升",
+                    "npcDialogText": "“博士，你救了我，該我報答你了。放心，我這麼不起眼，他們不會懷疑我的——”",
+                    "previewCharPicId": "act6fun_char_07",
+                    "feverCoinNum": 5,
+                    "isHiddenStage": false
+                },
+                "act6fun_08": {
+                    "description": "突破羅德島的封鎖，抵達巢穴的最深處吧，那裡……有什麼在等你。\n<color=#ed5016><缽海收割者></color>似乎是受到博士的吸引，從深海來到了陸地。\n<@lv.item><活性源石></>經過的單位持續受到傷害，但攻擊力和攻速大幅度提升\n<@lv.rem>本關卡中，靠近紅色進攻點可召喚友方單位</>",
+                    "npcDialogText": "（蠕動）（尖叫）（陰暗爬行）（試圖帶你進入大海）",
+                    "previewCharPicId": "act6fun_char_08",
+                    "feverCoinNum": 4,
+                    "isHiddenStage": false
+                },
+                "act6fun_s01": {
+                    "description": "一台無主的機甲從沉眠中醒來，他似乎打算將周圍的一切都拆掉，呃，還是讓羅德島來享受這種福氣吧！\n<color=#ed5016><最後的蒸汽騎士></color>他的起床氣看來不小，或許可以利用一下。\n<@lv.item><障礙物></>可以阻擋我方單位的行進路線，能夠透過攻擊拆除",
+                    "npcDialogText": "“維多……利亞。”",
+                    "previewCharPicId": "act6fun_char_04",
+                    "feverCoinNum": 15,
+                    "isHiddenStage": true
+                },
+                "act6fun_s02": {
+                    "description": "為了接應深入險境的平民，他向博士主動請纓。為了整合運動，他願意付出一切。\n<color=#ed5016><薩卡茲穿刺手></color>看著整合運動越來越好，開始信任博士，願意為了博士開闢前路。\n<@lv.item><源石流發生裝置></>持續噴出氣流。順風/逆風移動的我方單位移速提升/降低。\n<@lv.item><活性源石></>經過的單位持續受到傷害，但攻擊力和攻速大幅度提升\n<@lv.rem>本關卡中，羅德島幹員部署時獲得大量技力</>",
+                    "npcDialogText": "“我和塔露拉說過了，接下來我會跟著你走。別誤會，我只是想看看，你能帶我們走多遠。”",
+                    "previewCharPicId": "act6fun_char_03",
+                    "feverCoinNum": 12,
+                    "isHiddenStage": true
+                }
+            },
+            "stageAchievementMap": {
+                "act6fun_01": [
+                    {
+                        "achievementId": "act6fun_achv_0101",
+                        "sortId": 1,
+                        "achievementType": "NORMAL",
+                        "description": "拾取至少6個羅德島標誌",
+                        "coverDesc": null
+                    },
+                    {
+                        "achievementId": "act6fun_achv_0102",
+                        "sortId": 2,
+                        "achievementType": "NORMAL",
+                        "description": "拾取全部9個羅德島標誌並通關",
+                        "coverDesc": null
+                    }
+                ],
+                "act6fun_02": [
+                    {
+                        "achievementId": "act6fun_achv_0201",
+                        "sortId": 1,
+                        "achievementType": "NORMAL",
+                        "description": "拾取至少5個羅德島標誌",
+                        "coverDesc": null
+                    },
+                    {
+                        "achievementId": "act6fun_achv_0202",
+                        "sortId": 2,
+                        "achievementType": "NORMAL",
+                        "description": "與瑪恩納同處一個地塊內至少5秒",
+                        "coverDesc": null
+                    }
+                ],
+                "act6fun_03": [
+                    {
+                        "achievementId": "act6fun_achv_0301",
+                        "sortId": 1,
+                        "achievementType": "NORMAL",
+                        "description": "拾取至少11個羅德島標誌",
+                        "coverDesc": null
+                    },
+                    {
+                        "achievementId": "act6fun_achv_0302",
+                        "sortId": 2,
+                        "achievementType": "NORMAL",
+                        "description": "在有至少1名友方單位進入藍色目標點後通關",
+                        "coverDesc": null
+                    }
+                ],
+                "act6fun_04": [
+                    {
+                        "achievementId": "act6fun_achv_0401",
+                        "sortId": 1,
+                        "achievementType": "NORMAL",
+                        "description": "拾取至少5個羅德島標誌",
+                        "coverDesc": null
+                    },
+                    {
+                        "achievementId": "act6fun_achv_0402",
+                        "sortId": 2,
+                        "achievementType": "NORMAL",
+                        "description": "幫助“蒸汽騎士”進入藍色目標點後通關",
+                        "coverDesc": null
+                    },
+                    {
+                        "achievementId": "act6fun_achv_0403",
+                        "sortId": 3,
+                        "achievementType": "EX",
+                        "description": "解救友好生物",
+                        "coverDesc": null
+                    }
+                ],
+                "act6fun_05": [
+                    {
+                        "achievementId": "act6fun_achv_0501",
+                        "sortId": 1,
+                        "achievementType": "NORMAL",
+                        "description": "拾取至少20個羅德島標誌",
+                        "coverDesc": null
+                    },
+                    {
+                        "achievementId": "act6fun_achv_0502",
+                        "sortId": 2,
+                        "achievementType": "NORMAL",
+                        "description": "拾取全部28個羅德島標誌且在120秒內通關",
+                        "coverDesc": null
+                    }
+                ],
+                "act6fun_06": [
+                    {
+                        "achievementId": "act6fun_achv_0601",
+                        "sortId": 1,
+                        "achievementType": "NORMAL",
+                        "description": "拾取至少6個羅德島標誌",
+                        "coverDesc": null
+                    },
+                    {
+                        "achievementId": "act6fun_achv_0602",
+                        "sortId": 2,
+                        "achievementType": "NORMAL",
+                        "description": "飛躍至少3名羅德島幹員的頭頂",
+                        "coverDesc": null
+                    }
+                ],
+                "act6fun_07": [
+                    {
+                        "achievementId": "act6fun_achv_0701",
+                        "sortId": 1,
+                        "achievementType": "NORMAL",
+                        "description": "拾取至少5個羅德島標誌",
+                        "coverDesc": null
+                    },
+                    {
+                        "achievementId": "act6fun_achv_0702",
+                        "sortId": 2,
+                        "achievementType": "NORMAL",
+                        "description": "進入藍色目標點且不受到任何傷害",
+                        "coverDesc": null
+                    },
+                    {
+                        "achievementId": "act6fun_achv_0703",
+                        "sortId": 3,
+                        "achievementType": "EX",
+                        "description": "解救友好生物",
+                        "coverDesc": null
+                    }
+                ],
+                "act6fun_08": [
+                    {
+                        "achievementId": "act6fun_achv_0801",
+                        "sortId": 1,
+                        "achievementType": "NORMAL",
+                        "description": "拾取至少4個羅德島標誌",
+                        "coverDesc": null
+                    },
+                    {
+                        "achievementId": "act6fun_achv_0802",
+                        "sortId": 2,
+                        "achievementType": "NORMAL",
+                        "description": "拾取不超過6個羅德島標誌並通關",
+                        "coverDesc": null
+                    }
+                ],
+                "act6fun_s01": [
+                    {
+                        "achievementId": "act6fun_achv_s0101",
+                        "sortId": 1,
+                        "achievementType": "NORMAL",
+                        "description": "拾取至少15個羅德島標誌",
+                        "coverDesc": null
+                    },
+                    {
+                        "achievementId": "act6fun_achv_s0102",
+                        "sortId": 2,
+                        "achievementType": "NORMAL",
+                        "description": "擊倒至少6名羅德島幹員並通關",
+                        "coverDesc": null
+                    }
+                ],
+                "act6fun_s02": [
+                    {
+                        "achievementId": "act6fun_achv_s0201",
+                        "sortId": 1,
+                        "achievementType": "NORMAL",
+                        "description": "拾取至少12個羅德島標誌",
+                        "coverDesc": null
+                    },
+                    {
+                        "achievementId": "act6fun_achv_s0202",
+                        "sortId": 2,
+                        "achievementType": "NORMAL",
+                        "description": "在50秒內抵達藍色目標點",
+                        "coverDesc": null
+                    }
+                ]
+            },
+            "achievementRewardList": {
+                "1": {
+                    "reward": {
+                        "id": "4002",
+                        "count": 1,
+                        "type": "DIAMOND"
+                    },
+                    "sortId": 1,
+                    "achievementCount": 5
+                },
+                "2": {
+                    "reward": {
+                        "id": "furni_foolsDay_redgate_01",
+                        "count": 1,
+                        "type": "FURN"
+                    },
+                    "sortId": 2,
+                    "achievementCount": 10
+                }
+            },
             "constData": {
-                "defaultStage": null,
-                "achievementMaxNumber": 0,
-                "specialNumber": 0,
-                "characterTipToast": null,
-                "functionToastList": null
+                "defaultStage": "act6fun_01",
+                "achievementMaxNumber": 22,
+                "specialNumber": 22,
+                "characterTipToast": "不能替換角色",
+                "functionToastList": [
+                    "敬請期待",
+                    "正在整理檔案",
+                    "商隊尚未到來",
+                    "正在等待接洽人",
+                    "尚無情報",
+                    "計劃制訂中",
+                    "營地搬遷中",
+                    "倉庫盤點中"
+                ]
             }
         }
     },
@@ -269568,6 +272384,23 @@
         }
     },
     "dynEntrySwitchData": {
+        "act45side": {
+            "entrySwitchInfo": {
+                "act45side_entry_01": {
+                    "entryId": "act45side_entry_01",
+                    "sortId": 1,
+                    "stageId": null,
+                    "signalId": "act45side"
+                },
+                "act45side_entry_02": {
+                    "entryId": "act45side_entry_02",
+                    "sortId": 2,
+                    "stageId": "act45side_08",
+                    "signalId": "act45side"
+                }
+            },
+            "randomEntrySwitchInfo": {}
+        },
         "act44side": {
             "entrySwitchInfo": {},
             "randomEntrySwitchInfo": {
@@ -272871,6 +275704,22 @@
             "titleType": "COMMON",
             "coinType": "COMMON",
             "coinBackColor": "dea65c"
+        },
+        "act45side": {
+            "bigRewardType": "PIC_REWARD",
+            "bigRewardParamList": [],
+            "isMissionListCommonType": true,
+            "isMissionItemCommonType": false,
+            "missionItemMainColor": null,
+            "isMissionItemCompleteUseMainColor": false,
+            "missionItemCompleteColor": null,
+            "isMissionRewardItemCommonType": true,
+            "isClaimAllBtnCommonType": false,
+            "claimAllBtnMainColor": null,
+            "claimAllBtnTips": "目前有已完成待領取的任務",
+            "titleType": "COMMON",
+            "coinType": "COMMON",
+            "coinBackColor": "b40048"
         },
         "act35sre": {
             "bigRewardType": "ILLUST_CHAR_REWARD",

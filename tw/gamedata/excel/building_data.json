@@ -14220,6 +14220,153 @@
                     ]
                 }
             ]
+        },
+        "char_4182_oblvns": {
+            "charId": "char_4182_oblvns",
+            "maxManpower": 8640000,
+            "buffChar": [
+                {
+                    "buffData": [
+                        {
+                            "buffId": "control_prod_bd_spd[000]",
+                            "cond": {
+                                "phase": "PHASE_0",
+                                "level": 1
+                            }
+                        },
+                        {
+                            "buffId": "control_prod_bd_spd[010]",
+                            "cond": {
+                                "phase": "PHASE_2",
+                                "level": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "buffData": [
+                        {
+                            "buffId": "control_mp_cost&bd3[000]",
+                            "cond": {
+                                "phase": "PHASE_0",
+                                "level": 1
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        "char_4183_mortis": {
+            "charId": "char_4183_mortis",
+            "maxManpower": 8640000,
+            "buffChar": [
+                {
+                    "buffData": [
+                        {
+                            "buffId": "control_mp_bd&trade[000]",
+                            "cond": {
+                                "phase": "PHASE_0",
+                                "level": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "buffData": [
+                        {
+                            "buffId": "control_mp_cost_reset[000]",
+                            "cond": {
+                                "phase": "PHASE_2",
+                                "level": 1
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        "char_4185_amoris": {
+            "charId": "char_4185_amoris",
+            "maxManpower": 8640000,
+            "buffChar": [
+                {
+                    "buffData": [
+                        {
+                            "buffId": "control_meeting_spd&bd[000]",
+                            "cond": {
+                                "phase": "PHASE_0",
+                                "level": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "buffData": [
+                        {
+                            "buffId": "control_mp&meet_spd[000]",
+                            "cond": {
+                                "phase": "PHASE_2",
+                                "level": 1
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        "char_4184_dolris": {
+            "charId": "char_4184_dolris",
+            "maxManpower": 8640000,
+            "buffChar": [
+                {
+                    "buffData": [
+                        {
+                            "buffId": "control_dorm_bd[000]",
+                            "cond": {
+                                "phase": "PHASE_0",
+                                "level": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "buffData": [
+                        {
+                            "buffId": "control_dorm_rec2[000]",
+                            "cond": {
+                                "phase": "PHASE_2",
+                                "level": 1
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        "char_4186_tmoris": {
+            "charId": "char_4186_tmoris",
+            "maxManpower": 8640000,
+            "buffChar": [
+                {
+                    "buffData": [
+                        {
+                            "buffId": "control_hire_spd&bd[000]",
+                            "cond": {
+                                "phase": "PHASE_0",
+                                "level": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "buffData": [
+                        {
+                            "buffId": "control_tra_limit&spd2[000]",
+                            "cond": {
+                                "phase": "PHASE_2",
+                                "level": 1
+                            }
+                        }
+                    ]
+                }
+            ]
         }
     },
     "buffs": {
@@ -14264,6 +14411,36 @@
             "buffCategory": "FUNCTION",
             "roomType": "CONTROL",
             "description": "進駐控制中樞時，每個進駐在製造站的<$cc.tag.knight><@cc.kw>騎士</></>幹員生產力<@cc.vup>+7%</>",
+            "efficiency": 0,
+            "targetGroupSortId": 0,
+            "targets": []
+        },
+        "control_prod_bd_spd[000]": {
+            "buffId": "control_prod_bd_spd[000]",
+            "buffName": "豐富工作經驗",
+            "buffIcon": "control",
+            "skillIcon": "bskill_ctrl_p_oblvns",
+            "sortId": 1617,
+            "buffColor": "#005752",
+            "textColor": "#ffffff",
+            "buffCategory": "FUNCTION",
+            "roomType": "CONTROL",
+            "description": "進駐控制中樞時，所有生產<@cc.kw>貴金屬</>類配方的製造站生產力<@cc.vup>+0.5%</>，每有<@cc.vup>20</>點<$cc.bd_mujica><@cc.rem>熱情值</></>，所有生產<@cc.kw>貴金屬</>類配方的製造站生產力<@cc.vup>+0.5%</>",
+            "efficiency": 0,
+            "targetGroupSortId": 0,
+            "targets": []
+        },
+        "control_prod_bd_spd[010]": {
+            "buffId": "control_prod_bd_spd[010]",
+            "buffName": "豐富工作經驗",
+            "buffIcon": "control",
+            "skillIcon": "bskill_ctrl_p_oblvns",
+            "sortId": 1617,
+            "buffColor": "#005752",
+            "textColor": "#ffffff",
+            "buffCategory": "FUNCTION",
+            "roomType": "CONTROL",
+            "description": "進駐控制中樞時，所有生產<@cc.kw>貴金屬</>類配方的製造站生產力<@cc.vup>+1%</>，每有<@cc.vup>20</>點<$cc.bd_mujica><@cc.rem>熱情值</></>，所有生產<@cc.kw>貴金屬</>類配方的製造站生產力<@cc.vup>+1%</>",
             "efficiency": 0,
             "targetGroupSortId": 0,
             "targets": []
@@ -14429,6 +14606,21 @@
             "buffCategory": "FUNCTION",
             "roomType": "CONTROL",
             "description": "進駐控制中樞時，每個進駐在貿易站的<$cc.g.karlan><@cc.kw>喀蘭貿易</></>幹員，訂單獲取效率<@cc.vdown>-15%</>，訂單上限<@cc.vup>+6</>",
+            "efficiency": 0,
+            "targetGroupSortId": 0,
+            "targets": []
+        },
+        "control_tra_limit&spd2[000]": {
+            "buffId": "control_tra_limit&spd2[000]",
+            "buffName": "家族認可",
+            "buffIcon": "control",
+            "skillIcon": "bskill_ctrl_t_limit&spd_tmoris",
+            "sortId": 1616,
+            "buffColor": "#005752",
+            "textColor": "#ffffff",
+            "buffCategory": "FUNCTION",
+            "roomType": "CONTROL",
+            "description": "進駐控制中樞時，每個進駐在貿易站的<$cc.g.siracusa><@cc.kw>敘拉古</></>幹員，訂單獲得效率<@cc.vup>+5%</>",
             "efficiency": 0,
             "targetGroupSortId": 0,
             "targets": []
@@ -14958,6 +15150,21 @@
             "targetGroupSortId": 0,
             "targets": []
         },
+        "control_mp_cost&bd3[000]": {
+            "buffId": "control_mp_cost&bd3[000]",
+            "buffName": "生活的重壓",
+            "buffIcon": "control",
+            "skillIcon": "bskill_ctrl_mp_oblvns",
+            "sortId": 1617,
+            "buffColor": "#005752",
+            "textColor": "#ffffff",
+            "buffCategory": "FUNCTION",
+            "roomType": "CONTROL",
+            "description": "進駐控制中樞時，熱情值處於<@cc.kw>40</>點及以上時，自身心情每小時消耗<@cc.vdown>+0.05</>",
+            "efficiency": 0,
+            "targetGroupSortId": 0,
+            "targets": []
+        },
         "control_mp_cost&bd_up[000]": {
             "buffId": "control_mp_cost&bd_up[000]",
             "buffName": "知我為我",
@@ -15014,6 +15221,36 @@
             "buffCategory": "FUNCTION",
             "roomType": "CONTROL",
             "description": "進駐控制中樞時，自身心情每小時消耗<@cc.vdown>+0.5</>，<$cc.bd_felyne><@cc.rem>木天蓼</></><@cc.vup>+8</>",
+            "efficiency": 0,
+            "targetGroupSortId": 0,
+            "targets": []
+        },
+        "control_mp_cost_reset[000]": {
+            "buffId": "control_mp_cost_reset[000]",
+            "buffName": "互為半身",
+            "buffIcon": "control",
+            "skillIcon": "bskill_ctrl_mp_mortis",
+            "sortId": 1613,
+            "buffColor": "#005752",
+            "textColor": "#ffffff",
+            "buffCategory": "FUNCTION",
+            "roomType": "CONTROL",
+            "description": "當與<@cc.kw>豐川祥子</>一起進駐控制中樞時，消除自身心情消耗的影響",
+            "efficiency": 0,
+            "targetGroupSortId": 0,
+            "targets": []
+        },
+        "control_mp&meet_spd[000]": {
+            "buffId": "control_mp&meet_spd[000]",
+            "buffName": "成效優先",
+            "buffIcon": "control",
+            "skillIcon": "bskill_ctrl_meet_amoris2",
+            "sortId": 1614,
+            "buffColor": "#005752",
+            "textColor": "#ffffff",
+            "buffCategory": "FUNCTION",
+            "roomType": "CONTROL",
+            "description": "當與<@cc.kw>豐川祥子</>一起進駐控制中樞時，<@cc.kw>豐川祥子</>心情每小時消耗<@cc.vdown>+0.05</>，會客室線索蒐集速度額外提升<@cc.vup>+5%</>（同種效果取最高）",
             "efficiency": 0,
             "targetGroupSortId": 0,
             "targets": []
@@ -15228,6 +15465,21 @@
             "targetGroupSortId": 0,
             "targets": []
         },
+        "control_dorm_rec2[000]": {
+            "buffId": "control_dorm_rec2[000]",
+            "buffName": "羈絆相生",
+            "buffIcon": "control",
+            "skillIcon": "bskill_ctrl_dorm_uika2",
+            "sortId": 1615,
+            "buffColor": "#005752",
+            "textColor": "#ffffff",
+            "buffCategory": "FUNCTION",
+            "roomType": "CONTROL",
+            "description": "進駐控制中樞時，所有宿舍內所有幹員的心情每小時恢復<@cc.vup>+0.05</>（同種效果取最高）；當與<@cc.kw>豐川祥子</>一起進駐控制中樞時，<@cc.kw>豐川祥子</>的心情每小時恢復<@cc.vup>+0.1</>",
+            "efficiency": 0,
+            "targetGroupSortId": 0,
+            "targets": []
+        },
         "control_train_spd[010]": {
             "buffId": "control_train_spd[010]",
             "buffName": "S.W.E.E.P.主管",
@@ -15284,6 +15536,66 @@
             "buffCategory": "FUNCTION",
             "roomType": "CONTROL",
             "description": "進駐控制中樞時，同一貿易站中，每有<@cc.vup>1</>名<$cc.g.glasgow><@cc.kw>格拉斯哥幫</></>幹員，訂單獲取效率<@cc.vup>+10%</>",
+            "efficiency": 0,
+            "targetGroupSortId": 0,
+            "targets": []
+        },
+        "control_mp_bd&trade[000]": {
+            "buffId": "control_mp_bd&trade[000]",
+            "buffName": "演技的怪物",
+            "buffIcon": "control",
+            "skillIcon": "bskill_ctrl_trade_mortis",
+            "sortId": 1613,
+            "buffColor": "#005752",
+            "textColor": "#ffffff",
+            "buffCategory": "FUNCTION",
+            "roomType": "CONTROL",
+            "description": "進駐控制中樞時，<$cc.bd_mujica><@cc.rem>熱情值</></><@cc.vup>+20</>；每有<@cc.vup>8</>點<$cc.bd_mujica><@cc.rem>熱情值</></>，自身心情每小時消耗<@cc.vdown>+0.01</>，所有貿易站訂單效率<@cc.vup>+1%</>（同種效果取最高）",
+            "efficiency": 0,
+            "targetGroupSortId": 0,
+            "targets": []
+        },
+        "control_meeting_spd&bd[000]": {
+            "buffId": "control_meeting_spd&bd[000]",
+            "buffName": "勤學苦練",
+            "buffIcon": "control",
+            "skillIcon": "bskill_ctrl_meet_amoris1",
+            "sortId": 1614,
+            "buffColor": "#005752",
+            "textColor": "#ffffff",
+            "buffCategory": "FUNCTION",
+            "roomType": "CONTROL",
+            "description": "進駐控制中樞時，<$cc.bd_mujica><@cc.rem>熱情值</></><@cc.vup>+10</>；會客室線索蒐集速度提升<@cc.vup>+5%</>（同種效果取最高）",
+            "efficiency": 0,
+            "targetGroupSortId": 0,
+            "targets": []
+        },
+        "control_dorm_bd[000]": {
+            "buffId": "control_dorm_bd[000]",
+            "buffName": "偶像光環",
+            "buffIcon": "control",
+            "skillIcon": "bskill_ctrl_dorm_uika1",
+            "sortId": 1615,
+            "buffColor": "#005752",
+            "textColor": "#ffffff",
+            "buffCategory": "FUNCTION",
+            "roomType": "CONTROL",
+            "description": "進駐控制中樞時，宿舍內每有<@cc.vup>1</>名幹員，<$cc.bd_mujica><@cc.rem>熱情值</></><@cc.vup>+1</>",
+            "efficiency": 0,
+            "targetGroupSortId": 0,
+            "targets": []
+        },
+        "control_hire_spd&bd[000]": {
+            "buffId": "control_hire_spd&bd[000]",
+            "buffName": "可靠夥伴",
+            "buffIcon": "control",
+            "skillIcon": "bskill_ctrl_hire_tmoris",
+            "sortId": 1616,
+            "buffColor": "#005752",
+            "textColor": "#ffffff",
+            "buffCategory": "FUNCTION",
+            "roomType": "CONTROL",
+            "description": "進駐控制中樞時，<$cc.bd_mujica><@cc.rem>熱情值</></><@cc.vup>+10</>；人脈資源的聯絡速度<@cc.vup>+10%</>（同種效果取最高）",
             "efficiency": 0,
             "targetGroupSortId": 0,
             "targets": []
@@ -90617,6 +90929,550 @@
                 "enableRoomType": 4112,
                 "quantity": 1
             },
+            "furni_dreamCastle_Column_01": {
+                "id": "furni_dreamCastle_Column_01",
+                "sortId": 2056,
+                "name": "“起幕”立柱",
+                "iconId": "furni_dreamCastle_Column_01",
+                "interactType": "NONE",
+                "musicId": "",
+                "type": "DECORATION",
+                "subType": "COLUMN",
+                "location": "FLOOR",
+                "category": "FURNITURE",
+                "validOnRotate": false,
+                "enableRotate": true,
+                "rarity": 2,
+                "themeId": "furni_set_dreamCastle",
+                "groupId": "furni_set_dreamCastle_1",
+                "width": 4,
+                "depth": 4,
+                "height": 10,
+                "comfort": 325,
+                "usage": "能夠用來裝扮宿舍與活動室，提高對應房間的氛圍",
+                "description": "雕有紋飾的大型石柱，上方的滑軌掛著猩紅色的幕簾。\n揭開這塊幕布，來客就會走進幽邃的夢境，領略幻惑人心的悲喜。",
+                "obtainApproach": "活動獲得",
+                "processedProductId": "3401",
+                "processedProductCount": 0,
+                "processedByProductPercentage": 0,
+                "processedByProductGroup": [],
+                "canBeDestroy": false,
+                "isOnly": 1,
+                "enableRoomType": 4112,
+                "quantity": 1
+            },
+            "furni_dreamCastle_ceilingLight_01": {
+                "id": "furni_dreamCastle_ceilingLight_01",
+                "sortId": 2057,
+                "name": "暗銅花蔓吊燈",
+                "iconId": "furni_dreamCastle_ceilingLight_01",
+                "interactType": "NONE",
+                "musicId": "",
+                "type": "CEILINGLAMP",
+                "subType": "NONE",
+                "location": "CEILING",
+                "category": "FURNITURE",
+                "validOnRotate": false,
+                "enableRotate": true,
+                "rarity": 2,
+                "themeId": "furni_set_dreamCastle",
+                "groupId": "furni_set_dreamCastle_1",
+                "width": 5,
+                "depth": 4,
+                "height": 4,
+                "comfort": 115,
+                "usage": "能夠用來裝扮宿舍與活動室，提高對應房間的氛圍",
+                "description": "暗銅色的花蔓吊燈，燈泡模仿了燭火的形狀。\n它的光亮遠遠不足以照亮整個大廳，總有人會受到那黑暗的引誘。",
+                "obtainApproach": "活動獲得",
+                "processedProductId": "3401",
+                "processedProductCount": 0,
+                "processedByProductPercentage": 0,
+                "processedByProductGroup": [],
+                "canBeDestroy": false,
+                "isOnly": 2,
+                "enableRoomType": 4112,
+                "quantity": 2
+            },
+            "furni_dreamCastle_piano_01": {
+                "id": "furni_dreamCastle_piano_01",
+                "sortId": 2058,
+                "name": "“燭焰禮堂”管風琴",
+                "iconId": "furni_dreamCastle_piano_01",
+                "interactType": "NONE",
+                "musicId": "",
+                "type": "DECORATION",
+                "subType": "INSTRUMENT_D",
+                "location": "FLOOR",
+                "category": "FURNITURE",
+                "validOnRotate": false,
+                "enableRotate": true,
+                "rarity": 2,
+                "themeId": "furni_set_dreamCastle",
+                "groupId": "furni_set_dreamCastle_1",
+                "width": 7,
+                "depth": 3,
+                "height": 8,
+                "comfort": 350,
+                "usage": "能夠用來裝扮宿舍與活動室，提高對應房間的氛圍",
+                "description": "有著厚重琴體的管風琴，音管部以尖頂樣式進行包覆裝飾。\n被幽暗的環境重重包圍，只有無比堅毅之人才能用它演奏出喚醒人心的旋律。",
+                "obtainApproach": "傢俱商店限時購買",
+                "processedProductId": "3401",
+                "processedProductCount": 0,
+                "processedByProductPercentage": 0,
+                "processedByProductGroup": [],
+                "canBeDestroy": false,
+                "isOnly": 1,
+                "enableRoomType": 4112,
+                "quantity": 1
+            },
+            "furni_dreamCastle_chair_01": {
+                "id": "furni_dreamCastle_chair_01",
+                "sortId": 2059,
+                "name": "暗紅琴凳",
+                "iconId": "furni_dreamCastle_chair_01",
+                "interactType": "NONE",
+                "musicId": "",
+                "type": "SEATING",
+                "subType": "CHAIR",
+                "location": "FLOOR",
+                "category": "FURNITURE",
+                "validOnRotate": false,
+                "enableRotate": true,
+                "rarity": 2,
+                "themeId": "furni_set_dreamCastle",
+                "groupId": "furni_set_dreamCastle_1",
+                "width": 2,
+                "depth": 2,
+                "height": 2,
+                "comfort": 115,
+                "usage": "能夠用來裝扮宿舍與活動室，提高對應房間的氛圍",
+                "description": "擁有十字形支架的琴凳，坐墊表面是一層暗紅色的綢布。\n演奏者坐下來面向琴鍵的時候，心中會帶著怎樣的掙扎？",
+                "obtainApproach": "傢俱商店限時購買",
+                "processedProductId": "3401",
+                "processedProductCount": 0,
+                "processedByProductPercentage": 0,
+                "processedByProductGroup": [],
+                "canBeDestroy": false,
+                "isOnly": 1,
+                "enableRoomType": 4112,
+                "quantity": 1
+            },
+            "furni_dreamCastle_candle_01": {
+                "id": "furni_dreamCastle_candle_01",
+                "sortId": 2060,
+                "name": "“血淚滴落”",
+                "iconId": "furni_dreamCastle_candle_01",
+                "interactType": "NONE",
+                "musicId": "",
+                "type": "DECORATION",
+                "subType": "FLOORLAMP",
+                "location": "FLOOR",
+                "category": "FURNITURE",
+                "validOnRotate": false,
+                "enableRotate": true,
+                "rarity": 2,
+                "themeId": "furni_set_dreamCastle",
+                "groupId": "furni_set_dreamCastle_1",
+                "width": 2,
+                "depth": 2,
+                "height": 4,
+                "comfort": 145,
+                "usage": "能夠用來裝扮宿舍與活動室，提高對應房間的氛圍",
+                "description": "施有暗色漆料的金屬立式燭台，造型古樸且雅致。\n人們在夢城堡裡戴上假面，這架燭台得以見證舞動的面具之下凝結的淚水。",
+                "obtainApproach": "活動獲得",
+                "processedProductId": "3401",
+                "processedProductCount": 0,
+                "processedByProductPercentage": 0,
+                "processedByProductGroup": [],
+                "canBeDestroy": false,
+                "isOnly": 1,
+                "enableRoomType": 4112,
+                "quantity": 1
+            },
+            "furni_dreamCastle_chair_02": {
+                "id": "furni_dreamCastle_chair_02",
+                "sortId": 2061,
+                "name": "尋夢者之椅",
+                "iconId": "furni_dreamCastle_chair_02",
+                "interactType": "NONE",
+                "musicId": "",
+                "type": "SEATING",
+                "subType": "CHAIR",
+                "location": "FLOOR",
+                "category": "FURNITURE",
+                "validOnRotate": false,
+                "enableRotate": true,
+                "rarity": 2,
+                "themeId": "furni_set_dreamCastle",
+                "groupId": "furni_set_dreamCastle_2",
+                "width": 2,
+                "depth": 2,
+                "height": 6,
+                "comfort": 115,
+                "usage": "能夠用來裝扮宿舍與活動室，提高對應房間的氛圍",
+                "description": "椅背和坐墊被塗以鮮紅色的高靠背座椅，頂部雕有燭台花紋。\n少女們在此沉淪於無邊的幻境，這些座椅是她們曾戰勝過自己的證據。",
+                "obtainApproach": "活動獲得",
+                "processedProductId": "3401",
+                "processedProductCount": 0,
+                "processedByProductPercentage": 0,
+                "processedByProductGroup": [],
+                "canBeDestroy": false,
+                "isOnly": 5,
+                "enableRoomType": 4112,
+                "quantity": 5
+            },
+            "furni_dreamCastle_table_01": {
+                "id": "furni_dreamCastle_table_01",
+                "sortId": 2062,
+                "name": "古堡小桌",
+                "iconId": "furni_dreamCastle_table_01",
+                "interactType": "NONE",
+                "musicId": "",
+                "type": "TABLE",
+                "subType": "NONE",
+                "location": "FLOOR",
+                "category": "FURNITURE",
+                "validOnRotate": false,
+                "enableRotate": true,
+                "rarity": 2,
+                "themeId": "furni_set_dreamCastle",
+                "groupId": "furni_set_dreamCastle_2",
+                "width": 2,
+                "depth": 2,
+                "height": 3,
+                "comfort": 130,
+                "usage": "能夠用來裝扮宿舍與活動室，提高對應房間的氛圍",
+                "description": "鋪有暗紫色錦緞桌布的小圓桌，上面還放置著一盞花窗樣式的檯燈。\n少女將自己軟弱的內心，和只在夢境中才戴上的面具，一同留在了過去。",
+                "obtainApproach": "活動獲得",
+                "processedProductId": "3401",
+                "processedProductCount": 0,
+                "processedByProductPercentage": 0,
+                "processedByProductGroup": [],
+                "canBeDestroy": false,
+                "isOnly": 1,
+                "enableRoomType": 4112,
+                "quantity": 1
+            },
+            "furni_dreamCastle_drawing_01": {
+                "id": "furni_dreamCastle_drawing_01",
+                "sortId": 2063,
+                "name": "“月夜牢籠”",
+                "iconId": "furni_dreamCastle_drawing_01",
+                "interactType": "NONE",
+                "musicId": "",
+                "type": "WALLDECO",
+                "subType": "ART_WD",
+                "location": "WALL",
+                "category": "FURNITURE",
+                "validOnRotate": false,
+                "enableRotate": true,
+                "rarity": 2,
+                "themeId": "furni_set_dreamCastle",
+                "groupId": "furni_set_dreamCastle_4",
+                "width": 2,
+                "depth": 1,
+                "height": 3,
+                "comfort": 60,
+                "usage": "能夠用來裝扮宿舍與活動室，提高對應房間的氛圍",
+                "description": "鑲在木質花紋畫框裡的裝飾畫，畫中是被鎖鏈封住的月夜。\n每位訪客都有著獨屬於自己的心靈枷鎖，唯有意志堅定之人才能將其解開。",
+                "obtainApproach": "活動獲得",
+                "processedProductId": "3401",
+                "processedProductCount": 0,
+                "processedByProductPercentage": 0,
+                "processedByProductGroup": [],
+                "canBeDestroy": false,
+                "isOnly": 1,
+                "enableRoomType": 4112,
+                "quantity": 1
+            },
+            "furni_dreamCastle_table_02": {
+                "id": "furni_dreamCastle_table_02",
+                "sortId": 2064,
+                "name": "陰鬱長桌",
+                "iconId": "furni_dreamCastle_table_02",
+                "interactType": "NONE",
+                "musicId": "",
+                "type": "TABLE",
+                "subType": "NONE",
+                "location": "FLOOR",
+                "category": "FURNITURE",
+                "validOnRotate": false,
+                "enableRotate": true,
+                "rarity": 2,
+                "themeId": "furni_set_dreamCastle",
+                "groupId": "furni_set_dreamCastle_2",
+                "width": 16,
+                "depth": 3,
+                "height": 5,
+                "comfort": 540,
+                "usage": "能夠用來裝扮宿舍與活動室，提高對應房間的氛圍",
+                "description": "一張擺有燭台的長桌，錯落的尖錐和附帶的怪異擺飾都凸顯其陰鬱的風格。\n經歷異變的夢城堡誘使意欲逃避的人們獻出意識，走進無法自拔的夢境。",
+                "obtainApproach": "活動獲得",
+                "processedProductId": "3401",
+                "processedProductCount": 0,
+                "processedByProductPercentage": 0,
+                "processedByProductGroup": [],
+                "canBeDestroy": false,
+                "isOnly": 1,
+                "enableRoomType": 4112,
+                "quantity": 1
+            },
+            "furni_dreamCastle_carpet_01": {
+                "id": "furni_dreamCastle_carpet_01",
+                "sortId": 2065,
+                "name": "暗紅夜空紋毯",
+                "iconId": "furni_dreamCastle_carpet_01",
+                "interactType": "NONE",
+                "musicId": "",
+                "type": "CARPET",
+                "subType": "NONE",
+                "location": "CARPET",
+                "category": "FURNITURE",
+                "validOnRotate": false,
+                "enableRotate": true,
+                "rarity": 2,
+                "themeId": "furni_set_dreamCastle",
+                "groupId": "furni_set_dreamCastle_2",
+                "width": 18,
+                "depth": 10,
+                "height": 1,
+                "comfort": 190,
+                "usage": "能夠用來裝扮宿舍與活動室，提高對應房間的氛圍",
+                "description": "暗紅色的花紋地毯，上面繡有象徵著不安的殘月夜空。\n血色的背景之中，在這絨毯上搖曳的身影，究竟是不是尋夢者想看到的自己？",
+                "obtainApproach": "活動獲得",
+                "processedProductId": "3401",
+                "processedProductCount": 0,
+                "processedByProductPercentage": 0,
+                "processedByProductGroup": [],
+                "canBeDestroy": false,
+                "isOnly": 1,
+                "enableRoomType": 4112,
+                "quantity": 1
+            },
+            "furni_dreamCastle_curtainPlatform_01": {
+                "id": "furni_dreamCastle_curtainPlatform_01",
+                "sortId": 2066,
+                "name": "“落幕”平台",
+                "iconId": "furni_dreamCastle_curtainPlatform_01",
+                "interactType": "NONE",
+                "musicId": "",
+                "type": "DECORATION",
+                "subType": "ORTHER_D",
+                "location": "FLOOR",
+                "category": "FURNITURE",
+                "validOnRotate": false,
+                "enableRotate": true,
+                "rarity": 2,
+                "themeId": "furni_set_dreamCastle",
+                "groupId": "furni_set_dreamCastle_3",
+                "width": 4,
+                "depth": 2,
+                "height": 10,
+                "comfort": 240,
+                "usage": "能夠用來裝扮宿舍與活動室，提高對應房間的氛圍",
+                "description": "掛有猩紅色幕簾的木製小平台，圍欄的側邊特地進行了毀損。\n在此上演的悲喜都已經散場，那損壞了的圍欄是對參演者的紀念。",
+                "obtainApproach": "傢俱商店限時購買",
+                "processedProductId": "3401",
+                "processedProductCount": 0,
+                "processedByProductPercentage": 0,
+                "processedByProductGroup": [],
+                "canBeDestroy": false,
+                "isOnly": 1,
+                "enableRoomType": 4112,
+                "quantity": 1
+            },
+            "furni_dreamCastle_wall_01": {
+                "id": "furni_dreamCastle_wall_01",
+                "sortId": 2067,
+                "name": "雕刻柱隔間牆",
+                "iconId": "furni_dreamCastle_wall_01",
+                "interactType": "NONE",
+                "musicId": "",
+                "type": "DECORATION",
+                "subType": "PARTITION",
+                "location": "FLOOR",
+                "category": "FURNITURE",
+                "validOnRotate": false,
+                "enableRotate": true,
+                "rarity": 2,
+                "themeId": "furni_set_dreamCastle",
+                "groupId": "furni_set_dreamCastle_3",
+                "width": 6,
+                "depth": 1,
+                "height": 10,
+                "comfort": 245,
+                "usage": "能夠用來裝扮宿舍與活動室，提高對應房間的氛圍",
+                "description": "用來分隔空間的石製隔間牆，以雕刻柱為主體的鏤空牆體看起來帶著別樣的憂鬱。\n它營造出的異樣氛圍，讓人總有一種身處牢籠之中的錯覺，而這正是設計者的意圖。",
+                "obtainApproach": "傢俱商店限時購買",
+                "processedProductId": "3401",
+                "processedProductCount": 0,
+                "processedByProductPercentage": 0,
+                "processedByProductGroup": [],
+                "canBeDestroy": false,
+                "isOnly": 1,
+                "enableRoomType": 4112,
+                "quantity": 1
+            },
+            "furni_dreamCastle_carpet_02": {
+                "id": "furni_dreamCastle_carpet_02",
+                "sortId": 2068,
+                "name": "五瓣花小毯",
+                "iconId": "furni_dreamCastle_carpet_02",
+                "interactType": "NONE",
+                "musicId": "",
+                "type": "CARPET",
+                "subType": "NONE",
+                "location": "CARPET",
+                "category": "FURNITURE",
+                "validOnRotate": false,
+                "enableRotate": true,
+                "rarity": 2,
+                "themeId": "furni_set_dreamCastle",
+                "groupId": "furni_set_dreamCastle_4",
+                "width": 3,
+                "depth": 3,
+                "height": 1,
+                "comfort": 30,
+                "usage": "能夠用來裝扮宿舍與活動室，提高對應房間的氛圍",
+                "description": "暗色的花形小地毯，繡有淡色的花蕊。\n五片花瓣，代表著曾突破夢城堡禁錮的五位少女，以及她們不屈於幻境的堅毅之心。",
+                "obtainApproach": "活動獲得",
+                "processedProductId": "3401",
+                "processedProductCount": 0,
+                "processedByProductPercentage": 0,
+                "processedByProductGroup": [],
+                "canBeDestroy": false,
+                "isOnly": 1,
+                "enableRoomType": 4112,
+                "quantity": 1
+            },
+            "furni_dreamCastle_table_03": {
+                "id": "furni_dreamCastle_table_03",
+                "sortId": 2069,
+                "name": "“荊棘之碑”",
+                "iconId": "furni_dreamCastle_table_03",
+                "interactType": "NONE",
+                "musicId": "",
+                "type": "TABLE",
+                "subType": "NONE",
+                "location": "FLOOR",
+                "category": "FURNITURE",
+                "validOnRotate": false,
+                "enableRotate": true,
+                "rarity": 2,
+                "themeId": "furni_set_dreamCastle",
+                "groupId": "furni_set_dreamCastle_3",
+                "width": 6,
+                "depth": 3,
+                "height": 5,
+                "comfort": 245,
+                "usage": "能夠用來裝扮宿舍與活動室，提高對應房間的氛圍",
+                "description": "模仿陰森的石碑製作而成的置物台，裝飾有燭光、薔薇與荊棘。\n要打破幻夢就如同穿越荊棘，必須承受住現實的刺痛才行。",
+                "obtainApproach": "活動獲得",
+                "processedProductId": "3401",
+                "processedProductCount": 0,
+                "processedByProductPercentage": 0,
+                "processedByProductGroup": [],
+                "canBeDestroy": false,
+                "isOnly": 1,
+                "enableRoomType": 4112,
+                "quantity": 1
+            },
+            "furni_dreamCastle_bookcase_02": {
+                "id": "furni_dreamCastle_bookcase_02",
+                "sortId": 2070,
+                "name": "尖頂書櫃",
+                "iconId": "furni_dreamCastle_bookcase_02",
+                "interactType": "NONE",
+                "musicId": "",
+                "type": "CABINET",
+                "subType": "NONE",
+                "location": "FLOOR",
+                "category": "FURNITURE",
+                "validOnRotate": false,
+                "enableRotate": true,
+                "rarity": 2,
+                "themeId": "furni_set_dreamCastle",
+                "groupId": "furni_set_dreamCastle_3",
+                "width": 2,
+                "depth": 2,
+                "height": 5,
+                "comfort": 160,
+                "usage": "能夠用來裝扮宿舍與活動室，提高對應房間的氛圍",
+                "description": "仿照夢城堡屋頂設計的小型書櫃，背板上繪有深邃的星空。\n封存在這裡的琴譜，代表著尋夢者們勇於面對現實的決心。",
+                "obtainApproach": "活動獲得",
+                "processedProductId": "3401",
+                "processedProductCount": 0,
+                "processedByProductPercentage": 0,
+                "processedByProductGroup": [],
+                "canBeDestroy": false,
+                "isOnly": 1,
+                "enableRoomType": 4112,
+                "quantity": 1
+            },
+            "furni_dreamCastle_wallpaper_01": {
+                "id": "furni_dreamCastle_wallpaper_01",
+                "sortId": 2071,
+                "name": "“幻惑夜空”",
+                "iconId": "furni_dreamCastle_wallpaper_01",
+                "interactType": "NONE",
+                "musicId": "",
+                "type": "WALLPAPER",
+                "subType": "NONE",
+                "location": "NONE",
+                "category": "WALL",
+                "validOnRotate": false,
+                "enableRotate": false,
+                "rarity": 2,
+                "themeId": "furni_set_dreamCastle",
+                "groupId": "furni_set_dreamCastle_4",
+                "width": 34,
+                "depth": 1,
+                "height": 10,
+                "comfort": 240,
+                "usage": "能夠用來裝扮宿舍與活動室，提高對應房間的氛圍",
+                "description": "展現夢城堡演出環境的全景螢幕，金屬窗櫺外是看似永恆不變的暗夜。\n長夜不會漫漫無期，幻夢不會永無止境。",
+                "obtainApproach": "活動獲得",
+                "processedProductId": "3401",
+                "processedProductCount": 0,
+                "processedByProductPercentage": 0,
+                "processedByProductGroup": [],
+                "canBeDestroy": false,
+                "isOnly": 1,
+                "enableRoomType": 4112,
+                "quantity": 1
+            },
+            "furni_dreamCastle_floor_01": {
+                "id": "furni_dreamCastle_floor_01",
+                "sortId": 2072,
+                "name": "“幽暗之地”",
+                "iconId": "furni_dreamCastle_floor_01",
+                "interactType": "NONE",
+                "musicId": "",
+                "type": "FLOOR",
+                "subType": "NONE",
+                "location": "NONE",
+                "category": "FLOOR",
+                "validOnRotate": false,
+                "enableRotate": false,
+                "rarity": 2,
+                "themeId": "furni_set_dreamCastle",
+                "groupId": "furni_set_dreamCastle_4",
+                "width": 34,
+                "depth": 10,
+                "height": 1,
+                "comfort": 240,
+                "usage": "能夠用來裝扮宿舍與活動室，提高對應房間的氛圍",
+                "description": "夢城堡中特有的地板，暗色石磚上的金色花紋異常顯眼。\n離開的時候，尋夢者們踏在石磚上的腳步要比來時更加堅定。",
+                "obtainApproach": "活動獲得",
+                "processedProductId": "3401",
+                "processedProductCount": 0,
+                "processedByProductPercentage": 0,
+                "processedByProductGroup": [],
+                "canBeDestroy": false,
+                "isOnly": 1,
+                "enableRoomType": 4112,
+                "quantity": 1
+            },
             "furni_oct1st_deckChair_01": {
                 "id": "furni_oct1st_deckChair_01",
                 "sortId": 9998,
@@ -93903,6 +94759,38 @@
                 "comfort": 210,
                 "usage": "能夠用來裝扮宿舍與活動室，提高對應房間的氛圍",
                 "description": "佳節期間在羅德島搭起的糖畫攤，晶瑩生動的糖畫惹人駐足。\n艦船上到處是喜氣洋洋捏著糖畫的幹員，連滄桑老兵都未能抵擋誘惑。",
+                "obtainApproach": "活動獲得",
+                "processedProductId": "3401",
+                "processedProductCount": 0,
+                "processedByProductPercentage": 0,
+                "processedByProductGroup": [],
+                "canBeDestroy": false,
+                "isOnly": 1,
+                "enableRoomType": 4112,
+                "quantity": 0
+            },
+            "furni_foolsDay_redgate_01": {
+                "id": "furni_foolsDay_redgate_01",
+                "sortId": 10233,
+                "name": "整合運動紀念牌",
+                "iconId": "furni_foolsDay_redgate_01",
+                "interactType": "NONE",
+                "musicId": "",
+                "type": "DECORATION",
+                "subType": "ART_D",
+                "location": "FLOOR",
+                "category": "FURNITURE",
+                "validOnRotate": false,
+                "enableRotate": false,
+                "rarity": 2,
+                "themeId": "",
+                "groupId": "",
+                "width": 4,
+                "depth": 4,
+                "height": 6,
+                "comfort": 200,
+                "usage": "能夠用來裝扮宿舍與活動室，提高對應房間的氛圍",
+                "description": "不知道是誰留在切爾諾伯格某博物館中的傑作。\n他們的足跡被天災和戰爭漸漸抹去，或許只有這種方式能夠證明他們存在過。",
                 "obtainApproach": "活動獲得",
                 "processedProductId": "3401",
                 "processedProductCount": 0,
@@ -120054,6 +120942,173 @@
                     "furni_teaCanteen_floor_01"
                 ]
             },
+            "furni_set_dreamCastle": {
+                "id": "furni_set_dreamCastle",
+                "enableRoomType": 4112,
+                "sortId": 117,
+                "name": "異變夢城堡大廳",
+                "themeType": "EVENT",
+                "desc": "根據經過異變的夢城堡大廳復刻的房間。雖然每一個走入夢城堡的人所見的環境都有所不同，但那些尋夢者留下的痕跡，將在這個精心布置的場景之中永久留存。",
+                "quickSetup": [
+                    {
+                        "furnitureId": "furni_dreamCastle_Column_01",
+                        "pos0": 3,
+                        "pos1": 5,
+                        "dir": 0
+                    },
+                    {
+                        "furnitureId": "furni_dreamCastle_ceilingLight_01",
+                        "pos0": 9,
+                        "pos1": 4,
+                        "dir": 0
+                    },
+                    {
+                        "furnitureId": "furni_dreamCastle_ceilingLight_01",
+                        "pos0": 20,
+                        "pos1": 4,
+                        "dir": 2
+                    },
+                    {
+                        "furnitureId": "furni_dreamCastle_piano_01",
+                        "pos0": 1,
+                        "pos1": 0,
+                        "dir": 0
+                    },
+                    {
+                        "furnitureId": "furni_dreamCastle_chair_01",
+                        "pos0": 4,
+                        "pos1": 3,
+                        "dir": 0
+                    },
+                    {
+                        "furnitureId": "furni_dreamCastle_candle_01",
+                        "pos0": 7,
+                        "pos1": 6,
+                        "dir": 0
+                    },
+                    {
+                        "furnitureId": "furni_dreamCastle_chair_02",
+                        "pos0": 8,
+                        "pos1": 3,
+                        "dir": 0
+                    },
+                    {
+                        "furnitureId": "furni_dreamCastle_chair_02",
+                        "pos0": 12,
+                        "pos1": 3,
+                        "dir": 0
+                    },
+                    {
+                        "furnitureId": "furni_dreamCastle_chair_02",
+                        "pos0": 16,
+                        "pos1": 3,
+                        "dir": 0
+                    },
+                    {
+                        "furnitureId": "furni_dreamCastle_chair_02",
+                        "pos0": 20,
+                        "pos1": 3,
+                        "dir": 0
+                    },
+                    {
+                        "furnitureId": "furni_dreamCastle_chair_02",
+                        "pos0": 24,
+                        "pos1": 3,
+                        "dir": 0
+                    },
+                    {
+                        "furnitureId": "furni_dreamCastle_table_01",
+                        "pos0": 19,
+                        "pos1": 7,
+                        "dir": 0
+                    },
+                    {
+                        "furnitureId": "furni_dreamCastle_drawing_01",
+                        "pos0": 27,
+                        "pos1": 5,
+                        "dir": 0
+                    },
+                    {
+                        "furnitureId": "furni_dreamCastle_table_02",
+                        "pos0": 9,
+                        "pos1": 0,
+                        "dir": 0
+                    },
+                    {
+                        "furnitureId": "furni_dreamCastle_carpet_01",
+                        "pos0": 8,
+                        "pos1": 0,
+                        "dir": 0
+                    },
+                    {
+                        "furnitureId": "furni_dreamCastle_curtainPlatform_01",
+                        "pos0": 25,
+                        "pos1": 7,
+                        "dir": 0
+                    },
+                    {
+                        "furnitureId": "furni_dreamCastle_wall_01",
+                        "pos0": 28,
+                        "pos1": 3,
+                        "dir": 0
+                    },
+                    {
+                        "furnitureId": "furni_dreamCastle_carpet_02",
+                        "pos0": 31,
+                        "pos1": 4,
+                        "dir": 0
+                    },
+                    {
+                        "furnitureId": "furni_dreamCastle_table_03",
+                        "pos0": 28,
+                        "pos1": 0,
+                        "dir": 0
+                    },
+                    {
+                        "furnitureId": "furni_dreamCastle_bookcase_02",
+                        "pos0": 32,
+                        "pos1": 4,
+                        "dir": 0
+                    },
+                    {
+                        "furnitureId": "furni_dreamCastle_wallpaper_01",
+                        "pos0": 0,
+                        "pos1": 0,
+                        "dir": 0
+                    },
+                    {
+                        "furnitureId": "furni_dreamCastle_floor_01",
+                        "pos0": 0,
+                        "pos1": 10,
+                        "dir": 0
+                    }
+                ],
+                "groups": [
+                    "furni_set_dreamCastle_1",
+                    "furni_set_dreamCastle_2",
+                    "furni_set_dreamCastle_3",
+                    "furni_set_dreamCastle_4"
+                ],
+                "furnitures": [
+                    "furni_dreamCastle_Column_01",
+                    "furni_dreamCastle_ceilingLight_01",
+                    "furni_dreamCastle_piano_01",
+                    "furni_dreamCastle_chair_01",
+                    "furni_dreamCastle_candle_01",
+                    "furni_dreamCastle_chair_02",
+                    "furni_dreamCastle_table_01",
+                    "furni_dreamCastle_drawing_01",
+                    "furni_dreamCastle_table_02",
+                    "furni_dreamCastle_carpet_01",
+                    "furni_dreamCastle_curtainPlatform_01",
+                    "furni_dreamCastle_wall_01",
+                    "furni_dreamCastle_carpet_02",
+                    "furni_dreamCastle_table_03",
+                    "furni_dreamCastle_bookcase_02",
+                    "furni_dreamCastle_wallpaper_01",
+                    "furni_dreamCastle_floor_01"
+                ]
+            },
             "furniM_set_basicRoom": {
                 "id": "furniM_set_basicRoom",
                 "enableRoomType": 32,
@@ -127326,6 +128381,63 @@
                     "furni_gardenFantasy_plantColumn_01",
                     "furni_gardenFantasy_bridge_01",
                     "furni_gardenFantasy_floor_01"
+                ]
+            },
+            "furni_set_dreamCastle_1": {
+                "id": "furni_set_dreamCastle_1",
+                "sortId": 1,
+                "name": "“幻夢”演奏區",
+                "themeId": "furni_set_dreamCastle",
+                "comfort": 280,
+                "count": 5,
+                "furniture": [
+                    "furni_dreamCastle_Column_01",
+                    "furni_dreamCastle_ceilingLight_01",
+                    "furni_dreamCastle_piano_01",
+                    "furni_dreamCastle_chair_01",
+                    "furni_dreamCastle_candle_01"
+                ]
+            },
+            "furni_set_dreamCastle_2": {
+                "id": "furni_set_dreamCastle_2",
+                "sortId": 2,
+                "name": "“入夢”祈禱區",
+                "themeId": "furni_set_dreamCastle",
+                "comfort": 355,
+                "count": 4,
+                "furniture": [
+                    "furni_dreamCastle_chair_02",
+                    "furni_dreamCastle_table_01",
+                    "furni_dreamCastle_table_02",
+                    "furni_dreamCastle_carpet_01"
+                ]
+            },
+            "furni_set_dreamCastle_3": {
+                "id": "furni_set_dreamCastle_3",
+                "sortId": 3,
+                "name": "“逐夢”置物區",
+                "themeId": "furni_set_dreamCastle",
+                "comfort": 205,
+                "count": 4,
+                "furniture": [
+                    "furni_dreamCastle_curtainPlatform_01",
+                    "furni_dreamCastle_wall_01",
+                    "furni_dreamCastle_table_03",
+                    "furni_dreamCastle_bookcase_02"
+                ]
+            },
+            "furni_set_dreamCastle_4": {
+                "id": "furni_set_dreamCastle_4",
+                "sortId": 4,
+                "name": "“終夢”紀念區",
+                "themeId": "furni_set_dreamCastle",
+                "comfort": 100,
+                "count": 4,
+                "furniture": [
+                    "furni_dreamCastle_drawing_01",
+                    "furni_dreamCastle_carpet_02",
+                    "furni_dreamCastle_wallpaper_01",
+                    "furni_dreamCastle_floor_01"
                 ]
             },
             "furniM_set_amiya_1": {
@@ -135481,6 +136593,19 @@
                 "unlockType": "MainBG",
                 "unlockParams": [
                     "bg_recalrune_1"
+                ]
+            },
+            "bgm_bg_avemujica": {
+                "bgmId": "bgm_bg_avemujica",
+                "bgmSortId": 27,
+                "bgmStartTime": 1775030400,
+                "bgmName": "聚光-Georgette Me, Georgette You（Arknights Piano Arrangement）",
+                "gameMusicId": "music_bg_avemujica",
+                "obtainApproach": "[採購中心]中購買人偶夢囈禮包獲得",
+                "bgmDescUnlocked": "背景附贈音樂",
+                "unlockType": "MainBG",
+                "unlockParams": [
+                    "bg_avemujica_1"
                 ]
             }
         }

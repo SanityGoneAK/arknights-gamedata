@@ -2593,6 +2593,36 @@
                 "canBeFree": true,
                 "uniEquipId": "uniequip_002_haruka",
                 "recruitType": "FREE"
+            },
+            "char_4185_amoris": {
+                "charId": "char_4185_amoris",
+                "canBeFree": false,
+                "uniEquipId": "uniequip_002_amoris",
+                "recruitType": "FREE"
+            },
+            "char_4184_dolris": {
+                "charId": "char_4184_dolris",
+                "canBeFree": false,
+                "uniEquipId": "uniequip_002_dolris",
+                "recruitType": "FREE"
+            },
+            "char_4186_tmoris": {
+                "charId": "char_4186_tmoris",
+                "canBeFree": false,
+                "uniEquipId": "uniequip_002_tmoris",
+                "recruitType": "FREE"
+            },
+            "char_4183_mortis": {
+                "charId": "char_4183_mortis",
+                "canBeFree": false,
+                "uniEquipId": "uniequip_002_mortis",
+                "recruitType": "FREE"
+            },
+            "char_4182_oblvns": {
+                "charId": "char_4182_oblvns",
+                "canBeFree": false,
+                "uniEquipId": "uniequip_002_oblvns",
+                "recruitType": "FREE"
             }
         }
     },
