@@ -156,10 +156,8 @@
     "bgmEvent": "sandbox_1_collectarea",
     "environmentSe": null,
     "mapData": {
-        "map": {
-            "row_size": 12,
-            "column_size": 16,
-            "matrix_data": [
+        "map": [
+            [
                 176,
                 177,
                 178,
@@ -175,7 +173,9 @@
                 188,
                 189,
                 190,
-                191,
+                191
+            ],
+            [
                 160,
                 161,
                 162,
@@ -191,7 +191,9 @@
                 172,
                 173,
                 174,
-                175,
+                175
+            ],
+            [
                 144,
                 145,
                 146,
@@ -207,7 +209,9 @@
                 156,
                 157,
                 158,
-                159,
+                159
+            ],
+            [
                 128,
                 129,
                 130,
@@ -223,7 +227,9 @@
                 140,
                 141,
                 142,
-                143,
+                143
+            ],
+            [
                 112,
                 113,
                 114,
@@ -239,7 +245,9 @@
                 124,
                 125,
                 126,
-                127,
+                127
+            ],
+            [
                 96,
                 97,
                 98,
@@ -255,7 +263,9 @@
                 108,
                 109,
                 110,
-                111,
+                111
+            ],
+            [
                 80,
                 81,
                 82,
@@ -271,7 +281,9 @@
                 92,
                 93,
                 94,
-                95,
+                95
+            ],
+            [
                 64,
                 65,
                 66,
@@ -287,7 +299,9 @@
                 76,
                 77,
                 78,
-                79,
+                79
+            ],
+            [
                 48,
                 49,
                 50,
@@ -303,7 +317,9 @@
                 60,
                 61,
                 62,
-                63,
+                63
+            ],
+            [
                 32,
                 33,
                 34,
@@ -319,7 +335,9 @@
                 44,
                 45,
                 46,
-                47,
+                47
+            ],
+            [
                 16,
                 17,
                 18,
@@ -335,7 +353,9 @@
                 28,
                 29,
                 30,
-                31,
+                31
+            ],
+            [
                 0,
                 1,
                 2,
@@ -353,7 +373,7 @@
                 14,
                 15
             ]
-        },
+        ],
         "tiles": [
             {
                 "tileKey": "tile_forbidden",
@@ -7298,7 +7318,8 @@
                         "value": 0.0,
                         "valueStr": "hidden_1"
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -7338,7 +7359,8 @@
                         "value": 0.0,
                         "valueStr": "hidden_1"
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -7362,7 +7384,8 @@
                 "mainSkillLvl": 1,
                 "skinId": "",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -7386,7 +7409,8 @@
                 "mainSkillLvl": 1,
                 "skinId": null,
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -7410,7 +7434,8 @@
                 "mainSkillLvl": 1,
                 "skinId": null,
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -7434,7 +7459,8 @@
                 "mainSkillLvl": 1,
                 "skinId": null,
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -7458,7 +7484,8 @@
                 "mainSkillLvl": 1,
                 "skinId": null,
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -7482,7 +7509,8 @@
                 "mainSkillLvl": 1,
                 "skinId": null,
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -7506,7 +7534,8 @@
                 "mainSkillLvl": 1,
                 "skinId": "",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -7530,7 +7559,8 @@
                 "mainSkillLvl": 1,
                 "skinId": "",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -7554,7 +7584,8 @@
                 "mainSkillLvl": 1,
                 "skinId": "",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -7578,7 +7609,8 @@
                 "mainSkillLvl": 1,
                 "skinId": "",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -7602,7 +7634,8 @@
                 "mainSkillLvl": 1,
                 "skinId": "",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -7626,7 +7659,8 @@
                 "mainSkillLvl": 1,
                 "skinId": "",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -7650,7 +7684,8 @@
                 "mainSkillLvl": 1,
                 "skinId": "",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -7674,7 +7709,8 @@
                 "mainSkillLvl": 1,
                 "skinId": "",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -7698,7 +7734,8 @@
                 "mainSkillLvl": 1,
                 "skinId": "",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -7722,7 +7759,8 @@
                 "mainSkillLvl": 1,
                 "skinId": "",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -7746,7 +7784,8 @@
                 "mainSkillLvl": 1,
                 "skinId": "",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -7770,7 +7809,8 @@
                 "mainSkillLvl": 1,
                 "skinId": "",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             }
         ],
         "characterCards": [],

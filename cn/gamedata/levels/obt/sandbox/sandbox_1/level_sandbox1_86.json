@@ -156,10 +156,8 @@
     "bgmEvent": "sandbox_1_insect_race",
     "environmentSe": null,
     "mapData": {
-        "map": {
-            "row_size": 44,
-            "column_size": 34,
-            "matrix_data": [
+        "map": [
+            [
                 1462,
                 1463,
                 1464,
@@ -193,7 +191,9 @@
                 1492,
                 1493,
                 1494,
-                1495,
+                1495
+            ],
+            [
                 1428,
                 1429,
                 1430,
@@ -227,7 +227,9 @@
                 1458,
                 1459,
                 1460,
-                1461,
+                1461
+            ],
+            [
                 1394,
                 1395,
                 1396,
@@ -261,7 +263,9 @@
                 1424,
                 1425,
                 1426,
-                1427,
+                1427
+            ],
+            [
                 1360,
                 1361,
                 1362,
@@ -295,7 +299,9 @@
                 1390,
                 1391,
                 1392,
-                1393,
+                1393
+            ],
+            [
                 1326,
                 1327,
                 1328,
@@ -329,7 +335,9 @@
                 1356,
                 1357,
                 1358,
-                1359,
+                1359
+            ],
+            [
                 1292,
                 1293,
                 1294,
@@ -363,7 +371,9 @@
                 1322,
                 1323,
                 1324,
-                1325,
+                1325
+            ],
+            [
                 1258,
                 1259,
                 1260,
@@ -397,7 +407,9 @@
                 1288,
                 1289,
                 1290,
-                1291,
+                1291
+            ],
+            [
                 1224,
                 1225,
                 1226,
@@ -431,7 +443,9 @@
                 1254,
                 1255,
                 1256,
-                1257,
+                1257
+            ],
+            [
                 1190,
                 1191,
                 1192,
@@ -465,7 +479,9 @@
                 1220,
                 1221,
                 1222,
-                1223,
+                1223
+            ],
+            [
                 1156,
                 1157,
                 1158,
@@ -499,7 +515,9 @@
                 1186,
                 1187,
                 1188,
-                1189,
+                1189
+            ],
+            [
                 1122,
                 1123,
                 1124,
@@ -533,7 +551,9 @@
                 1152,
                 1153,
                 1154,
-                1155,
+                1155
+            ],
+            [
                 1088,
                 1089,
                 1090,
@@ -567,7 +587,9 @@
                 1118,
                 1119,
                 1120,
-                1121,
+                1121
+            ],
+            [
                 1054,
                 1055,
                 1056,
@@ -601,7 +623,9 @@
                 1084,
                 1085,
                 1086,
-                1087,
+                1087
+            ],
+            [
                 1020,
                 1021,
                 1022,
@@ -635,7 +659,9 @@
                 1050,
                 1051,
                 1052,
-                1053,
+                1053
+            ],
+            [
                 986,
                 987,
                 988,
@@ -669,7 +695,9 @@
                 1016,
                 1017,
                 1018,
-                1019,
+                1019
+            ],
+            [
                 952,
                 953,
                 954,
@@ -703,7 +731,9 @@
                 982,
                 983,
                 984,
-                985,
+                985
+            ],
+            [
                 918,
                 919,
                 920,
@@ -737,7 +767,9 @@
                 948,
                 949,
                 950,
-                951,
+                951
+            ],
+            [
                 884,
                 885,
                 886,
@@ -771,7 +803,9 @@
                 914,
                 915,
                 916,
-                917,
+                917
+            ],
+            [
                 850,
                 851,
                 852,
@@ -805,7 +839,9 @@
                 880,
                 881,
                 882,
-                883,
+                883
+            ],
+            [
                 816,
                 817,
                 818,
@@ -839,7 +875,9 @@
                 846,
                 847,
                 848,
-                849,
+                849
+            ],
+            [
                 782,
                 783,
                 784,
@@ -873,7 +911,9 @@
                 812,
                 813,
                 814,
-                815,
+                815
+            ],
+            [
                 748,
                 749,
                 750,
@@ -907,7 +947,9 @@
                 778,
                 779,
                 780,
-                781,
+                781
+            ],
+            [
                 714,
                 715,
                 716,
@@ -941,7 +983,9 @@
                 744,
                 745,
                 746,
-                747,
+                747
+            ],
+            [
                 680,
                 681,
                 682,
@@ -975,7 +1019,9 @@
                 710,
                 711,
                 712,
-                713,
+                713
+            ],
+            [
                 646,
                 647,
                 648,
@@ -1009,7 +1055,9 @@
                 676,
                 677,
                 678,
-                679,
+                679
+            ],
+            [
                 612,
                 613,
                 614,
@@ -1043,7 +1091,9 @@
                 642,
                 643,
                 644,
-                645,
+                645
+            ],
+            [
                 578,
                 579,
                 580,
@@ -1077,7 +1127,9 @@
                 608,
                 609,
                 610,
-                611,
+                611
+            ],
+            [
                 544,
                 545,
                 546,
@@ -1111,7 +1163,9 @@
                 574,
                 575,
                 576,
-                577,
+                577
+            ],
+            [
                 510,
                 511,
                 512,
@@ -1145,7 +1199,9 @@
                 540,
                 541,
                 542,
-                543,
+                543
+            ],
+            [
                 476,
                 477,
                 478,
@@ -1179,7 +1235,9 @@
                 506,
                 507,
                 508,
-                509,
+                509
+            ],
+            [
                 442,
                 443,
                 444,
@@ -1213,7 +1271,9 @@
                 472,
                 473,
                 474,
-                475,
+                475
+            ],
+            [
                 408,
                 409,
                 410,
@@ -1247,7 +1307,9 @@
                 438,
                 439,
                 440,
-                441,
+                441
+            ],
+            [
                 374,
                 375,
                 376,
@@ -1281,7 +1343,9 @@
                 404,
                 405,
                 406,
-                407,
+                407
+            ],
+            [
                 340,
                 341,
                 342,
@@ -1315,7 +1379,9 @@
                 370,
                 371,
                 372,
-                373,
+                373
+            ],
+            [
                 306,
                 307,
                 308,
@@ -1349,7 +1415,9 @@
                 336,
                 337,
                 338,
-                339,
+                339
+            ],
+            [
                 272,
                 273,
                 274,
@@ -1383,7 +1451,9 @@
                 302,
                 303,
                 304,
-                305,
+                305
+            ],
+            [
                 238,
                 239,
                 240,
@@ -1417,7 +1487,9 @@
                 268,
                 269,
                 270,
-                271,
+                271
+            ],
+            [
                 204,
                 205,
                 206,
@@ -1451,7 +1523,9 @@
                 234,
                 235,
                 236,
-                237,
+                237
+            ],
+            [
                 170,
                 171,
                 172,
@@ -1485,7 +1559,9 @@
                 200,
                 201,
                 202,
-                203,
+                203
+            ],
+            [
                 136,
                 137,
                 138,
@@ -1519,7 +1595,9 @@
                 166,
                 167,
                 168,
-                169,
+                169
+            ],
+            [
                 102,
                 103,
                 104,
@@ -1553,7 +1631,9 @@
                 132,
                 133,
                 134,
-                135,
+                135
+            ],
+            [
                 68,
                 69,
                 70,
@@ -1587,7 +1667,9 @@
                 98,
                 99,
                 100,
-                101,
+                101
+            ],
+            [
                 34,
                 35,
                 36,
@@ -1621,7 +1703,9 @@
                 64,
                 65,
                 66,
-                67,
+                67
+            ],
+            [
                 0,
                 1,
                 2,
@@ -1657,7 +1741,7 @@
                 32,
                 33
             ]
-        },
+        ],
         "tiles": [
             {
                 "tileKey": "tile_forbidden",
@@ -18581,7 +18665,8 @@
                 "mainSkillLvl": 7,
                 "skinId": "",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -18605,7 +18690,8 @@
                 "mainSkillLvl": 7,
                 "skinId": "",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -18629,7 +18715,8 @@
                 "mainSkillLvl": 7,
                 "skinId": "",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -18653,7 +18740,8 @@
                 "mainSkillLvl": 7,
                 "skinId": "",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -18677,7 +18765,8 @@
                 "mainSkillLvl": 10,
                 "skinId": "",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             }
         ],
         "tokenInsts": [
@@ -18739,7 +18828,8 @@
                         "value": 999.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -18799,7 +18889,8 @@
                         "value": 999.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -18859,7 +18950,8 @@
                         "value": 999.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -18919,7 +19011,8 @@
                         "value": 999.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -18979,7 +19072,8 @@
                         "value": 999.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -19039,7 +19133,8 @@
                         "value": 999.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -19099,7 +19194,8 @@
                         "value": 999.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -19139,7 +19235,8 @@
                         "value": 1.5,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -19179,7 +19276,8 @@
                         "value": 1.1,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -19219,7 +19317,8 @@
                         "value": 1.1,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -19259,7 +19358,8 @@
                         "value": 1.1,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -19299,7 +19399,8 @@
                         "value": 1.5,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -19339,7 +19440,8 @@
                         "value": 1.5,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -19379,7 +19481,8 @@
                         "value": 1.5,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -19419,7 +19522,8 @@
                         "value": 1.5,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -19459,7 +19563,8 @@
                         "value": 1.5,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -19499,7 +19604,8 @@
                         "value": 1.5,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -19539,7 +19645,8 @@
                         "value": 1.5,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -19579,7 +19686,8 @@
                         "value": 1.5,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -19603,7 +19711,8 @@
                 "mainSkillLvl": 1,
                 "skinId": "",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -19627,7 +19736,8 @@
                 "mainSkillLvl": 1,
                 "skinId": "",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -19651,7 +19761,8 @@
                 "mainSkillLvl": 1,
                 "skinId": "",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -19675,7 +19786,8 @@
                 "mainSkillLvl": 1,
                 "skinId": "",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -19705,7 +19817,8 @@
                         "value": 0.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -19735,7 +19848,8 @@
                         "value": 0.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -19765,7 +19879,8 @@
                         "value": 1.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -19795,7 +19910,8 @@
                         "value": 1.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -19825,7 +19941,8 @@
                         "value": 1.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -19855,7 +19972,8 @@
                         "value": 1.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -19885,7 +20003,8 @@
                         "value": 2.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -19915,7 +20034,8 @@
                         "value": 2.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -19945,7 +20065,8 @@
                         "value": 2.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -19975,7 +20096,8 @@
                         "value": 2.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -20005,7 +20127,8 @@
                         "value": 3.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -20035,7 +20158,8 @@
                         "value": 3.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -20065,7 +20189,8 @@
                         "value": 3.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -20095,7 +20220,8 @@
                         "value": 4.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -20125,7 +20251,8 @@
                         "value": 4.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -20155,7 +20282,8 @@
                         "value": 5.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -20185,7 +20313,8 @@
                         "value": 5.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -20215,7 +20344,8 @@
                         "value": 6.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -20245,7 +20375,8 @@
                         "value": 6.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -20285,7 +20416,8 @@
                         "value": 2.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -20325,7 +20457,8 @@
                         "value": 2.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -20365,7 +20498,8 @@
                         "value": 2.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -20405,7 +20539,8 @@
                         "value": 2.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -20445,7 +20580,8 @@
                         "value": 2.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -20469,7 +20605,8 @@
                 "mainSkillLvl": 1,
                 "skinId": "",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -20493,7 +20630,8 @@
                 "mainSkillLvl": 1,
                 "skinId": "",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -20517,7 +20655,8 @@
                 "mainSkillLvl": 1,
                 "skinId": "",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -20541,7 +20680,8 @@
                 "mainSkillLvl": 1,
                 "skinId": "",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -20565,7 +20705,8 @@
                 "mainSkillLvl": 1,
                 "skinId": "",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -20589,7 +20730,8 @@
                 "mainSkillLvl": 1,
                 "skinId": "",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -20613,7 +20755,8 @@
                 "mainSkillLvl": 1,
                 "skinId": "",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -20637,7 +20780,8 @@
                 "mainSkillLvl": 1,
                 "skinId": "",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -20661,7 +20805,8 @@
                 "mainSkillLvl": 1,
                 "skinId": "",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -20685,7 +20830,8 @@
                 "mainSkillLvl": 1,
                 "skinId": "",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -20715,7 +20861,8 @@
                         "value": 5.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -20755,7 +20902,8 @@
                         "value": 1.5,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -20815,7 +20963,8 @@
                         "value": 999.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -20875,7 +21024,8 @@
                         "value": 999.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -20935,7 +21085,8 @@
                         "value": 999.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             }
         ],
         "characterCards": [],

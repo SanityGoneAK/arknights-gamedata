@@ -1,24 +1,25 @@
 {
   "m_GameObject": {
     "m_FileID": 0,
-    "m_PathID": 1152883575681415406
+    "m_PathID": 8770304455383900508
   },
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 1,
-    "m_PathID": 5336821805107359059
+    "m_PathID": 350208831926335389
   },
   "m_Name": "",
-  "_fontName": "NotoSansHans-Medium",
-  "_autoResume": 1
-}
+  "m_Material": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
   "m_Color": {
-    "r": 0.0,
-    "g": 0.0,
-    "b": 0.0,
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
     "a": 1.0
   },
-  "m_RaycastTarget": 1,
+  "m_RaycastTarget": 0,
   "m_RaycastPadding": {
     "x": 0.0,
     "y": 0.0,
@@ -33,7 +34,7 @@
   },
   "m_Sprite": {
     "m_FileID": 0,
-    "m_PathID": 0
+    "m_PathID": 4021245277454321022
   },
   "m_PackIntoRuntimeAtlas": 1,
   "m_AtlasHandleId": 0,

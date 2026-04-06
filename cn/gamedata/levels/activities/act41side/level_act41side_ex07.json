@@ -3531,7 +3531,8 @@
                         "value": 0.0,
                         "valueStr": "branch_treant_1"
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -3561,7 +3562,8 @@
                         "value": 0.0,
                         "valueStr": "branch_treant_1"
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -3591,7 +3593,8 @@
                         "value": 0.0,
                         "valueStr": "branch_treant_2"
                     }
-                ]
+                ],
+                "overrideTalents": null
             }
         ],
         "characterCards": [],
