@@ -320735,6 +320735,165 @@
             }
         ]
     },
+    "sktok_tnkspk": {
+        "skillId": "sktok_tnkspk",
+        "iconId": "sktok_tnkspk",
+        "hidden": false,
+        "levels": [
+            {
+                "name": "反制裝甲",
+                "rangeId": "0-1",
+                "description": "部署後，全體幹員每秒回復自身最大生命值5%的生命值；每當部署重裝幹員時，獲得8張調用憑證",
+                "skillType": "AUTO",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 0.0
+                },
+                "prefabId": "sktok_tnkspk",
+                "duration": 60.0,
+                "blackboard": [
+                    {
+                        "key": "hp_recover_per_sec_by_max_hp_ratio",
+                        "value": 0.05,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "gold_cnt",
+                        "value": 8.0,
+                        "valueStr": null
+                    }
+                ]
+            }
+        ]
+    },
+    "sktok_tnkspka": {
+        "skillId": "sktok_tnkspka",
+        "iconId": "sktok_tnkspk",
+        "hidden": false,
+        "levels": [
+            {
+                "name": "微型尖刺",
+                "rangeId": "0-1",
+                "description": "部署後，全體幹員每秒回復自身最大生命值5%的生命值；每當部署重裝幹員時，獲得8張調用憑證",
+                "skillType": "AUTO",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 0.0
+                },
+                "prefabId": "sktok_tnkspka",
+                "duration": 60.0,
+                "blackboard": [
+                    {
+                        "key": "hp_recover_per_sec_by_max_hp_ratio",
+                        "value": 0.05,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "gold_cnt",
+                        "value": 8.0,
+                        "valueStr": null
+                    }
+                ]
+            }
+        ]
+    },
+    "sktok_tnkspkb": {
+        "skillId": "sktok_tnkspkb",
+        "iconId": "sktok_tnkspk",
+        "hidden": false,
+        "levels": [
+            {
+                "name": "維生監測",
+                "rangeId": "0-1",
+                "description": "部署後，全體幹員每秒回復自身最大生命值5%的生命值，每2秒回復1點技力；每當部署重裝幹員時，獲得12張調用憑證",
+                "skillType": "AUTO",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 0.0
+                },
+                "prefabId": "sktok_tnkspkb",
+                "duration": 60.0,
+                "blackboard": [
+                    {
+                        "key": "hp_recover_per_sec_by_max_hp_ratio",
+                        "value": 0.05,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "gold_cnt",
+                        "value": 12.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "interval",
+                        "value": 2.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "sp",
+                        "value": 1.0,
+                        "valueStr": null
+                    }
+                ]
+            }
+        ]
+    },
+    "sktok_fxdtwr_1": {
+        "skillId": "sktok_fxdtwr_1",
+        "iconId": "sktok_fxdtwr_1",
+        "hidden": false,
+        "levels": [
+            {
+                "name": "發射炮彈",
+                "rangeId": "5-1",
+                "description": "向前發射一顆造成濺射傷害的炮彈",
+                "skillType": "AUTO",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": "INCREASE_WITH_TIME",
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 6,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_fxdtwr_1",
+                "duration": -1.0,
+                "blackboard": [
+                    {
+                        "key": "atk_scale",
+                        "value": 1.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "projectile_range",
+                        "value": 0.1,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "range_id",
+                        "value": 0.0,
+                        "valueStr": "x-5"
+                    }
+                ]
+            }
+        ]
+    },
     "sktok_dhtl_1": {
         "skillId": "sktok_dhtl_1",
         "iconId": "sktok_dhtl",
@@ -329868,6 +330027,1227 @@
                         "key": "branch_id",
                         "value": 0.0,
                         "valueStr": "enemy_mjcsdw"
+                    }
+                ]
+            }
+        ]
+    },
+    "sktok_lharen": {
+        "skillId": "sktok_lharen",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "開打！",
+                "rangeId": "0-1",
+                "description": "開啟技能後，隨機生成<@ba.enemy>呼嘯騎士團學徒</>、<@ba.enemy>無名獨立騎士</>、<@ba.enemy>持盾獨立騎士</>、<@ba.enemy>沸血騎士團學徒</>中的一位（根據擊敗的敵人獲得<@ba.drop>精英進階信物</>）。此敵人被擊倒後使本【衝突圍欄】上的幹員攻擊力提高3%",
+                "skillType": "AUTO",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": "INCREASE_WITH_TIME",
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 15,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_lharen",
+                "duration": 0.0,
+                "blackboard": [
+                    {
+                        "key": "enemy_key",
+                        "value": 0.0,
+                        "valueStr": "enemy_1099_nbkght|enemy_1101_plkght|enemy_1102_sdkght|enemy_1103_wdkght"
+                    },
+                    {
+                        "key": "prob",
+                        "value": 0.0,
+                        "valueStr": "0.25|0.25|0.25|0.25"
+                    },
+                    {
+                        "key": "branch_id",
+                        "value": 0.0,
+                        "valueStr": "Circle_2"
+                    },
+                    {
+                        "key": "atk",
+                        "value": 0.03,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "max_summon_cnt",
+                        "value": 2.0,
+                        "valueStr": null
+                    }
+                ]
+            }
+        ]
+    },
+    "sktok_lhbat": {
+        "skillId": "sktok_lhbat",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "血之遺贈",
+                "rangeId": "x-4",
+                "description": "技力不自然回復，攻擊範圍內有敵人倒下時獲得1點技力；開啟技能後，生成一隻<@ba.enemy>大君之觸</>（擊敗後獲得少量<@ba.drop>培訓手冊</>）或者獲得一件<@ba.drop>低級戰術擴充</>",
+                "skillType": "AUTO",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": "INCREASE_WITH_TIME",
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 5,
+                    "initSp": 0,
+                    "increment": 0.0
+                },
+                "prefabId": "sktok_lhbat",
+                "duration": 0.0,
+                "blackboard": [
+                    {
+                        "key": "enemy_key",
+                        "value": 0.0,
+                        "valueStr": "enemy_1220_dzoms"
+                    },
+                    {
+                        "key": "branch_id",
+                        "value": 0.0,
+                        "valueStr": "Circle_2"
+                    },
+                    {
+                        "key": "prob",
+                        "value": 0.5,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "max_summon_cnt",
+                        "value": 2.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "battle_item",
+                        "value": 0.0,
+                        "valueStr": "equip_1"
+                    }
+                ]
+            }
+        ]
+    },
+    "sktok_lhblod": {
+        "skillId": "sktok_lhblod",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "血潰",
+                "rangeId": "x-4",
+                "description": "技力不自然回復，週期性對我方單位造成傷害，累計造成一定傷害後回復技力；開啟技能時，在周圍地面生成<@ba.enemy>血珀</>，掉落少量<@ba.drop>技巧手冊</>，並銷毀自身",
+                "skillType": "AUTO",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": "INCREASE_WITH_TIME",
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 15,
+                    "initSp": 0,
+                    "increment": 0.0
+                },
+                "prefabId": "sktok_lhblod",
+                "duration": 2.0,
+                "blackboard": [
+                    {
+                        "key": "enemy_key",
+                        "value": 0.0,
+                        "valueStr": "enemy_1367_dseed"
+                    },
+                    {
+                        "key": "range_id",
+                        "value": 0.0,
+                        "valueStr": "x-4"
+                    },
+                    {
+                        "key": "branch_id",
+                        "value": 0.0,
+                        "valueStr": "Circle_2"
+                    },
+                    {
+                        "key": "resource",
+                        "value": 0.0,
+                        "valueStr": "trap_drop_blod"
+                    }
+                ]
+            }
+        ]
+    },
+    "sktok_lhcamp": {
+        "skillId": "sktok_lhcamp",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "來客",
+                "rangeId": "0-1",
+                "description": "技力不自然回復，敵人經過時回復技力；開啟技能時，生成一個<@ba.enemy>拾荒者</>（擊敗後獲得<@ba.drop>培訓手冊</>）",
+                "skillType": "AUTO",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": "INCREASE_WITH_TIME",
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 5,
+                    "initSp": 0,
+                    "increment": 0.0
+                },
+                "prefabId": "sktok_lhcamp",
+                "duration": 0.0,
+                "blackboard": [
+                    {
+                        "key": "enemy_key",
+                        "value": 0.0,
+                        "valueStr": "enemy_1030_wteeth"
+                    },
+                    {
+                        "key": "branch_id",
+                        "value": 0.0,
+                        "valueStr": "Circle_2"
+                    },
+                    {
+                        "key": "max_summon_cnt",
+                        "value": 4.0,
+                        "valueStr": null
+                    }
+                ]
+            }
+        ]
+    },
+    "sktok_lhcampa": {
+        "skillId": "sktok_lhcampa",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "來客",
+                "rangeId": "0-1",
+                "description": "技力不自然回復，敵人經過時回復技力；開啟技能時，生成一個<@ba.enemy>狙擊步兵</>（擊敗獲得<@ba.drop>狙擊進階信物</>和<@ba.drop>特種進階信物</>）",
+                "skillType": "AUTO",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": "INCREASE_WITH_TIME",
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 5,
+                    "initSp": 0,
+                    "increment": 0.0
+                },
+                "prefabId": "sktok_lhcampa",
+                "duration": 0.0,
+                "blackboard": [
+                    {
+                        "key": "enemy_key",
+                        "value": 0.0,
+                        "valueStr": "enemy_1047_sagent"
+                    },
+                    {
+                        "key": "branch_id",
+                        "value": 0.0,
+                        "valueStr": "Circle_2"
+                    },
+                    {
+                        "key": "max_summon_cnt",
+                        "value": 4.0,
+                        "valueStr": null
+                    }
+                ]
+            }
+        ]
+    },
+    "sktok_lhcampb": {
+        "skillId": "sktok_lhcampb",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "來客",
+                "rangeId": "0-1",
+                "description": "技力不自然回復，敵人經過時回復技力；開啟技能時，生成一個<@ba.enemy>重裝防禦者</>（擊敗獲得<@ba.drop>重裝進階信物</>和<@ba.drop>醫療進階信物</>）",
+                "skillType": "AUTO",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": "INCREASE_WITH_TIME",
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 5,
+                    "initSp": 0,
+                    "increment": 0.0
+                },
+                "prefabId": "sktok_lhcampb",
+                "duration": 0.0,
+                "blackboard": [
+                    {
+                        "key": "enemy_key",
+                        "value": 0.0,
+                        "valueStr": "enemy_1006_shield"
+                    },
+                    {
+                        "key": "branch_id",
+                        "value": 0.0,
+                        "valueStr": "Circle_2"
+                    },
+                    {
+                        "key": "max_summon_cnt",
+                        "value": 4.0,
+                        "valueStr": null
+                    }
+                ]
+            }
+        ]
+    },
+    "sktok_lhcampc": {
+        "skillId": "sktok_lhcampc",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "來客",
+                "rangeId": "0-1",
+                "description": "技力不自然回復，敵人經過時回復技力；開啟技能時，生成一隻<@ba.enemy>苔生獸</>（擊敗獲得<@ba.drop>近衛進階信物</>和<@ba.drop>先鋒進階信物</>）",
+                "skillType": "AUTO",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": "INCREASE_WITH_TIME",
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 5,
+                    "initSp": 0,
+                    "increment": 0.0
+                },
+                "prefabId": "sktok_lhcampc",
+                "duration": 0.0,
+                "blackboard": [
+                    {
+                        "key": "enemy_key",
+                        "value": 0.0,
+                        "valueStr": "enemy_7005_xbbull"
+                    },
+                    {
+                        "key": "branch_id",
+                        "value": 0.0,
+                        "valueStr": "Circle_2"
+                    },
+                    {
+                        "key": "max_summon_cnt",
+                        "value": 4.0,
+                        "valueStr": null
+                    }
+                ]
+            }
+        ]
+    },
+    "sktok_lhcol": {
+        "skillId": "sktok_lhcol",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "借閱登記",
+                "rangeId": "x-5",
+                "description": "技力不自然回復，獲得生產模組時回復技力；開啟技能時，在周圍地面生成<@ba.enemy>高階術師</>（擊敗獲得<@ba.drop>術師進階信物</>和<@ba.drop>輔助進階信物</>），並掉落少量<@ba.drop>技巧手冊</>",
+                "skillType": "AUTO",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": "INCREASE_WITH_TIME",
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 12,
+                    "initSp": 0,
+                    "increment": 0.0
+                },
+                "prefabId": "sktok_lhcol",
+                "duration": 2.0,
+                "blackboard": [
+                    {
+                        "key": "range_id",
+                        "value": 0.0,
+                        "valueStr": "x-5"
+                    },
+                    {
+                        "key": "enemy_key",
+                        "value": 0.0,
+                        "valueStr": "enemy_1018_aoemag"
+                    },
+                    {
+                        "key": "branch_id",
+                        "value": 0.0,
+                        "valueStr": "Circle_2"
+                    },
+                    {
+                        "key": "resource",
+                        "value": 0.0,
+                        "valueStr": "trap_drop_col"
+                    },
+                    {
+                        "key": "max_summon_cnt",
+                        "value": 2.0,
+                        "valueStr": null
+                    }
+                ]
+            }
+        ]
+    },
+    "sktok_lhcolb": {
+        "skillId": "sktok_lhcolb",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "讀書會",
+                "rangeId": "x-5",
+                "description": "技力不自然回復，獲得生產模組時回復技力；開啟技能時，在周圍地面生成<@ba.enemy>護盾高階術師</>（擊敗獲得<@ba.drop>術師進階信物</>和<@ba.drop>輔助進階信物</>），掉落<@ba.drop>技巧手冊</>並有機率掉落<@ba.drop>生產模組</>",
+                "skillType": "AUTO",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": "INCREASE_WITH_TIME",
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 12,
+                    "initSp": 0,
+                    "increment": 0.0
+                },
+                "prefabId": "sktok_lhcolb",
+                "duration": 2.0,
+                "blackboard": [
+                    {
+                        "key": "range_id",
+                        "value": 0.0,
+                        "valueStr": "x-5"
+                    },
+                    {
+                        "key": "enemy_key",
+                        "value": 0.0,
+                        "valueStr": "enemy_1036_amraoe"
+                    },
+                    {
+                        "key": "branch_id",
+                        "value": 0.0,
+                        "valueStr": "Circle_2"
+                    },
+                    {
+                        "key": "resource",
+                        "value": 0.0,
+                        "valueStr": "trap_drop_col2"
+                    },
+                    {
+                        "key": "battle_item",
+                        "value": 0.0,
+                        "valueStr": "lv_1"
+                    },
+                    {
+                        "key": "max_summon_cnt",
+                        "value": 2.0,
+                        "valueStr": null
+                    }
+                ]
+            }
+        ]
+    },
+    "sktok_lhdoor": {
+        "skillId": "sktok_lhdoor",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "空間跳躍",
+                "rangeId": "0-1",
+                "description": "將自身所在格的一個敵人傳送至最近的可達我方幹員位置",
+                "skillType": "AUTO",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": "INCREASE_WITH_TIME",
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 8,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_lhdoor",
+                "duration": 2.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_lheqp": {
+        "skillId": "sktok_lheqp",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "補給簽收",
+                "rangeId": "0-1",
+                "description": "開啟技能後，生成一個<@ba.enemy>不可阻擋也不會攻擊的敵人</>，擊敗此敵人會掉落一件<@ba.drop>高級戰術擴充</>",
+                "skillType": "AUTO",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": "INCREASE_WITH_TIME",
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 1,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_lheqp",
+                "duration": 1.0,
+                "blackboard": [
+                    {
+                        "key": "enemy_key",
+                        "value": 0.0,
+                        "valueStr": "enemy_1285_sgwlf|enemy_7019_thief"
+                    },
+                    {
+                        "key": "prob",
+                        "value": 0.0,
+                        "valueStr": "0.5|0.5"
+                    },
+                    {
+                        "key": "branch_id",
+                        "value": 0.0,
+                        "valueStr": "Circle_2"
+                    },
+                    {
+                        "key": "battle_item",
+                        "value": 0.0,
+                        "valueStr": "equip_3"
+                    }
+                ]
+            }
+        ]
+    },
+    "sktok_lhfac": {
+        "skillId": "sktok_lhfac",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "汙染處理",
+                "rangeId": "x-1",
+                "description": "開啟技能摧毀自身以及範圍內的所有【源石晶簇】，使所在格變為【源石礦場】，並在周圍四格生成數個<@ba.enemy>礦脈守衛</>（擊敗獲得<@ba.drop>近衛進階信物</>和<@ba.drop>先鋒進階信物</>）",
+                "skillType": "AUTO",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": "INCREASE_WITH_TIME",
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 8,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_lhfac",
+                "duration": 2.0,
+                "blackboard": [
+                    {
+                        "key": "enemy_key",
+                        "value": 0.0,
+                        "valueStr": "enemy_7002_veingd"
+                    },
+                    {
+                        "key": "range_id",
+                        "value": 0.0,
+                        "valueStr": "x-5"
+                    },
+                    {
+                        "key": "branch_id",
+                        "value": 0.0,
+                        "valueStr": "Circle_2"
+                    },
+                    {
+                        "key": "max_summon_cnt",
+                        "value": 4.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "resource",
+                        "value": 0.0,
+                        "valueStr": "trap_drop_fac"
+                    }
+                ]
+            }
+        ]
+    },
+    "sktok_lhfacp": {
+        "skillId": "sktok_lhfacp",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "超負荷運轉",
+                "rangeId": "x-5",
+                "description": "場上有感染生物倒下時回復技力。若感染生物倒下時位於自身攻擊範圍內，技力回復加倍。開啟技能時，獲得中量<@ba.drop>培訓手冊</>和少量<@ba.drop>封裝礦核</>，且在周圍生成數個<@ba.enemy>高能源石蟲</>（擊敗後獲得少量<@ba.drop>培訓手冊</>）",
+                "skillType": "AUTO",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": "INCREASE_WITH_TIME",
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 50,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_lhfacp",
+                "duration": 2.0,
+                "blackboard": [
+                    {
+                        "key": "enemy_key",
+                        "value": 0.0,
+                        "valueStr": "enemy_1021_bslime"
+                    },
+                    {
+                        "key": "range_id",
+                        "value": 0.0,
+                        "valueStr": "x-5"
+                    },
+                    {
+                        "key": "branch_id",
+                        "value": 0.0,
+                        "valueStr": "Circle_2"
+                    },
+                    {
+                        "key": "prob",
+                        "value": 0.5,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "max_summon_cnt",
+                        "value": 4.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "resource",
+                        "value": 0.0,
+                        "valueStr": "trap_drop_facp"
+                    }
+                ]
+            }
+        ]
+    },
+    "sktok_lhfarm": {
+        "skillId": "sktok_lhfarm",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "回收利用",
+                "rangeId": "x-5",
+                "description": "場上有感染生物倒下時回復技力。若感染生物倒下時位於自身攻擊範圍內，技力回復加倍。開啟技能時，獲得少量<@ba.drop>培訓手冊</>和<@ba.drop>策略信標</>，且在周圍生成數個<@ba.enemy>源石蟲·β</>（擊敗後獲得微量<@ba.drop>培訓手冊</>）",
+                "skillType": "AUTO",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": "INCREASE_WITH_TIME",
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 50,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_lhfarm",
+                "duration": 2.0,
+                "blackboard": [
+                    {
+                        "key": "enemy_key",
+                        "value": 0.0,
+                        "valueStr": "enemy_1007_slime_3"
+                    },
+                    {
+                        "key": "range_id",
+                        "value": 0.0,
+                        "valueStr": "x-5"
+                    },
+                    {
+                        "key": "branch_id",
+                        "value": 0.0,
+                        "valueStr": "Circle_2"
+                    },
+                    {
+                        "key": "max_summon_cnt",
+                        "value": 4.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "resource",
+                        "value": 0.0,
+                        "valueStr": "trap_drop_farm"
+                    }
+                ]
+            }
+        ]
+    },
+    "sktok_lhflwr": {
+        "skillId": "sktok_lhflwr",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "打人樹",
+                "rangeId": null,
+                "description": "技力不自然回復，僅攻擊生命值小於自身攻擊力的非領袖敵人，擊倒敵人時獲得技力；開啟技能銷毀自身，並生成<@ba.enemy>樹盾</>（擊敗獲得<@ba.drop>重裝進階信物</>和<@ba.drop>醫療進階信物</>）",
+                "skillType": "AUTO",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": "INCREASE_WITH_TIME",
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 20,
+                    "initSp": 0,
+                    "increment": 0.0
+                },
+                "prefabId": "sktok_lhflwr",
+                "duration": 2.0,
+                "blackboard": [
+                    {
+                        "key": "enemy_key",
+                        "value": 0.0,
+                        "valueStr": "enemy_10069_ftlsj"
+                    },
+                    {
+                        "key": "max_summon_cnt",
+                        "value": 1.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "branch_id",
+                        "value": 0.0,
+                        "valueStr": "Circle_2"
+                    }
+                ]
+            }
+        ]
+    },
+    "sktok_lhhe": {
+        "skillId": "sktok_lhhe",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "灌溉",
+                "rangeId": "x-5",
+                "description": "僅可部署在地圖邊緣格或其他【河流】周圍四格。周圍其他【地形】的效果提高。周圍四格有地面時，會灌溉土壤，形成【沃土】並在技能開啟時生成<@ba.enemy>潛水員</>（擊敗獲得<@ba.drop>狙擊進階信物</>和<@ba.drop>特種進階信物</>）或<@ba.enemy>碼頭水手</>（擊敗獲得<@ba.drop>近衛進階信物</>和<@ba.drop>先鋒進階信物</>）",
+                "skillType": "AUTO",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": "INCREASE_WITH_TIME",
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 20,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_lhhe",
+                "duration": 2.0,
+                "blackboard": [
+                    {
+                        "key": "enemy_key",
+                        "value": 0.0,
+                        "valueStr": "enemy_1160_hvyslr|enemy_1158_divman"
+                    },
+                    {
+                        "key": "range_id",
+                        "value": 0.0,
+                        "valueStr": "x-5"
+                    },
+                    {
+                        "key": "branch_id",
+                        "value": 0.0,
+                        "valueStr": "Circle_2"
+                    },
+                    {
+                        "key": "max_summon_cnt",
+                        "value": 2.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "prob",
+                        "value": 0.0,
+                        "valueStr": "0.5|0.5"
+                    }
+                ]
+            }
+        ]
+    },
+    "sktok_lhpad": {
+        "skillId": "sktok_lhpad",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "採摘",
+                "rangeId": null,
+                "description": "自然回復技力，敵人經過時扣除技力；開啟技能時，獲得少量<@ba.drop>培訓手冊</>",
+                "skillType": "AUTO",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": "INCREASE_WITH_TIME",
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 10,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_lhpad",
+                "duration": -1.0,
+                "blackboard": [
+                    {
+                        "key": "default_pool",
+                        "value": 0.0,
+                        "valueStr": "trap_drop_pad"
+                    },
+                    {
+                        "key": "extra_pool",
+                        "value": 0.0,
+                        "valueStr": "trap_drop_pad"
+                    }
+                ]
+            }
+        ]
+    },
+    "sktok_lhpad2": {
+        "skillId": "sktok_lhpad2",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "豐收",
+                "rangeId": null,
+                "description": "自然回復技力，敵人經過時扣除技力；開啟技能時，獲得大量<@ba.drop>培訓手冊</>",
+                "skillType": "AUTO",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": "INCREASE_WITH_TIME",
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 10,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_lhpad2",
+                "duration": -1.0,
+                "blackboard": [
+                    {
+                        "key": "default_pool",
+                        "value": 0.0,
+                        "valueStr": "trap_drop_pad2"
+                    },
+                    {
+                        "key": "extra_pool",
+                        "value": 0.0,
+                        "valueStr": "trap_drop_pad2"
+                    }
+                ]
+            }
+        ]
+    },
+    "sktok_lhplt": {
+        "skillId": "sktok_lhplt",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "汙染傳播",
+                "rangeId": "x-5",
+                "description": "生成時，在周圍生成<@ba.enemy>輻能源石蟲</>；開啟技能時，在周圍的空閒地塊生成<@ba.enemy>源石晶簇</>；生成的第二代<@ba.enemy>源石晶簇</>將不再生成新的<@ba.enemy>源石晶簇</>",
+                "skillType": "AUTO",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": "INCREASE_WITH_TIME",
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 20,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_lhplt",
+                "duration": 0.0,
+                "blackboard": [
+                    {
+                        "key": "range_id",
+                        "value": 0.0,
+                        "valueStr": "x-5"
+                    },
+                    {
+                        "key": "max_generation",
+                        "value": 2.0,
+                        "valueStr": null
+                    }
+                ]
+            }
+        ]
+    },
+    "sktok_lhport": {
+        "skillId": "sktok_lhport",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "長途運輸",
+                "rangeId": "0-1",
+                "description": "場上有其他透過【河流】連通的【裝卸機】時，生成運輸汽艇，前往其他可以抵達的【裝卸機】；運輸汽艇抵達目的地時，根據距離獲得所有類型的<@ba.drop>精英進階信物</>",
+                "skillType": "AUTO",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": "INCREASE_WITH_TIME",
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 35,
+                    "initSp": 30,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_lhport",
+                "duration": 0.0,
+                "blackboard": [
+                    {
+                        "key": "enemy_key",
+                        "value": 0.0,
+                        "valueStr": "enemy_18001_lhship"
+                    },
+                    {
+                        "key": "branch_id",
+                        "value": 0.0,
+                        "valueStr": "Circle_2"
+                    },
+                    {
+                        "key": "max_summon_cnt",
+                        "value": 1.0,
+                        "valueStr": null
+                    }
+                ]
+            }
+        ]
+    },
+    "sktok_lhrift": {
+        "skillId": "sktok_lhrift",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "來客",
+                "rangeId": "0-1",
+                "description": "技力不自然回復，敵人經過時回復技力；開啟技能時，生成一個<@ba.enemy>吸氣亂動機</>（擊敗獲得隨機類型的兩種<@ba.drop>精英進階信物</>）",
+                "skillType": "AUTO",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": "INCREASE_WITH_TIME",
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 8,
+                    "initSp": 0,
+                    "increment": 0.0
+                },
+                "prefabId": "sktok_lhrift",
+                "duration": 0.0,
+                "blackboard": [
+                    {
+                        "key": "enemy_key",
+                        "value": 0.0,
+                        "valueStr": "enemy_18003_lhkarb"
+                    },
+                    {
+                        "key": "branch_id",
+                        "value": 0.0,
+                        "valueStr": "Circle_2"
+                    },
+                    {
+                        "key": "max_summon_cnt",
+                        "value": 4.0,
+                        "valueStr": null
+                    }
+                ]
+            }
+        ]
+    },
+    "sktok_lhshop": {
+        "skillId": "sktok_lhshop",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "鑄造",
+                "rangeId": null,
+                "description": "技力不自然回復，每當獲得新戰術擴充時，獲得技力；開啟技能後，獲得一件<@ba.drop>中級戰術擴充</>或<@ba.drop>高級戰術擴充</>，每開啟技能兩次後獲得一個<@ba.drop>擴充強化點</>",
+                "skillType": "AUTO",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": "INCREASE_WITH_TIME",
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 10,
+                    "initSp": 0,
+                    "increment": 0.0
+                },
+                "prefabId": "sktok_lhshop",
+                "duration": 2.0,
+                "blackboard": [
+                    {
+                        "key": "count_gain_equip",
+                        "value": 1.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "count_trigger_gain_trap",
+                        "value": 2.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "count_gain_trap",
+                        "value": 1.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "battle_item",
+                        "value": 0.0,
+                        "valueStr": "equip_2"
+                    },
+                    {
+                        "key": "drop_trap_pool",
+                        "value": 0.0,
+                        "valueStr": "trap_lhshop"
+                    }
+                ]
+            }
+        ]
+    },
+    "sktok_lhswer": {
+        "skillId": "sktok_lhswer",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "來客",
+                "rangeId": "0-1",
+                "description": "技力不自然回復，敵人經過時回復技力；開啟技能時，生成一隻<@ba.enemy>磐蟹</>（擊敗獲得<@ba.drop>特種進階信物</>和<@ba.drop>重裝進階信物</>）",
+                "skillType": "AUTO",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": "INCREASE_WITH_TIME",
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 5,
+                    "initSp": 0,
+                    "increment": 0.0
+                },
+                "prefabId": "sktok_lhswer",
+                "duration": 0.0,
+                "blackboard": [
+                    {
+                        "key": "enemy_key",
+                        "value": 0.0,
+                        "valueStr": "enemy_1016_diaman"
+                    },
+                    {
+                        "key": "branch_id",
+                        "value": 0.0,
+                        "valueStr": "Circle_2"
+                    },
+                    {
+                        "key": "max_summon_cnt",
+                        "value": 4.0,
+                        "valueStr": null
+                    }
+                ]
+            }
+        ]
+    },
+    "sktok_lhtown": {
+        "skillId": "sktok_lhtown",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "安防巡邏",
+                "rangeId": null,
+                "description": "場上每個【先遣偵測器】或其他【偵測中心】使自身每5秒獲得1點技力；開啟技能後，生成一個<@ba.enemy>護障</>（擊敗獲得<@ba.drop>狙擊進階信物</>和<@ba.drop>特種進階信物</>）或者<@ba.enemy>贊助無人機</>（擊敗獲得<@ba.drop>狙擊進階信物</>、<@ba.drop>特種進階信物</>和一個<@ba.drop>擴充補給點</>）",
+                "skillType": "AUTO",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": "INCREASE_WITH_TIME",
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 55,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_lhtown",
+                "duration": -1.0,
+                "blackboard": [
+                    {
+                        "key": "cnt",
+                        "value": 1.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "summon1.enemy_key",
+                        "value": 0.0,
+                        "valueStr": "enemy_1355_mrfly"
+                    },
+                    {
+                        "key": "summon2.enemy_key",
+                        "value": 0.0,
+                        "valueStr": "enemy_1105_tyokai"
+                    },
+                    {
+                        "key": "max_summon_cnt",
+                        "value": 2.0,
+                        "valueStr": null
+                    }
+                ]
+            }
+        ]
+    },
+    "sktok_lhupgd": {
+        "skillId": "sktok_lhupgd",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "強化驗收",
+                "rangeId": "0-1",
+                "description": "開啟技能後，生成<@ba.enemy>強力的敵人</>，擊敗此敵人會升級一件已穿戴的戰術擴充",
+                "skillType": "AUTO",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": "INCREASE_WITH_TIME",
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 1,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_lhupgd",
+                "duration": 1.0,
+                "blackboard": [
+                    {
+                        "key": "enemy_key",
+                        "value": 0.0,
+                        "valueStr": "enemy_6002_trswlf|enemy_1045_hammer"
+                    },
+                    {
+                        "key": "prob",
+                        "value": 0.0,
+                        "valueStr": "0.5|0.5"
+                    },
+                    {
+                        "key": "branch_id",
+                        "value": 0.0,
+                        "valueStr": "Circle_2"
+                    }
+                ]
+            }
+        ]
+    },
+    "sktok_lhvlg": {
+        "skillId": "sktok_lhvlg",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "作戰規劃",
+                "rangeId": "x-4",
+                "description": "開啟技能會使技能範圍內一個隨機敵人攻擊力與最大生命值+50%，並在周圍四格生成一個新的【先遣偵測器】；被標記的敵人被擊倒後，掉落一件<@ba.drop>低級戰術擴充</>",
+                "skillType": "AUTO",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": "INCREASE_WITH_TIME",
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 35,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_lhvlg",
+                "duration": 0.0,
+                "blackboard": [
+                    {
+                        "key": "atk",
+                        "value": 0.5,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "max_hp",
+                        "value": 0.5,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "key",
+                        "value": 0.0,
+                        "valueStr": "equip_1"
+                    },
+                    {
+                        "key": "max_generation",
+                        "value": 4.0,
+                        "valueStr": null
+                    }
+                ]
+            }
+        ]
+    },
+    "sktok_lhbot": {
+        "skillId": "sktok_lhbot",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "探礦",
+                "rangeId": "1-1",
+                "description": "部署後可以攻擊，造成法術傷害；部署在【富集礦區】上時，會在【富集礦區】進行鑽探，技能結束後使其變為【源石礦場】",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 8,
+                    "initSp": 8,
+                    "increment": 0.0
+                },
+                "prefabId": "sktok_lhbot",
+                "duration": 10.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_lhside": {
+        "skillId": "sktok_lhside",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "訊號增幅",
+                "rangeId": "x-1",
+                "description": "開啟技能時，範圍內除自身外每有一個生產模組，使範圍內所有友方幹員攻擊力+2%，生命值+2%，持續30秒（不可疊加）",
+                "skillType": "AUTO",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": "INCREASE_WITH_TIME",
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 30,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_lhside",
+                "duration": 2.0,
+                "blackboard": [
+                    {
+                        "key": "atk",
+                        "value": 0.02,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "max_hp",
+                        "value": 0.02,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "buff_duration",
+                        "value": 30.0,
+                        "valueStr": null
                     }
                 ]
             }

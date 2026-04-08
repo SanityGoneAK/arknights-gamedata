@@ -3848,7 +3848,8 @@
                         "value": 0.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -3888,7 +3889,8 @@
                         "value": 0.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -3958,7 +3960,8 @@
                         "value": 220.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -4028,7 +4031,8 @@
                         "value": 220.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -4098,7 +4102,8 @@
                         "value": 220.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -4168,7 +4173,8 @@
                         "value": 220.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -4238,7 +4244,8 @@
                         "value": 200.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -4308,7 +4315,8 @@
                         "value": 200.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -4378,7 +4386,8 @@
                         "value": 200.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -4448,7 +4457,8 @@
                         "value": 200.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -4518,7 +4528,8 @@
                         "value": 180.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -4588,7 +4599,8 @@
                         "value": 180.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -4658,7 +4670,8 @@
                         "value": 180.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -4728,7 +4741,8 @@
                         "value": 180.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -4798,7 +4812,8 @@
                         "value": 180.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -4868,7 +4883,8 @@
                         "value": 180.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             }
         ],
         "characterCards": [],

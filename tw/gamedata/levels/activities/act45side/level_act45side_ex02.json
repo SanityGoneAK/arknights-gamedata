@@ -5492,7 +5492,8 @@
                         "value": 1.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -5542,7 +5543,8 @@
                         "value": 1.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             }
         ],
         "characterCards": [],

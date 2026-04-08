@@ -6264,7 +6264,8 @@
                 "mainSkillLvl": 1,
                 "skinId": "",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -6288,7 +6289,8 @@
                 "mainSkillLvl": 1,
                 "skinId": "",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             }
         ],
         "characterCards": [
@@ -6309,7 +6311,8 @@
                 "mainSkillLvl": 10,
                 "skinId": "char_250_phatom@sale#4",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "hidden": false,
@@ -6328,7 +6331,8 @@
                 "mainSkillLvl": 10,
                 "skinId": "",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "hidden": false,
@@ -6347,7 +6351,8 @@
                 "mainSkillLvl": 10,
                 "skinId": "char_2012_typhon@wild#9",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "hidden": false,
@@ -6366,7 +6371,8 @@
                 "mainSkillLvl": 10,
                 "skinId": "",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "hidden": false,
@@ -6385,7 +6391,8 @@
                 "mainSkillLvl": 10,
                 "skinId": "char_237_gravel@winter#2",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "hidden": false,
@@ -6404,7 +6411,8 @@
                 "mainSkillLvl": 10,
                 "skinId": "char_197_poca@epoque#12",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "hidden": false,
@@ -6423,7 +6431,8 @@
                 "mainSkillLvl": 10,
                 "skinId": "char_4082_qiubai@epoque#31",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             }
         ],
         "tokenCards": []

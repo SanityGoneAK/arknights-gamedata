@@ -2931,7 +2931,8 @@
                 "mainSkillLvl": 7,
                 "skinId": "char_017_huang@as#1",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             }
         ],
         "tokenInsts": [
@@ -2963,7 +2964,8 @@
                         "value": 1.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             }
         ],
         "characterCards": [
@@ -2984,7 +2986,8 @@
                 "mainSkillLvl": 7,
                 "skinId": "char_290_vigna@as#1",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "hidden": true,
@@ -3003,7 +3006,8 @@
                 "mainSkillLvl": 7,
                 "skinId": "char_198_blackd@as#1",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "hidden": true,
@@ -3022,7 +3026,8 @@
                 "mainSkillLvl": 7,
                 "skinId": "char_017_huang@as#1",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             }
         ],
         "tokenCards": []

@@ -6854,7 +6854,8 @@
                         "value": 0.0,
                         "valueStr": "enemy_mjcsdw"
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -6904,7 +6905,8 @@
                         "value": 1.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             }
         ],
         "characterCards": [],
