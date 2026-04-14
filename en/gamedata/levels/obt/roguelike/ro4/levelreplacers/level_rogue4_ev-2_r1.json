@@ -3340,7 +3340,7 @@
                 },
                 "description": {
                     "m_defined": true,
-                    "m_value": "Unblockable. Movement Speed gradually increases. Deals Physical damage to all units upon entering the Objective."
+                    "m_value": "Unblockable. Movement Speed gradually increases. Deals Physical damage to all units upon entering the Objective Point."
                 },
                 "prefabKey": {
                     "m_defined": true,
@@ -4366,7 +4366,8 @@
                 "mainSkillLvl": 1,
                 "skinId": "",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -4390,7 +4391,8 @@
                 "mainSkillLvl": 1,
                 "skinId": "",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             }
         ],
         "characterCards": [],

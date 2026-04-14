@@ -11119,7 +11119,8 @@
                 "mainSkillLvl": 1,
                 "skinId": "",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             }
         ],
         "characterCards": [
@@ -11140,7 +11141,8 @@
                 "mainSkillLvl": 10,
                 "skinId": "char_134_ifrit@summer#1",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "hidden": false,
@@ -11159,7 +11161,8 @@
                 "mainSkillLvl": 10,
                 "skinId": "char_101_sora@summer#1",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "hidden": false,
@@ -11178,7 +11181,8 @@
                 "mainSkillLvl": 10,
                 "skinId": "char_201_moeshd@summer#4",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "hidden": false,
@@ -11197,7 +11201,8 @@
                 "mainSkillLvl": 10,
                 "skinId": "char_340_shwaz@striker#1",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "hidden": false,
@@ -11216,7 +11221,8 @@
                 "mainSkillLvl": 10,
                 "skinId": "char_103_angel@wild#1",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "hidden": false,
@@ -11235,7 +11241,8 @@
                 "mainSkillLvl": 10,
                 "skinId": "",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             }
         ],
         "tokenCards": []

@@ -13,6 +13,21 @@
   "_lowThresholdSOCScore": 600,
   "_androidCPULadder": [
     {
+      "cpu": "qualcomm sm8850-ac snapdragon 8 elite gen 5",
+      "mainKeyword": "sm8850-ac",
+      "score": 2398.0
+    },
+    {
+      "cpu": "qualcomm sm8850 snapdragon 8 elite gen 5",
+      "mainKeyword": "sm8850",
+      "score": 2398.0
+    },
+    {
+      "cpu": "mediatek mt6993 dimensity 9500",
+      "mainKeyword": "mt6993",
+      "score": 2287.0
+    },
+    {
       "cpu": "qualcomm sm8750-ab snapdragon 8 elite",
       "mainKeyword": "sm8750-ab",
       "score": 2187.0
@@ -21,6 +36,11 @@
       "cpu": "qualcomm sm8750 snapdragon 8 elite",
       "mainKeyword": "sm8750",
       "score": 2187.0
+    },
+    {
+      "cpu": "mediatek mt8799 dimensity 9400+",
+      "mainKeyword": "mt8799",
+      "score": 2013.0
     },
     {
       "cpu": "mediatek mt6991 dimensity 9400",
@@ -143,6 +163,16 @@
       "score": 965.0
     },
     {
+      "cpu": "qualcomm sm7750-ab snapdragon 7 gen 4",
+      "mainKeyword": "sm7750-ab",
+      "score": 950.0
+    },
+    {
+      "cpu": "qualcomm sm7750 snapdragon 7 gen 4",
+      "mainKeyword": "sm7750",
+      "score": 950.0
+    },
+    {
       "cpu": "qualcomm sm8350-ac snapdragon 888+",
       "mainKeyword": "sm8350-ac",
       "score": 933.5
@@ -228,6 +258,11 @@
       "score": 825.0
     },
     {
+      "cpu": "qualcomm sm6650 snapdragon 6 gen 4",
+      "mainKeyword": "sm6650",
+      "score": 820.0
+    },
+    {
       "cpu": "mediatek mt8797 kompanio 1300t",
       "mainKeyword": "mt8797",
       "score": 811.0
@@ -266,6 +301,11 @@
       "cpu": "mediatek mt6889z dimensity 1000+",
       "mainKeyword": "mt6889z",
       "score": 785.0
+    },
+    {
+      "cpu": "qualcomm sm6475-ab snapdragon 6 gen 3",
+      "mainKeyword": "sm6475-ab",
+      "score": 776.0
     },
     {
       "cpu": "samsung exynos 990",
@@ -325,6 +365,11 @@
     {
       "cpu": "mediatek mt6877v dimensity 900",
       "mainKeyword": "mt6877v",
+      "score": 704.0
+    },
+    {
+      "cpu": "mediatek mt6877 dimensity 900",
+      "mainKeyword": "mt6877",
       "score": 704.0
     },
     {
@@ -1195,7 +1240,19 @@
   ],
   "_androidGPULadder": [
     {
+      "gpu": "adreno (tm) 840",
+      "gradingLevel": 3
+    },
+    {
       "gpu": "adreno (tm) 830",
+      "gradingLevel": 3
+    },
+    {
+      "gpu": "adreno (tm) 825",
+      "gradingLevel": 3
+    },
+    {
+      "gpu": "mali-g1-ultra mc12",
       "gradingLevel": 3
     },
     {
@@ -1216,6 +1273,10 @@
     },
     {
       "gpu": "mali-g925-immortalis mc12",
+      "gradingLevel": 3
+    },
+    {
+      "gpu": "mali-g925-immortalis",
       "gradingLevel": 3
     },
     {
@@ -1275,7 +1336,15 @@
       "gradingLevel": 2
     },
     {
+      "gpu": "maleoon 920c",
+      "gradingLevel": 2
+    },
+    {
       "gpu": "xclipse 920",
+      "gradingLevel": 2
+    },
+    {
+      "gpu": "adreno (tm) 722",
       "gradingLevel": 2
     },
     {
@@ -1343,6 +1412,10 @@
       "gradingLevel": 2
     },
     {
+      "gpu": "adreno (tm) 643",
+      "gradingLevel": 2
+    },
+    {
       "gpu": "adreno (tm) 642",
       "gradingLevel": 2
     },
@@ -1368,6 +1441,10 @@
     },
     {
       "gpu": "mali-g77 mc9",
+      "gradingLevel": 2
+    },
+    {
+      "gpu": "mali_g76",
       "gradingLevel": 2
     },
     {

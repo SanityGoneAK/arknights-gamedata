@@ -15061,7 +15061,8 @@
                         "value": 1.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -15111,7 +15112,8 @@
                         "value": 15.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -15141,7 +15143,8 @@
                         "value": 0.0,
                         "valueStr": "route_1"
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -15171,7 +15174,8 @@
                         "value": 0.0,
                         "valueStr": "route_2"
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -15201,7 +15205,8 @@
                         "value": 0.0,
                         "valueStr": "route_3"
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -15231,7 +15236,8 @@
                         "value": 0.0,
                         "valueStr": "route_4"
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -15261,7 +15267,8 @@
                         "value": 0.0,
                         "valueStr": "route_5"
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -15291,7 +15298,8 @@
                         "value": 0.0,
                         "valueStr": "route_6"
                     }
-                ]
+                ],
+                "overrideTalents": null
             }
         ],
         "characterCards": [],

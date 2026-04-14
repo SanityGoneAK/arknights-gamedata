@@ -15136,7 +15136,8 @@
                         "value": 0.0,
                         "valueStr": "enemy_1315_wdyjd_2"
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -15191,7 +15192,8 @@
                         "value": 0.0,
                         "valueStr": "enemy_1315_wdyjd_2"
                     }
-                ]
+                ],
+                "overrideTalents": null
             }
         ],
         "characterCards": [],
