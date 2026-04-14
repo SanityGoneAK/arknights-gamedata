@@ -4168,7 +4168,8 @@
                 "mainSkillLvl": 10,
                 "skinId": "char_202_demkni@test#1",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -4197,7 +4198,8 @@
                 "mainSkillLvl": 10,
                 "skinId": "char_017_huang@witch#5",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -4226,7 +4228,8 @@
                 "mainSkillLvl": 10,
                 "skinId": "char_2025_shu@nian#11",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -4255,7 +4258,8 @@
                 "mainSkillLvl": 10,
                 "skinId": "char_151_myrtle@summer#12",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -4284,7 +4288,8 @@
                 "mainSkillLvl": 10,
                 "skinId": "char_350_surtr@summer#9",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             }
         ],
         "tokenInsts": [
@@ -4310,7 +4315,8 @@
                 "mainSkillLvl": 1,
                 "skinId": "",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -4334,7 +4340,8 @@
                 "mainSkillLvl": 1,
                 "skinId": "",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -4358,7 +4365,8 @@
                 "mainSkillLvl": 1,
                 "skinId": null,
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -4382,7 +4390,8 @@
                 "mainSkillLvl": 1,
                 "skinId": "",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             }
         ],
         "characterCards": [
@@ -4408,7 +4417,8 @@
                 "mainSkillLvl": 10,
                 "skinId": "char_4048_doroth@witch#4",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "hidden": false,
@@ -4432,7 +4442,8 @@
                 "mainSkillLvl": 10,
                 "skinId": "",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "hidden": false,
@@ -4456,7 +4467,8 @@
                 "mainSkillLvl": 10,
                 "skinId": null,
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "hidden": false,
@@ -4480,7 +4492,8 @@
                 "mainSkillLvl": 10,
                 "skinId": "char_264_f12yin@epoque#15",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "hidden": false,
@@ -4504,7 +4517,8 @@
                 "mainSkillLvl": 10,
                 "skinId": "char_311_mudrok@wild#10",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "hidden": false,
@@ -4528,7 +4542,8 @@
                 "mainSkillLvl": 10,
                 "skinId": "char_172_svrash@ambienceSynesthesia#4",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             }
         ],
         "tokenCards": [
@@ -4550,7 +4565,8 @@
                 "mainSkillLvl": 1,
                 "skinId": "",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             }
         ]
     },

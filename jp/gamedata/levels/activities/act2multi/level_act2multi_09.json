@@ -7442,7 +7442,8 @@
                         "value": 100000.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -7492,7 +7493,8 @@
                         "value": 10.0,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -7516,7 +7518,8 @@
                 "mainSkillLvl": 1,
                 "skinId": "",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             }
         ],
         "characterCards": [],

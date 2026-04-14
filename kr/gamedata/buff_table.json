@@ -50,7 +50,8 @@
         "priority": -1,
         "priorityBBKeys": null,
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": null
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
     },
     "sluggish": {
         "attributes": {
@@ -103,7 +104,8 @@
         "priority": -1,
         "priorityBBKeys": null,
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": null
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
     },
     "stun": {
         "attributes": {
@@ -150,7 +152,8 @@
         "priority": -1,
         "priorityBBKeys": null,
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": null
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
     },
     "silence": {
         "attributes": {
@@ -197,7 +200,8 @@
         "priority": -1,
         "priorityBBKeys": null,
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": null
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
     },
     "palsy[stack]": {
         "attributes": {
@@ -250,7 +254,8 @@
                 "value": 5.0,
                 "valueStr": null
             }
-        ]
+        ],
+        "enableInitDirectionFromSource": false
     },
     "palsying": {
         "attributes": {
@@ -303,7 +308,8 @@
                 "value": 0.5,
                 "valueStr": null
             }
-        ]
+        ],
+        "enableInitDirectionFromSource": false
     },
     "palsy_trigger": {
         "attributes": {
@@ -348,7 +354,8 @@
         "priority": -1,
         "priorityBBKeys": null,
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": null
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
     },
     "weak[inf]": {
         "attributes": {
@@ -395,7 +402,8 @@
             "damage_scale"
         ],
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": null
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
     },
     "weak[limit]": {
         "attributes": {
@@ -442,7 +450,8 @@
             "damage_scale"
         ],
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": null
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
     },
     "weak[magic][inf]": {
         "attributes": {
@@ -489,7 +498,8 @@
             "damage_scale"
         ],
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": null
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
     },
     "weak[phy][inf]": {
         "attributes": {
@@ -536,7 +546,8 @@
             "damage_scale"
         ],
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": null
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
     },
     "weak[magic][limit]": {
         "attributes": {
@@ -583,7 +594,8 @@
             "damage_scale"
         ],
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": null
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
     },
     "weak[ep][inf]": {
         "attributes": {
@@ -630,7 +642,8 @@
             "damage_scale"
         ],
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": null
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
     },
     "weak[ep][limit]": {
         "attributes": {
@@ -677,7 +690,8 @@
             "damage_scale"
         ],
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": null
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
     },
     "damage_resistance[inf]": {
         "attributes": {
@@ -724,7 +738,8 @@
             "damage_resistance"
         ],
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": null
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
     },
     "damage_resistance[limit]": {
         "attributes": {
@@ -771,7 +786,8 @@
             "damage_resistance"
         ],
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": null
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
     },
     "damage_resistance[IncludePure]": {
         "attributes": {
@@ -818,7 +834,8 @@
             "damage_resistance"
         ],
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": null
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
     },
     "spRecover": {
         "attributes": {
@@ -873,7 +890,8 @@
             "sp_recovery_per_sec"
         ],
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": []
+        "blackboard": [],
+        "enableInitDirectionFromSource": false
     },
     "status_resistance[inf]": {
         "attributes": {
@@ -928,7 +946,8 @@
             "one_minus_status_resistance"
         ],
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": []
+        "blackboard": [],
+        "enableInitDirectionFromSource": false
     },
     "status_resistance[limit]": {
         "attributes": {
@@ -983,7 +1002,8 @@
             "one_minus_status_resistance"
         ],
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": []
+        "blackboard": [],
+        "enableInitDirectionFromSource": false
     },
     "status_resistance_reduction[inf]": {
         "attributes": {
@@ -1038,7 +1058,8 @@
             "one_minus_status_resistance"
         ],
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": []
+        "blackboard": [],
+        "enableInitDirectionFromSource": false
     },
     "status_resistance_reduction[limit]": {
         "attributes": {
@@ -1093,7 +1114,8 @@
             "one_minus_status_resistance"
         ],
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": []
+        "blackboard": [],
+        "enableInitDirectionFromSource": false
     },
     "e2c_freeze": {
         "attributes": {
@@ -1140,7 +1162,8 @@
         "priority": -1,
         "priorityBBKeys": null,
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": null
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
     },
     "e2c_cold": {
         "attributes": {
@@ -1195,7 +1218,8 @@
         "priority": -1,
         "priorityBBKeys": null,
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": null
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
     },
     "dragon_fire": {
         "attributes": {
@@ -1240,7 +1264,8 @@
         "priority": -1,
         "priorityBBKeys": null,
         "stripBlackboardParamsWithBuffKey": true,
-        "blackboard": null
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
     },
     "dragon_fire[damage]": {
         "attributes": {
@@ -1285,7 +1310,8 @@
         "priority": -1,
         "priorityBBKeys": null,
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": null
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
     },
     "c2e_cold": {
         "attributes": {
@@ -1332,7 +1358,8 @@
         "priority": -1,
         "priorityBBKeys": null,
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": null
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
     },
     "c2e_freeze[double_cold]": {
         "attributes": {
@@ -1379,7 +1406,56 @@
         "priority": -1,
         "priorityBBKeys": null,
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": null
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
+    },
+    "c2e_freeze[double_cold][freeze_key]": {
+        "attributes": {
+            "abnormalFlags": [
+                "FROZEN"
+            ],
+            "abnormalImmunes": null,
+            "abnormalAntis": null,
+            "abnormalCombos": null,
+            "abnormalComboImmunes": null,
+            "attributeModifiers": null
+        },
+        "buffKey": "c2e_freeze[double_cold]",
+        "loadFromDB": false,
+        "isDurableBuff": false,
+        "isDamageMissable": true,
+        "isSilenceable": false,
+        "isStunnable": false,
+        "isFreezable": false,
+        "isLevitatable": false,
+        "statusResistable": "YES",
+        "templateKey": "c2e_freeze[double_cold]",
+        "disableOverride": true,
+        "overrideKey": null,
+        "overrideType": "DEFAULT",
+        "maxStackCnt": 1,
+        "refreshRemainingTimeWhenStackMax": false,
+        "clearAllStackCntWhenTimeUp": false,
+        "maxValidStackCnt": -1,
+        "independentCharacterSource": false,
+        "overrideEffectKey": null,
+        "overrideOnEventPriority": false,
+        "onEventPriority": "DEFAULT",
+        "audioSignal": null,
+        "lifeTimeType": "LIMITED",
+        "takeSnapshotWhenExtend": false,
+        "durationKey": "c2e_freeze",
+        "lifeTime": 0.0,
+        "triggerLifeType": "IMMEDIATELY",
+        "triggerCnt": 0,
+        "triggerInterval": -1.0,
+        "waitFirstTriggerInterval": true,
+        "firstTriggerInterval": -1.0,
+        "priority": -1,
+        "priorityBBKeys": null,
+        "stripBlackboardParamsWithBuffKey": false,
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
     },
     "c2e_cold[debuff]": {
         "attributes": {
@@ -1432,7 +1508,8 @@
         "priority": -1,
         "priorityBBKeys": null,
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": null
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
     },
     "c2e_freeze[holder]": {
         "attributes": {
@@ -1479,7 +1556,8 @@
         "priority": -1,
         "priorityBBKeys": null,
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": null
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
     },
     "c2e_freeze": {
         "attributes": {
@@ -1539,7 +1617,8 @@
         "priority": -1,
         "priorityBBKeys": null,
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": null
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
     },
     "enemy_confinement": {
         "attributes": {
@@ -1592,7 +1671,8 @@
         "priority": -1,
         "priorityBBKeys": null,
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": null
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
     },
     "enemy_confinement_final": {
         "attributes": {
@@ -1645,7 +1725,8 @@
         "priority": -1,
         "priorityBBKeys": null,
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": null
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
     },
     "buff_yin": {
         "attributes": {
@@ -1690,7 +1771,8 @@
         "priority": -1,
         "priorityBBKeys": null,
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": null
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
     },
     "buff_yang": {
         "attributes": {
@@ -1735,7 +1817,8 @@
         "priority": -1,
         "priorityBBKeys": null,
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": null
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
     },
     "ep_break_sanity_char": {
         "attributes": {
@@ -1791,7 +1874,8 @@
                 "value": 1000.0,
                 "valueStr": null
             }
-        ]
+        ],
+        "enableInitDirectionFromSource": false
     },
     "peak_performance[inf]": {
         "attributes": {
@@ -1836,7 +1920,8 @@
         "priority": -1,
         "priorityBBKeys": null,
         "stripBlackboardParamsWithBuffKey": true,
-        "blackboard": null
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
     },
     "peak_performance[atk]": {
         "attributes": {
@@ -1891,7 +1976,8 @@
             "atk"
         ],
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": null
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
     },
     "spareShot": {
         "attributes": {
@@ -1944,7 +2030,8 @@
                 "value": 0.2,
                 "valueStr": null
             }
-        ]
+        ],
+        "enableInitDirectionFromSource": false
     },
     "spareShot_dynamic": {
         "attributes": {
@@ -1991,7 +2078,8 @@
             "prob"
         ],
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": null
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
     },
     "ep_break_water_char": {
         "attributes": {
@@ -2047,7 +2135,8 @@
                 "value": -100.0,
                 "valueStr": null
             }
-        ]
+        ],
+        "enableInitDirectionFromSource": false
     },
     "buff_swim": {
         "attributes": {
@@ -2092,7 +2181,8 @@
         "priority": 1,
         "priorityBBKeys": null,
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": null
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
     },
     "ep_break_fire_char": {
         "attributes": {
@@ -2148,7 +2238,8 @@
                 "value": 1200.0,
                 "valueStr": null
             }
-        ]
+        ],
+        "enableInitDirectionFromSource": false
     },
     "ep_break_fire_enemy": {
         "attributes": {
@@ -2207,7 +2298,8 @@
                 "value": 7000.0,
                 "valueStr": null
             }
-        ]
+        ],
+        "enableInitDirectionFromSource": false
     },
     "disarmed_and_cant_use_skill": {
         "attributes": {
@@ -2255,7 +2347,8 @@
         "priority": -1,
         "priorityBBKeys": null,
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": null
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
     },
     "ep_break_dark_char": {
         "attributes": {
@@ -2316,7 +2409,8 @@
                 "value": -1.0,
                 "valueStr": null
             }
-        ]
+        ],
+        "enableInitDirectionFromSource": false
     },
     "sp_loss": {
         "attributes": {
@@ -2372,7 +2466,8 @@
                 "value": 1.0,
                 "valueStr": null
             }
-        ]
+        ],
+        "enableInitDirectionFromSource": false
     },
     "encourage[max_hp]": {
         "attributes": {
@@ -2427,7 +2522,8 @@
             "max_hp"
         ],
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": []
+        "blackboard": [],
+        "enableInitDirectionFromSource": false
     },
     "encourage[atk]": {
         "attributes": {
@@ -2482,7 +2578,8 @@
             "atk"
         ],
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": []
+        "blackboard": [],
+        "enableInitDirectionFromSource": false
     },
     "limit_bonus[atk]": {
         "attributes": {
@@ -2538,7 +2635,8 @@
                 "value": 0.0,
                 "valueStr": null
             }
-        ]
+        ],
+        "enableInitDirectionFromSource": false
     },
     "limit_bonus[magic_resistance]": {
         "attributes": {
@@ -2594,7 +2692,8 @@
                 "value": 0.0,
                 "valueStr": null
             }
-        ]
+        ],
+        "enableInitDirectionFromSource": false
     },
     "limit_bonus[attack_speed]": {
         "attributes": {
@@ -2650,7 +2749,8 @@
                 "value": 0.0,
                 "valueStr": null
             }
-        ]
+        ],
+        "enableInitDirectionFromSource": false
     },
     "limit_bonus[def]": {
         "attributes": {
@@ -2706,7 +2806,8 @@
                 "value": 0.0,
                 "valueStr": null
             }
-        ]
+        ],
+        "enableInitDirectionFromSource": false
     },
     "limit_bonus[sp_recover]": {
         "attributes": {
@@ -2762,7 +2863,8 @@
                 "value": 0.0,
                 "valueStr": null
             }
-        ]
+        ],
+        "enableInitDirectionFromSource": false
     },
     "encourage[def]": {
         "attributes": {
@@ -2817,7 +2919,8 @@
             "def"
         ],
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": []
+        "blackboard": [],
+        "enableInitDirectionFromSource": false
     },
     "purify": {
         "attributes": {
@@ -2862,7 +2965,8 @@
         "priority": -1,
         "priorityBBKeys": null,
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": null
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
     },
     "sleep": {
         "attributes": {
@@ -2909,7 +3013,8 @@
         "priority": -1,
         "priorityBBKeys": null,
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": null
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
     },
     "steal_attr_target[atk]": {
         "attributes": {
@@ -2970,7 +3075,8 @@
                 "value": 3600.0,
                 "valueStr": null
             }
-        ]
+        ],
+        "enableInitDirectionFromSource": false
     },
     "steal_attr_self[atk]": {
         "attributes": {
@@ -3015,7 +3121,8 @@
         "priority": -1,
         "priorityBBKeys": null,
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": null
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
     },
     "steal_attr_target[attack_speed]": {
         "attributes": {
@@ -3076,7 +3183,8 @@
                 "value": 3600.0,
                 "valueStr": null
             }
-        ]
+        ],
+        "enableInitDirectionFromSource": false
     },
     "steal_attr_self[attack_speed]": {
         "attributes": {
@@ -3121,7 +3229,8 @@
         "priority": -1,
         "priorityBBKeys": null,
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": null
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
     },
     "steal_attr_target[def]": {
         "attributes": {
@@ -3182,7 +3291,8 @@
                 "value": 3600.0,
                 "valueStr": null
             }
-        ]
+        ],
+        "enableInitDirectionFromSource": false
     },
     "steal_attr_self[def]": {
         "attributes": {
@@ -3227,7 +3337,8 @@
         "priority": -1,
         "priorityBBKeys": null,
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": null
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
     },
     "steal_attr_target[max_hp]": {
         "attributes": {
@@ -3288,7 +3399,8 @@
                 "value": 3600.0,
                 "valueStr": null
             }
-        ]
+        ],
+        "enableInitDirectionFromSource": false
     },
     "steal_attr_self[max_hp]": {
         "attributes": {
@@ -3333,7 +3445,8 @@
         "priority": -1,
         "priorityBBKeys": null,
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": null
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
     },
     "attr_down[atk]": {
         "attributes": {
@@ -3388,7 +3501,8 @@
             "atk"
         ],
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": null
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
     },
     "attr_down[atk][inf]": {
         "attributes": {
@@ -3443,7 +3557,8 @@
             "atk"
         ],
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": null
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
     },
     "mass_loss": {
         "attributes": {
@@ -3498,7 +3613,8 @@
             "mass_level"
         ],
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": null
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
     },
     "ep_break_dark_enemy": {
         "attributes": {
@@ -3564,7 +3680,8 @@
                 "value": 1.0,
                 "valueStr": null
             }
-        ]
+        ],
+        "enableInitDirectionFromSource": false
     },
     "ep_break_sanity_enemy": {
         "attributes": {
@@ -3620,7 +3737,8 @@
                 "value": 6000.0,
                 "valueStr": null
             }
-        ]
+        ],
+        "enableInitDirectionFromSource": false
     },
     "ep_break_sanity": {
         "attributes": {
@@ -3665,7 +3783,8 @@
         "priority": -1,
         "priorityBBKeys": null,
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": null
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
     },
     "ep_break_water": {
         "attributes": {
@@ -3710,7 +3829,8 @@
         "priority": -1,
         "priorityBBKeys": null,
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": null
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
     },
     "ep_break_fire": {
         "attributes": {
@@ -3755,7 +3875,8 @@
         "priority": -1,
         "priorityBBKeys": null,
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": null
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
     },
     "ep_break_dark": {
         "attributes": {
@@ -3800,7 +3921,8 @@
         "priority": -1,
         "priorityBBKeys": null,
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": null
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
     },
     "act28side_energy_buff": {
         "attributes": {
@@ -3860,7 +3982,8 @@
         "priority": -1,
         "priorityBBKeys": null,
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": null
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
     },
     "act28side_over_energy_buff": {
         "attributes": {
@@ -3927,7 +4050,8 @@
         "priority": -1,
         "priorityBBKeys": null,
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": null
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
     },
     "resistable_abnormal_flag_anti": {
         "attributes": {
@@ -3976,7 +4100,8 @@
         "priority": -1,
         "priorityBBKeys": null,
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": null
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
     },
     "status_resistable_anti": {
         "attributes": {
@@ -4023,7 +4148,8 @@
         "priority": -1,
         "priorityBBKeys": null,
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": null
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
     },
     "ep_damage_based_on_damage_value": {
         "attributes": {
@@ -4079,7 +4205,8 @@
                 "value": 0.0,
                 "valueStr": null
             }
-        ]
+        ],
+        "enableInitDirectionFromSource": false
     },
     "disarmed_combat": {
         "attributes": {
@@ -4126,7 +4253,8 @@
         "priority": -1,
         "priorityBBKeys": null,
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": null
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
     },
     "racing_mode_bleeding": {
         "attributes": {
@@ -4171,7 +4299,8 @@
         "priority": -1,
         "priorityBBKeys": null,
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": null
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
     },
     "racing_mode_recover_trigger": {
         "attributes": {
@@ -4216,7 +4345,8 @@
         "priority": -1,
         "priorityBBKeys": null,
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": null
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
     },
     "racing_mode_recover": {
         "attributes": {
@@ -4261,7 +4391,8 @@
         "priority": -1,
         "priorityBBKeys": null,
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": null
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
     },
     "racing_mode_falldown_listener": {
         "attributes": {
@@ -4312,7 +4443,8 @@
                 "value": 5.0,
                 "valueStr": null
             }
-        ]
+        ],
+        "enableInitDirectionFromSource": false
     },
     "racing_mode_use_item": {
         "attributes": {
@@ -4357,7 +4489,56 @@
         "priority": -1,
         "priorityBBKeys": null,
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": null
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
+    },
+    "autochess_common_boss_buff": {
+        "attributes": {
+            "abnormalFlags": [
+                "UNDEADABLE"
+            ],
+            "abnormalImmunes": null,
+            "abnormalAntis": null,
+            "abnormalCombos": null,
+            "abnormalComboImmunes": null,
+            "attributeModifiers": null
+        },
+        "buffKey": "autochess_common_boss_buff",
+        "loadFromDB": false,
+        "isDurableBuff": false,
+        "isDamageMissable": false,
+        "isSilenceable": false,
+        "isStunnable": false,
+        "isFreezable": false,
+        "isLevitatable": false,
+        "statusResistable": "AUTOMATIC",
+        "templateKey": "empty",
+        "disableOverride": false,
+        "overrideKey": null,
+        "overrideType": "DEFAULT",
+        "maxStackCnt": 1,
+        "refreshRemainingTimeWhenStackMax": false,
+        "clearAllStackCntWhenTimeUp": false,
+        "maxValidStackCnt": -1,
+        "independentCharacterSource": false,
+        "overrideEffectKey": null,
+        "overrideOnEventPriority": false,
+        "onEventPriority": "DEFAULT",
+        "audioSignal": null,
+        "lifeTimeType": "INFINITY",
+        "takeSnapshotWhenExtend": false,
+        "durationKey": null,
+        "lifeTime": 0.0,
+        "triggerLifeType": "IMMEDIATELY",
+        "triggerCnt": 0,
+        "triggerInterval": -1.0,
+        "waitFirstTriggerInterval": true,
+        "firstTriggerInterval": -1.0,
+        "priority": -1,
+        "priorityBBKeys": null,
+        "stripBlackboardParamsWithBuffKey": false,
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
     },
     "cooperate_teleport_buff": {
         "attributes": {
@@ -4402,7 +4583,8 @@
         "priority": -1,
         "priorityBBKeys": null,
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": null
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
     },
     "fear": {
         "attributes": {
@@ -4449,6 +4631,7 @@
         "priority": -1,
         "priorityBBKeys": null,
         "stripBlackboardParamsWithBuffKey": false,
-        "blackboard": null
+        "blackboard": null,
+        "enableInitDirectionFromSource": false
     }
 }
