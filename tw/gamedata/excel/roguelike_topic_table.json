@@ -2623,6 +2623,24 @@
                 "canBeFree": false,
                 "uniEquipId": "uniequip_002_oblvns",
                 "recruitType": "FREE"
+            },
+            "char_4208_wintim": {
+                "charId": "char_4208_wintim",
+                "canBeFree": true,
+                "uniEquipId": "uniequip_002_wintim",
+                "recruitType": "FREE"
+            },
+            "char_4207_branch": {
+                "charId": "char_4207_branch",
+                "canBeFree": true,
+                "uniEquipId": "uniequip_002_branch",
+                "recruitType": "FREE"
+            },
+            "char_4204_mantra": {
+                "charId": "char_4204_mantra",
+                "canBeFree": true,
+                "uniEquipId": "uniequip_002_mantra",
+                "recruitType": "FREE"
             }
         }
     },
@@ -205691,7 +205709,7 @@
                 "tipButtonName": "入園須知",
                 "collectButtonName": "見字圖冊",
                 "bpSystemName": "遊園紀念",
-                "autoSetKV": "pic_rogue_5_KV1",
+                "autoSetKV": "pic_rogue_5_KV2",
                 "bpPurchaseActiveEnroll": null,
                 "defaultExpeditionSelectDesc": "幹員{0}將會在本層結束後歸來，並帶回一些物資。",
                 "gotCharMutationBuffToast": null,
@@ -255734,20 +255752,6 @@
                         "合理使用各類通寶能讓探險變得輕鬆",
                         "合理規劃燭火的使用，能讓歲獸殘識的探險變得輕鬆"
                     ]
-                },
-                "CHALLENGE": {
-                    "randomDescriptionList": [
-                        "謹慎規劃前進的路線，每一步的決策都至關重要",
-                        "盡可能使用地圖中獲取的資源能讓探索變得更加輕鬆",
-                        "合理選擇幹員並搭配陣容會讓戰鬥變得更加輕鬆",
-                        "【集成戰略】中的戰鬥節點內容會隨機變化，掌握其變化規律會讓戰鬥變得更加輕鬆",
-                        "界園中的道路環境千變萬化，並非每條道路都是坦途，不要氣餒，再來一次吧",
-                        "界園中的道路危機四伏，適時使用源石錠能讓探險變得更加輕鬆",
-                        "界園中的道路危機四伏，適時消耗希望能讓探險變得更加輕鬆",
-                        "合理使用各類通寶能讓探險變得輕鬆",
-                        "合理規劃燭火的使用，能讓歲獸殘識的探險變得輕鬆",
-                        "遊覽雖戛然而止，但你仍有機會去磨練自己探索界園的技巧"
-                    ]
                 }
             },
             "battleLoadingTips": [
@@ -279542,10 +279546,6 @@
             "styles": {
                 "rogue_5_style_default": {
                     "styleId": "rogue_5_style_default",
-                    "styleConfig": 0
-                },
-                "rogue_5_style_challenge": {
-                    "styleId": "rogue_5_style_challenge",
                     "styleConfig": 0
                 }
             },

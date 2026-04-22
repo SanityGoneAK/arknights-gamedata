@@ -144523,5 +144523,2944 @@
                 "tokenAttributeBlackboard": {}
             }
         ]
+    },
+    "uniequip_002_mantra": {
+        "phases": [
+            {
+                "equipLevel": 1,
+                "parts": [
+                    {
+                        "resKey": "mantra_equip_1_1_p1",
+                        "target": "TRAIT",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": null
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": [
+                                {
+                                    "additionalDescription": "對處於元素爆發期間的敵人造成的傷害提升至110%",
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "blackboard": [
+                                        {
+                                            "key": "damage_scale",
+                                            "value": 1.1,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "overrideDescripton": null,
+                                    "prefabKey": null,
+                                    "rangeId": null
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "attributeBlackboard": [
+                    {
+                        "key": "max_hp",
+                        "value": 90.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "atk",
+                        "value": 43.0,
+                        "valueStr": null
+                    }
+                ],
+                "tokenAttributeBlackboard": {}
+            },
+            {
+                "equipLevel": 2,
+                "parts": [
+                    {
+                        "resKey": "mantra_equip_1_2_p1",
+                        "target": "TRAIT",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": null
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": [
+                                {
+                                    "additionalDescription": "對處於元素爆發期間的敵人造成的傷害提升至110%",
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "blackboard": [
+                                        {
+                                            "key": "damage_scale",
+                                            "value": 1.1,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "overrideDescripton": null,
+                                    "prefabKey": null,
+                                    "rangeId": null
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "resKey": null,
+                        "target": "TALENT_DATA_ONLY",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": [
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "場上敵人觸發<$ba.palsy>麻痺</>效果時立即受到相當於真言攻擊力155%的元素傷害，且觸發<$ba.palsy>麻痺</>時有10%機率不消耗<$ba.palsy>麻痺</>層數",
+                                    "talentIndex": 0,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "prefabKey": "1",
+                                    "name": "噤聲限域",
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "atk_scale",
+                                            "value": 1.55,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "prob",
+                                            "value": 0.1,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                },
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "場上敵人觸發<$ba.palsy>麻痺</>效果時立即受到相當於真言攻擊力165%<@ba.talpu>（+10%）</>的元素傷害，且觸發<$ba.palsy>麻痺</>時有13%<@ba.talpu>（+3%）</>機率不消耗<$ba.palsy>麻痺</>層數",
+                                    "talentIndex": 0,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 4,
+                                    "prefabKey": "1",
+                                    "name": "噤聲限域",
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "atk_scale",
+                                            "value": 1.65,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "prob",
+                                            "value": 0.13,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                }
+                            ]
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": null
+                        }
+                    }
+                ],
+                "attributeBlackboard": [
+                    {
+                        "key": "max_hp",
+                        "value": 125.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "atk",
+                        "value": 69.0,
+                        "valueStr": null
+                    }
+                ],
+                "tokenAttributeBlackboard": {}
+            },
+            {
+                "equipLevel": 3,
+                "parts": [
+                    {
+                        "resKey": "mantra_equip_1_3_p1",
+                        "target": "TRAIT",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": null
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": [
+                                {
+                                    "additionalDescription": "對處於元素爆發期間的敵人造成的傷害提升至110%",
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "blackboard": [
+                                        {
+                                            "key": "damage_scale",
+                                            "value": 1.1,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "overrideDescripton": null,
+                                    "prefabKey": null,
+                                    "rangeId": null
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "resKey": null,
+                        "target": "TALENT_DATA_ONLY",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": [
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "場上敵人觸發<$ba.palsy>麻痺</>效果時立即受到相當於真言攻擊力160%的元素傷害，且觸發<$ba.palsy>麻痺</>時有15%機率不消耗<$ba.palsy>麻痺</>層數",
+                                    "talentIndex": 0,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "prefabKey": "1",
+                                    "name": "噤聲限域",
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "atk_scale",
+                                            "value": 1.6,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "prob",
+                                            "value": 0.15,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                },
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "場上敵人觸發<$ba.palsy>麻痺</>效果時立即受到相當於真言攻擊力170%<@ba.talpu>（+10%）</>的元素傷害，且觸發<$ba.palsy>麻痺</>時有18%<@ba.talpu>（+3%）</>機率不消耗<$ba.palsy>麻痺</>層數",
+                                    "talentIndex": 0,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 4,
+                                    "prefabKey": "1",
+                                    "name": "噤聲限域",
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "atk_scale",
+                                            "value": 1.7,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "prob",
+                                            "value": 0.18,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                }
+                            ]
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": null
+                        }
+                    }
+                ],
+                "attributeBlackboard": [
+                    {
+                        "key": "max_hp",
+                        "value": 145.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "atk",
+                        "value": 87.0,
+                        "valueStr": null
+                    }
+                ],
+                "tokenAttributeBlackboard": {}
+            }
+        ]
+    },
+    "uniequip_002_branch": {
+        "phases": [
+            {
+                "equipLevel": 1,
+                "parts": [
+                    {
+                        "resKey": "branch_equip_1_1_p1",
+                        "target": "TRAIT",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": null
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": [
+                                {
+                                    "additionalDescription": "受到來自自身阻擋單位的傷害降低<@ba.kw>15%</>",
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 50
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "blackboard": [
+                                        {
+                                            "key": "damage_scale",
+                                            "value": 0.85,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "overrideDescripton": null,
+                                    "prefabKey": null,
+                                    "rangeId": null
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "attributeBlackboard": [
+                    {
+                        "key": "max_hp",
+                        "value": 210.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "def",
+                        "value": 35.0,
+                        "valueStr": null
+                    }
+                ],
+                "tokenAttributeBlackboard": {}
+            },
+            {
+                "equipLevel": 2,
+                "parts": [
+                    {
+                        "resKey": "branch_equip_1_2_p1",
+                        "target": "TRAIT",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": null
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": [
+                                {
+                                    "additionalDescription": "受到來自自身阻擋單位的傷害降低<@ba.kw>15%</>",
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 50
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "blackboard": [
+                                        {
+                                            "key": "damage_scale",
+                                            "value": 0.85,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "overrideDescripton": null,
+                                    "prefabKey": null,
+                                    "rangeId": null
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "resKey": null,
+                        "target": "TALENT_DATA_ONLY",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": [
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "技能期間防禦力+15%；技能結束時恢復自身60%最大生命值",
+                                    "talentIndex": 0,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 50
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "prefabKey": "1",
+                                    "name": "簡易包紮",
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "hp_ratio",
+                                            "value": 0.6,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                },
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "技能期間防禦力+15%；技能結束時恢復自身70%<@ba.talpu>（+10%）</>最大生命值",
+                                    "talentIndex": 0,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 50
+                                    },
+                                    "requiredPotentialRank": 4,
+                                    "prefabKey": "1",
+                                    "name": "簡易包紮",
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "hp_ratio",
+                                            "value": 0.7,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                }
+                            ]
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": null
+                        }
+                    },
+                    {
+                        "resKey": "branch_equip_1_2_p2",
+                        "target": "TALENT",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": [
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "",
+                                    "talentIndex": -1,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 50
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "prefabKey": "10_root",
+                                    "name": null,
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "def",
+                                            "value": 0.15,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": true
+                                }
+                            ]
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": null
+                        }
+                    }
+                ],
+                "attributeBlackboard": [
+                    {
+                        "key": "max_hp",
+                        "value": 300.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "def",
+                        "value": 53.0,
+                        "valueStr": null
+                    }
+                ],
+                "tokenAttributeBlackboard": {}
+            },
+            {
+                "equipLevel": 3,
+                "parts": [
+                    {
+                        "resKey": "branch_equip_1_3_p1",
+                        "target": "TRAIT",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": null
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": [
+                                {
+                                    "additionalDescription": "受到來自自身阻擋單位的傷害降低<@ba.kw>15%</>",
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 50
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "blackboard": [
+                                        {
+                                            "key": "damage_scale",
+                                            "value": 0.85,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "overrideDescripton": null,
+                                    "prefabKey": null,
+                                    "rangeId": null
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "resKey": null,
+                        "target": "TALENT_DATA_ONLY",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": [
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "技能期間防禦力+18%；技能結束時恢復自身70%最大生命值",
+                                    "talentIndex": 0,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 50
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "prefabKey": "1",
+                                    "name": "簡易包紮",
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "hp_ratio",
+                                            "value": 0.7,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                },
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "技能期間防禦力+18%；技能結束時恢復自身80%<@ba.talpu>（+10%）</>最大生命值",
+                                    "talentIndex": 0,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 50
+                                    },
+                                    "requiredPotentialRank": 4,
+                                    "prefabKey": "1",
+                                    "name": "簡易包紮",
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "hp_ratio",
+                                            "value": 0.8,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                }
+                            ]
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": null
+                        }
+                    },
+                    {
+                        "resKey": "branch_equip_1_3_p2",
+                        "target": "TALENT",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": [
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "",
+                                    "talentIndex": -1,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 50
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "prefabKey": "10_root",
+                                    "name": null,
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "def",
+                                            "value": 0.18,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": true
+                                }
+                            ]
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": null
+                        }
+                    }
+                ],
+                "attributeBlackboard": [
+                    {
+                        "key": "max_hp",
+                        "value": 385.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "def",
+                        "value": 68.0,
+                        "valueStr": null
+                    }
+                ],
+                "tokenAttributeBlackboard": {}
+            }
+        ]
+    },
+    "uniequip_002_wintim": {
+        "phases": [
+            {
+                "equipLevel": 1,
+                "parts": [
+                    {
+                        "resKey": "wintim_equip_1_1_p1",
+                        "target": "TRAIT",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": null
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": [
+                                {
+                                    "additionalDescription": "不容易受到敵方攻擊",
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 40
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "blackboard": [
+                                        {
+                                            "key": "taunt_level",
+                                            "value": -1.0,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "overrideDescripton": null,
+                                    "prefabKey": null,
+                                    "rangeId": null
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "attributeBlackboard": [
+                    {
+                        "key": "max_hp",
+                        "value": 150.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "def",
+                        "value": 20.0,
+                        "valueStr": null
+                    }
+                ],
+                "tokenAttributeBlackboard": {}
+            },
+            {
+                "equipLevel": 2,
+                "parts": [
+                    {
+                        "resKey": "wintim_equip_1_2_p1",
+                        "target": "TRAIT",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": null
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": [
+                                {
+                                    "additionalDescription": "不容易受到敵方攻擊",
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 40
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "blackboard": [
+                                        {
+                                            "key": "taunt_level",
+                                            "value": -1.0,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "overrideDescripton": null,
+                                    "prefabKey": null,
+                                    "rangeId": null
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "resKey": null,
+                        "target": "TALENT_DATA_ONLY",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": [
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "攻擊速度+13，自身受到傷害後失去該效果",
+                                    "talentIndex": 0,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 40
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "prefabKey": "1",
+                                    "name": "疾筆撰錄",
+                                    "description": null,
+                                    "rangeId": "2-2",
+                                    "blackboard": [
+                                        {
+                                            "key": "attack_speed",
+                                            "value": 13.0,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                },
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "攻擊速度+15<@ba.talpu>（+2）</>，自身受到傷害後失去該效果",
+                                    "talentIndex": 0,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 40
+                                    },
+                                    "requiredPotentialRank": 4,
+                                    "prefabKey": "1",
+                                    "name": "疾筆撰錄",
+                                    "description": null,
+                                    "rangeId": "2-2",
+                                    "blackboard": [
+                                        {
+                                            "key": "attack_speed",
+                                            "value": 15.0,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                }
+                            ]
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": null
+                        }
+                    }
+                ],
+                "attributeBlackboard": [
+                    {
+                        "key": "max_hp",
+                        "value": 175.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "def",
+                        "value": 22.0,
+                        "valueStr": null
+                    }
+                ],
+                "tokenAttributeBlackboard": {}
+            },
+            {
+                "equipLevel": 3,
+                "parts": [
+                    {
+                        "resKey": "wintim_equip_1_3_p1",
+                        "target": "TRAIT",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": null
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": [
+                                {
+                                    "additionalDescription": "不容易受到敵方攻擊",
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 40
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "blackboard": [
+                                        {
+                                            "key": "taunt_level",
+                                            "value": -1.0,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "overrideDescripton": null,
+                                    "prefabKey": null,
+                                    "rangeId": null
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "resKey": null,
+                        "target": "TALENT_DATA_ONLY",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": [
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "攻擊速度+15，自身受到傷害後失去該效果",
+                                    "talentIndex": 0,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 40
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "prefabKey": "1",
+                                    "name": "疾筆撰錄",
+                                    "description": null,
+                                    "rangeId": "2-2",
+                                    "blackboard": [
+                                        {
+                                            "key": "attack_speed",
+                                            "value": 15.0,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                },
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "攻擊速度+17<@ba.talpu>（+2）</>，自身受到傷害後失去該效果",
+                                    "talentIndex": 0,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 40
+                                    },
+                                    "requiredPotentialRank": 4,
+                                    "prefabKey": "1",
+                                    "name": "疾筆撰錄",
+                                    "description": null,
+                                    "rangeId": "2-2",
+                                    "blackboard": [
+                                        {
+                                            "key": "attack_speed",
+                                            "value": 17.0,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                }
+                            ]
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": null
+                        }
+                    }
+                ],
+                "attributeBlackboard": [
+                    {
+                        "key": "max_hp",
+                        "value": 210.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "def",
+                        "value": 25.0,
+                        "valueStr": null
+                    }
+                ],
+                "tokenAttributeBlackboard": {}
+            }
+        ]
+    },
+    "uniequip_002_narant": {
+        "phases": [
+            {
+                "equipLevel": 1,
+                "parts": [
+                    {
+                        "resKey": null,
+                        "target": "DISPLAY",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": null
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": [
+                                {
+                                    "additionalDescription": "攻擊周圍8格的敵人時攻擊力提升至<@ba.kw>{atk_scale:0%}</>",
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "blackboard": [
+                                        {
+                                            "key": "atk_scale",
+                                            "value": 1.1,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "overrideDescripton": null,
+                                    "prefabKey": null,
+                                    "rangeId": null
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "resKey": "narant_equip_1_1_p1",
+                        "target": "TALENT",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": [
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "",
+                                    "talentIndex": -1,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "prefabKey": "10",
+                                    "name": null,
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "atk_scale",
+                                            "value": 1.1,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                }
+                            ]
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": null
+                        }
+                    }
+                ],
+                "attributeBlackboard": [
+                    {
+                        "key": "atk",
+                        "value": 25.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "def",
+                        "value": 25.0,
+                        "valueStr": null
+                    }
+                ],
+                "tokenAttributeBlackboard": {}
+            },
+            {
+                "equipLevel": 2,
+                "parts": [
+                    {
+                        "resKey": null,
+                        "target": "DISPLAY",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": null
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": [
+                                {
+                                    "additionalDescription": "攻擊周圍8格的敵人時攻擊力提升至<@ba.kw>{atk_scale:0%}</>",
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "blackboard": [
+                                        {
+                                            "key": "atk_scale",
+                                            "value": 1.1,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "overrideDescripton": null,
+                                    "prefabKey": null,
+                                    "rangeId": null
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "resKey": "narant_equip_1_2_p1",
+                        "target": "TALENT",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": [
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "",
+                                    "talentIndex": -1,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "prefabKey": "10",
+                                    "name": null,
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "atk_scale",
+                                            "value": 1.1,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                }
+                            ]
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": null
+                        }
+                    },
+                    {
+                        "resKey": "narant_equip_1_2_p2",
+                        "target": "TALENT",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": [
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "在場時，每次攻擊到敵人<$ba.steal>偷取</>其25點攻擊力（最高275點）與20點防禦力（最高220點），攻擊到周圍8格的敵人時偷取觸發2次",
+                                    "talentIndex": 0,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "prefabKey": "1",
+                                    "name": "“我見，我得”",
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "attack@steal_atk",
+                                            "value": 25.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "attack@steal_atk_max",
+                                            "value": 275.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "attack@steal_def",
+                                            "value": 20.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "attack@steal_def_max",
+                                            "value": 220.0,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                },
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "在場時，每次攻擊到敵人<$ba.steal>偷取</>其27<@ba.talpu>（+2）</>點攻擊力（最高297<@ba.talpu>（+22）</>點）與21<@ba.talpu>（+1）</>點防禦力（最高231<@ba.talpu>（+11）</>點），攻擊到周圍8格的敵人時偷取觸發2次",
+                                    "talentIndex": 0,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 4,
+                                    "prefabKey": "1",
+                                    "name": "“我見，我得”",
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "attack@steal_atk",
+                                            "value": 27.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "attack@steal_atk_max",
+                                            "value": 297.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "attack@steal_def",
+                                            "value": 21.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "attack@steal_def_max",
+                                            "value": 231.0,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                }
+                            ]
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": null
+                        }
+                    }
+                ],
+                "attributeBlackboard": [
+                    {
+                        "key": "atk",
+                        "value": 35.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "def",
+                        "value": 35.0,
+                        "valueStr": null
+                    }
+                ],
+                "tokenAttributeBlackboard": {}
+            },
+            {
+                "equipLevel": 3,
+                "parts": [
+                    {
+                        "resKey": null,
+                        "target": "DISPLAY",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": null
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": [
+                                {
+                                    "additionalDescription": "攻擊周圍8格的敵人時攻擊力提升至<@ba.kw>{atk_scale:0%}</>",
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "blackboard": [
+                                        {
+                                            "key": "atk_scale",
+                                            "value": 1.1,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "overrideDescripton": null,
+                                    "prefabKey": null,
+                                    "rangeId": null
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "resKey": "narant_equip_1_3_p1",
+                        "target": "TALENT",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": [
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "",
+                                    "talentIndex": -1,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "prefabKey": "10",
+                                    "name": null,
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "atk_scale",
+                                            "value": 1.1,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                }
+                            ]
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": null
+                        }
+                    },
+                    {
+                        "resKey": "narant_equip_1_3_p2",
+                        "target": "TALENT",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": [
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "在場時，每次攻擊到敵人<$ba.steal>偷取</>其25點攻擊力（最高300點）與20點防禦力（最高240點），攻擊到周圍8格的敵人時偷取觸發2次",
+                                    "talentIndex": 0,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "prefabKey": "1",
+                                    "name": "“我見，我得”",
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "attack@steal_atk",
+                                            "value": 25.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "attack@steal_atk_max",
+                                            "value": 300.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "attack@steal_def",
+                                            "value": 20.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "attack@steal_def_max",
+                                            "value": 240.0,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                },
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "在場時，每次攻擊到敵人<$ba.steal>偷取</>其27<@ba.talpu>（+2）</>點攻擊力（最高324<@ba.talpu>（+24）</>點）與21<@ba.talpu>（+1）</>點防禦力（最高252<@ba.talpu>（+12）</>點），攻擊到周圍8格的敵人時偷取觸發2次",
+                                    "talentIndex": 0,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 4,
+                                    "prefabKey": "1",
+                                    "name": "“我見，我得”",
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "attack@steal_atk",
+                                            "value": 27.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "attack@steal_atk_max",
+                                            "value": 324.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "attack@steal_def",
+                                            "value": 21.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "attack@steal_def_max",
+                                            "value": 252.0,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                }
+                            ]
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": null
+                        }
+                    }
+                ],
+                "attributeBlackboard": [
+                    {
+                        "key": "atk",
+                        "value": 45.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "def",
+                        "value": 45.0,
+                        "valueStr": null
+                    }
+                ],
+                "tokenAttributeBlackboard": {}
+            }
+        ]
+    },
+    "uniequip_002_brigid": {
+        "phases": [
+            {
+                "equipLevel": 1,
+                "parts": [
+                    {
+                        "resKey": null,
+                        "target": "DISPLAY",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": null
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": [
+                                {
+                                    "additionalDescription": "攻擊周圍8格的敵人時攻擊力提升至<@ba.kw>{atk_scale:0%}</>",
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 50
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "blackboard": [
+                                        {
+                                            "key": "atk_scale",
+                                            "value": 1.1,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "overrideDescripton": null,
+                                    "prefabKey": null,
+                                    "rangeId": null
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "resKey": "brigid_equip_1_1_p1",
+                        "target": "TALENT",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": [
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "",
+                                    "talentIndex": -1,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 50
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "prefabKey": "10",
+                                    "name": null,
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "atk_scale",
+                                            "value": 1.1,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                }
+                            ]
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": null
+                        }
+                    }
+                ],
+                "attributeBlackboard": [
+                    {
+                        "key": "max_hp",
+                        "value": 150.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "atk",
+                        "value": 18.0,
+                        "valueStr": null
+                    }
+                ],
+                "tokenAttributeBlackboard": {}
+            },
+            {
+                "equipLevel": 2,
+                "parts": [
+                    {
+                        "resKey": null,
+                        "target": "DISPLAY",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": null
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": [
+                                {
+                                    "additionalDescription": "攻擊周圍8格的敵人時攻擊力提升至<@ba.kw>{atk_scale:0%}</>",
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 50
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "blackboard": [
+                                        {
+                                            "key": "atk_scale",
+                                            "value": 1.1,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "overrideDescripton": null,
+                                    "prefabKey": null,
+                                    "rangeId": null
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "resKey": "brigid_equip_1_2_p1",
+                        "target": "TALENT",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": [
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "",
+                                    "talentIndex": -1,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 50
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "prefabKey": "10",
+                                    "name": null,
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "atk_scale",
+                                            "value": 1.1,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                }
+                            ]
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": null
+                        }
+                    },
+                    {
+                        "resKey": "brigid_equip_1_2_p2",
+                        "target": "TALENT",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": [
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "造成18次傷害後，攻擊力+6%，獲得40%物理閃避",
+                                    "talentIndex": 0,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 50
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "prefabKey": "1",
+                                    "name": "結繩老手",
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "atk",
+                                            "value": 0.06,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "prob",
+                                            "value": 0.4,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "trigger_damage_count",
+                                            "value": 18.0,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                },
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "造成18次傷害後，攻擊力+6%，獲得43%<@ba.talpu>（+3%）</>物理閃避",
+                                    "talentIndex": 0,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 50
+                                    },
+                                    "requiredPotentialRank": 4,
+                                    "prefabKey": "1",
+                                    "name": "結繩老手",
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "atk",
+                                            "value": 0.06,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "prob",
+                                            "value": 0.43,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "trigger_damage_count",
+                                            "value": 18.0,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                }
+                            ]
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": null
+                        }
+                    }
+                ],
+                "attributeBlackboard": [
+                    {
+                        "key": "max_hp",
+                        "value": 180.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "atk",
+                        "value": 30.0,
+                        "valueStr": null
+                    }
+                ],
+                "tokenAttributeBlackboard": {}
+            },
+            {
+                "equipLevel": 3,
+                "parts": [
+                    {
+                        "resKey": null,
+                        "target": "DISPLAY",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": null
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": [
+                                {
+                                    "additionalDescription": "攻擊周圍8格的敵人時攻擊力提升至<@ba.kw>{atk_scale:0%}</>",
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 50
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "blackboard": [
+                                        {
+                                            "key": "atk_scale",
+                                            "value": 1.1,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "overrideDescripton": null,
+                                    "prefabKey": null,
+                                    "rangeId": null
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "resKey": "brigid_equip_1_3_p1",
+                        "target": "TALENT",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": [
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "",
+                                    "talentIndex": -1,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 50
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "prefabKey": "10",
+                                    "name": null,
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "atk_scale",
+                                            "value": 1.1,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                }
+                            ]
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": null
+                        }
+                    },
+                    {
+                        "resKey": "brigid_equip_1_3_p2",
+                        "target": "TALENT",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": [
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "造成16次傷害後，攻擊力+10%，獲得45%物理閃避",
+                                    "talentIndex": 0,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 50
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "prefabKey": "1",
+                                    "name": "結繩老手",
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "atk",
+                                            "value": 0.1,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "prob",
+                                            "value": 0.45,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "trigger_damage_count",
+                                            "value": 16.0,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                },
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "造成16次傷害後，攻擊力+10%，獲得48%<@ba.talpu>（+3%）</>物理閃避",
+                                    "talentIndex": 0,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 50
+                                    },
+                                    "requiredPotentialRank": 4,
+                                    "prefabKey": "1",
+                                    "name": "結繩老手",
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "atk",
+                                            "value": 0.1,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "prob",
+                                            "value": 0.48,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "trigger_damage_count",
+                                            "value": 16.0,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                }
+                            ]
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": null
+                        }
+                    }
+                ],
+                "attributeBlackboard": [
+                    {
+                        "key": "max_hp",
+                        "value": 210.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "atk",
+                        "value": 40.0,
+                        "valueStr": null
+                    }
+                ],
+                "tokenAttributeBlackboard": {}
+            }
+        ]
+    },
+    "uniequip_002_caper": {
+        "phases": [
+            {
+                "equipLevel": 1,
+                "parts": [
+                    {
+                        "resKey": null,
+                        "target": "DISPLAY",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": null
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": [
+                                {
+                                    "additionalDescription": "攻擊周圍8格的敵人時攻擊力提升至<@ba.kw>{atk_scale:0%}</>",
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 40
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "blackboard": [
+                                        {
+                                            "key": "atk_scale",
+                                            "value": 1.1,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "overrideDescripton": null,
+                                    "prefabKey": null,
+                                    "rangeId": null
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "resKey": "caper_equip_1_1_p1",
+                        "target": "TALENT",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": [
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "",
+                                    "talentIndex": -1,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 40
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "prefabKey": "10",
+                                    "name": null,
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "atk_scale",
+                                            "value": 1.1,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                }
+                            ]
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": null
+                        }
+                    }
+                ],
+                "attributeBlackboard": [
+                    {
+                        "key": "max_hp",
+                        "value": 130.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "atk",
+                        "value": 15.0,
+                        "valueStr": null
+                    }
+                ],
+                "tokenAttributeBlackboard": {}
+            },
+            {
+                "equipLevel": 2,
+                "parts": [
+                    {
+                        "resKey": null,
+                        "target": "DISPLAY",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": null
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": [
+                                {
+                                    "additionalDescription": "攻擊周圍8格的敵人時攻擊力提升至<@ba.kw>{atk_scale:0%}</>",
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 40
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "blackboard": [
+                                        {
+                                            "key": "atk_scale",
+                                            "value": 1.1,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "overrideDescripton": null,
+                                    "prefabKey": null,
+                                    "rangeId": null
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "resKey": "caper_equip_1_2_p1",
+                        "target": "TALENT",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": [
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "",
+                                    "talentIndex": -1,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 40
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "prefabKey": "10",
+                                    "name": null,
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "atk_scale",
+                                            "value": 1.1,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                }
+                            ]
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": null
+                        }
+                    },
+                    {
+                        "resKey": null,
+                        "target": "TALENT_DATA_ONLY",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": [
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "攻擊時，28%機率當次攻擊的攻擊力提升至155%",
+                                    "talentIndex": 0,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 40
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "prefabKey": "1",
+                                    "name": "戲耍隨心",
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "prob",
+                                            "value": 0.28,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "atk_scale",
+                                            "value": 1.55,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                },
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "攻擊時，28%機率當次攻擊的攻擊力提升至165%<@ba.talpu>（+10%）</>",
+                                    "talentIndex": 0,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 40
+                                    },
+                                    "requiredPotentialRank": 4,
+                                    "prefabKey": "1",
+                                    "name": "戲耍隨心",
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "prob",
+                                            "value": 0.28,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "atk_scale",
+                                            "value": 1.65,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                }
+                            ]
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": null
+                        }
+                    }
+                ],
+                "attributeBlackboard": [
+                    {
+                        "key": "max_hp",
+                        "value": 160.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "atk",
+                        "value": 22.0,
+                        "valueStr": null
+                    }
+                ],
+                "tokenAttributeBlackboard": {}
+            },
+            {
+                "equipLevel": 3,
+                "parts": [
+                    {
+                        "resKey": null,
+                        "target": "DISPLAY",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": null
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": [
+                                {
+                                    "additionalDescription": "攻擊周圍8格的敵人時攻擊力提升至<@ba.kw>{atk_scale:0%}</>",
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 40
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "blackboard": [
+                                        {
+                                            "key": "atk_scale",
+                                            "value": 1.1,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "overrideDescripton": null,
+                                    "prefabKey": null,
+                                    "rangeId": null
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "resKey": "caper_equip_1_3_p1",
+                        "target": "TALENT",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": [
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "",
+                                    "talentIndex": -1,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 40
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "prefabKey": "10",
+                                    "name": null,
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "atk_scale",
+                                            "value": 1.1,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                }
+                            ]
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": null
+                        }
+                    },
+                    {
+                        "resKey": null,
+                        "target": "TALENT_DATA_ONLY",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": [
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "攻擊時，30%機率當次攻擊的攻擊力提升至160%",
+                                    "talentIndex": 0,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 40
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "prefabKey": "1",
+                                    "name": "戲耍隨心",
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "prob",
+                                            "value": 0.3,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "atk_scale",
+                                            "value": 1.6,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                },
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "攻擊時，30%機率當次攻擊的攻擊力提升至170%<@ba.talpu>（+10%）</>",
+                                    "talentIndex": 0,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 40
+                                    },
+                                    "requiredPotentialRank": 4,
+                                    "prefabKey": "1",
+                                    "name": "戲耍隨心",
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "prob",
+                                            "value": 0.3,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "atk_scale",
+                                            "value": 1.7,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                }
+                            ]
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": null
+                        }
+                    }
+                ],
+                "attributeBlackboard": [
+                    {
+                        "key": "max_hp",
+                        "value": 180.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "atk",
+                        "value": 30.0,
+                        "valueStr": null
+                    }
+                ],
+                "tokenAttributeBlackboard": {}
+            }
+        ]
+    },
+    "uniequip_003_amgoat": {
+        "phases": [
+            {
+                "equipLevel": 1,
+                "parts": [
+                    {
+                        "resKey": "amgoat_equip_2_1_p1",
+                        "target": "TRAIT",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": null
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": [
+                                {
+                                    "additionalDescription": "普通攻擊命中精英或領袖敵人時獲得<@ba.kw>{sp}</>點技力",
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "blackboard": [
+                                        {
+                                            "key": "sp",
+                                            "value": 1.0,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "overrideDescripton": null,
+                                    "prefabKey": null,
+                                    "rangeId": null
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "attributeBlackboard": [
+                    {
+                        "key": "max_hp",
+                        "value": 180.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "atk",
+                        "value": 25.0,
+                        "valueStr": null
+                    }
+                ],
+                "tokenAttributeBlackboard": {}
+            },
+            {
+                "equipLevel": 2,
+                "parts": [
+                    {
+                        "resKey": "amgoat_equip_2_2_p1",
+                        "target": "TRAIT",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": null
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": [
+                                {
+                                    "additionalDescription": "普通攻擊命中精英或領袖敵人時獲得<@ba.kw>{sp}</>點技力",
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "blackboard": [
+                                        {
+                                            "key": "sp",
+                                            "value": 1.0,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "overrideDescripton": null,
+                                    "prefabKey": null,
+                                    "rangeId": null
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "resKey": "amgoat_equip_2_2_p2",
+                        "target": "TALENT",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": [
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "部署後立即隨機獲得7~15點技力；部署後範圍內存在精英或領袖敵人時，獲得的技力取最大值",
+                                    "talentIndex": 1,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "prefabKey": "2",
+                                    "name": "亂火",
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "sp_min",
+                                            "value": 7.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "sp_max",
+                                            "value": 16.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "attack_speed_min",
+                                            "value": 0.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "attack_speed_max",
+                                            "value": 1.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "factor",
+                                            "value": 1.0,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                },
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "部署後立即隨機獲得10<@ba.talpu>（+3）</>~19<@ba.talpu>（+4）</>點技力；部署後範圍內存在精英或領袖敵人時，獲得的技力取最大值",
+                                    "talentIndex": 1,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 2,
+                                    "prefabKey": "2",
+                                    "name": "亂火",
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "sp_min",
+                                            "value": 10.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "sp_max",
+                                            "value": 20.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "attack_speed_min",
+                                            "value": 0.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "attack_speed_max",
+                                            "value": 1.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "factor",
+                                            "value": 1.0,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                }
+                            ]
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": null
+                        }
+                    }
+                ],
+                "attributeBlackboard": [
+                    {
+                        "key": "max_hp",
+                        "value": 210.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "atk",
+                        "value": 40.0,
+                        "valueStr": null
+                    }
+                ],
+                "tokenAttributeBlackboard": {}
+            },
+            {
+                "equipLevel": 3,
+                "parts": [
+                    {
+                        "resKey": "amgoat_equip_2_3_p1",
+                        "target": "TRAIT",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": null
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": [
+                                {
+                                    "additionalDescription": "普通攻擊命中精英或領袖敵人時獲得<@ba.kw>{sp}</>點技力",
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "blackboard": [
+                                        {
+                                            "key": "sp",
+                                            "value": 1.0,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "overrideDescripton": null,
+                                    "prefabKey": null,
+                                    "rangeId": null
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "resKey": "amgoat_equip_2_3_p2",
+                        "target": "TALENT",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": [
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "部署後立即隨機獲得7~15點技力並隨機提升6~15的攻擊速度；部署後範圍內存在精英或領袖敵人時，獲得的技力和提升的攻擊速度取最大值",
+                                    "talentIndex": 1,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "prefabKey": "2",
+                                    "name": "亂火",
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "sp_min",
+                                            "value": 7.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "sp_max",
+                                            "value": 16.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "attack_speed_min",
+                                            "value": 6.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "attack_speed_max",
+                                            "value": 16.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "factor",
+                                            "value": 1.0,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                },
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "部署後立即隨機獲得10<@ba.talpu>（+3）</>~19<@ba.talpu>（+4）</>點技力並隨機提升6~15的攻擊速度；部署後範圍內存在精英或領袖敵人時，獲得的技力和提升的攻擊速度取最大值",
+                                    "talentIndex": 1,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 2,
+                                    "prefabKey": "2",
+                                    "name": "亂火",
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "sp_min",
+                                            "value": 10.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "sp_max",
+                                            "value": 20.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "attack_speed_min",
+                                            "value": 6.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "attack_speed_max",
+                                            "value": 16.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "factor",
+                                            "value": 1.0,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                }
+                            ]
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": null
+                        }
+                    }
+                ],
+                "attributeBlackboard": [
+                    {
+                        "key": "max_hp",
+                        "value": 230.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "atk",
+                        "value": 50.0,
+                        "valueStr": null
+                    }
+                ],
+                "tokenAttributeBlackboard": {}
+            }
+        ]
+    },
+    "uniequip_003_excu2": {
+        "phases": [
+            {
+                "equipLevel": 1,
+                "parts": [
+                    {
+                        "resKey": null,
+                        "target": "DISPLAY",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": null
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": [
+                                {
+                                    "additionalDescription": "攻擊範圍內存在2名及以上敵人時攻擊速度<@ba.kw>+{value}</>",
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "blackboard": [
+                                        {
+                                            "key": "value",
+                                            "value": 12.0,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "overrideDescripton": null,
+                                    "prefabKey": null,
+                                    "rangeId": null
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "resKey": "excu2_equip_1_1_p1",
+                        "target": "TALENT",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": [
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "",
+                                    "talentIndex": -1,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "prefabKey": "10",
+                                    "name": null,
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "attack_speed",
+                                            "value": 12.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "trigger_cnt[equip]",
+                                            "value": 2.0,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                }
+                            ]
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": null
+                        }
+                    }
+                ],
+                "attributeBlackboard": [
+                    {
+                        "key": "max_hp",
+                        "value": 280.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "atk",
+                        "value": 45.0,
+                        "valueStr": null
+                    }
+                ],
+                "tokenAttributeBlackboard": {}
+            },
+            {
+                "equipLevel": 2,
+                "parts": [
+                    {
+                        "resKey": null,
+                        "target": "DISPLAY",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": null
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": [
+                                {
+                                    "additionalDescription": "攻擊範圍內存在2名及以上敵人時攻擊速度<@ba.kw>+{value}</>",
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "blackboard": [
+                                        {
+                                            "key": "value",
+                                            "value": 12.0,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "overrideDescripton": null,
+                                    "prefabKey": null,
+                                    "rangeId": null
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "resKey": "excu2_equip_1_2_p1",
+                        "target": "TALENT",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": [
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "",
+                                    "talentIndex": -1,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "prefabKey": "10",
+                                    "name": null,
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "attack_speed",
+                                            "value": 12.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "trigger_cnt[equip]",
+                                            "value": 2.0,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                }
+                            ]
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": null
+                        }
+                    },
+                    {
+                        "resKey": "excu2_equip_1_2_p2",
+                        "target": "TALENT",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": [
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "每有一個【拉特蘭】幹員在場，自身的彈藥類技能彈藥上限+1（最多4層）；自身的彈藥類技能期間攻擊力+8%，且彈藥數量不少於一半時獲得20%的物理與法術閃避",
+                                    "talentIndex": 1,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "prefabKey": "2",
+                                    "name": "銃彈共感",
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "add_count",
+                                            "value": 1.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "add_count_max_stack",
+                                            "value": 4.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "atk",
+                                            "value": 0.08,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "prob",
+                                            "value": 0.2,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "ratio",
+                                            "value": 0.5,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                }
+                            ]
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": null
+                        }
+                    }
+                ],
+                "attributeBlackboard": [
+                    {
+                        "key": "max_hp",
+                        "value": 320.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "atk",
+                        "value": 65.0,
+                        "valueStr": null
+                    }
+                ],
+                "tokenAttributeBlackboard": {}
+            },
+            {
+                "equipLevel": 3,
+                "parts": [
+                    {
+                        "resKey": null,
+                        "target": "DISPLAY",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": null
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": [
+                                {
+                                    "additionalDescription": "攻擊範圍內存在2名及以上敵人時攻擊速度<@ba.kw>+{value}</>",
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "blackboard": [
+                                        {
+                                            "key": "value",
+                                            "value": 12.0,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "overrideDescripton": null,
+                                    "prefabKey": null,
+                                    "rangeId": null
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "resKey": "excu2_equip_1_3_p1",
+                        "target": "TALENT",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": [
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "",
+                                    "talentIndex": -1,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "prefabKey": "10",
+                                    "name": null,
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "attack_speed",
+                                            "value": 12.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "trigger_cnt[equip]",
+                                            "value": 2.0,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                }
+                            ]
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": null
+                        }
+                    },
+                    {
+                        "resKey": "excu2_equip_1_3_p2",
+                        "target": "TALENT",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": [
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "每有一個【拉特蘭】幹員在場，自身的彈藥類技能彈藥上限+1（最多4層）；自身的彈藥類技能期間攻擊力+12%，且彈藥數量不少於一半時獲得30%的物理與法術閃避",
+                                    "talentIndex": 1,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "prefabKey": "2",
+                                    "name": "銃彈共感",
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "add_count",
+                                            "value": 1.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "add_count_max_stack",
+                                            "value": 4.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "atk",
+                                            "value": 0.12,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "prob",
+                                            "value": 0.3,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "ratio",
+                                            "value": 0.5,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                }
+                            ]
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": null
+                        }
+                    }
+                ],
+                "attributeBlackboard": [
+                    {
+                        "key": "max_hp",
+                        "value": 350.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "atk",
+                        "value": 80.0,
+                        "valueStr": null
+                    }
+                ],
+                "tokenAttributeBlackboard": {}
+            }
+        ]
     }
 }

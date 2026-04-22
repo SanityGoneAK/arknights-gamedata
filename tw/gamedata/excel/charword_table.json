@@ -238338,6 +238338,1869 @@
             "placeType": "ANNIVERSARY",
             "voiceAsset": "char_4183_mortis/CN_044"
         },
+        "char_4204_mantra_CN_001": {
+            "charWordId": "char_4204_mantra_CN_001",
+            "wordKey": "char_4204_mantra",
+            "charId": "char_4204_mantra",
+            "voiceId": "CN_001",
+            "voiceText": "我不會濫用你的許可。從現在開始，我保持聆聽。",
+            "voiceTitle": "任命助理",
+            "voiceIndex": 1,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "HOME_PLACE",
+            "voiceAsset": "char_4204_mantra/CN_001"
+        },
+        "char_4204_mantra_CN_002": {
+            "charWordId": "char_4204_mantra_CN_002",
+            "wordKey": "char_4204_mantra",
+            "charId": "char_4204_mantra",
+            "voiceId": "CN_002",
+            "voiceText": "一直以來，我都透過“篩選”來處理使用源石技藝導致的精神重負，阿米婭也一樣。這個過程類似於在無休止的墜落中尋找能將自己安全托舉的對象。你注意到了？是你給了她墜落的勇氣，博士。",
+            "voiceTitle": "交談1",
+            "voiceIndex": 2,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4204_mantra/CN_002"
+        },
+        "char_4204_mantra_CN_003": {
+            "charWordId": "char_4204_mantra_CN_003",
+            "wordKey": "char_4204_mantra",
+            "charId": "char_4204_mantra",
+            "voiceId": "CN_003",
+            "voiceText": "手背上？是留在我身上的兩片往日，一次將身體構築成施術單元的無聊嘗試。在秘術印痕覆滿全身前，我厭倦了薩爾貢的一切。當它們如潮水般退去，故鄉也步步遠去，只有殘餘提醒著我曾屬於那裡。",
+            "voiceTitle": "交談2",
+            "voiceIndex": 3,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4204_mantra/CN_003"
+        },
+        "char_4204_mantra_CN_004": {
+            "charWordId": "char_4204_mantra_CN_004",
+            "wordKey": "char_4204_mantra",
+            "charId": "char_4204_mantra",
+            "voiceId": "CN_004",
+            "voiceText": "當人們對事物的實際認知與他們說出口的話語不相符時，我能辨別這種差異。測謊，而非讀心，與Raidian的情況類似。不同在於，我曾持有心理諮詢師執照，她則有天然的同理心與感染力。",
+            "voiceTitle": "交談3",
+            "voiceIndex": 4,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4204_mantra/CN_004"
+        },
+        "char_4204_mantra_CN_005": {
+            "charWordId": "char_4204_mantra_CN_005",
+            "wordKey": "char_4204_mantra",
+            "charId": "char_4204_mantra",
+            "voiceId": "CN_005",
+            "voiceText": "一雙乾枯的手，撫過農民、商販、士兵，甚至王酋和帕夏的頭頂。所有尋求解答的人無一例外得到混沌的下場，不停歇地驚懼、狂喜，行為失序。我知道，曾經我與聖愚的界限並不分明。",
+            "voiceTitle": "晉升後交談1",
+            "voiceIndex": 5,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "AWAKE",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                },
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4204_mantra/CN_005"
+        },
+        "char_4204_mantra_CN_006": {
+            "charWordId": "char_4204_mantra_CN_006",
+            "wordKey": "char_4204_mantra",
+            "charId": "char_4204_mantra",
+            "voiceId": "CN_006",
+            "voiceText": "離開的人讓我們連接起過去與現在。在這之後，我們才擁有未來。有人說，“這是犧牲的意義”，我認為，“不”。不要如此功利地銘記，不要將生活抽象，不要神化痛苦與死亡。",
+            "voiceTitle": "晉升後交談2",
+            "voiceIndex": 6,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "AWAKE",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 2
+                },
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4204_mantra/CN_006"
+        },
+        "char_4204_mantra_CN_007": {
+            "charWordId": "char_4204_mantra_CN_007",
+            "wordKey": "char_4204_mantra",
+            "charId": "char_4204_mantra",
+            "voiceId": "CN_007",
+            "voiceText": "“小心那個不動手就能讓人痛苦到嘔出自己內臟的術師。”某種程度上，這是事實，但我的隊員卻對此反應激烈，奔走闢謠。極境說，向其他人傳達關於我的真相，這很重要。……多年輕啊。",
+            "voiceTitle": "信賴提升後交談1",
+            "voiceIndex": 7,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "FAVOR",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 40
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4204_mantra/CN_007"
+        },
+        "char_4204_mantra_CN_008": {
+            "charWordId": "char_4204_mantra_CN_008",
+            "wordKey": "char_4204_mantra",
+            "charId": "char_4204_mantra",
+            "voiceId": "CN_008",
+            "voiceText": "博士，我沒有生氣，只是放空頭腦恢復精力，畢竟我已經到了需要不時停下來喘口氣的年紀。好吧，最後一句是玩笑。這是凱爾希醫生的建議，可惜同樣的方法她自己卻不常使用。她總是思慮過重。",
+            "voiceTitle": "信賴提升後交談2",
+            "voiceIndex": 8,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "FAVOR",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 100
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4204_mantra/CN_008"
+        },
+        "char_4204_mantra_CN_009": {
+            "charWordId": "char_4204_mantra_CN_009",
+            "wordKey": "char_4204_mantra",
+            "charId": "char_4204_mantra",
+            "voiceId": "CN_009",
+            "voiceText": "煌和迷迭香都各自保存了一些其他人的舊物。她們找來時，我給了煌一枚訊號接收器，給了迷迭香一張發信小唱片。我？我什麼也沒有留下。對我而言，如果從不打算遺忘，也就不必留意銘記。",
+            "voiceTitle": "信賴提升後交談3",
+            "voiceIndex": 9,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "FAVOR",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 200
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4204_mantra/CN_009"
+        },
+        "char_4204_mantra_CN_010": {
+            "charWordId": "char_4204_mantra_CN_010",
+            "wordKey": "char_4204_mantra",
+            "charId": "char_4204_mantra",
+            "voiceId": "CN_010",
+            "voiceText": "你好，博士。無意打擾你的好眠，只是阿米婭要我提醒你，這裡還有很多工作需要完成。",
+            "voiceTitle": "閒置",
+            "voiceIndex": 10,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "HOME_WAIT",
+            "voiceAsset": "char_4204_mantra/CN_010"
+        },
+        "char_4204_mantra_CN_011": {
+            "charWordId": "char_4204_mantra_CN_011",
+            "wordKey": "char_4204_mantra",
+            "charId": "char_4204_mantra",
+            "voiceId": "CN_011",
+            "voiceText": "在授權命令更改前，我將直接聽從你的指揮。不必擔心，雖然輔助我交流的設備有了改進，但如果沒有得到允許，我依舊不會貿然闖進你的意識。",
+            "voiceTitle": "幹員報到",
+            "voiceIndex": 11,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "GACHA",
+            "voiceAsset": "char_4204_mantra/CN_011"
+        },
+        "char_4204_mantra_CN_012": {
+            "charWordId": "char_4204_mantra_CN_012",
+            "wordKey": "char_4204_mantra",
+            "charId": "char_4204_mantra",
+            "voiceId": "CN_012",
+            "voiceText": "如果這場戰鬥裡能有Outcast來機動配合，敵方動作應該能被更俐落地打斷。……你想看看更早時候的影片嗎？我知道它們放在哪裡。",
+            "voiceTitle": "觀看作戰記錄",
+            "voiceIndex": 12,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "LEVEL_UP",
+            "voiceAsset": "char_4204_mantra/CN_012"
+        },
+        "char_4204_mantra_CN_013": {
+            "charWordId": "char_4204_mantra_CN_013",
+            "wordKey": "char_4204_mantra",
+            "charId": "char_4204_mantra",
+            "voiceId": "CN_013",
+            "voiceText": "先前極境提出要為我模擬特殊晉升過程，說他在這方面算是我的前輩。現在看來，或許他只是為了拖延時間，逃避常規訓練。等這邊結束，我要找他“談談”。",
+            "voiceTitle": "精英化晉升1",
+            "voiceIndex": 13,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "AWAKE",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                },
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "EVOLVE_ONE",
+            "voiceAsset": "char_4204_mantra/CN_013"
+        },
+        "char_4204_mantra_CN_014": {
+            "charWordId": "char_4204_mantra_CN_014",
+            "wordKey": "char_4204_mantra",
+            "charId": "char_4204_mantra",
+            "voiceId": "CN_014",
+            "voiceText": "精英幹員晉升有固定的流程，只是審核人員會產生變動。這個位置上有過議長、凱爾希醫生，以及你。也許這不算是個好時機，但，歡迎回來，博士。",
+            "voiceTitle": "精英化晉升2",
+            "voiceIndex": 14,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "AWAKE",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 2
+                },
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "EVOLVE_TWO",
+            "voiceAsset": "char_4204_mantra/CN_014"
+        },
+        "char_4204_mantra_CN_017": {
+            "charWordId": "char_4204_mantra_CN_017",
+            "wordKey": "char_4204_mantra",
+            "charId": "char_4204_mantra",
+            "voiceId": "CN_017",
+            "voiceText": "如果你需要。",
+            "voiceTitle": "編入隊伍",
+            "voiceIndex": 17,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "SQUAD",
+            "voiceAsset": "char_4204_mantra/CN_017"
+        },
+        "char_4204_mantra_CN_018": {
+            "charWordId": "char_4204_mantra_CN_018",
+            "wordKey": "char_4204_mantra",
+            "charId": "char_4204_mantra",
+            "voiceId": "CN_018",
+            "voiceText": "極境。",
+            "voiceTitle": "任命隊長",
+            "voiceIndex": 18,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "SQUAD_FIRST",
+            "voiceAsset": "char_4204_mantra/CN_018"
+        },
+        "char_4204_mantra_CN_019": {
+            "charWordId": "char_4204_mantra_CN_019",
+            "wordKey": "char_4204_mantra",
+            "charId": "char_4204_mantra",
+            "voiceId": "CN_019",
+            "voiceText": "作戰計劃已明確。",
+            "voiceTitle": "行動出發",
+            "voiceIndex": 19,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_START",
+            "voiceAsset": "char_4204_mantra/CN_019"
+        },
+        "char_4204_mantra_CN_020": {
+            "charWordId": "char_4204_mantra_CN_020",
+            "wordKey": "char_4204_mantra",
+            "charId": "char_4204_mantra",
+            "voiceId": "CN_020",
+            "voiceText": "請告知我需要探知的波域廣度。",
+            "voiceTitle": "行動開始",
+            "voiceIndex": 20,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_FACE_ENEMY",
+            "voiceAsset": "char_4204_mantra/CN_020"
+        },
+        "char_4204_mantra_CN_021": {
+            "charWordId": "char_4204_mantra_CN_021",
+            "wordKey": "char_4204_mantra",
+            "charId": "char_4204_mantra",
+            "voiceId": "CN_021",
+            "voiceText": "我在聽著。",
+            "voiceTitle": "選中幹員1",
+            "voiceIndex": 21,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SELECT",
+            "voiceAsset": "char_4204_mantra/CN_021"
+        },
+        "char_4204_mantra_CN_022": {
+            "charWordId": "char_4204_mantra_CN_022",
+            "wordKey": "char_4204_mantra",
+            "charId": "char_4204_mantra",
+            "voiceId": "CN_022",
+            "voiceText": "如果需要隱秘行動。",
+            "voiceTitle": "選中幹員2",
+            "voiceIndex": 22,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SELECT",
+            "voiceAsset": "char_4204_mantra/CN_022"
+        },
+        "char_4204_mantra_CN_023": {
+            "charWordId": "char_4204_mantra_CN_023",
+            "wordKey": "char_4204_mantra",
+            "charId": "char_4204_mantra",
+            "voiceId": "CN_023",
+            "voiceText": "我會傳達。",
+            "voiceTitle": "部署1",
+            "voiceIndex": 23,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_PLACE",
+            "voiceAsset": "char_4204_mantra/CN_023"
+        },
+        "char_4204_mantra_CN_024": {
+            "charWordId": "char_4204_mantra_CN_024",
+            "wordKey": "char_4204_mantra",
+            "charId": "char_4204_mantra",
+            "voiceId": "CN_024",
+            "voiceText": "深思熟慮的結果。",
+            "voiceTitle": "部署2",
+            "voiceIndex": 24,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_PLACE",
+            "voiceAsset": "char_4204_mantra/CN_024"
+        },
+        "char_4204_mantra_CN_025": {
+            "charWordId": "char_4204_mantra_CN_025",
+            "wordKey": "char_4204_mantra",
+            "charId": "char_4204_mantra",
+            "voiceId": "CN_025",
+            "voiceText": "跟隨我的聲音。",
+            "voiceTitle": "作戰中1",
+            "voiceIndex": 25,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SKILL_1",
+            "voiceAsset": "char_4204_mantra/CN_025"
+        },
+        "char_4204_mantra_CN_026": {
+            "charWordId": "char_4204_mantra_CN_026",
+            "wordKey": "char_4204_mantra",
+            "charId": "char_4204_mantra",
+            "voiceId": "CN_026",
+            "voiceText": "你們無法拒斥我的侵入。",
+            "voiceTitle": "作戰中2",
+            "voiceIndex": 26,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SKILL_2",
+            "voiceAsset": "char_4204_mantra/CN_026"
+        },
+        "char_4204_mantra_CN_027": {
+            "charWordId": "char_4204_mantra_CN_027",
+            "wordKey": "char_4204_mantra",
+            "charId": "char_4204_mantra",
+            "voiceId": "CN_027",
+            "voiceText": "請放棄抵抗。",
+            "voiceTitle": "作戰中3",
+            "voiceIndex": 27,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SKILL_3",
+            "voiceAsset": "char_4204_mantra/CN_027"
+        },
+        "char_4204_mantra_CN_028": {
+            "charWordId": "char_4204_mantra_CN_028",
+            "wordKey": "char_4204_mantra",
+            "charId": "char_4204_mantra",
+            "voiceId": "CN_028",
+            "voiceText": "發現目標。",
+            "voiceTitle": "作戰中4",
+            "voiceIndex": 28,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SKILL_4",
+            "voiceAsset": "char_4204_mantra/CN_028"
+        },
+        "char_4204_mantra_CN_029": {
+            "charWordId": "char_4204_mantra_CN_029",
+            "wordKey": "char_4204_mantra",
+            "charId": "char_4204_mantra",
+            "voiceId": "CN_029",
+            "voiceText": "敵人無所遁形。必然的結果，完美的指揮。",
+            "voiceTitle": "完成高難行動",
+            "voiceIndex": 29,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "FOUR_STAR",
+            "voiceAsset": "char_4204_mantra/CN_029"
+        },
+        "char_4204_mantra_CN_030": {
+            "charWordId": "char_4204_mantra_CN_030",
+            "wordKey": "char_4204_mantra",
+            "charId": "char_4204_mantra",
+            "voiceId": "CN_030",
+            "voiceText": "（讚許地點頭）",
+            "voiceTitle": "3星結束行動",
+            "voiceIndex": 30,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "THREE_STAR",
+            "voiceAsset": "char_4204_mantra/CN_030"
+        },
+        "char_4204_mantra_CN_031": {
+            "charWordId": "char_4204_mantra_CN_031",
+            "wordKey": "char_4204_mantra",
+            "charId": "char_4204_mantra",
+            "voiceId": "CN_031",
+            "voiceText": "殘敵座標已經發送至收尾隊伍的終端。結束了，博士。",
+            "voiceTitle": "非3星結束行動",
+            "voiceIndex": 31,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "TWO_STAR",
+            "voiceAsset": "char_4204_mantra/CN_031"
+        },
+        "char_4204_mantra_CN_032": {
+            "charWordId": "char_4204_mantra_CN_032",
+            "wordKey": "char_4204_mantra",
+            "charId": "char_4204_mantra",
+            "voiceId": "CN_032",
+            "voiceText": "我干擾了對面的追蹤器。趁現在，離開！",
+            "voiceTitle": "行動失敗",
+            "voiceIndex": 32,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "LOSE",
+            "voiceAsset": "char_4204_mantra/CN_032"
+        },
+        "char_4204_mantra_CN_033": {
+            "charWordId": "char_4204_mantra_CN_033",
+            "wordKey": "char_4204_mantra",
+            "charId": "char_4204_mantra",
+            "voiceId": "CN_033",
+            "voiceText": "休息時間。",
+            "voiceTitle": "進駐設施",
+            "voiceIndex": 33,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BUILDING_PLACE",
+            "voiceAsset": "char_4204_mantra/CN_033"
+        },
+        "char_4204_mantra_CN_034": {
+            "charWordId": "char_4204_mantra_CN_034",
+            "wordKey": "char_4204_mantra",
+            "charId": "char_4204_mantra",
+            "voiceId": "CN_034",
+            "voiceText": "有什麼需要？",
+            "voiceTitle": "戳一下",
+            "voiceIndex": 34,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BUILDING_TOUCHING",
+            "voiceAsset": "char_4204_mantra/CN_034"
+        },
+        "char_4204_mantra_CN_036": {
+            "charWordId": "char_4204_mantra_CN_036",
+            "wordKey": "char_4204_mantra",
+            "charId": "char_4204_mantra",
+            "voiceId": "CN_036",
+            "voiceText": "再試一次吧。這次，我會裝作沒有提早發現。",
+            "voiceTitle": "信賴觸摸",
+            "voiceIndex": 36,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BUILDING_FAVOR_BUBBLE",
+            "voiceAsset": "char_4204_mantra/CN_036"
+        },
+        "char_4204_mantra_CN_037": {
+            "charWordId": "char_4204_mantra_CN_037",
+            "wordKey": "char_4204_mantra",
+            "charId": "char_4204_mantra",
+            "voiceId": "CN_037",
+            "voiceText": "明日方舟。",
+            "voiceTitle": "標題",
+            "voiceIndex": 37,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "LOADING_PANEL",
+            "voiceAsset": "char_4204_mantra/CN_037"
+        },
+        "char_4204_mantra_CN_038": {
+            "charWordId": "char_4204_mantra_CN_038",
+            "wordKey": "char_4204_mantra",
+            "charId": "char_4204_mantra",
+            "voiceId": "CN_038",
+            "voiceText": "拉特蘭顏料走私、卡茲戴爾長腳的赤金……精英幹員們習慣在今天晚上分享一年外勤任務的見聞。錯過一些故事在所難免，如果你希望的話，我會盡可能為你補足缺憾。坐好了，博士。",
+            "voiceTitle": "新年祝福",
+            "voiceIndex": 38,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "NEW_YEAR",
+            "voiceAsset": "char_4204_mantra/CN_038"
+        },
+        "char_4204_mantra_CN_042": {
+            "charWordId": "char_4204_mantra_CN_042",
+            "wordKey": "char_4204_mantra",
+            "charId": "char_4204_mantra",
+            "voiceId": "CN_042",
+            "voiceText": "（在相互點頭示意之後，你們享受了一段舒適的靜默）",
+            "voiceTitle": "問候",
+            "voiceIndex": 42,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "GREETING",
+            "voiceAsset": "char_4204_mantra/CN_042"
+        },
+        "char_4204_mantra_CN_043": {
+            "charWordId": "char_4204_mantra_CN_043",
+            "wordKey": "char_4204_mantra",
+            "charId": "char_4204_mantra",
+            "voiceId": "CN_043",
+            "voiceText": "我為你申請了一天白噪音室的使用權。在這邊的熱鬧結束之後，如果你仍然想嘗試新的放鬆方式，可以去那裡一探究竟。預約記錄在你的終端上，音訊也已經按照你的喜好調整完畢。好好享受，博士。",
+            "voiceTitle": "生日",
+            "voiceIndex": 43,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BIRTHDAY",
+            "voiceAsset": "char_4204_mantra/CN_043"
+        },
+        "char_4204_mantra_CN_044": {
+            "charWordId": "char_4204_mantra_CN_044",
+            "wordKey": "char_4204_mantra",
+            "charId": "char_4204_mantra",
+            "voiceId": "CN_044",
+            "voiceText": "如果只是為了回報凱爾希醫生，我不會留到現在。生養我的是薩爾貢的黃沙，鞭笞我的是烏薩斯的冰雪，而塑造我成為如今模樣的，是羅德島號堅實的甲板。我決定在這裡停下，也決定為此處守望。",
+            "voiceTitle": "周年慶典",
+            "voiceIndex": 44,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "ANNIVERSARY",
+            "voiceAsset": "char_4204_mantra/CN_044"
+        },
+        "char_4207_branch_CN_001": {
+            "charWordId": "char_4207_branch_CN_001",
+            "wordKey": "char_4207_branch",
+            "charId": "char_4207_branch",
+            "voiceId": "CN_001",
+            "voiceText": "我、我認識字……我能幫上忙。",
+            "voiceTitle": "任命助理",
+            "voiceIndex": 1,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "HOME_PLACE",
+            "voiceAsset": "char_4207_branch/CN_001"
+        },
+        "char_4207_branch_CN_002": {
+            "charWordId": "char_4207_branch_CN_002",
+            "wordKey": "char_4207_branch",
+            "charId": "char_4207_branch",
+            "voiceId": "CN_002",
+            "voiceText": "抱、抱歉，我說話，很慢。華法琳醫、醫生說，能治好，但是要……很久。沒關係，我已經習、習慣了。嗯，只要不會，讓您，覺得煩……就好。",
+            "voiceTitle": "交談1",
+            "voiceIndex": 2,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4207_branch/CN_002"
+        },
+        "char_4207_branch_CN_003": {
+            "charWordId": "char_4207_branch_CN_003",
+            "wordKey": "char_4207_branch",
+            "charId": "char_4207_branch",
+            "voiceId": "CN_003",
+            "voiceText": "我，手裡的？不是草藥，是、是一種苔蘚。以前，礦工會、會用它燒火，還有，泡水喝。顏色，很好看？嗯。在苔原上，它很顯眼，所以很、很早就被人摘光啦。這是最、最後一點，我想，留著。",
+            "voiceTitle": "交談2",
+            "voiceIndex": 3,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4207_branch/CN_003"
+        },
+        "char_4207_branch_CN_004": {
+            "charWordId": "char_4207_branch_CN_004",
+            "wordKey": "char_4207_branch",
+            "charId": "char_4207_branch",
+            "voiceId": "CN_004",
+            "voiceText": "您讓我敲、敲響鐘？想看看我，在礦井是、是怎麼工作的……好吧。其實，它算不上，一口鐘，只是敲起來，聲音……很吵。不，您一定得，摀著耳朵……一定。",
+            "voiceTitle": "交談3",
+            "voiceIndex": 4,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4207_branch/CN_004"
+        },
+        "char_4207_branch_CN_005": {
+            "charWordId": "char_4207_branch_CN_005",
+            "wordKey": "char_4207_branch",
+            "charId": "char_4207_branch",
+            "voiceId": "CN_005",
+            "voiceText": "在礦井裡，很容易，忘記時間。我就在外、外面，幫他們數著，不能太久，不然他們會、會死。一百一十一，一百一十二，一百一十三……就、就像這樣。數的時候很、很流利？欸——欸？",
+            "voiceTitle": "晉升後交談1",
+            "voiceIndex": 5,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "AWAKE",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                },
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4207_branch/CN_005"
+        },
+        "char_4207_branch_CN_006": {
+            "charWordId": "char_4207_branch_CN_006",
+            "wordKey": "char_4207_branch",
+            "charId": "char_4207_branch",
+            "voiceId": "CN_006",
+            "voiceText": "對著礦洞，說話，有奇怪的回、回音。我笑，它也笑。我兇它，它就兇我。其實有、有些人，也和礦洞一樣——雷爾金，他見到了太多……很複雜的事，最後，也變得，複雜。",
+            "voiceTitle": "晉升後交談2",
+            "voiceIndex": 6,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "AWAKE",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 2
+                },
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4207_branch/CN_006"
+        },
+        "char_4207_branch_CN_007": {
+            "charWordId": "char_4207_branch_CN_007",
+            "wordKey": "char_4207_branch",
+            "charId": "char_4207_branch",
+            "voiceId": "CN_007",
+            "voiceText": "這封信，和裡面的麥、麥穗，是他們從邊境寄給，我的。開心？嗯。好像，大家最後都、都會走散，然後再也不見？真奇怪，一想到他們的笑，眼睛就、就會酸。欸？您說……不奇怪嗎？",
+            "voiceTitle": "信賴提升後交談1",
+            "voiceIndex": 7,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "FAVOR",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 40
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4207_branch/CN_007"
+        },
+        "char_4207_branch_CN_008": {
+            "charWordId": "char_4207_branch_CN_008",
+            "wordKey": "char_4207_branch",
+            "charId": "char_4207_branch",
+            "voiceId": "CN_008",
+            "voiceText": "您聽、聽說過嗎？父母出門去、去鏟雪，不久有人敲門，孩子去開門，發現，那是像人一樣，站起來的裂獸——我不敢再——不、不只是因為娜迦奶奶。您、您說得對。真的家人，不會，逼我開門。",
+            "voiceTitle": "信賴提升後交談2",
+            "voiceIndex": 8,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "FAVOR",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 100
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4207_branch/CN_008"
+        },
+        "char_4207_branch_CN_009": {
+            "charWordId": "char_4207_branch_CN_009",
+            "wordKey": "char_4207_branch",
+            "charId": "char_4207_branch",
+            "voiceId": "CN_009",
+            "voiceText": "沒、沒有恍神！在數太陽，落下去……要多久。捨不得？嗯，在北、北方，太陽，很寶貴，所以害怕，它不、不回來了——明早？您、您願意，陪我等它……升起來？真的嗎？",
+            "voiceTitle": "信賴提升後交談3",
+            "voiceIndex": 9,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "FAVOR",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 200
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4207_branch/CN_009"
+        },
+        "char_4207_branch_CN_010": {
+            "charWordId": "char_4207_branch_CN_010",
+            "wordKey": "char_4207_branch",
+            "charId": "char_4207_branch",
+            "voiceId": "CN_010",
+            "voiceText": "您已經工作很、很長時間了，需要，休息一下嗎……我會記得，叫醒您的。",
+            "voiceTitle": "閒置",
+            "voiceIndex": 10,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "HOME_WAIT",
+            "voiceAsset": "char_4207_branch/CN_010"
+        },
+        "char_4207_branch_CN_011": {
+            "charWordId": "char_4207_branch_CN_011",
+            "wordKey": "char_4207_branch",
+            "charId": "char_4207_branch",
+            "voiceId": "CN_011",
+            "voiceText": "您、您好，博士！大家都叫我……別喬克，嗯——嗯，對，就是小、小樹枝的意思！",
+            "voiceTitle": "幹員報到",
+            "voiceIndex": 11,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "GACHA",
+            "voiceAsset": "char_4207_branch/CN_011"
+        },
+        "char_4207_branch_CN_012": {
+            "charWordId": "char_4207_branch_CN_012",
+            "wordKey": "char_4207_branch",
+            "charId": "char_4207_branch",
+            "voiceId": "CN_012",
+            "voiceText": "我……只需要保、保護好大家……應該就、就可以了吧？",
+            "voiceTitle": "觀看作戰記錄",
+            "voiceIndex": 12,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "LEVEL_UP",
+            "voiceAsset": "char_4207_branch/CN_012"
+        },
+        "char_4207_branch_CN_013": {
+            "charWordId": "char_4207_branch_CN_013",
+            "wordKey": "char_4207_branch",
+            "charId": "char_4207_branch",
+            "voiceId": "CN_013",
+            "voiceText": "我不怕……吃苦，也不、不怕痛！我會更努力……訓練，您可以相、相信我。",
+            "voiceTitle": "精英化晉升1",
+            "voiceIndex": 13,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "AWAKE",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                },
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "EVOLVE_ONE",
+            "voiceAsset": "char_4207_branch/CN_013"
+        },
+        "char_4207_branch_CN_014": {
+            "charWordId": "char_4207_branch_CN_014",
+            "wordKey": "char_4207_branch",
+            "charId": "char_4207_branch",
+            "voiceId": "CN_014",
+            "voiceText": "勛章，是給——我的？可是我做得還、還不夠。還有好多，感染者……我會幫、幫助更多人！嗯，您、您說得對，我們……一起。",
+            "voiceTitle": "精英化晉升2",
+            "voiceIndex": 14,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "AWAKE",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 2
+                },
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "EVOLVE_TWO",
+            "voiceAsset": "char_4207_branch/CN_014"
+        },
+        "char_4207_branch_CN_017": {
+            "charWordId": "char_4207_branch_CN_017",
+            "wordKey": "char_4207_branch",
+            "charId": "char_4207_branch",
+            "voiceId": "CN_017",
+            "voiceText": "嗯，好。",
+            "voiceTitle": "編入隊伍",
+            "voiceIndex": 17,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "SQUAD",
+            "voiceAsset": "char_4207_branch/CN_017"
+        },
+        "char_4207_branch_CN_018": {
+            "charWordId": "char_4207_branch_CN_018",
+            "wordKey": "char_4207_branch",
+            "charId": "char_4207_branch",
+            "voiceId": "CN_018",
+            "voiceText": "敲響……警鐘！",
+            "voiceTitle": "任命隊長",
+            "voiceIndex": 18,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "SQUAD_FIRST",
+            "voiceAsset": "char_4207_branch/CN_018"
+        },
+        "char_4207_branch_CN_019": {
+            "charWordId": "char_4207_branch_CN_019",
+            "wordKey": "char_4207_branch",
+            "charId": "char_4207_branch",
+            "voiceId": "CN_019",
+            "voiceText": "請務必……注意安全。",
+            "voiceTitle": "行動出發",
+            "voiceIndex": 19,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_START",
+            "voiceAsset": "char_4207_branch/CN_019"
+        },
+        "char_4207_branch_CN_020": {
+            "charWordId": "char_4207_branch_CN_020",
+            "wordKey": "char_4207_branch",
+            "charId": "char_4207_branch",
+            "voiceId": "CN_020",
+            "voiceText": "小心。",
+            "voiceTitle": "行動開始",
+            "voiceIndex": 20,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_FACE_ENEMY",
+            "voiceAsset": "char_4207_branch/CN_020"
+        },
+        "char_4207_branch_CN_021": {
+            "charWordId": "char_4207_branch_CN_021",
+            "wordKey": "char_4207_branch",
+            "charId": "char_4207_branch",
+            "voiceId": "CN_021",
+            "voiceText": "我……可以！",
+            "voiceTitle": "選中幹員1",
+            "voiceIndex": 21,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SELECT",
+            "voiceAsset": "char_4207_branch/CN_021"
+        },
+        "char_4207_branch_CN_022": {
+            "charWordId": "char_4207_branch_CN_022",
+            "wordKey": "char_4207_branch",
+            "charId": "char_4207_branch",
+            "voiceId": "CN_022",
+            "voiceText": "我……明白！",
+            "voiceTitle": "選中幹員2",
+            "voiceIndex": 22,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SELECT",
+            "voiceAsset": "char_4207_branch/CN_022"
+        },
+        "char_4207_branch_CN_023": {
+            "charWordId": "char_4207_branch_CN_023",
+            "wordKey": "char_4207_branch",
+            "charId": "char_4207_branch",
+            "voiceId": "CN_023",
+            "voiceText": "不要害怕！",
+            "voiceTitle": "部署1",
+            "voiceIndex": 23,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_PLACE",
+            "voiceAsset": "char_4207_branch/CN_023"
+        },
+        "char_4207_branch_CN_024": {
+            "charWordId": "char_4207_branch_CN_024",
+            "wordKey": "char_4207_branch",
+            "charId": "char_4207_branch",
+            "voiceId": "CN_024",
+            "voiceText": "不要再、再靠近了。",
+            "voiceTitle": "部署2",
+            "voiceIndex": 24,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_PLACE",
+            "voiceAsset": "char_4207_branch/CN_024"
+        },
+        "char_4207_branch_CN_025": {
+            "charWordId": "char_4207_branch_CN_025",
+            "wordKey": "char_4207_branch",
+            "charId": "char_4207_branch",
+            "voiceId": "CN_025",
+            "voiceText": "七百二十三、七百二十二、七百二十一……活下去……",
+            "voiceTitle": "作戰中1",
+            "voiceIndex": 25,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SKILL_1",
+            "voiceAsset": "char_4207_branch/CN_025"
+        },
+        "char_4207_branch_CN_026": {
+            "charWordId": "char_4207_branch_CN_026",
+            "wordKey": "char_4207_branch",
+            "charId": "char_4207_branch",
+            "voiceId": "CN_026",
+            "voiceText": "五十九、六十。一、二……深呼吸……",
+            "voiceTitle": "作戰中2",
+            "voiceIndex": 26,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SKILL_2",
+            "voiceAsset": "char_4207_branch/CN_026"
+        },
+        "char_4207_branch_CN_027": {
+            "charWordId": "char_4207_branch_CN_027",
+            "wordKey": "char_4207_branch",
+            "charId": "char_4207_branch",
+            "voiceId": "CN_027",
+            "voiceText": "再撐、撐一下……",
+            "voiceTitle": "作戰中3",
+            "voiceIndex": 27,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SKILL_3",
+            "voiceAsset": "char_4207_branch/CN_027"
+        },
+        "char_4207_branch_CN_028": {
+            "charWordId": "char_4207_branch_CN_028",
+            "wordKey": "char_4207_branch",
+            "charId": "char_4207_branch",
+            "voiceId": "CN_028",
+            "voiceText": "時、時間到！",
+            "voiceTitle": "作戰中4",
+            "voiceIndex": 28,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SKILL_4",
+            "voiceAsset": "char_4207_branch/CN_028"
+        },
+        "char_4207_branch_CN_029": {
+            "charWordId": "char_4207_branch_CN_029",
+            "wordKey": "char_4207_branch",
+            "charId": "char_4207_branch",
+            "voiceId": "CN_029",
+            "voiceText": "我們……做到了嗎？",
+            "voiceTitle": "完成高難行動",
+            "voiceIndex": 29,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "FOUR_STAR",
+            "voiceAsset": "char_4207_branch/CN_029"
+        },
+        "char_4207_branch_CN_030": {
+            "charWordId": "char_4207_branch_CN_030",
+            "wordKey": "char_4207_branch",
+            "charId": "char_4207_branch",
+            "voiceId": "CN_030",
+            "voiceText": "可、可以休息了嗎？",
+            "voiceTitle": "3星結束行動",
+            "voiceIndex": 30,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "THREE_STAR",
+            "voiceAsset": "char_4207_branch/CN_030"
+        },
+        "char_4207_branch_CN_031": {
+            "charWordId": "char_4207_branch_CN_031",
+            "wordKey": "char_4207_branch",
+            "charId": "char_4207_branch",
+            "voiceId": "CN_031",
+            "voiceText": "大家……不要走散了。",
+            "voiceTitle": "非3星結束行動",
+            "voiceIndex": 31,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "TWO_STAR",
+            "voiceAsset": "char_4207_branch/CN_031"
+        },
+        "char_4207_branch_CN_032": {
+            "charWordId": "char_4207_branch_CN_032",
+            "wordKey": "char_4207_branch",
+            "charId": "char_4207_branch",
+            "voiceId": "CN_032",
+            "voiceText": "我們要回、回去，那裡還有……我們的人！",
+            "voiceTitle": "行動失敗",
+            "voiceIndex": 32,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "LOSE",
+            "voiceAsset": "char_4207_branch/CN_032"
+        },
+        "char_4207_branch_CN_033": {
+            "charWordId": "char_4207_branch_CN_033",
+            "wordKey": "char_4207_branch",
+            "charId": "char_4207_branch",
+            "voiceId": "CN_033",
+            "voiceText": "這裡……很暖和。",
+            "voiceTitle": "進駐設施",
+            "voiceIndex": 33,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BUILDING_PLACE",
+            "voiceAsset": "char_4207_branch/CN_033"
+        },
+        "char_4207_branch_CN_034": {
+            "charWordId": "char_4207_branch_CN_034",
+            "wordKey": "char_4207_branch",
+            "charId": "char_4207_branch",
+            "voiceId": "CN_034",
+            "voiceText": "請您……快、快鬆開！",
+            "voiceTitle": "戳一下",
+            "voiceIndex": 34,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BUILDING_TOUCHING",
+            "voiceAsset": "char_4207_branch/CN_034"
+        },
+        "char_4207_branch_CN_036": {
+            "charWordId": "char_4207_branch_CN_036",
+            "wordKey": "char_4207_branch",
+            "charId": "char_4207_branch",
+            "voiceId": "CN_036",
+            "voiceText": "很久，很久以前，有一、一個迷路的……小雪人……這、這個故事，您聽過嗎？",
+            "voiceTitle": "信賴觸摸",
+            "voiceIndex": 36,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BUILDING_FAVOR_BUBBLE",
+            "voiceAsset": "char_4207_branch/CN_036"
+        },
+        "char_4207_branch_CN_037": {
+            "charWordId": "char_4207_branch_CN_037",
+            "wordKey": "char_4207_branch",
+            "charId": "char_4207_branch",
+            "voiceId": "CN_037",
+            "voiceText": "明日方舟。",
+            "voiceTitle": "標題",
+            "voiceIndex": 37,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "LOADING_PANEL",
+            "voiceAsset": "char_4207_branch/CN_037"
+        },
+        "char_4207_branch_CN_038": {
+            "charWordId": "char_4207_branch_CN_038",
+            "wordKey": "char_4207_branch",
+            "charId": "char_4207_branch",
+            "voiceId": "CN_038",
+            "voiceText": "再、再往左一點，這樣就好……啊，又、又偏了。右邊請再抬高……一點點就好——好、好了！博士，謝謝您幫我，掛節日彩、彩燈！馬上就可以，敲響，新年鐘聲了，要試試嗎？",
+            "voiceTitle": "新年祝福",
+            "voiceIndex": 38,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "NEW_YEAR",
+            "voiceAsset": "char_4207_branch/CN_038"
+        },
+        "char_4207_branch_CN_042": {
+            "charWordId": "char_4207_branch_CN_042",
+            "wordKey": "char_4207_branch",
+            "charId": "char_4207_branch",
+            "voiceId": "CN_042",
+            "voiceText": "博、博士，您很準時……嗯，我也剛、剛剛才到。",
+            "voiceTitle": "問候",
+            "voiceIndex": 42,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "GREETING",
+            "voiceAsset": "char_4207_branch/CN_042"
+        },
+        "char_4207_branch_CN_043": {
+            "charWordId": "char_4207_branch_CN_043",
+            "wordKey": "char_4207_branch",
+            "charId": "char_4207_branch",
+            "voiceId": "CN_043",
+            "voiceText": "辦公桌上，擺著很、很多禮物呢……啊，博士！您什、什麼時候，回來的？項——項鍊？嗯……這個護身符，是我用帶顏色的石、石頭做的，我想——送給您。祝您生日快樂。",
+            "voiceTitle": "生日",
+            "voiceIndex": 43,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BIRTHDAY",
+            "voiceAsset": "char_4207_branch/CN_043"
+        },
+        "char_4207_branch_CN_044": {
+            "charWordId": "char_4207_branch_CN_044",
+            "wordKey": "char_4207_branch",
+            "charId": "char_4207_branch",
+            "voiceId": "CN_044",
+            "voiceText": "我從小，一直覺得——痛，沒、沒什麼大不了的。也許，我應該痛。但——其他人呢？那些我沒、沒去過的地方，那裡的人，他們不該這樣。羅德島，給了我很多“止痛藥”。我想，分給更、更多人。",
+            "voiceTitle": "周年慶典",
+            "voiceIndex": 44,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "ANNIVERSARY",
+            "voiceAsset": "char_4207_branch/CN_044"
+        },
+        "char_4208_wintim_CN_001": {
+            "charWordId": "char_4208_wintim_CN_001",
+            "wordKey": "char_4208_wintim",
+            "charId": "char_4208_wintim",
+            "voiceId": "CN_001",
+            "voiceText": "第三十六次實驗的資料？從左邊數，第二個櫃子裡的藍色文件夾就是。失誤報告？在您身後文件堆的最上面。演算公式在您書桌的左抽屜……您還有什麼要找的文件嗎？都可以問我。",
+            "voiceTitle": "任命助理",
+            "voiceIndex": 1,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "HOME_PLACE",
+            "voiceAsset": "char_4208_wintim/CN_001"
+        },
+        "char_4208_wintim_CN_002": {
+            "charWordId": "char_4208_wintim_CN_002",
+            "wordKey": "char_4208_wintim",
+            "charId": "char_4208_wintim",
+            "voiceId": "CN_002",
+            "voiceText": "您放心，羅德島的實驗室很好，實驗器材也沒有任何問題，我最近一直在反覆地整理這些只是因為……咳，我沒想到，居然能再次擁有一張屬於自己的研究桌。",
+            "voiceTitle": "交談1",
+            "voiceIndex": 2,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4208_wintim/CN_002"
+        },
+        "char_4208_wintim_CN_003": {
+            "charWordId": "char_4208_wintim_CN_003",
+            "wordKey": "char_4208_wintim",
+            "charId": "char_4208_wintim",
+            "voiceId": "CN_003",
+            "voiceText": "唔！抱歉撞到您，我的眼鏡突然起霧了……原本以為自己能正常走到座位上，但是手上的東西太多又沒辦法摘掉眼鏡擦一擦，我還是先在原地站一下子吧……",
+            "voiceTitle": "交談2",
+            "voiceIndex": 3,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4208_wintim/CN_003"
+        },
+        "char_4208_wintim_CN_004": {
+            "charWordId": "char_4208_wintim_CN_004",
+            "wordKey": "char_4208_wintim",
+            "charId": "char_4208_wintim",
+            "voiceId": "CN_004",
+            "voiceText": "幫忙？不用，我會在終端上輸入和上傳資料，只是……那些存在終端裡的資料，別人點一下按鍵就能刪除或是封鎖，用筆寫在紙上，能帶給我一些安心的感覺。",
+            "voiceTitle": "交談3",
+            "voiceIndex": 4,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4208_wintim/CN_004"
+        },
+        "char_4208_wintim_CN_005": {
+            "charWordId": "char_4208_wintim_CN_005",
+            "wordKey": "char_4208_wintim",
+            "charId": "char_4208_wintim",
+            "voiceId": "CN_005",
+            "voiceText": "烏薩斯的極夜實在是太漫長了，漫長到即使把所有的燈都打開，我還是覺得自己等不到哪怕一點光亮、一點希望。跟著你們一路走到這裡，我或許只是想證明，自己不是個一事無成的廢物吧。",
+            "voiceTitle": "晉升後交談1",
+            "voiceIndex": 5,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "AWAKE",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                },
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4208_wintim/CN_005"
+        },
+        "char_4208_wintim_CN_006": {
+            "charWordId": "char_4208_wintim_CN_006",
+            "wordKey": "char_4208_wintim",
+            "charId": "char_4208_wintim",
+            "voiceId": "CN_006",
+            "voiceText": "在遠北時，我覺得跟你們走能逃開那無窮無盡的雪，要是留下或許連遺書都會被當成柴火燒了取暖。我一定要跟你們走。在烏薩斯做那些事，你們簡直就是瘋子，但或許，我也早已經瘋了。",
+            "voiceTitle": "晉升後交談2",
+            "voiceIndex": 6,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "AWAKE",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 2
+                },
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4208_wintim/CN_006"
+        },
+        "char_4208_wintim_CN_007": {
+            "charWordId": "char_4208_wintim_CN_007",
+            "wordKey": "char_4208_wintim",
+            "charId": "char_4208_wintim",
+            "voiceId": "CN_007",
+            "voiceText": "在切城時，伊利亞老師迫切地想把知識塞進我的腦子，凱爾希所長和大家不眠不休地演算，我每天都在擔心自己要是出錯會受到怎樣的懲罰……沒想到那是我迄今為止最美好的一段日子。",
+            "voiceTitle": "信賴提升後交談1",
+            "voiceIndex": 7,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "FAVOR",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 40
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4208_wintim/CN_007"
+        },
+        "char_4208_wintim_CN_008": {
+            "charWordId": "char_4208_wintim_CN_008",
+            "wordKey": "char_4208_wintim",
+            "charId": "char_4208_wintim",
+            "voiceId": "CN_008",
+            "voiceText": "“最年輕的天才研究員”，我也曾為這樣的名號驕傲過，可是在遠北隨便用鎬子砸開凍土，都能翻出天才的屍體化成的源石粉塵。有時我會慶幸自己居然能逃離那個地方……我真的逃離了嗎？",
+            "voiceTitle": "信賴提升後交談2",
+            "voiceIndex": 8,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "FAVOR",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 100
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4208_wintim/CN_008"
+        },
+        "char_4208_wintim_CN_009": {
+            "charWordId": "char_4208_wintim_CN_009",
+            "wordKey": "char_4208_wintim",
+            "charId": "char_4208_wintim",
+            "voiceId": "CN_009",
+            "voiceText": "酒是個好東西，能讓身體暖和起來，也能把腦袋變遲鈍，好讓人不用去想外面發生的任何事……這裡太暖和，我現在不用再靠它度日了，博士，接下來我該依靠什麼呢？您能告訴我嗎？",
+            "voiceTitle": "信賴提升後交談3",
+            "voiceIndex": 9,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "FAVOR",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 200
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4208_wintim/CN_009"
+        },
+        "char_4208_wintim_CN_010": {
+            "charWordId": "char_4208_wintim_CN_010",
+            "wordKey": "char_4208_wintim",
+            "charId": "char_4208_wintim",
+            "voiceId": "CN_010",
+            "voiceText": "我謄抄了一下資料，您就睡著了。是寫字的聲音讓人感到安心嗎？",
+            "voiceTitle": "閒置",
+            "voiceIndex": 10,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "HOME_WAIT",
+            "voiceAsset": "char_4208_wintim/CN_010"
+        },
+        "char_4208_wintim_CN_011": {
+            "charWordId": "char_4208_wintim_CN_011",
+            "wordKey": "char_4208_wintim",
+            "charId": "char_4208_wintim",
+            "voiceId": "CN_011",
+            "voiceText": "博士，感謝你們收留了我，也感謝你們給了我一間……不會被打擾的實驗室。",
+            "voiceTitle": "幹員報到",
+            "voiceIndex": 11,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "GACHA",
+            "voiceAsset": "char_4208_wintim/CN_011"
+        },
+        "char_4208_wintim_CN_012": {
+            "charWordId": "char_4208_wintim_CN_012",
+            "wordKey": "char_4208_wintim",
+            "charId": "char_4208_wintim",
+            "voiceId": "CN_012",
+            "voiceText": "看來不只是我，為了能活下去，所有人都是如此地努力。",
+            "voiceTitle": "觀看作戰記錄",
+            "voiceIndex": 12,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "LEVEL_UP",
+            "voiceAsset": "char_4208_wintim/CN_012"
+        },
+        "char_4208_wintim_CN_013": {
+            "charWordId": "char_4208_wintim_CN_013",
+            "wordKey": "char_4208_wintim",
+            "charId": "char_4208_wintim",
+            "voiceId": "CN_013",
+            "voiceText": "剛收到開頭這麼正式的通知時我嚇了一跳，還好，不是中止研究的消息……多謝您，我會繼續我的研究的。",
+            "voiceTitle": "精英化晉升1",
+            "voiceIndex": 13,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "AWAKE",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                },
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "EVOLVE_ONE",
+            "voiceAsset": "char_4208_wintim/CN_013"
+        },
+        "char_4208_wintim_CN_014": {
+            "charWordId": "char_4208_wintim_CN_014",
+            "wordKey": "char_4208_wintim",
+            "charId": "char_4208_wintim",
+            "voiceId": "CN_014",
+            "voiceText": "博士，我找了您很久，您看，我的論文發表在了哥倫比亞的學術期刊上，我的研究方向是正確的！啊？我在笑嗎……看來我是真的很開心。",
+            "voiceTitle": "精英化晉升2",
+            "voiceIndex": 14,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "AWAKE",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 2
+                },
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "EVOLVE_TWO",
+            "voiceAsset": "char_4208_wintim/CN_014"
+        },
+        "char_4208_wintim_CN_017": {
+            "charWordId": "char_4208_wintim_CN_017",
+            "wordKey": "char_4208_wintim",
+            "charId": "char_4208_wintim",
+            "voiceId": "CN_017",
+            "voiceText": "需要的材料已經準備好了。",
+            "voiceTitle": "編入隊伍",
+            "voiceIndex": 17,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "SQUAD",
+            "voiceAsset": "char_4208_wintim/CN_017"
+        },
+        "char_4208_wintim_CN_018": {
+            "charWordId": "char_4208_wintim_CN_018",
+            "wordKey": "char_4208_wintim",
+            "charId": "char_4208_wintim",
+            "voiceId": "CN_018",
+            "voiceText": "我來負責這次的專案嗎？好，我知道了。",
+            "voiceTitle": "任命隊長",
+            "voiceIndex": 18,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "SQUAD_FIRST",
+            "voiceAsset": "char_4208_wintim/CN_018"
+        },
+        "char_4208_wintim_CN_019": {
+            "charWordId": "char_4208_wintim_CN_019",
+            "wordKey": "char_4208_wintim",
+            "charId": "char_4208_wintim",
+            "voiceId": "CN_019",
+            "voiceText": "儀器顯示的數據……開始讀取並繪製圖表。",
+            "voiceTitle": "行動出發",
+            "voiceIndex": 19,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_START",
+            "voiceAsset": "char_4208_wintim/CN_019"
+        },
+        "char_4208_wintim_CN_020": {
+            "charWordId": "char_4208_wintim_CN_020",
+            "wordKey": "char_4208_wintim",
+            "charId": "char_4208_wintim",
+            "voiceId": "CN_020",
+            "voiceText": "注意，每隔二十分鐘記錄一次數值。",
+            "voiceTitle": "行動開始",
+            "voiceIndex": 20,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_FACE_ENEMY",
+            "voiceAsset": "char_4208_wintim/CN_020"
+        },
+        "char_4208_wintim_CN_021": {
+            "charWordId": "char_4208_wintim_CN_021",
+            "wordKey": "char_4208_wintim",
+            "charId": "char_4208_wintim",
+            "voiceId": "CN_021",
+            "voiceText": "您做出了什麼假設？",
+            "voiceTitle": "選中幹員1",
+            "voiceIndex": 21,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SELECT",
+            "voiceAsset": "char_4208_wintim/CN_021"
+        },
+        "char_4208_wintim_CN_022": {
+            "charWordId": "char_4208_wintim_CN_022",
+            "wordKey": "char_4208_wintim",
+            "charId": "char_4208_wintim",
+            "voiceId": "CN_022",
+            "voiceText": "您有了新的猜想？",
+            "voiceTitle": "選中幹員2",
+            "voiceIndex": 22,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SELECT",
+            "voiceAsset": "char_4208_wintim/CN_022"
+        },
+        "char_4208_wintim_CN_023": {
+            "charWordId": "char_4208_wintim_CN_023",
+            "wordKey": "char_4208_wintim",
+            "charId": "char_4208_wintim",
+            "voiceId": "CN_023",
+            "voiceText": "對照組設定完畢。",
+            "voiceTitle": "部署1",
+            "voiceIndex": 23,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_PLACE",
+            "voiceAsset": "char_4208_wintim/CN_023"
+        },
+        "char_4208_wintim_CN_024": {
+            "charWordId": "char_4208_wintim_CN_024",
+            "wordKey": "char_4208_wintim",
+            "charId": "char_4208_wintim",
+            "voiceId": "CN_024",
+            "voiceText": "數據採集現在開始。",
+            "voiceTitle": "部署2",
+            "voiceIndex": 24,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_PLACE",
+            "voiceAsset": "char_4208_wintim/CN_024"
+        },
+        "char_4208_wintim_CN_025": {
+            "charWordId": "char_4208_wintim_CN_025",
+            "wordKey": "char_4208_wintim",
+            "charId": "char_4208_wintim",
+            "voiceId": "CN_025",
+            "voiceText": "剔除異常值。",
+            "voiceTitle": "作戰中1",
+            "voiceIndex": 25,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SKILL_1",
+            "voiceAsset": "char_4208_wintim/CN_025"
+        },
+        "char_4208_wintim_CN_026": {
+            "charWordId": "char_4208_wintim_CN_026",
+            "wordKey": "char_4208_wintim",
+            "charId": "char_4208_wintim",
+            "voiceId": "CN_026",
+            "voiceText": "計算標準差。",
+            "voiceTitle": "作戰中2",
+            "voiceIndex": 26,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SKILL_2",
+            "voiceAsset": "char_4208_wintim/CN_026"
+        },
+        "char_4208_wintim_CN_027": {
+            "charWordId": "char_4208_wintim_CN_027",
+            "wordKey": "char_4208_wintim",
+            "charId": "char_4208_wintim",
+            "voiceId": "CN_027",
+            "voiceText": "標註關鍵趨勢。",
+            "voiceTitle": "作戰中3",
+            "voiceIndex": 27,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SKILL_3",
+            "voiceAsset": "char_4208_wintim/CN_027"
+        },
+        "char_4208_wintim_CN_028": {
+            "charWordId": "char_4208_wintim_CN_028",
+            "wordKey": "char_4208_wintim",
+            "charId": "char_4208_wintim",
+            "voiceId": "CN_028",
+            "voiceText": "記錄推導過程。",
+            "voiceTitle": "作戰中4",
+            "voiceIndex": 28,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SKILL_4",
+            "voiceAsset": "char_4208_wintim/CN_028"
+        },
+        "char_4208_wintim_CN_029": {
+            "charWordId": "char_4208_wintim_CN_029",
+            "wordKey": "char_4208_wintim",
+            "charId": "char_4208_wintim",
+            "voiceId": "CN_029",
+            "voiceText": "博士，您、您看！我們成功了，竟然真的……有這一天？",
+            "voiceTitle": "完成高難行動",
+            "voiceIndex": 29,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "FOUR_STAR",
+            "voiceAsset": "char_4208_wintim/CN_029"
+        },
+        "char_4208_wintim_CN_030": {
+            "charWordId": "char_4208_wintim_CN_030",
+            "wordKey": "char_4208_wintim",
+            "charId": "char_4208_wintim",
+            "voiceId": "CN_030",
+            "voiceText": "假設成立，報告等一下就放到您的桌上。",
+            "voiceTitle": "3星結束行動",
+            "voiceIndex": 30,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "THREE_STAR",
+            "voiceAsset": "char_4208_wintim/CN_030"
+        },
+        "char_4208_wintim_CN_031": {
+            "charWordId": "char_4208_wintim_CN_031",
+            "wordKey": "char_4208_wintim",
+            "charId": "char_4208_wintim",
+            "voiceId": "CN_031",
+            "voiceText": "我現在就去檢查哪裡有問題，請您相信我。",
+            "voiceTitle": "非3星結束行動",
+            "voiceIndex": 31,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "TWO_STAR",
+            "voiceAsset": "char_4208_wintim/CN_031"
+        },
+        "char_4208_wintim_CN_032": {
+            "charWordId": "char_4208_wintim_CN_032",
+            "wordKey": "char_4208_wintim",
+            "charId": "char_4208_wintim",
+            "voiceId": "CN_032",
+            "voiceText": "失敗了？不、不，怎麼會？請再給我一點時間，下一次肯定不會出什麼問題了！",
+            "voiceTitle": "行動失敗",
+            "voiceIndex": 32,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "LOSE",
+            "voiceAsset": "char_4208_wintim/CN_032"
+        },
+        "char_4208_wintim_CN_033": {
+            "charWordId": "char_4208_wintim_CN_033",
+            "wordKey": "char_4208_wintim",
+            "charId": "char_4208_wintim",
+            "voiceId": "CN_033",
+            "voiceText": "好溫暖的房間……",
+            "voiceTitle": "進駐設施",
+            "voiceIndex": 33,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BUILDING_PLACE",
+            "voiceAsset": "char_4208_wintim/CN_033"
+        },
+        "char_4208_wintim_CN_034": {
+            "charWordId": "char_4208_wintim_CN_034",
+            "wordKey": "char_4208_wintim",
+            "charId": "char_4208_wintim",
+            "voiceId": "CN_034",
+            "voiceText": "欸？我以為是誰，抱歉用文件砸了您……",
+            "voiceTitle": "戳一下",
+            "voiceIndex": 34,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BUILDING_TOUCHING",
+            "voiceAsset": "char_4208_wintim/CN_034"
+        },
+        "char_4208_wintim_CN_036": {
+            "charWordId": "char_4208_wintim_CN_036",
+            "wordKey": "char_4208_wintim",
+            "charId": "char_4208_wintim",
+            "voiceId": "CN_036",
+            "voiceText": "要來一杯熱茶嗎？",
+            "voiceTitle": "信賴觸摸",
+            "voiceIndex": 36,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BUILDING_FAVOR_BUBBLE",
+            "voiceAsset": "char_4208_wintim/CN_036"
+        },
+        "char_4208_wintim_CN_037": {
+            "charWordId": "char_4208_wintim_CN_037",
+            "wordKey": "char_4208_wintim",
+            "charId": "char_4208_wintim",
+            "voiceId": "CN_037",
+            "voiceText": "明日方舟。",
+            "voiceTitle": "標題",
+            "voiceIndex": 37,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "LOADING_PANEL",
+            "voiceAsset": "char_4208_wintim/CN_037"
+        },
+        "char_4208_wintim_CN_038": {
+            "charWordId": "char_4208_wintim_CN_038",
+            "wordKey": "char_4208_wintim",
+            "charId": "char_4208_wintim",
+            "voiceId": "CN_038",
+            "voiceText": "在研究所時我們不會專門慶祝這個節日，除了提醒我們計劃毫無進展之外，時間的流逝並沒有什麼特殊的意義。不過現在……我很願意相信，它代表著我離下一個出成果的日子又近了一些。",
+            "voiceTitle": "新年祝福",
+            "voiceIndex": 38,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "NEW_YEAR",
+            "voiceAsset": "char_4208_wintim/CN_038"
+        },
+        "char_4208_wintim_CN_042": {
+            "charWordId": "char_4208_wintim_CN_042",
+            "wordKey": "char_4208_wintim",
+            "charId": "char_4208_wintim",
+            "voiceId": "CN_042",
+            "voiceText": "博士，您來了，實驗在正常進行中。這給您，以前在烏薩斯，我常用熱茶提神驅寒。",
+            "voiceTitle": "問候",
+            "voiceIndex": 42,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "GREETING",
+            "voiceAsset": "char_4208_wintim/CN_042"
+        },
+        "char_4208_wintim_CN_043": {
+            "charWordId": "char_4208_wintim_CN_043",
+            "wordKey": "char_4208_wintim",
+            "charId": "char_4208_wintim",
+            "voiceId": "CN_043",
+            "voiceText": "雖然覺得給自己的上司準備生日禮物有些奇怪，但我仍舊想這麼做。博士，是您給予了我繼續從事研究工作的希望，從您決定深入礦井，尋找殘餘的樣本開始……我一直很感激您。",
+            "voiceTitle": "生日",
+            "voiceIndex": 43,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BIRTHDAY",
+            "voiceAsset": "char_4208_wintim/CN_043"
+        },
+        "char_4208_wintim_CN_044": {
+            "charWordId": "char_4208_wintim_CN_044",
+            "wordKey": "char_4208_wintim",
+            "charId": "char_4208_wintim",
+            "voiceId": "CN_044",
+            "voiceText": "我曾無數次地感嘆自己竟然真的在這裡完成了一項又一項研究，甚至有病人受益於我的研究成果，用上了更好的藥物……能做成事情，看著這裡越來越好，我已經非常滿足了。",
+            "voiceTitle": "周年慶典",
+            "voiceIndex": 44,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "ANNIVERSARY",
+            "voiceAsset": "char_4208_wintim/CN_044"
+        },
         "char_113_cqbw_epoque#7_CN_001": {
             "charWordId": "char_113_cqbw_epoque#7_CN_001",
             "wordKey": "char_113_cqbw_epoque#7",
@@ -266407,6 +268270,14 @@
                     ],
                     "voicePath": null
                 },
+                "JP": {
+                    "wordkey": "char_009_12fce",
+                    "voiceLangType": "JP",
+                    "cvName": [
+                        "梯篤司"
+                    ],
+                    "voicePath": null
+                },
                 "KR": {
                     "wordkey": "char_009_12fce",
                     "voiceLangType": "KR",
@@ -266596,6 +268467,14 @@
                     "voiceLangType": "CN_MANDARIN",
                     "cvName": [
                         "馬洋"
+                    ],
+                    "voicePath": null
+                },
+                "JP": {
+                    "wordkey": "char_283_midn",
+                    "voiceLangType": "JP",
+                    "cvName": [
+                        "高橋英則"
                     ],
                     "voicePath": null
                 },
@@ -281791,6 +283670,126 @@
                 }
             }
         },
+        "char_4204_mantra": {
+            "wordkeys": [
+                "char_4204_mantra"
+            ],
+            "charId": "char_4204_mantra",
+            "dict": {
+                "CN_MANDARIN": {
+                    "wordkey": "char_4204_mantra",
+                    "voiceLangType": "CN_MANDARIN",
+                    "cvName": [
+                        "黃雷"
+                    ],
+                    "voicePath": null
+                },
+                "JP": {
+                    "wordkey": "char_4204_mantra",
+                    "voiceLangType": "JP",
+                    "cvName": [
+                        "折笠愛"
+                    ],
+                    "voicePath": null
+                },
+                "KR": {
+                    "wordkey": "char_4204_mantra",
+                    "voiceLangType": "KR",
+                    "cvName": [
+                        "許睿恩"
+                    ],
+                    "voicePath": null
+                },
+                "EN": {
+                    "wordkey": "char_4204_mantra",
+                    "voiceLangType": "EN",
+                    "cvName": [
+                        "Emma Gregory"
+                    ],
+                    "voicePath": null
+                }
+            }
+        },
+        "char_4207_branch": {
+            "wordkeys": [
+                "char_4207_branch"
+            ],
+            "charId": "char_4207_branch",
+            "dict": {
+                "CN_MANDARIN": {
+                    "wordkey": "char_4207_branch",
+                    "voiceLangType": "CN_MANDARIN",
+                    "cvName": [
+                        "真理"
+                    ],
+                    "voicePath": null
+                },
+                "JP": {
+                    "wordkey": "char_4207_branch",
+                    "voiceLangType": "JP",
+                    "cvName": [
+                        "谷口夢奈"
+                    ],
+                    "voicePath": null
+                },
+                "KR": {
+                    "wordkey": "char_4207_branch",
+                    "voiceLangType": "KR",
+                    "cvName": [
+                        "裵夏耿"
+                    ],
+                    "voicePath": null
+                },
+                "EN": {
+                    "wordkey": "char_4207_branch",
+                    "voiceLangType": "EN",
+                    "cvName": [
+                        "Elizaveta Sheikh"
+                    ],
+                    "voicePath": null
+                }
+            }
+        },
+        "char_4208_wintim": {
+            "wordkeys": [
+                "char_4208_wintim"
+            ],
+            "charId": "char_4208_wintim",
+            "dict": {
+                "CN_MANDARIN": {
+                    "wordkey": "char_4208_wintim",
+                    "voiceLangType": "CN_MANDARIN",
+                    "cvName": [
+                        "王雅欣"
+                    ],
+                    "voicePath": null
+                },
+                "JP": {
+                    "wordkey": "char_4208_wintim",
+                    "voiceLangType": "JP",
+                    "cvName": [
+                        "仁見紗綾"
+                    ],
+                    "voicePath": null
+                },
+                "KR": {
+                    "wordkey": "char_4208_wintim",
+                    "voiceLangType": "KR",
+                    "cvName": [
+                        "朱藝瑨"
+                    ],
+                    "voicePath": null
+                },
+                "EN": {
+                    "wordkey": "char_4208_wintim",
+                    "voiceLangType": "EN",
+                    "cvName": [
+                        "Elizaveta Chaban"
+                    ],
+                    "voicePath": null
+                }
+            }
+        },
         "char_311_mudrok#1": {
             "wordkeys": [
                 "char_311_mudrok#1"
@@ -282310,7 +284309,10 @@
         "char_4183_mortis",
         "char_4184_dolris",
         "char_4185_amoris",
-        "char_4186_tmoris"
+        "char_4186_tmoris",
+        "char_4204_mantra",
+        "char_4207_branch",
+        "char_4208_wintim"
     ],
     "voiceLangTypeDict": {
         "CN_MANDARIN": {
@@ -282409,12 +284411,12 @@
         "char_500_noirc": "JP",
         "char_503_rang": "JP",
         "char_501_durin": "JP",
-        "char_009_12fce": "CN_MANDARIN",
+        "char_009_12fce": "JP",
         "char_123_fang": "JP",
         "char_240_wyvern": "JP",
         "char_192_falco": "JP",
         "char_208_melan": "JP",
-        "char_283_midn": "CN_MANDARIN",
+        "char_283_midn": "JP",
         "char_281_popka": "JP",
         "char_209_ardign": "JP",
         "char_122_beagle": "JP",
@@ -282793,7 +284795,10 @@
         "char_4183_mortis": "LINKAGE",
         "char_4184_dolris": "LINKAGE",
         "char_4185_amoris": "LINKAGE",
-        "char_4186_tmoris": "LINKAGE"
+        "char_4186_tmoris": "LINKAGE",
+        "char_4204_mantra": "JP",
+        "char_4207_branch": "JP",
+        "char_4208_wintim": "JP"
     },
     "startTimeWithTypeDict": {
         "CN_TOPOLECT": [
@@ -282861,6 +284866,14 @@
             }
         ],
         "KR": [
+            {
+                "timestamp": 1776844800,
+                "charSet": [
+                    "char_4204_mantra",
+                    "char_4207_branch",
+                    "char_4208_wintim"
+                ]
+            },
             {
                 "timestamp": 1772092800,
                 "charSet": [
@@ -283462,6 +285475,14 @@
             }
         ],
         "EN": [
+            {
+                "timestamp": 1776844800,
+                "charSet": [
+                    "char_4204_mantra",
+                    "char_4207_branch",
+                    "char_4208_wintim"
+                ]
+            },
             {
                 "timestamp": 1772092800,
                 "charSet": [
