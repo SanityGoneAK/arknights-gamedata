@@ -147462,5 +147462,346 @@
                 "tokenAttributeBlackboard": {}
             }
         ]
+    },
+    "uniequip_003_radian": {
+        "phases": [
+            {
+                "equipLevel": 1,
+                "parts": [
+                    {
+                        "resKey": null,
+                        "target": "DISPLAY",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": "rogue_yan",
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": null
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": [
+                                {
+                                    "additionalDescription": "在【歲的界園志異】中，自身額外攻擊一個目標",
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "blackboard": [],
+                                    "overrideDescripton": null,
+                                    "prefabKey": null,
+                                    "rangeId": null
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "resKey": null,
+                        "target": "TALENT_DATA_ONLY",
+                        "isToken": false,
+                        "validInGameTag": "roguelike",
+                        "validInMapTag": "rogue_yan",
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": [
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "",
+                                    "talentIndex": 0,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "prefabKey": "1",
+                                    "name": null,
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "attack@max_target",
+                                            "value": 2.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "cnt",
+                                            "value": 5.0,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                }
+                            ]
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": null
+                        }
+                    }
+                ],
+                "attributeBlackboard": [
+                    {
+                        "key": "atk",
+                        "value": 41.0,
+                        "valueStr": null
+                    }
+                ],
+                "tokenAttributeBlackboard": {}
+            },
+            {
+                "equipLevel": 2,
+                "parts": [
+                    {
+                        "resKey": null,
+                        "target": "DISPLAY",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": "rogue_yan",
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": null
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": [
+                                {
+                                    "additionalDescription": "在【歲的界園志異】中，自身額外攻擊一個目標",
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "blackboard": [],
+                                    "overrideDescripton": null,
+                                    "prefabKey": null,
+                                    "rangeId": null
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "resKey": null,
+                        "target": "TALENT_DATA_ONLY",
+                        "isToken": false,
+                        "validInGameTag": "roguelike",
+                        "validInMapTag": "rogue_yan",
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": [
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "可以使用5個召喚物（最多同時部署3個），功能隨技能選擇而改變。在【歲的界園志異】中，電弧會回收自身周圍四格的召喚物，使自身立即回復20%最大生命值且之後攻擊時對目標額外造成一次相當於攻擊力20%的法術傷害（最多可疊加4次）",
+                                    "talentIndex": 0,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "prefabKey": "1",
+                                    "name": "卡帶裡的靈感",
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "attack@max_target",
+                                            "value": 2.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "cnt",
+                                            "value": 5.0,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                }
+                            ]
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": null
+                        }
+                    },
+                    {
+                        "resKey": "radian_equip_2_2_p1",
+                        "target": "TALENT",
+                        "isToken": false,
+                        "validInGameTag": "roguelike",
+                        "validInMapTag": "rogue_yan",
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": [
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "",
+                                    "talentIndex": -1,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "prefabKey": "10_root",
+                                    "name": null,
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "hp_ratio",
+                                            "value": 0.2,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "max_stack_cnt",
+                                            "value": 4.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "atk_scale",
+                                            "value": 0.2,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                }
+                            ]
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": null
+                        }
+                    }
+                ],
+                "attributeBlackboard": [
+                    {
+                        "key": "atk",
+                        "value": 54.0,
+                        "valueStr": null
+                    }
+                ],
+                "tokenAttributeBlackboard": {}
+            },
+            {
+                "equipLevel": 3,
+                "parts": [
+                    {
+                        "resKey": null,
+                        "target": "DISPLAY",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": "rogue_yan",
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": null
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": [
+                                {
+                                    "additionalDescription": "在【歲的界園志異】中，自身額外攻擊一個目標",
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "blackboard": [],
+                                    "overrideDescripton": null,
+                                    "prefabKey": null,
+                                    "rangeId": null
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "resKey": null,
+                        "target": "TALENT_DATA_ONLY",
+                        "isToken": false,
+                        "validInGameTag": "roguelike",
+                        "validInMapTag": "rogue_yan",
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": [
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "可以使用5個召喚物（最多同時部署3個），功能隨技能選擇而改變。在【歲的界園志異】中，電弧會回收自身周圍四格的召喚物，使自身立即回復25%最大生命值且之後攻擊時對目標額外造成一次相當於攻擊力30%的法術傷害（最多可疊加4次）",
+                                    "talentIndex": 0,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "prefabKey": "1",
+                                    "name": "卡帶裡的靈感",
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "attack@max_target",
+                                            "value": 2.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "cnt",
+                                            "value": 5.0,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                }
+                            ]
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": null
+                        }
+                    },
+                    {
+                        "resKey": "radian_equip_2_3_p1",
+                        "target": "TALENT",
+                        "isToken": false,
+                        "validInGameTag": "roguelike",
+                        "validInMapTag": "rogue_yan",
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": [
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "",
+                                    "talentIndex": -1,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "prefabKey": "10_root",
+                                    "name": null,
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "hp_ratio",
+                                            "value": 0.25,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "max_stack_cnt",
+                                            "value": 4.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "atk_scale",
+                                            "value": 0.3,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                }
+                            ]
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": null
+                        }
+                    }
+                ],
+                "attributeBlackboard": [
+                    {
+                        "key": "atk",
+                        "value": 65.0,
+                        "valueStr": null
+                    }
+                ],
+                "tokenAttributeBlackboard": {}
+            }
+        ]
     }
 }

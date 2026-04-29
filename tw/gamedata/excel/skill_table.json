@@ -334082,5 +334082,208 @@
                 ]
             }
         ]
+    },
+    "sktok_rgcssm": {
+        "skillId": "sktok_rgcssm",
+        "iconId": "sktok_rgcssm",
+        "hidden": false,
+        "levels": [
+            {
+                "name": "古雕倀",
+                "rangeId": null,
+                "description": "消耗20點部署費用，使古雕倀把嘴閉上一段時間，並停止吐出敵人",
+                "skillType": "MANUAL",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 1,
+                    "initSp": 1,
+                    "increment": 0.0
+                },
+                "prefabId": "sktok_rgcssm",
+                "duration": 150.0,
+                "blackboard": [
+                    {
+                        "key": "cost",
+                        "value": 20.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "stun",
+                        "value": 0.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "cnt",
+                        "value": 1.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "talent@interval",
+                        "value": 20.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "enemy_key",
+                        "value": 0.0,
+                        "valueStr": "enemy_1303_mhshep_2"
+                    },
+                    {
+                        "key": "attack@enemy_key",
+                        "value": 0.0,
+                        "valueStr": "enemy_1303_mhshep_2"
+                    }
+                ]
+            }
+        ]
+    },
+    "sktok_muulct": {
+        "skillId": "sktok_muulct",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "全都是虛像！",
+                "rangeId": null,
+                "description": "部署後<@ba.vup>40秒</>內，全場處於異常狀態下的敵人受到的物理和法術傷害提升<@ba.vup>40%</>，且每隔10秒使攻擊範圍內的所有敵人<$ba.stun>暈眩</><@ba.vup>5</>秒",
+                "skillType": "AUTO",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_muulct",
+                "duration": 40.0,
+                "blackboard": [
+                    {
+                        "key": "damage_scale",
+                        "value": 1.4,
+                        "valueStr": null
+                    }
+                ]
+            }
+        ]
+    },
+    "sktok_murjet": {
+        "skillId": "sktok_murjet",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "加力推進",
+                "rangeId": null,
+                "description": "根據受到的傷害<@ba.vup>推動</>漂流艇",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_murjet",
+                "duration": 0.0,
+                "blackboard": [
+                    {
+                        "key": "fx_1",
+                        "value": 200.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "fx_2",
+                        "value": 600.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "fx_time",
+                        "value": 1.0,
+                        "valueStr": null
+                    }
+                ]
+            }
+        ]
+    },
+    "sktok_murbas": {
+        "skillId": "sktok_murbas",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "多向拼接",
+                "rangeId": null,
+                "description": "可以部署幹員至上方",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_empty",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_murmag": {
+        "skillId": "sktok_murmag",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "磁吸信標",
+                "rangeId": null,
+                "description": "可以部署幹員至上方，會把<紅寶石飛翼>、<藍寶石飛翼>、<鑽石飛翼>和<沉水物資箱><@ba.vup>較大力地</>拖曳至自身所在位置",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_empty",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_murtre": {
+        "skillId": "sktok_murtre",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "浮動搭載",
+                "rangeId": null,
+                "description": "未被摧毀時，提供<@ba.vup>200</>點分數",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_empty",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
     }
 }
