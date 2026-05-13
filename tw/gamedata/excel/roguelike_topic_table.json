@@ -200486,14 +200486,10 @@
                     "displayUnlockMonth": 7,
                     "acquireTitle": "可獲取老鯉形象時裝",
                     "purchaseTitle": "老鯉形象時裝",
-                    "displayName": "神秘時裝",
+                    "displayName": "鑑浮生",
                     "displayDiscription": "人有七情，物承其念。\n鑑物實為窺人。\n萍水相逢，去留隨緣。\n器物亦會擇主。",
                     "bpLevelId": "bp_level_125",
-                    "itemBundle": {
-                        "id": "char_311_mudrok@wild#10",
-                        "count": 1,
-                        "type": "CHAR_SKIN"
-                    },
+                    "itemBundle": null,
                     "detailAnnounceTime": "2026-07-01 04:00:00",
                     "picIdAftrerUnlock": null
                 },
@@ -200504,7 +200500,7 @@
                     "displayUnlockMonth": 8,
                     "acquireTitle": "可獲取主題場景",
                     "purchaseTitle": "主題場景",
-                    "displayName": "主題場景",
+                    "displayName": "遊園",
                     "displayDiscription": "池平樹古，不見描碑之人。桐間露落，方覺兩別之懷。",
                     "bpLevelId": "bp_level_140",
                     "itemBundle": null,
@@ -200633,7 +200629,7 @@
                     "paramList": [
                         "10"
                     ],
-                    "desc": "累計在詭意行商或歲陵行商處購買過10件商品",
+                    "desc": "累計在詭意行商或易與處購買過10件商品",
                     "tokenRewardNum": 125
                 },
                 {
@@ -221328,7 +221324,7 @@
                                 {
                                     "key": "key",
                                     "value": 0.0,
-                                    "valueStr": "rogue_5_modify_cost[token&trap]"
+                                    "valueStr": "rogue_5_modify_cost[trap]"
                                 },
                                 {
                                     "key": "value",
@@ -221344,6 +221340,21 @@
                                     "key": "selector.profession",
                                     "value": 0.0,
                                     "valueStr": "trap"
+                                }
+                            ]
+                        },
+                        {
+                            "key": "char_attribute_add",
+                            "blackboard": [
+                                {
+                                    "key": "selector.profession",
+                                    "value": 0.0,
+                                    "valueStr": "token"
+                                },
+                                {
+                                    "key": "cost",
+                                    "value": -10.0,
+                                    "valueStr": null
                                 }
                             ]
                         }
@@ -257015,7 +257026,7 @@
                 "choice_ro5_end3_1": {
                     "id": "choice_ro5_end3_1",
                     "title": "將其他人送出歲陵",
-                    "description": "我們去去就回\r\n<@ro5.lose>遁入長卷的幹員將暫時離開，僅有遁入長卷的幹員可以參與明滅頂的最終戰鬥</>",
+                    "description": "我們去去就回\r\n<@ro5.lose>未遁入長卷的幹員將暫時離開，僅有遁入長卷的幹員可以參與明滅頂的最終戰鬥</>",
                     "lockedCoverDesc": "",
                     "type": "EXPEDITION_RETURN_ALL",
                     "leftDecoType": "NONE",
@@ -272347,7 +272358,7 @@
                     "id": "rogue_5_relic_fight_5",
                     "name": "賞善郎",
                     "description": "天師府學徒自行研發的考校輔助器。答對問題時，什麼也得不到；答錯時……還是別試了吧。",
-                    "usage": "幹員觸發閃避或抵擋後，下次攻擊造成的傷害+100%",
+                    "usage": "我方單位觸發閃避或抵擋後，下次攻擊造成的傷害+100%",
                     "obtainApproach": "在集成戰略模式中獲得",
                     "iconId": "rogue_5_relic_fight_5",
                     "itemIconGroupId": null,
@@ -272398,7 +272409,7 @@
                     "id": "rogue_5_relic_fight_8",
                     "name": "“螢燈映牘”",
                     "description": "校舍窗邊，家鄉盆景漸枯，而書生不忍丟棄。終有一日，盆中草不見蹤影，而盆上螢火縈繞，為他照亮了書頁。",
-                    "usage": "敵方單位被擊倒時，使周圍的我方幹員和召喚物回復300點生命值",
+                    "usage": "敵方單位被擊倒時，使周圍的我方單位回復300點生命值",
                     "obtainApproach": "在集成戰略模式中獲得",
                     "iconId": "rogue_5_relic_fight_8",
                     "itemIconGroupId": null,

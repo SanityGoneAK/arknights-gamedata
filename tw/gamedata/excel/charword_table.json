@@ -18623,7 +18623,7 @@
             "wordKey": "char_195_glassb",
             "charId": "char_195_glassb",
             "voiceId": "CN_044",
-            "voiceText": "《銀枝》《源石技藝的數學原理》《超命題邏輯》……嗯？我在整理今年看過的書單。不只是懸疑小說，涉獵各種各樣的知識，能讓我有一種安心的感覺。可以讓我相信，自己的確在往前走。",
+            "voiceText": "《銀枝》、《源石技藝的數學原理》、《超命題邏輯》……嗯？我在整理今年看過的書單。不只是懸疑小說，涉獵各種各樣的知識，能讓我有一種安心的感覺。可以讓我相信，自己的確在往前走。",
             "voiceTitle": "周年慶典",
             "voiceIndex": 44,
             "voiceType": "ENUM",
@@ -247032,6 +247032,1248 @@
             "placeType": "ANNIVERSARY",
             "voiceAsset": "char_1035_wisdel_sale#14/CN_044"
         },
+        "char_1038_whitw2_sale#15_CN_001": {
+            "charWordId": "char_1038_whitw2_sale#15_CN_001",
+            "wordKey": "char_1038_whitw2_sale#15",
+            "charId": "char_1038_whitw2",
+            "voiceId": "CN_001",
+            "voiceText": "喂，扎羅，杯子還沒有洗完？凱撒，別鑿冰塊了……都戴好禮帽，豎起耳朵，讓我們歡迎新Boss在營業前來一段震撼人心的演講。",
+            "voiceTitle": "任命助理",
+            "voiceIndex": 1,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "HOME_PLACE",
+            "voiceAsset": "char_1038_whitw2_sale#15/CN_001"
+        },
+        "char_1038_whitw2_sale#15_CN_002": {
+            "charWordId": "char_1038_whitw2_sale#15_CN_002",
+            "wordKey": "char_1038_whitw2_sale#15",
+            "charId": "char_1038_whitw2",
+            "voiceId": "CN_002",
+            "voiceText": "一家無證經營的酒吧，一位無所不能的調酒師，一條無比簡單的規則：今天之內你是Boss，主宰眼前的一切。哈哈，把那些讓你為難的願望都加進酒單吧。",
+            "voiceTitle": "交談1",
+            "voiceIndex": 2,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_1038_whitw2_sale#15/CN_002"
+        },
+        "char_1038_whitw2_sale#15_CN_003": {
+            "charWordId": "char_1038_whitw2_sale#15_CN_003",
+            "wordKey": "char_1038_whitw2_sale#15",
+            "charId": "char_1038_whitw2",
+            "voiceId": "CN_003",
+            "voiceText": "嚐嚐。這杯酒叫“邪魔日出”，是上一任Boss，那個逃難的雪祀從薩米帶來的好東西。我知道你肯定不會讓我們失望，就算最後被狼群撕碎，你的遺產也只會更多。",
+            "voiceTitle": "交談2",
+            "voiceIndex": 3,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_1038_whitw2_sale#15/CN_003"
+        },
+        "char_1038_whitw2_sale#15_CN_004": {
+            "charWordId": "char_1038_whitw2_sale#15_CN_004",
+            "wordKey": "char_1038_whitw2_sale#15",
+            "charId": "char_1038_whitw2",
+            "voiceId": "CN_004",
+            "voiceText": "收工！店交給你了，現在你有足夠的時間和空間去好好思考自己的秘密了，這是Boss的特權。扎羅，車子還沒發動好嗎？噓——忠告：員工下班後去哪裡，別多問。",
+            "voiceTitle": "交談3",
+            "voiceIndex": 4,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_1038_whitw2_sale#15/CN_004"
+        },
+        "char_1038_whitw2_sale#15_CN_005": {
+            "charWordId": "char_1038_whitw2_sale#15_CN_005",
+            "wordKey": "char_1038_whitw2_sale#15",
+            "charId": "char_1038_whitw2",
+            "voiceId": "CN_005",
+            "voiceText": "我當然喜歡這家店，沒了它，設計新遊戲的靈感該從哪裡來？無法無天？嘖，阿涅塞，告訴Boss，我們是不是每天都在等警察上門開罰單？真無奈啊，來的不是壞人就是你這樣的可憐人。",
+            "voiceTitle": "晉升後交談1",
+            "voiceIndex": 5,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "AWAKE",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                },
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_1038_whitw2_sale#15/CN_005"
+        },
+        "char_1038_whitw2_sale#15_CN_006": {
+            "charWordId": "char_1038_whitw2_sale#15_CN_006",
+            "wordKey": "char_1038_whitw2_sale#15",
+            "charId": "char_1038_whitw2",
+            "voiceId": "CN_006",
+            "voiceText": "我是說過要你做我的敵人，但這並不妨礙我實現你的願望，德克薩斯應該不陌生。這家店會成為泥潭的閥門，而你可以決定我將它轉緊還是打開。這種關係難道不比敵人有趣？",
+            "voiceTitle": "晉升後交談2",
+            "voiceIndex": 6,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "AWAKE",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 2
+                },
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_1038_whitw2_sale#15/CN_006"
+        },
+        "char_1038_whitw2_sale#15_CN_007": {
+            "charWordId": "char_1038_whitw2_sale#15_CN_007",
+            "wordKey": "char_1038_whitw2_sale#15",
+            "charId": "char_1038_whitw2",
+            "voiceId": "CN_007",
+            "voiceText": "考慮好了嗎，救世主？是安排深海教會和聖愚坐下來喝一杯，還是找死魂靈商量怎麼讓羅德島飛出星莢？哈哈，儘管吩咐，給你自己，也給我們這些員工一點挑戰！",
+            "voiceTitle": "信賴提升後交談1",
+            "voiceIndex": 7,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "FAVOR",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 40
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_1038_whitw2_sale#15/CN_007"
+        },
+        "char_1038_whitw2_sale#15_CN_008": {
+            "charWordId": "char_1038_whitw2_sale#15_CN_008",
+            "wordKey": "char_1038_whitw2_sale#15",
+            "charId": "char_1038_whitw2",
+            "voiceId": "CN_008",
+            "voiceText": "嗯，錄影裡的獨眼巨人也當過Boss。他試圖用預見的那些“悲慘未來”改寫我的規則，可惜啊，在距離換班不到五分鐘的時候，他吐血死了……欸，你也是這方面的行家吧？",
+            "voiceTitle": "信賴提升後交談2",
+            "voiceIndex": 8,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "FAVOR",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 100
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_1038_whitw2_sale#15/CN_008"
+        },
+        "char_1038_whitw2_sale#15_CN_009": {
+            "charWordId": "char_1038_whitw2_sale#15_CN_009",
+            "wordKey": "char_1038_whitw2_sale#15",
+            "charId": "char_1038_whitw2",
+            "voiceId": "CN_009",
+            "voiceText": "冰塊？睜大眼睛，Boss，酒杯裡是一塊石頭。你想見見它的主人，你的老朋友嗎？在這家店裡，你有機會徹底搞定這一切。我當然知道，我當然做得到。慘痛的代價？哈哈，我興致盎然！",
+            "voiceTitle": "信賴提升後交談3",
+            "voiceIndex": 9,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "FAVOR",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 200
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_1038_whitw2_sale#15/CN_009"
+        },
+        "char_1038_whitw2_sale#15_CN_010": {
+            "charWordId": "char_1038_whitw2_sale#15_CN_010",
+            "wordKey": "char_1038_whitw2_sale#15",
+            "charId": "char_1038_whitw2",
+            "voiceId": "CN_010",
+            "voiceText": "還沒想好？哈哈，我只是想提醒你，對調酒師來說，冰化了，酒沒動，非常不禮貌。",
+            "voiceTitle": "閒置",
+            "voiceIndex": 10,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "HOME_WAIT",
+            "voiceAsset": "char_1038_whitw2_sale#15/CN_010"
+        },
+        "char_1038_whitw2_sale#15_CN_011": {
+            "charWordId": "char_1038_whitw2_sale#15_CN_011",
+            "wordKey": "char_1038_whitw2_sale#15",
+            "charId": "char_1038_whitw2",
+            "voiceId": "CN_011",
+            "voiceText": "哈哈，不必脫帽，您現在就是這家酒吧的Boss。拉普蘭德與她的狼群，竭誠為您服務。",
+            "voiceTitle": "幹員報到",
+            "voiceIndex": 11,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "GACHA",
+            "voiceAsset": "char_1038_whitw2_sale#15/CN_011"
+        },
+        "char_1038_whitw2_sale#15_CN_012": {
+            "charWordId": "char_1038_whitw2_sale#15_CN_012",
+            "wordKey": "char_1038_whitw2_sale#15",
+            "charId": "char_1038_whitw2",
+            "voiceId": "CN_012",
+            "voiceText": "大地之上無新事。",
+            "voiceTitle": "觀看作戰記錄",
+            "voiceIndex": 12,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "LEVEL_UP",
+            "voiceAsset": "char_1038_whitw2_sale#15/CN_012"
+        },
+        "char_1038_whitw2_sale#15_CN_013": {
+            "charWordId": "char_1038_whitw2_sale#15_CN_013",
+            "wordKey": "char_1038_whitw2_sale#15",
+            "charId": "char_1038_whitw2",
+            "voiceId": "CN_013",
+            "voiceText": "恭喜你，我和狼群暫時還沒失去耐心。",
+            "voiceTitle": "精英化晉升1",
+            "voiceIndex": 13,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "AWAKE",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                },
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "EVOLVE_ONE",
+            "voiceAsset": "char_1038_whitw2_sale#15/CN_013"
+        },
+        "char_1038_whitw2_sale#15_CN_014": {
+            "charWordId": "char_1038_whitw2_sale#15_CN_014",
+            "wordKey": "char_1038_whitw2_sale#15",
+            "charId": "char_1038_whitw2",
+            "voiceId": "CN_014",
+            "voiceText": "發自肺腑地向你致謝，Boss，你讓我們在工作時很有激情——至少現在還是。",
+            "voiceTitle": "精英化晉升2",
+            "voiceIndex": 14,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "AWAKE",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 2
+                },
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "EVOLVE_TWO",
+            "voiceAsset": "char_1038_whitw2_sale#15/CN_014"
+        },
+        "char_1038_whitw2_sale#15_CN_017": {
+            "charWordId": "char_1038_whitw2_sale#15_CN_017",
+            "wordKey": "char_1038_whitw2_sale#15",
+            "charId": "char_1038_whitw2",
+            "voiceId": "CN_017",
+            "voiceText": "喂，瓦古，倒杯威士忌給我和Boss漱漱口。",
+            "voiceTitle": "編入隊伍",
+            "voiceIndex": 17,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "SQUAD",
+            "voiceAsset": "char_1038_whitw2_sale#15/CN_017"
+        },
+        "char_1038_whitw2_sale#15_CN_018": {
+            "charWordId": "char_1038_whitw2_sale#15_CN_018",
+            "wordKey": "char_1038_whitw2_sale#15",
+            "charId": "char_1038_whitw2",
+            "voiceId": "CN_018",
+            "voiceText": "我還是更期待你來告訴我，何為“秩序”。",
+            "voiceTitle": "任命隊長",
+            "voiceIndex": 18,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "SQUAD_FIRST",
+            "voiceAsset": "char_1038_whitw2_sale#15/CN_018"
+        },
+        "char_1038_whitw2_sale#15_CN_019": {
+            "charWordId": "char_1038_whitw2_sale#15_CN_019",
+            "wordKey": "char_1038_whitw2_sale#15",
+            "charId": "char_1038_whitw2",
+            "voiceId": "CN_019",
+            "voiceText": "提前營業？你說了算，Boss。",
+            "voiceTitle": "行動出發",
+            "voiceIndex": 19,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_START",
+            "voiceAsset": "char_1038_whitw2_sale#15/CN_019"
+        },
+        "char_1038_whitw2_sale#15_CN_020": {
+            "charWordId": "char_1038_whitw2_sale#15_CN_020",
+            "wordKey": "char_1038_whitw2_sale#15",
+            "charId": "char_1038_whitw2",
+            "voiceId": "CN_020",
+            "voiceText": "嚼冰塊嗎？止痛，還能保持清醒。",
+            "voiceTitle": "行動開始",
+            "voiceIndex": 20,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_FACE_ENEMY",
+            "voiceAsset": "char_1038_whitw2_sale#15/CN_020"
+        },
+        "char_1038_whitw2_sale#15_CN_021": {
+            "charWordId": "char_1038_whitw2_sale#15_CN_021",
+            "wordKey": "char_1038_whitw2_sale#15",
+            "charId": "char_1038_whitw2",
+            "voiceId": "CN_021",
+            "voiceText": "喂，扎羅，耐心一點！",
+            "voiceTitle": "選中幹員1",
+            "voiceIndex": 21,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SELECT",
+            "voiceAsset": "char_1038_whitw2_sale#15/CN_021"
+        },
+        "char_1038_whitw2_sale#15_CN_022": {
+            "charWordId": "char_1038_whitw2_sale#15_CN_022",
+            "wordKey": "char_1038_whitw2_sale#15",
+            "charId": "char_1038_whitw2",
+            "voiceId": "CN_022",
+            "voiceText": "哈哈，我打哈欠了嗎？",
+            "voiceTitle": "選中幹員2",
+            "voiceIndex": 22,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SELECT",
+            "voiceAsset": "char_1038_whitw2_sale#15/CN_022"
+        },
+        "char_1038_whitw2_sale#15_CN_023": {
+            "charWordId": "char_1038_whitw2_sale#15_CN_023",
+            "wordKey": "char_1038_whitw2_sale#15",
+            "charId": "char_1038_whitw2",
+            "voiceId": "CN_023",
+            "voiceText": "有趣~阿涅塞、瓦古，別擋著我。",
+            "voiceTitle": "部署1",
+            "voiceIndex": 23,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_PLACE",
+            "voiceAsset": "char_1038_whitw2_sale#15/CN_023"
+        },
+        "char_1038_whitw2_sale#15_CN_024": {
+            "charWordId": "char_1038_whitw2_sale#15_CN_024",
+            "wordKey": "char_1038_whitw2_sale#15",
+            "charId": "char_1038_whitw2",
+            "voiceId": "CN_024",
+            "voiceText": "無聊~扎羅、凱撒，趕快清場。",
+            "voiceTitle": "部署2",
+            "voiceIndex": 24,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_PLACE",
+            "voiceAsset": "char_1038_whitw2_sale#15/CN_024"
+        },
+        "char_1038_whitw2_sale#15_CN_025": {
+            "charWordId": "char_1038_whitw2_sale#15_CN_025",
+            "wordKey": "char_1038_whitw2_sale#15",
+            "charId": "char_1038_whitw2",
+            "voiceId": "CN_025",
+            "voiceText": "酒單——“文明經典”。",
+            "voiceTitle": "作戰中1",
+            "voiceIndex": 25,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SKILL_1",
+            "voiceAsset": "char_1038_whitw2_sale#15/CN_025"
+        },
+        "char_1038_whitw2_sale#15_CN_026": {
+            "charWordId": "char_1038_whitw2_sale#15_CN_026",
+            "wordKey": "char_1038_whitw2_sale#15",
+            "charId": "char_1038_whitw2",
+            "voiceId": "CN_026",
+            "voiceText": "酒單——“荒野特調”。",
+            "voiceTitle": "作戰中2",
+            "voiceIndex": 26,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SKILL_2",
+            "voiceAsset": "char_1038_whitw2_sale#15/CN_026"
+        },
+        "char_1038_whitw2_sale#15_CN_027": {
+            "charWordId": "char_1038_whitw2_sale#15_CN_027",
+            "wordKey": "char_1038_whitw2_sale#15",
+            "charId": "char_1038_whitw2",
+            "voiceId": "CN_027",
+            "voiceText": "調酒師心情——“泥潭訂製”。",
+            "voiceTitle": "作戰中3",
+            "voiceIndex": 27,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SKILL_3",
+            "voiceAsset": "char_1038_whitw2_sale#15/CN_027"
+        },
+        "char_1038_whitw2_sale#15_CN_028": {
+            "charWordId": "char_1038_whitw2_sale#15_CN_028",
+            "wordKey": "char_1038_whitw2_sale#15",
+            "charId": "char_1038_whitw2",
+            "voiceId": "CN_028",
+            "voiceText": "Happy Hour！",
+            "voiceTitle": "作戰中4",
+            "voiceIndex": 28,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SKILL_4",
+            "voiceAsset": "char_1038_whitw2_sale#15/CN_028"
+        },
+        "char_1038_whitw2_sale#15_CN_029": {
+            "charWordId": "char_1038_whitw2_sale#15_CN_029",
+            "wordKey": "char_1038_whitw2_sale#15",
+            "charId": "char_1038_whitw2",
+            "voiceId": "CN_029",
+            "voiceText": "全場免費。",
+            "voiceTitle": "完成高難行動",
+            "voiceIndex": 29,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "FOUR_STAR",
+            "voiceAsset": "char_1038_whitw2_sale#15/CN_029"
+        },
+        "char_1038_whitw2_sale#15_CN_030": {
+            "charWordId": "char_1038_whitw2_sale#15_CN_030",
+            "wordKey": "char_1038_whitw2_sale#15",
+            "charId": "char_1038_whitw2",
+            "voiceId": "CN_030",
+            "voiceText": "做得不錯，好久沒見到這群狼這麼有熱情了。",
+            "voiceTitle": "3星結束行動",
+            "voiceIndex": 30,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "THREE_STAR",
+            "voiceAsset": "char_1038_whitw2_sale#15/CN_030"
+        },
+        "char_1038_whitw2_sale#15_CN_031": {
+            "charWordId": "char_1038_whitw2_sale#15_CN_031",
+            "wordKey": "char_1038_whitw2_sale#15",
+            "charId": "char_1038_whitw2",
+            "voiceId": "CN_031",
+            "voiceText": "這就是你想要的？你知道讓我期待落空的代價吧，Boss？",
+            "voiceTitle": "非3星結束行動",
+            "voiceIndex": 31,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "TWO_STAR",
+            "voiceAsset": "char_1038_whitw2_sale#15/CN_031"
+        },
+        "char_1038_whitw2_sale#15_CN_032": {
+            "charWordId": "char_1038_whitw2_sale#15_CN_032",
+            "wordKey": "char_1038_whitw2_sale#15",
+            "charId": "char_1038_whitw2",
+            "voiceId": "CN_032",
+            "voiceText": "新Boss什麼時候來呢……扎羅，這個人為什麼還沒消失？",
+            "voiceTitle": "行動失敗",
+            "voiceIndex": 32,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "LOSE",
+            "voiceAsset": "char_1038_whitw2_sale#15/CN_032"
+        },
+        "char_1038_whitw2_sale#15_CN_033": {
+            "charWordId": "char_1038_whitw2_sale#15_CN_033",
+            "wordKey": "char_1038_whitw2_sale#15",
+            "charId": "char_1038_whitw2",
+            "voiceId": "CN_033",
+            "voiceText": "你打算用這樣的裝潢招攬客人？",
+            "voiceTitle": "進駐設施",
+            "voiceIndex": 33,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BUILDING_PLACE",
+            "voiceAsset": "char_1038_whitw2_sale#15/CN_033"
+        },
+        "char_1038_whitw2_sale#15_CN_034": {
+            "charWordId": "char_1038_whitw2_sale#15_CN_034",
+            "wordKey": "char_1038_whitw2_sale#15",
+            "charId": "char_1038_whitw2",
+            "voiceId": "CN_034",
+            "voiceText": "吃橄欖嗎？是的，我又換口味了。",
+            "voiceTitle": "戳一下",
+            "voiceIndex": 34,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BUILDING_TOUCHING",
+            "voiceAsset": "char_1038_whitw2_sale#15/CN_034"
+        },
+        "char_1038_whitw2_sale#15_CN_036": {
+            "charWordId": "char_1038_whitw2_sale#15_CN_036",
+            "wordKey": "char_1038_whitw2_sale#15",
+            "charId": "char_1038_whitw2",
+            "voiceId": "CN_036",
+            "voiceText": "扎羅，啃下Boss半個腦袋，我要看看裡面裝著什麼。",
+            "voiceTitle": "信賴觸摸",
+            "voiceIndex": 36,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BUILDING_FAVOR_BUBBLE",
+            "voiceAsset": "char_1038_whitw2_sale#15/CN_036"
+        },
+        "char_1038_whitw2_sale#15_CN_037": {
+            "charWordId": "char_1038_whitw2_sale#15_CN_037",
+            "wordKey": "char_1038_whitw2_sale#15",
+            "charId": "char_1038_whitw2",
+            "voiceId": "CN_037",
+            "voiceText": "明日方舟。",
+            "voiceTitle": "標題",
+            "voiceIndex": 37,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "LOADING_PANEL",
+            "voiceAsset": "char_1038_whitw2_sale#15/CN_037"
+        },
+        "char_1038_whitw2_sale#15_CN_038": {
+            "charWordId": "char_1038_whitw2_sale#15_CN_038",
+            "wordKey": "char_1038_whitw2_sale#15",
+            "charId": "char_1038_whitw2",
+            "voiceId": "CN_038",
+            "voiceText": "給你，伏特加馬丁尼，加了五顆橄欖。不必有心理負擔，只是嚐嚐員工調的酒而已。追加一杯，再好好講講你拯救或者毀滅泰拉的大計劃，這才是我為你準備的新年禮物。",
+            "voiceTitle": "新年祝福",
+            "voiceIndex": 38,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "NEW_YEAR",
+            "voiceAsset": "char_1038_whitw2_sale#15/CN_038"
+        },
+        "char_1038_whitw2_sale#15_CN_042": {
+            "charWordId": "char_1038_whitw2_sale#15_CN_042",
+            "wordKey": "char_1038_whitw2_sale#15",
+            "charId": "char_1038_whitw2",
+            "voiceId": "CN_042",
+            "voiceText": "友情提示——留給我聽你發號施令的時間不多了。",
+            "voiceTitle": "問候",
+            "voiceIndex": 42,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "GREETING",
+            "voiceAsset": "char_1038_whitw2_sale#15/CN_042"
+        },
+        "char_1038_whitw2_sale#15_CN_043": {
+            "charWordId": "char_1038_whitw2_sale#15_CN_043",
+            "wordKey": "char_1038_whitw2_sale#15",
+            "charId": "char_1038_whitw2",
+            "voiceId": "CN_043",
+            "voiceText": "理解理解，明明是平時思考了千百遍的事情，在生日這天一本正經地說出來，成真的機率會翻倍嘛——喂，我和狼群就在面前，你為什麼要閉著眼睛許願？",
+            "voiceTitle": "生日",
+            "voiceIndex": 43,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BIRTHDAY",
+            "voiceAsset": "char_1038_whitw2_sale#15/CN_043"
+        },
+        "char_1038_whitw2_sale#15_CN_044": {
+            "charWordId": "char_1038_whitw2_sale#15_CN_044",
+            "wordKey": "char_1038_whitw2_sale#15",
+            "charId": "char_1038_whitw2",
+            "voiceId": "CN_044",
+            "voiceText": "一艘船，億萬人的命運，哈哈，你還真是一點長進都沒有。不過我確實猜不到，最終你會為此燒毀什麼、留下什麼……那時候的驚喜，便是我向你討要的報酬，Boss。",
+            "voiceTitle": "周年慶典",
+            "voiceIndex": 44,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "ANNIVERSARY",
+            "voiceAsset": "char_1038_whitw2_sale#15/CN_044"
+        },
+        "char_4134_cetsyr_epoque#50_CN_001": {
+            "charWordId": "char_4134_cetsyr_epoque#50_CN_001",
+            "wordKey": "char_4134_cetsyr_epoque#50",
+            "charId": "char_4134_cetsyr",
+            "voiceId": "CN_001",
+            "voiceText": "記憶化作殿堂，結構會比萊塔尼亞人的樂器還要精巧，比死魂靈的囈語更難解。支撐起整座殿堂的梁柱，也許只是一口湯的味道。而這座殿堂，與其說是磚石蓋成，不如說是絲線織就……",
+            "voiceTitle": "任命助理",
+            "voiceIndex": 1,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "HOME_PLACE",
+            "voiceAsset": "char_4134_cetsyr_epoque#50/CN_001"
+        },
+        "char_4134_cetsyr_epoque#50_CN_002": {
+            "charWordId": "char_4134_cetsyr_epoque#50_CN_002",
+            "wordKey": "char_4134_cetsyr_epoque#50",
+            "charId": "char_4134_cetsyr",
+            "voiceId": "CN_002",
+            "voiceText": "在特蕾西婭的記憶中，深潛是一件古怪的事。這一切早已存在於我之中，但我探索這些記憶……就像一個讀者。這很古怪……這份深潛記錄，我是不會對你開放的，博士。",
+            "voiceTitle": "交談1",
+            "voiceIndex": 2,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4134_cetsyr_epoque#50/CN_002"
+        },
+        "char_4134_cetsyr_epoque#50_CN_003": {
+            "charWordId": "char_4134_cetsyr_epoque#50_CN_003",
+            "wordKey": "char_4134_cetsyr_epoque#50",
+            "charId": "char_4134_cetsyr",
+            "voiceId": "CN_003",
+            "voiceText": "衛國戰爭，它讓一個衣匠成了英雄，又讓英雄成了魔王……嗯，這裡就是開端：特雷西斯捶響房門，特蕾西婭放下了剪刀。打開門發現，傍晚下起了暴雨。",
+            "voiceTitle": "交談2",
+            "voiceIndex": 3,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4134_cetsyr_epoque#50/CN_003"
+        },
+        "char_4134_cetsyr_epoque#50_CN_004": {
+            "charWordId": "char_4134_cetsyr_epoque#50_CN_004",
+            "wordKey": "char_4134_cetsyr_epoque#50",
+            "charId": "char_4134_cetsyr",
+            "voiceId": "CN_004",
+            "voiceText": "那天，那位歌利亞衝出城門斬首了一個高盧軍官，我們才緩了口氣。他拿回了高盧人的外套，但只是從側面口袋裡拿出一塊糖，讓我帶給一個傷兵……但我沒能送到，也沒能忍心告訴他這件事。",
+            "voiceTitle": "交談3",
+            "voiceIndex": 4,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4134_cetsyr_epoque#50/CN_004"
+        },
+        "char_4134_cetsyr_epoque#50_CN_005": {
+            "charWordId": "char_4134_cetsyr_epoque#50_CN_005",
+            "wordKey": "char_4134_cetsyr_epoque#50",
+            "charId": "char_4134_cetsyr",
+            "voiceId": "CN_005",
+            "voiceText": "我們抓住了唯一的勝機。凱爾希本不打算殺死以勒什，她想將黑冠從薩卡茲的傳承中剝離，而“懦弱的魔王”以僅有的方法阻撓了她。戰爭就這樣被延長了……直到特雷西斯得以揮出那一劍。",
+            "voiceTitle": "晉升後交談1",
+            "voiceIndex": 5,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "AWAKE",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                },
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4134_cetsyr_epoque#50/CN_005"
+        },
+        "char_4134_cetsyr_epoque#50_CN_006": {
+            "charWordId": "char_4134_cetsyr_epoque#50_CN_006",
+            "wordKey": "char_4134_cetsyr_epoque#50",
+            "charId": "char_4134_cetsyr",
+            "voiceId": "CN_006",
+            "voiceText": "凱爾希從“繭”中重生的那一刻，我也猶豫過，但她的眼神竟有些熟悉。戴上黑冠後，我時而見到……我想，也許我們不是必須成為敵人。我很慶幸我那麼想了。",
+            "voiceTitle": "晉升後交談2",
+            "voiceIndex": 6,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "AWAKE",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 2
+                },
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4134_cetsyr_epoque#50/CN_006"
+        },
+        "char_4134_cetsyr_epoque#50_CN_007": {
+            "charWordId": "char_4134_cetsyr_epoque#50_CN_007",
+            "wordKey": "char_4134_cetsyr_epoque#50",
+            "charId": "char_4134_cetsyr",
+            "voiceId": "CN_007",
+            "voiceText": "那時貝爾莎已經不年輕了，老師說沒想到她會來。貝爾莎笑著說，反正她那個牙尖嘴利的學徒跑不了了，就算她死在卡茲戴爾也沒關係。她和我們開過那麼多玩笑，我唯獨，不喜歡這一個……",
+            "voiceTitle": "信賴提升後交談1",
+            "voiceIndex": 7,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "FAVOR",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 40
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4134_cetsyr_epoque#50/CN_007"
+        },
+        "char_4134_cetsyr_epoque#50_CN_008": {
+            "charWordId": "char_4134_cetsyr_epoque#50_CN_008",
+            "wordKey": "char_4134_cetsyr_epoque#50",
+            "charId": "char_4134_cetsyr",
+            "voiceId": "CN_008",
+            "voiceText": "這個秘密我守了很久……那次換防，老師的布條纏在了一個卡普里尼腦袋的角上，他絆了一跤。我沒有笑。真的沒有。嗯……直到我告訴了阿米婭。反正她總會知道的。",
+            "voiceTitle": "信賴提升後交談2",
+            "voiceIndex": 8,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "FAVOR",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 100
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4134_cetsyr_epoque#50/CN_008"
+        },
+        "char_4134_cetsyr_epoque#50_CN_009": {
+            "charWordId": "char_4134_cetsyr_epoque#50_CN_009",
+            "wordKey": "char_4134_cetsyr_epoque#50",
+            "charId": "char_4134_cetsyr",
+            "voiceId": "CN_009",
+            "voiceText": "特雷西斯總是不笑。我戳過他的眉頭那麼多次，他就是改不了。但……勝利的那一天，我們以為終於結束了，終於能回家了的時候，我看到他笑了。下一刻，那頂小小的王冠浮在了我們中間。",
+            "voiceTitle": "信賴提升後交談3",
+            "voiceIndex": 9,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "FAVOR",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 200
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4134_cetsyr_epoque#50/CN_009"
+        },
+        "char_4134_cetsyr_epoque#50_CN_010": {
+            "charWordId": "char_4134_cetsyr_epoque#50_CN_010",
+            "wordKey": "char_4134_cetsyr_epoque#50",
+            "charId": "char_4134_cetsyr",
+            "voiceId": "CN_010",
+            "voiceText": "有一次，我六十個小時沒有閉眼，菈瑪蓮為了強迫我睡覺，唱了一首歌給我聽……那是我第一次聽到女妖除了輓歌之外的歌聲。雖然，我只聽了一句半就睡著了……",
+            "voiceTitle": "閒置",
+            "voiceIndex": 10,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "HOME_WAIT",
+            "voiceAsset": "char_4134_cetsyr_epoque#50/CN_010"
+        },
+        "char_4134_cetsyr_epoque#50_CN_011": {
+            "charWordId": "char_4134_cetsyr_epoque#50_CN_011",
+            "wordKey": "char_4134_cetsyr_epoque#50",
+            "charId": "char_4134_cetsyr",
+            "voiceId": "CN_011",
+            "voiceText": "這份深潛記錄只屬於我。它們離你很遙遠，甚至離“那之前”的你也是。這是兩百年前的故事，是泰拉的特蕾西婭的過去。但如果設想有一位旅伴……",
+            "voiceTitle": "幹員報到",
+            "voiceIndex": 11,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "GACHA",
+            "voiceAsset": "char_4134_cetsyr_epoque#50/CN_011"
+        },
+        "char_4134_cetsyr_epoque#50_CN_012": {
+            "charWordId": "char_4134_cetsyr_epoque#50_CN_012",
+            "wordKey": "char_4134_cetsyr_epoque#50",
+            "charId": "char_4134_cetsyr",
+            "voiceId": "CN_012",
+            "voiceText": "……即使走過戰爭築起的迴廊，也很少見到戰場廝殺的畫面。當然，她想要銘記的不會是那些。",
+            "voiceTitle": "觀看作戰記錄",
+            "voiceIndex": 12,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "LEVEL_UP",
+            "voiceAsset": "char_4134_cetsyr_epoque#50/CN_012"
+        },
+        "char_4134_cetsyr_epoque#50_CN_013": {
+            "charWordId": "char_4134_cetsyr_epoque#50_CN_013",
+            "wordKey": "char_4134_cetsyr_epoque#50",
+            "charId": "char_4134_cetsyr",
+            "voiceId": "CN_013",
+            "voiceText": "如果這只是一段探索記憶的旅程，它該是愉快的……這裡最堅固、柔韌、光潔的絲線，總是與希望、信任和愛有關。我明白她的意思。我當然能。",
+            "voiceTitle": "精英化晉升1",
+            "voiceIndex": 13,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "AWAKE",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                },
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "EVOLVE_ONE",
+            "voiceAsset": "char_4134_cetsyr_epoque#50/CN_013"
+        },
+        "char_4134_cetsyr_epoque#50_CN_014": {
+            "charWordId": "char_4134_cetsyr_epoque#50_CN_014",
+            "wordKey": "char_4134_cetsyr_epoque#50",
+            "charId": "char_4134_cetsyr",
+            "voiceId": "CN_014",
+            "voiceText": "所有這些被珍重的記憶、愉快的記憶，看得越多，越使我感受到另一種情感。這種情感該是叫做“哀悼”。我哀悼……她。",
+            "voiceTitle": "精英化晉升2",
+            "voiceIndex": 14,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "AWAKE",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 2
+                },
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "EVOLVE_TWO",
+            "voiceAsset": "char_4134_cetsyr_epoque#50/CN_014"
+        },
+        "char_4134_cetsyr_epoque#50_CN_017": {
+            "charWordId": "char_4134_cetsyr_epoque#50_CN_017",
+            "wordKey": "char_4134_cetsyr_epoque#50",
+            "charId": "char_4134_cetsyr",
+            "voiceId": "CN_017",
+            "voiceText": "我知道。還沒到能休息的時候。",
+            "voiceTitle": "編入隊伍",
+            "voiceIndex": 17,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "SQUAD",
+            "voiceAsset": "char_4134_cetsyr_epoque#50/CN_017"
+        },
+        "char_4134_cetsyr_epoque#50_CN_018": {
+            "charWordId": "char_4134_cetsyr_epoque#50_CN_018",
+            "wordKey": "char_4134_cetsyr_epoque#50",
+            "charId": "char_4134_cetsyr",
+            "voiceId": "CN_018",
+            "voiceText": "那麼，一定要服從我的指揮。",
+            "voiceTitle": "任命隊長",
+            "voiceIndex": 18,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "SQUAD_FIRST",
+            "voiceAsset": "char_4134_cetsyr_epoque#50/CN_018"
+        },
+        "char_4134_cetsyr_epoque#50_CN_019": {
+            "charWordId": "char_4134_cetsyr_epoque#50_CN_019",
+            "wordKey": "char_4134_cetsyr_epoque#50",
+            "charId": "char_4134_cetsyr",
+            "voiceId": "CN_019",
+            "voiceText": "有增援的消息嗎？歌利亞那邊怎麼樣了？",
+            "voiceTitle": "行動出發",
+            "voiceIndex": 19,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_START",
+            "voiceAsset": "char_4134_cetsyr_epoque#50/CN_019"
+        },
+        "char_4134_cetsyr_epoque#50_CN_020": {
+            "charWordId": "char_4134_cetsyr_epoque#50_CN_020",
+            "wordKey": "char_4134_cetsyr_epoque#50",
+            "charId": "char_4134_cetsyr",
+            "voiceId": "CN_020",
+            "voiceText": "……只能這樣上了。沒關係，我們會找到機會的。",
+            "voiceTitle": "行動開始",
+            "voiceIndex": 20,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_FACE_ENEMY",
+            "voiceAsset": "char_4134_cetsyr_epoque#50/CN_020"
+        },
+        "char_4134_cetsyr_epoque#50_CN_021": {
+            "charWordId": "char_4134_cetsyr_epoque#50_CN_021",
+            "wordKey": "char_4134_cetsyr_epoque#50",
+            "charId": "char_4134_cetsyr",
+            "voiceId": "CN_021",
+            "voiceText": "是宗長的調令？知道了。",
+            "voiceTitle": "選中幹員1",
+            "voiceIndex": 21,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SELECT",
+            "voiceAsset": "char_4134_cetsyr_epoque#50/CN_021"
+        },
+        "char_4134_cetsyr_epoque#50_CN_022": {
+            "charWordId": "char_4134_cetsyr_epoque#50_CN_022",
+            "wordKey": "char_4134_cetsyr_epoque#50",
+            "charId": "char_4134_cetsyr",
+            "voiceId": "CN_022",
+            "voiceText": "血魔已經在路上了？好，我會守住這裡。",
+            "voiceTitle": "選中幹員2",
+            "voiceIndex": 22,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SELECT",
+            "voiceAsset": "char_4134_cetsyr_epoque#50/CN_022"
+        },
+        "char_4134_cetsyr_epoque#50_CN_023": {
+            "charWordId": "char_4134_cetsyr_epoque#50_CN_023",
+            "wordKey": "char_4134_cetsyr_epoque#50",
+            "charId": "char_4134_cetsyr",
+            "voiceId": "CN_023",
+            "voiceText": "占領前方高地，必須讓石翼魔修好這段工事。",
+            "voiceTitle": "部署1",
+            "voiceIndex": 23,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_PLACE",
+            "voiceAsset": "char_4134_cetsyr_epoque#50/CN_023"
+        },
+        "char_4134_cetsyr_epoque#50_CN_024": {
+            "charWordId": "char_4134_cetsyr_epoque#50_CN_024",
+            "wordKey": "char_4134_cetsyr_epoque#50",
+            "charId": "char_4134_cetsyr",
+            "voiceId": "CN_024",
+            "voiceText": "不能再後退了。我留下，你們去通知貝爾莎。",
+            "voiceTitle": "部署2",
+            "voiceIndex": 24,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_PLACE",
+            "voiceAsset": "char_4134_cetsyr_epoque#50/CN_024"
+        },
+        "char_4134_cetsyr_epoque#50_CN_025": {
+            "charWordId": "char_4134_cetsyr_epoque#50_CN_025",
+            "wordKey": "char_4134_cetsyr_epoque#50",
+            "charId": "char_4134_cetsyr",
+            "voiceId": "CN_025",
+            "voiceText": "特雷西斯，殺死他們。入侵者沒有權利在這裡舉劍。",
+            "voiceTitle": "作戰中1",
+            "voiceIndex": 25,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SKILL_1",
+            "voiceAsset": "char_4134_cetsyr_epoque#50/CN_025"
+        },
+        "char_4134_cetsyr_epoque#50_CN_026": {
+            "charWordId": "char_4134_cetsyr_epoque#50_CN_026",
+            "wordKey": "char_4134_cetsyr_epoque#50",
+            "charId": "char_4134_cetsyr",
+            "voiceId": "CN_026",
+            "voiceText": "菈瑪蓮，我會讓他們沉默。異邦人的樂音不會再干擾你的歌聲。",
+            "voiceTitle": "作戰中2",
+            "voiceIndex": 26,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SKILL_2",
+            "voiceAsset": "char_4134_cetsyr_epoque#50/CN_026"
+        },
+        "char_4134_cetsyr_epoque#50_CN_027": {
+            "charWordId": "char_4134_cetsyr_epoque#50_CN_027",
+            "wordKey": "char_4134_cetsyr_epoque#50",
+            "charId": "char_4134_cetsyr",
+            "voiceId": "CN_027",
+            "voiceText": "是你們不該出現在這裡。",
+            "voiceTitle": "作戰中3",
+            "voiceIndex": 27,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SKILL_3",
+            "voiceAsset": "char_4134_cetsyr_epoque#50/CN_027"
+        },
+        "char_4134_cetsyr_epoque#50_CN_028": {
+            "charWordId": "char_4134_cetsyr_epoque#50_CN_028",
+            "wordKey": "char_4134_cetsyr_epoque#50",
+            "charId": "char_4134_cetsyr",
+            "voiceId": "CN_028",
+            "voiceText": "你們以為能從卡茲戴爾得到什麼？",
+            "voiceTitle": "作戰中4",
+            "voiceIndex": 28,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SKILL_4",
+            "voiceAsset": "char_4134_cetsyr_epoque#50/CN_028"
+        },
+        "char_4134_cetsyr_epoque#50_CN_029": {
+            "charWordId": "char_4134_cetsyr_epoque#50_CN_029",
+            "wordKey": "char_4134_cetsyr_epoque#50",
+            "charId": "char_4134_cetsyr",
+            "voiceId": "CN_029",
+            "voiceText": "那之後，聯軍的旗幟如流水一樣退去，露出陽光下滿目瘡痍的卡茲戴爾。多少人死在了洪潮之中。但那一天我們知道，沒有什麼能淹沒我們的城市。",
+            "voiceTitle": "完成高難行動",
+            "voiceIndex": 29,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "FOUR_STAR",
+            "voiceAsset": "char_4134_cetsyr_epoque#50/CN_029"
+        },
+        "char_4134_cetsyr_epoque#50_CN_030": {
+            "charWordId": "char_4134_cetsyr_epoque#50_CN_030",
+            "wordKey": "char_4134_cetsyr_epoque#50",
+            "charId": "char_4134_cetsyr",
+            "voiceId": "CN_030",
+            "voiceText": "……必須有人思考，勝利之後又將怎樣。只是，放下剪刀的時候，特蕾西婭還沒有察覺，誰將成為這個人。",
+            "voiceTitle": "3星結束行動",
+            "voiceIndex": 30,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "THREE_STAR",
+            "voiceAsset": "char_4134_cetsyr_epoque#50/CN_030"
+        },
+        "char_4134_cetsyr_epoque#50_CN_031": {
+            "charWordId": "char_4134_cetsyr_epoque#50_CN_031",
+            "wordKey": "char_4134_cetsyr_epoque#50",
+            "charId": "char_4134_cetsyr",
+            "voiceId": "CN_031",
+            "voiceText": "全勝並不存在。用空間換取時間，用後撤拉扯攻勢，用西線的血潭交換東線的寸進，即使是特蕾西婭，也開始把一切換算成戰鬥的資源，直到……不，全勝並不存在，每個人都是代價。",
+            "voiceTitle": "非3星結束行動",
+            "voiceIndex": 31,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "TWO_STAR",
+            "voiceAsset": "char_4134_cetsyr_epoque#50/CN_031"
+        },
+        "char_4134_cetsyr_epoque#50_CN_032": {
+            "charWordId": "char_4134_cetsyr_epoque#50_CN_032",
+            "wordKey": "char_4134_cetsyr_epoque#50",
+            "charId": "char_4134_cetsyr",
+            "voiceId": "CN_032",
+            "voiceText": "……只要活著，就還沒有結束。",
+            "voiceTitle": "行動失敗",
+            "voiceIndex": 32,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "LOSE",
+            "voiceAsset": "char_4134_cetsyr_epoque#50/CN_032"
+        },
+        "char_4134_cetsyr_epoque#50_CN_033": {
+            "charWordId": "char_4134_cetsyr_epoque#50_CN_033",
+            "wordKey": "char_4134_cetsyr_epoque#50",
+            "charId": "char_4134_cetsyr",
+            "voiceId": "CN_033",
+            "voiceText": "……如果走得足夠遠，我會……嗯，不會的。我原本就認識這裡的一切。",
+            "voiceTitle": "進駐設施",
+            "voiceIndex": 33,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BUILDING_PLACE",
+            "voiceAsset": "char_4134_cetsyr_epoque#50/CN_033"
+        },
+        "char_4134_cetsyr_epoque#50_CN_034": {
+            "charWordId": "char_4134_cetsyr_epoque#50_CN_034",
+            "wordKey": "char_4134_cetsyr_epoque#50",
+            "charId": "char_4134_cetsyr",
+            "voiceId": "CN_034",
+            "voiceText": "我沒有睡著。所以，你也叫不醒我。",
+            "voiceTitle": "戳一下",
+            "voiceIndex": 34,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BUILDING_TOUCHING",
+            "voiceAsset": "char_4134_cetsyr_epoque#50/CN_034"
+        },
+        "char_4134_cetsyr_epoque#50_CN_036": {
+            "charWordId": "char_4134_cetsyr_epoque#50_CN_036",
+            "wordKey": "char_4134_cetsyr_epoque#50",
+            "charId": "char_4134_cetsyr",
+            "voiceId": "CN_036",
+            "voiceText": "其實我還記得你的手的觸感，不過，你不會記得我的了，對吧？",
+            "voiceTitle": "信賴觸摸",
+            "voiceIndex": 36,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BUILDING_FAVOR_BUBBLE",
+            "voiceAsset": "char_4134_cetsyr_epoque#50/CN_036"
+        },
+        "char_4134_cetsyr_epoque#50_CN_037": {
+            "charWordId": "char_4134_cetsyr_epoque#50_CN_037",
+            "wordKey": "char_4134_cetsyr_epoque#50",
+            "charId": "char_4134_cetsyr",
+            "voiceId": "CN_037",
+            "voiceText": "明日方舟。",
+            "voiceTitle": "標題",
+            "voiceIndex": 37,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "LOADING_PANEL",
+            "voiceAsset": "char_4134_cetsyr_epoque#50/CN_037"
+        },
+        "char_4134_cetsyr_epoque#50_CN_038": {
+            "charWordId": "char_4134_cetsyr_epoque#50_CN_038",
+            "wordKey": "char_4134_cetsyr_epoque#50",
+            "charId": "char_4134_cetsyr",
+            "voiceId": "CN_038",
+            "voiceText": "人活得越久，一年就會變得越短，過去會越發龐大，現在會越發渺小——計算上來說，是這樣的。但其實我們都很容易被騙哦。今年會是最好的一年，要相信我嗎？",
+            "voiceTitle": "新年祝福",
+            "voiceIndex": 38,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "NEW_YEAR",
+            "voiceAsset": "char_4134_cetsyr_epoque#50/CN_038"
+        },
+        "char_4134_cetsyr_epoque#50_CN_042": {
+            "charWordId": "char_4134_cetsyr_epoque#50_CN_042",
+            "wordKey": "char_4134_cetsyr_epoque#50",
+            "charId": "char_4134_cetsyr",
+            "voiceId": "CN_042",
+            "voiceText": "休息好了，繼續向前走嗎？……博士，如果你在這裡，我就可以這樣問你。如果你在的話。",
+            "voiceTitle": "問候",
+            "voiceIndex": 42,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "GREETING",
+            "voiceAsset": "char_4134_cetsyr_epoque#50/CN_042"
+        },
+        "char_4134_cetsyr_epoque#50_CN_043": {
+            "charWordId": "char_4134_cetsyr_epoque#50_CN_043",
+            "wordKey": "char_4134_cetsyr_epoque#50",
+            "charId": "char_4134_cetsyr",
+            "voiceId": "CN_043",
+            "voiceText": "其實，你可以擁有宇宙中的一切的。熱、光、引力、空間，還有存在的次序。如果沒有回到原本的終點，你會恨我嗎？即使如此……也請收下我的禮物吧，不論你擁有一切，或是一無所有。",
+            "voiceTitle": "生日",
+            "voiceIndex": 43,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BIRTHDAY",
+            "voiceAsset": "char_4134_cetsyr_epoque#50/CN_043"
+        },
+        "char_4134_cetsyr_epoque#50_CN_044": {
+            "charWordId": "char_4134_cetsyr_epoque#50_CN_044",
+            "wordKey": "char_4134_cetsyr_epoque#50",
+            "charId": "char_4134_cetsyr",
+            "voiceId": "CN_044",
+            "voiceText": "回溯記憶的時候會發現，那些夢的種子在一開始是多麼微小。你也是一樣嗎？羅德島會駛向我們共同期許的那個未來吧。這一次，我會一直在的。",
+            "voiceTitle": "周年慶典",
+            "voiceIndex": 44,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "ANNIVERSARY",
+            "voiceAsset": "char_4134_cetsyr_epoque#50/CN_044"
+        },
         "char_511_asnipe_CN_017": {
             "charWordId": "char_511_asnipe_CN_017",
             "wordKey": "char_511_asnipe",
@@ -273978,7 +275220,7 @@
                     "wordkey": "char_174_slbell",
                     "voiceLangType": "KR",
                     "cvName": [
-                        "朴高夽"
+                        "千頌伊"
                     ],
                     "voicePath": null
                 },
@@ -284294,26 +285536,58 @@
                     "voicePath": null
                 }
             }
+        },
+        "char_1038_whitw2_sale#15": {
+            "wordkeys": [
+                "char_1038_whitw2_sale#15"
+            ],
+            "charId": "char_1038_whitw2",
+            "dict": {
+                "CN_MANDARIN": {
+                    "wordkey": "char_1038_whitw2_sale#15",
+                    "voiceLangType": "CN_MANDARIN",
+                    "cvName": [
+                        "陳彥亦"
+                    ],
+                    "voicePath": null
+                },
+                "JP": {
+                    "wordkey": "char_1038_whitw2_sale#15",
+                    "voiceLangType": "JP",
+                    "cvName": [
+                        "今井麻美"
+                    ],
+                    "voicePath": null
+                }
+            }
+        },
+        "char_4134_cetsyr_epoque#50": {
+            "wordkeys": [
+                "char_4134_cetsyr_epoque#50"
+            ],
+            "charId": "char_4134_cetsyr",
+            "dict": {
+                "CN_MANDARIN": {
+                    "wordkey": "char_4134_cetsyr_epoque#50",
+                    "voiceLangType": "CN_MANDARIN",
+                    "cvName": [
+                        "季冠霖"
+                    ],
+                    "voicePath": null
+                },
+                "JP": {
+                    "wordkey": "char_4134_cetsyr_epoque#50",
+                    "voiceLangType": "JP",
+                    "cvName": [
+                        "南里侑香"
+                    ],
+                    "voicePath": null
+                }
+            }
         }
     },
     "defaultLangType": "JP",
-    "newTagList": [
-        "char_4196_reckpr",
-        "char_1043_leizi2",
-        "char_4195_radian",
-        "char_4202_haruka",
-        "char_4203_kichi",
-        "char_4199_makiri",
-        "char_1044_hsgma2",
-        "char_4182_oblvns",
-        "char_4183_mortis",
-        "char_4184_dolris",
-        "char_4185_amoris",
-        "char_4186_tmoris",
-        "char_4204_mantra",
-        "char_4207_branch",
-        "char_4208_wintim"
-    ],
+    "newTagList": null,
     "voiceLangTypeDict": {
         "CN_MANDARIN": {
             "name": "中文-普通話",
@@ -284866,6 +286140,10 @@
             }
         ],
         "KR": [
+            {
+                "timestamp": 1781078400,
+                "charSet": []
+            },
             {
                 "timestamp": 1776844800,
                 "charSet": [
@@ -285475,6 +286753,10 @@
             }
         ],
         "EN": [
+            {
+                "timestamp": 1781078400,
+                "charSet": []
+            },
             {
                 "timestamp": 1776844800,
                 "charSet": [
@@ -286195,8 +287477,8 @@
                 {
                     "timeType": "FESTIVAL",
                     "interval": {
-                        "startTs": 1751004000,
-                        "endTs": 1751227199
+                        "startTs": 1781078400,
+                        "endTs": 1781380799
                     }
                 }
             ]

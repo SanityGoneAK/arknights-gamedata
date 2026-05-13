@@ -12653,6 +12653,72 @@
         {
             "sounds": [
                 {
+                    "asset": "Audio/Sound_Beta_2/Construction/c_furni/c_furni_frostEffigy_begin",
+                    "weight": 1.0,
+                    "important": false,
+                    "is2D": true,
+                    "delay": 0.2,
+                    "minPitch": 1.0,
+                    "maxPitch": 1.0,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 0,
+            "popOldest": false,
+            "customMixerGroup": null,
+            "loop": false,
+            "name": "ui.ON_FURNITURE_INTERACT.furni_act67d0_frostEffigy_01_Start_OnEnter",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
+                    "asset": "Audio/Sound_Beta_2/Construction/c_furni/c_furni_jadeTable_begin",
+                    "weight": 1.0,
+                    "important": false,
+                    "is2D": true,
+                    "delay": 0.3,
+                    "minPitch": 1.0,
+                    "maxPitch": 1.0,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 0,
+            "popOldest": false,
+            "customMixerGroup": null,
+            "loop": false,
+            "name": "ui.ON_FURNITURE_INTERACT.furni_act63d2_jadeTable_01_Begin_OnEnter",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
+                    "asset": "Audio/Sound_Beta_2/Construction/c_furni/c_furni_jadeTable_end",
+                    "weight": 1.0,
+                    "important": false,
+                    "is2D": true,
+                    "delay": 0.0,
+                    "minPitch": 1.0,
+                    "maxPitch": 1.0,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 0,
+            "popOldest": false,
+            "customMixerGroup": null,
+            "loop": false,
+            "name": "ui.ON_FURNITURE_INTERACT.furni_act63d2_jadeTable_01_End_OnEnter",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
                     "asset": "Audio/Sound_Beta_2/Construction/c_furni/c_furni_woodenHorse_begin",
                     "weight": 1.0,
                     "important": false,
@@ -12670,6 +12736,28 @@
             "customMixerGroup": null,
             "loop": false,
             "name": "ui.ON_FURNITURE_INTERACT.furni_act68d4_woodenHorse_01_Begin_OnEnter",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
+                    "asset": "Audio/Sound_Beta_2/Construction/c_furni/c_furni_docCake_begin",
+                    "weight": 1.0,
+                    "important": false,
+                    "is2D": true,
+                    "delay": 0.0,
+                    "minPitch": 1.0,
+                    "maxPitch": 1.0,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 0,
+            "popOldest": false,
+            "customMixerGroup": null,
+            "loop": false,
+            "name": "ui.ON_FURNITURE_INTERACT.furni_act68d4_docCake_01_Begin_OnEnter",
             "mixerDesc": null
         },
         {
@@ -229992,6 +230080,1084 @@
         {
             "sounds": [
                 {
+                    "asset": "Audio/Sound_Beta_2/Player/p_imp/p_imp_swcvr",
+                    "weight": 1.0,
+                    "important": false,
+                    "is2D": false,
+                    "delay": 0.0,
+                    "minPitch": 0.8,
+                    "maxPitch": 1.2,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 1,
+            "popOldest": false,
+            "customMixerGroup": "Battle_P_SImp",
+            "loop": false,
+            "name": "battle.ON_CUSTOM_TRIGGER.sbell2_snow_refresh_audio",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
+                    "asset": "Audio/Sound_Beta_2/Player/p_imp/p_imp_swlprdbl_n",
+                    "weight": 1.0,
+                    "important": false,
+                    "is2D": false,
+                    "delay": 0.0,
+                    "minPitch": 0.8,
+                    "maxPitch": 1.2,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 2,
+            "popOldest": true,
+            "customMixerGroup": "Battle_P_SImp",
+            "loop": false,
+            "name": "battle.ON_CUSTOM_TRIGGER.sbell2_snow_tile_enter_damage_audio",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
+                    "asset": "Audio/Sound_Beta_2/Player/p_skill/p_skill_swlprdbl",
+                    "weight": 1.0,
+                    "important": true,
+                    "is2D": false,
+                    "delay": 0.0,
+                    "minPitch": 1.0,
+                    "maxPitch": 1.0,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 2,
+            "popOldest": true,
+            "customMixerGroup": "Battle_P_SImp",
+            "loop": false,
+            "name": "battle.ON_CUSTOM_TRIGGER.sbell2_talent_heal_audio",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
+                    "asset": "Audio/Sound_Beta_2/Player/p_imp/p_imp_swcvr_h",
+                    "weight": 1.0,
+                    "important": false,
+                    "is2D": false,
+                    "delay": 0.0,
+                    "minPitch": 0.8,
+                    "maxPitch": 1.2,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 2,
+            "popOldest": true,
+            "customMixerGroup": "Battle_P_SImp",
+            "loop": false,
+            "name": "battle.ON_CUSTOM_TRIGGER.sbell2_skill2_dot_audio",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
+                    "asset": "Audio/Sound_Beta_2/Enemy/e_imp/e_imp_swcnrt_h_u",
+                    "weight": 1.0,
+                    "important": false,
+                    "is2D": false,
+                    "delay": 0.0,
+                    "minPitch": 1.0,
+                    "maxPitch": 1.0,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 2,
+            "popOldest": true,
+            "customMixerGroup": "Battle_BE_NImp",
+            "loop": false,
+            "name": "battle.ON_CUSTOM_TRIGGER.enemy_icecage_buff_01",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
+                    "asset": "Audio/Sound_Beta_2/Enemy/e_imp/e_imp_swcmstr_d_u",
+                    "weight": 1.0,
+                    "important": false,
+                    "is2D": false,
+                    "delay": 0.0,
+                    "minPitch": 0.8,
+                    "maxPitch": 1.2,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 2,
+            "popOldest": true,
+            "customMixerGroup": "Battle_BE_NImp",
+            "loop": false,
+            "name": "battle.ON_PROJECTILE_HIT.projectile_enemy_xdmon[m2]",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
+                    "asset": "Audio/Sound_Beta_2/Enemy/e_imp/e_imp_swchld_h_u",
+                    "weight": 1.0,
+                    "important": true,
+                    "is2D": false,
+                    "delay": 0.0,
+                    "minPitch": 0.8,
+                    "maxPitch": 1.2,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 2,
+            "popOldest": true,
+            "customMixerGroup": "Battle_BE_NImp",
+            "loop": false,
+            "name": "battle.ON_CUSTOM_TRIGGER.enemy_xdmon_skill_01_break_01",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
+                    "asset": "Audio/Sound_Beta_2/Enemy/e_skill/e_skill_swcmstrdd_u",
+                    "weight": 1.0,
+                    "important": true,
+                    "is2D": true,
+                    "delay": 0.0,
+                    "minPitch": 1.0,
+                    "maxPitch": 1.0,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 2,
+            "popOldest": true,
+            "customMixerGroup": "Battle_BE_NImp",
+            "loop": false,
+            "name": "battle.ON_CUSTOM_TRIGGER.enemy_xdmon_t_together",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
+                    "asset": "Audio/Sound_Beta_2/Player/p_imp/p_imp_mlysndvbm",
+                    "weight": 1.0,
+                    "important": false,
+                    "is2D": false,
+                    "delay": 0.0,
+                    "minPitch": 0.8,
+                    "maxPitch": 1.2,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 2,
+            "popOldest": true,
+            "customMixerGroup": "Battle_P_SImp",
+            "loop": false,
+            "name": "battle.ON_CUSTOM_TRIGGER.akkord_aoe_audio",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
+                    "asset": "Audio/Sound_Beta_2/Battle/b_ui/b_ui_activecost",
+                    "weight": 1.0,
+                    "important": true,
+                    "is2D": true,
+                    "delay": 0.0,
+                    "minPitch": 1.0,
+                    "maxPitch": 1.0,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 2,
+            "popOldest": true,
+            "customMixerGroup": "Battle_UI_Important",
+            "loop": false,
+            "name": "battle.ON_SKILL_RETRIGGER_MODIFIER_COST",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
+                    "asset": "Audio/Sound_Beta_2/Player/p_skill/p_skill_snwlprcd_d",
+                    "weight": 1.0,
+                    "important": false,
+                    "is2D": true,
+                    "delay": 0.0,
+                    "minPitch": 1.0,
+                    "maxPitch": 1.0,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 1,
+            "popOldest": true,
+            "customMixerGroup": "Battle_P_SAtk",
+            "loop": false,
+            "name": "battle.ON_CUSTOM_TRIGGER.ON_BATTLE_UI_CARD_ANIM_svash2_card_skill_02_buff_once",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
+                    "asset": "Audio/Sound_Beta_2/Player/p_imp/p_imp_snwsrd_h",
+                    "weight": 1.0,
+                    "important": false,
+                    "is2D": true,
+                    "delay": 0.0,
+                    "minPitch": 1.0,
+                    "maxPitch": 1.0,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 1,
+            "popOldest": true,
+            "customMixerGroup": "Battle_P_SImp",
+            "loop": false,
+            "name": "battle.ON_CUSTOM_TRIGGER.svash2_s_2[show]",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
+                    "asset": "Audio/Sound_Beta_2/Player/p_atk/p_atk_snwsrd_h",
+                    "weight": 1.0,
+                    "important": true,
+                    "is2D": false,
+                    "delay": 0.3,
+                    "minPitch": 1.0,
+                    "maxPitch": 1.0,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 2,
+            "popOldest": true,
+            "customMixerGroup": "Battle_P_SAtk",
+            "loop": false,
+            "name": "battle.ON_CUSTOM_TRIGGER.svash2_s_2[range]",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
+                    "asset": "Audio/Sound_Beta_2/Player/p_skill/p_skill_snwcrdth_s",
+                    "weight": 1.0,
+                    "important": false,
+                    "is2D": true,
+                    "delay": 0.0,
+                    "minPitch": 1.0,
+                    "maxPitch": 1.0,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 1,
+            "popOldest": true,
+            "customMixerGroup": "Battle_P_SAtk",
+            "loop": false,
+            "name": "battle.ON_CUSTOM_TRIGGER.svash2_s_3[cost_reduce_hand]",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
+                    "asset": "Audio/Sound_Beta_2/Enemy/e_imp/e_imp_ltlswal",
+                    "weight": 1.0,
+                    "important": false,
+                    "is2D": false,
+                    "delay": 0.0,
+                    "minPitch": 0.8,
+                    "maxPitch": 1.2,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 2,
+            "popOldest": true,
+            "customMixerGroup": "Battle_E_NImp",
+            "loop": false,
+            "name": "battle.ON_CUSTOM_TRIGGER.enemy_xdsnow_die_01",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
+                    "asset": "Audio/Sound_Beta_2/Enemy/e_imp/e_imp_snwslrb",
+                    "weight": 1.0,
+                    "important": false,
+                    "is2D": false,
+                    "delay": 0.0,
+                    "minPitch": 0.8,
+                    "maxPitch": 1.2,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 2,
+            "popOldest": true,
+            "customMixerGroup": "Battle_E_NImp",
+            "loop": false,
+            "name": "battle.ON_CUSTOM_TRIGGER.enemy_xdseal_buff_02",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
+                    "asset": "Audio/Sound_Beta_2/Ambience/a_bat/a_bat_icstue",
+                    "weight": 1.0,
+                    "important": false,
+                    "is2D": false,
+                    "delay": 0.0,
+                    "minPitch": 1.0,
+                    "maxPitch": 1.0,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 2,
+            "popOldest": true,
+            "customMixerGroup": "Battle_UI_Important",
+            "loop": false,
+            "name": "battle.ON_CUSTOM_TRIGGER.trap_xdice1_start_02",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
+                    "asset": "Audio/Sound_Beta_2/Ambience/a_bat/a_bat_icstueon",
+                    "weight": 1.0,
+                    "important": false,
+                    "is2D": true,
+                    "delay": 0.0,
+                    "minPitch": 1.0,
+                    "maxPitch": 1.0,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 2,
+            "popOldest": true,
+            "customMixerGroup": "Battle_UI_Important",
+            "loop": false,
+            "name": "battle.ON_SKILL_START.sktok_xdice1",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
+                    "asset": "Audio/Sound_Beta_2/Ambience/a_bat/a_bat_icstuesnw",
+                    "weight": 1.0,
+                    "important": false,
+                    "is2D": true,
+                    "delay": 0.0,
+                    "minPitch": 1.0,
+                    "maxPitch": 1.0,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 2,
+            "popOldest": true,
+            "customMixerGroup": "Battle_UI_Important",
+            "loop": false,
+            "name": "battle.ON_SKILL_FINISH.sktok_xdice1",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
+                    "asset": "Audio/Sound_Beta_2/Ambience/a_bat/a_bat_chslc",
+                    "weight": 1.0,
+                    "important": false,
+                    "is2D": false,
+                    "delay": 0.0,
+                    "minPitch": 1.0,
+                    "maxPitch": 1.0,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 2,
+            "popOldest": true,
+            "customMixerGroup": "Battle_UI_Important",
+            "loop": false,
+            "name": "battle.ON_CUSTOM_TRIGGER.trap_xdmac1_start_01",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
+                    "asset": "Audio/Sound_Beta_2/Ambience/a_bat/a_bat_dfnsnw",
+                    "weight": 1.0,
+                    "important": false,
+                    "is2D": false,
+                    "delay": 0.0,
+                    "minPitch": 1.0,
+                    "maxPitch": 1.0,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 2,
+            "popOldest": true,
+            "customMixerGroup": "Battle_UI_Important",
+            "loop": false,
+            "name": "battle.ON_CUSTOM_TRIGGER.trap_xdmac3_s[audio]",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
+                    "asset": "Audio/Sound_Beta_2/CustomSE/act1autochess/act1autochess_a_bat_enrylmcht",
+                    "weight": 1.0,
+                    "important": false,
+                    "is2D": false,
+                    "delay": 0.0,
+                    "minPitch": 0.8,
+                    "maxPitch": 1.2,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 2,
+            "popOldest": true,
+            "customMixerGroup": "Battle_UI_Important",
+            "loop": false,
+            "name": "battle.ON_PROJECTILE_HIT.projectile_trap_aclasert",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
+                    "asset": "Audio/Sound_Beta_2/Enemy/e_imp/e_imp_clkdvstd",
+                    "weight": 1.0,
+                    "important": false,
+                    "is2D": false,
+                    "delay": 0.0,
+                    "minPitch": 0.8,
+                    "maxPitch": 1.2,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 2,
+            "popOldest": true,
+            "customMixerGroup": "Battle_E_NImp",
+            "loop": false,
+            "name": "battle.ON_CUSTOM_TRIGGER.acpupp_revive_1",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
+                    "asset": "Audio/Sound_Beta_2/Enemy/e_imp/e_imp_mchntr_h_u",
+                    "weight": 1.0,
+                    "important": false,
+                    "is2D": false,
+                    "delay": 0.0,
+                    "minPitch": 0.8,
+                    "maxPitch": 1.2,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 2,
+            "popOldest": true,
+            "customMixerGroup": "Battle_BE_NImp",
+            "loop": false,
+            "name": "battle.ON_CUSTOM_TRIGGER.achunt_line_damage.chain_hit",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
+                    "asset": "Audio/Sound_Beta_2/Enemy/e_imp/e_imp_mchpcrsld_u",
+                    "weight": 1.0,
+                    "important": false,
+                    "is2D": false,
+                    "delay": 0.0,
+                    "minPitch": 0.8,
+                    "maxPitch": 1.2,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 2,
+            "popOldest": true,
+            "customMixerGroup": "Battle_BE_NImp",
+            "loop": false,
+            "name": "battle.ON_CUSTOM_TRIGGER.actrpa_t_1.shield_hit",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
+                    "asset": "Audio/Sound_Beta_2/Enemy/e_atk/e_atk_slstrmnhg_d_u",
+                    "weight": 1.0,
+                    "important": false,
+                    "is2D": false,
+                    "delay": 0.0,
+                    "minPitch": 0.8,
+                    "maxPitch": 1.2,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 2,
+            "popOldest": true,
+            "customMixerGroup": "Battle_BE_NAtk",
+            "loop": false,
+            "name": "battle.ON_CUSTOM_TRIGGER.acdums_audio[passion]",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
+                    "asset": "Audio/Sound_Beta_2/Enemy/e_imp/e_imp_slstrmnhg_d_u",
+                    "weight": 1.0,
+                    "important": true,
+                    "is2D": false,
+                    "delay": 0.7,
+                    "minPitch": 0.8,
+                    "maxPitch": 1.2,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 1,
+            "popOldest": true,
+            "customMixerGroup": "Battle_BE_NImp",
+            "loop": false,
+            "name": "battle.ON_CUSTOM_TRIGGER.acdums_audio[passion][delay]",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
+                    "asset": "Audio/Sound_Beta_2/Enemy/e_atk/e_atk_slstrmnlw_d_u",
+                    "weight": 1.0,
+                    "important": false,
+                    "is2D": false,
+                    "delay": 0.0,
+                    "minPitch": 0.8,
+                    "maxPitch": 1.2,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 2,
+            "popOldest": true,
+            "customMixerGroup": "Battle_BE_NAtk",
+            "loop": false,
+            "name": "battle.ON_CUSTOM_TRIGGER.acdums_audio[depassion]",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
+                    "asset": "Audio/Sound_Beta_2/Enemy/e_imp/e_imp_slstrmnlw_d_u",
+                    "weight": 1.0,
+                    "important": true,
+                    "is2D": false,
+                    "delay": 0.7,
+                    "minPitch": 0.8,
+                    "maxPitch": 1.2,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 1,
+            "popOldest": true,
+            "customMixerGroup": "Battle_BE_NImp",
+            "loop": false,
+            "name": "battle.ON_CUSTOM_TRIGGER.acdums_audio[depassion][delay]",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
+                    "asset": "Audio/Sound_Beta_2/Enemy/e_imp/e_imp_slstrmnlwbm_u",
+                    "weight": 1.0,
+                    "important": false,
+                    "is2D": false,
+                    "delay": 0.0,
+                    "minPitch": 0.8,
+                    "maxPitch": 1.2,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 2,
+            "popOldest": true,
+            "customMixerGroup": "Battle_BE_NImp",
+            "loop": false,
+            "name": "battle.ON_CUSTOM_TRIGGER.acdums_audio[aoe]",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
+                    "asset": "Audio/Sound_Beta_2/Enemy/e_imp/e_imp_lrgstch_d_u",
+                    "weight": 1.0,
+                    "important": true,
+                    "is2D": false,
+                    "delay": 0.0,
+                    "minPitch": 0.8,
+                    "maxPitch": 1.2,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 2,
+            "popOldest": true,
+            "customMixerGroup": "Battle_BE_NImp",
+            "loop": false,
+            "name": "battle.ON_PROJECTILE_REACH.projectile_enemy_acstmr",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
+                    "asset": "Audio/Sound_Beta_2/Ambience/a_bat/a_bat_xtrhybltmp",
+                    "weight": 1.0,
+                    "important": false,
+                    "is2D": false,
+                    "delay": 0.0,
+                    "minPitch": 0.8,
+                    "maxPitch": 1.2,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 2,
+            "popOldest": true,
+            "customMixerGroup": "Battle_UI_Important",
+            "loop": false,
+            "name": "battle.ON_PROJECTILE_REACH.projectile_trap_acarm076",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
+                    "asset": "Audio/Sound_Beta_2/Player/p_imp/p_imp_shdrnslnd",
+                    "weight": 1.0,
+                    "important": false,
+                    "is2D": false,
+                    "delay": 0.0,
+                    "minPitch": 0.8,
+                    "maxPitch": 1.2,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 2,
+            "popOldest": true,
+            "customMixerGroup": "Battle_P_SImp",
+            "loop": false,
+            "name": "battle.ON_CUSTOM_TRIGGER.buff_damage",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
+                    "asset": "Audio/Sound_Beta_2/Enemy/e_imp/e_imp_fsrgvty_d_u",
+                    "weight": 1.0,
+                    "important": false,
+                    "is2D": false,
+                    "delay": 0.0,
+                    "minPitch": 0.9,
+                    "maxPitch": 1.1,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 2,
+            "popOldest": true,
+            "customMixerGroup": "Battle_BE_NImp",
+            "loop": false,
+            "name": "battle.ON_CUSTOM_TRIGGER.nstmon_ray_eff",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
+                    "asset": "Audio/Sound_Beta_2/Enemy/e_imp/e_imp_fsrgvtysl_u",
+                    "weight": 1.0,
+                    "important": false,
+                    "is2D": false,
+                    "delay": 0.0,
+                    "minPitch": 0.8,
+                    "maxPitch": 1.2,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 2,
+            "popOldest": true,
+            "customMixerGroup": "Battle_BE_NImp",
+            "loop": false,
+            "name": "battle.ON_CUSTOM_TRIGGER.nstmom_ray_eff_2[tile]",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
+                    "asset": "Audio/Sound_Beta_2/Enemy/e_imp/e_imp_fsrgvtyre_u",
+                    "weight": 1.0,
+                    "important": true,
+                    "is2D": true,
+                    "delay": 0.0,
+                    "minPitch": 1.0,
+                    "maxPitch": 1.0,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 2,
+            "popOldest": true,
+            "customMixerGroup": "Battle_BE_NImp",
+            "loop": false,
+            "name": "battle.ON_CUSTOM_TRIGGER.nstmom[release]",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
+                    "asset": "Audio/Sound_Beta_2/Enemy/e_imp/e_imp_icbnstr_d_u",
+                    "weight": 1.0,
+                    "important": false,
+                    "is2D": false,
+                    "delay": 0.0,
+                    "minPitch": 0.8,
+                    "maxPitch": 1.2,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 2,
+            "popOldest": true,
+            "customMixerGroup": "Battle_BE_NImp",
+            "loop": false,
+            "name": "battle.ON_CUSTOM_TRIGGER.RollStart",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
+                    "asset": "Audio/Sound_Beta_2/Ambience/a_bat/a_bat_frzcmhnfr",
+                    "weight": 1.0,
+                    "important": false,
+                    "is2D": false,
+                    "delay": 0.0,
+                    "minPitch": 0.8,
+                    "maxPitch": 1.2,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 2,
+            "popOldest": true,
+            "customMixerGroup": "Battle_UI_Important",
+            "loop": false,
+            "name": "battle.ON_ABILITY_ON.sktok_supctl_1",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
+                    "asset": "Audio/Sound_Beta_2/Enemy/e_atk/e_atk_sdbtlspt",
+                    "weight": 1.0,
+                    "important": false,
+                    "is2D": false,
+                    "delay": 0.0,
+                    "minPitch": 0.8,
+                    "maxPitch": 1.2,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 2,
+            "popOldest": true,
+            "customMixerGroup": "Battle_E_NAtk",
+            "loop": false,
+            "name": "battle.ON_CUSTOM_TRIGGER.nscan_extra_dmg[start]",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
+                    "asset": "Audio/Sound_Beta_2/Enemy/e_imp/e_imp_sdbtlspt",
+                    "weight": 1.0,
+                    "important": false,
+                    "is2D": false,
+                    "delay": 0.0,
+                    "minPitch": 0.8,
+                    "maxPitch": 1.2,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 2,
+            "popOldest": true,
+            "customMixerGroup": "Battle_E_NImp",
+            "loop": false,
+            "name": "battle.ON_CUSTOM_TRIGGER.nscan_extra_dmg",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
+                    "asset": "Audio/Sound_Beta_2/Enemy/e_atk/e_atk_sdbtlnrl",
+                    "weight": 1.0,
+                    "important": false,
+                    "is2D": false,
+                    "delay": 0.0,
+                    "minPitch": 0.8,
+                    "maxPitch": 1.2,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 2,
+            "popOldest": true,
+            "customMixerGroup": "Battle_E_NAtk",
+            "loop": false,
+            "name": "battle.ON_CUSTOM_TRIGGER.nscan_normal_dmg[start]",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
+                    "asset": "Audio/Sound_Beta_2/Enemy/e_imp/e_imp_sdbtlnrl",
+                    "weight": 1.0,
+                    "important": false,
+                    "is2D": false,
+                    "delay": 0.0,
+                    "minPitch": 0.8,
+                    "maxPitch": 1.2,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 2,
+            "popOldest": true,
+            "customMixerGroup": "Battle_E_NImp",
+            "loop": false,
+            "name": "battle.ON_CUSTOM_TRIGGER.nscan_normal_dmg",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
+                    "asset": "Audio/Sound_Beta_2/Enemy/e_imp/e_imp_fltcbn",
+                    "weight": 1.0,
+                    "important": false,
+                    "is2D": false,
+                    "delay": 0.0,
+                    "minPitch": 0.8,
+                    "maxPitch": 1.2,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 2,
+            "popOldest": true,
+            "customMixerGroup": "Battle_E_NImp",
+            "loop": false,
+            "name": "battle.ON_CUSTOM_TRIGGER.nspace_drop",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
+                    "asset": "Audio/Sound_Beta_2/Ambience/a_bat/a_bat_stmbln",
+                    "weight": 1.0,
+                    "important": false,
+                    "is2D": false,
+                    "delay": 0.0,
+                    "minPitch": 0.8,
+                    "maxPitch": 1.2,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 2,
+            "popOldest": true,
+            "customMixerGroup": "Battle_UI_Important",
+            "loop": false,
+            "name": "battle.ON_CUSTOM_TRIGGER.nsblon[born]",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
+                    "asset": "Audio/Sound_Beta_2/Player/p_imp/p_imp_snftclfn",
+                    "weight": 1.0,
+                    "important": false,
+                    "is2D": false,
+                    "delay": 0.0,
+                    "minPitch": 1.0,
+                    "maxPitch": 1.0,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 2,
+            "popOldest": true,
+            "customMixerGroup": "Battle_P_SImp",
+            "loop": false,
+            "name": "battle.ON_CUSTOM_TRIGGER.nasti_nstchr_full_hp_audio",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
+                    "asset": "Audio/Sound_Beta_2/Player/p_imp/p_imp_snftcstp1",
+                    "weight": 1.0,
+                    "important": false,
+                    "is2D": false,
+                    "delay": 0.0,
+                    "minPitch": 1.0,
+                    "maxPitch": 1.0,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 2,
+            "popOldest": true,
+            "customMixerGroup": "Battle_P_SImp",
+            "loop": false,
+            "name": "battle.ON_CUSTOM_TRIGGER.nasti_nstbld_update_m3_audio",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
+                    "asset": "Audio/Sound_Beta_2/Player/p_imp/p_imp_snftcstp2",
+                    "weight": 1.0,
+                    "important": false,
+                    "is2D": false,
+                    "delay": 0.0,
+                    "minPitch": 1.0,
+                    "maxPitch": 1.0,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 2,
+            "popOldest": true,
+            "customMixerGroup": "Battle_P_SImp",
+            "loop": false,
+            "name": "battle.ON_CUSTOM_TRIGGER.nasti_nstbld_update_m4_audio",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
+                    "asset": "Audio/Sound_Beta_2/Player/p_imp/p_imp_snftcstp3",
+                    "weight": 1.0,
+                    "important": false,
+                    "is2D": false,
+                    "delay": 0.0,
+                    "minPitch": 1.0,
+                    "maxPitch": 1.0,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 2,
+            "popOldest": true,
+            "customMixerGroup": "Battle_P_SImp",
+            "loop": false,
+            "name": "battle.ON_CUSTOM_TRIGGER.nasti_nstbld_update_m5_audio",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
+                    "asset": "Audio/Sound_Beta_2/Player/p_atk/p_atk_snftcstrp",
+                    "weight": 1.0,
+                    "important": false,
+                    "is2D": false,
+                    "delay": 0.0,
+                    "minPitch": 1.0,
+                    "maxPitch": 1.0,
+                    "minVolume": 1.0,
+                    "maxVolume": 1.0,
+                    "ignoreTimeScale": false
+                }
+            ],
+            "maxSoundAllowed": 2,
+            "popOldest": true,
+            "customMixerGroup": "Battle_P_SAtk",
+            "loop": false,
+            "name": "battle.ON_CUSTOM_TRIGGER.nasti_nstbld_start_repair_audio",
+            "mixerDesc": null
+        },
+        {
+            "sounds": [
+                {
                     "asset": "Audio/Sound_Beta_2/Voice/char_101_sora/FX_023",
                     "weight": 50.0,
                     "important": true,
@@ -233400,6 +234566,12 @@
             "ctrlStop": true,
             "ctrlStopFadetime": 0.4,
             "name": "battle.ON_SKILL_FINISH.skchr_amgoat_3_sanrio#2"
+        },
+        {
+            "targetBank": "battle.ON_ABILITY_START.enemy_1579_nstmom.T.Reborn",
+            "ctrlStop": true,
+            "ctrlStopFadetime": 0.2,
+            "name": "battle.ON_CUSTOM_TRIGGER.nstmom[release]"
         }
     ],
     "snapshotBanks": [
@@ -234864,7 +236036,7 @@
         {
             "id": "music_rogue_5_15",
             "name": "棲景室",
-            "bank": "battle.ON_GAME_READY.rl5boss4_2"
+            "bank": "battle.ON_CUSTOM_TRIGGER.rl5boss4_2"
         },
         {
             "id": "music_act45side_0",
@@ -235263,6 +236435,10 @@
         "battle.ON_GAME_READY.enemydue2": "battle.ON_GAME_READY.enemyduel",
         "sys.ON_ACTIVITY_LOADED.act2enemyduel": "sys.ON_ACTIVITY_LOADED.act1enemyduel",
         "battle.ON_GAME_READY.bat_act37sre_01": "battle.ON_GAME_READY.bat_act37side_01",
-        "sys.ON_ACTIVITY_LOADED.act37sre": "sys.ON_RETRO_LOADED.permanent_sub_7_Ending_A_Grand_Overture"
+        "sys.ON_ACTIVITY_LOADED.act37sre": "sys.ON_RETRO_LOADED.permanent_sub_7_Ending_A_Grand_Overture",
+        "battle.ON_GAME_READY.bat_act38sre_01": "battle.ON_GAME_READY.bat_act38side_01",
+        "battle.ON_GAME_READY.bat_act38sre_02": "battle.ON_GAME_READY.bat_act38side_02",
+        "sys.ON_ACTIVITY_LOADED.act39sre": "sys.ON_ACTIVITY_LOADED.act39side",
+        "battle.ON_GAME_READY.bat_act39sre_01": "battle.ON_GAME_READY.bat_act39side_01"
     }
 }

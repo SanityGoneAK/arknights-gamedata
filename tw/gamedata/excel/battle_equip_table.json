@@ -123771,7 +123771,7 @@
                             "candidates": [
                                 {
                                     "displayRangeId": false,
-                                    "upgradeDescription": "靈知在場且部署後經過10秒時，使所有【喀蘭貿易】幹員獲得<$ba.buffres>抵抗</>，且攻擊力+10%",
+                                    "upgradeDescription": "靈知在場且部署後經過10秒時，使所有【謝拉格】幹員獲得<$ba.buffres>抵抗</>，且攻擊力+10%",
                                     "talentIndex": 1,
                                     "unlockCondition": {
                                         "phase": "PHASE_2",
@@ -123905,7 +123905,7 @@
                             "candidates": [
                                 {
                                     "displayRangeId": false,
-                                    "upgradeDescription": "靈知在場且部署後經過10秒時，使所有【喀蘭貿易】幹員獲得<$ba.buffres>抵抗</>，且攻擊力+15%",
+                                    "upgradeDescription": "靈知在場且部署後經過10秒時，使所有【謝拉格】幹員獲得<$ba.buffres>抵抗</>，且攻擊力+15%",
                                     "talentIndex": 1,
                                     "unlockCondition": {
                                         "phase": "PHASE_2",
@@ -134284,7 +134284,7 @@
                         "addOrOverrideTalentDataBundle": {
                             "candidates": [
                                 {
-                                    "displayRangeId": false,
+                                    "displayRangeId": true,
                                     "upgradeDescription": "",
                                     "talentIndex": -1,
                                     "unlockCondition": {
@@ -134359,7 +134359,7 @@
                         "addOrOverrideTalentDataBundle": {
                             "candidates": [
                                 {
-                                    "displayRangeId": false,
+                                    "displayRangeId": true,
                                     "upgradeDescription": "",
                                     "talentIndex": -1,
                                     "unlockCondition": {
@@ -134483,7 +134483,7 @@
                         "addOrOverrideTalentDataBundle": {
                             "candidates": [
                                 {
-                                    "displayRangeId": false,
+                                    "displayRangeId": true,
                                     "upgradeDescription": "",
                                     "talentIndex": -1,
                                     "unlockCondition": {

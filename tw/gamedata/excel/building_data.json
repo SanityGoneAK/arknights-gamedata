@@ -14687,7 +14687,7 @@
             "textColor": "#ffffff",
             "buffCategory": "FUNCTION",
             "roomType": "CONTROL",
-            "description": "進駐控制中樞時，每個進駐在貿易站的<$cc.g.karlan><@cc.kw>喀蘭貿易</></>幹員，訂單獲取效率<@cc.vdown>-15%</>，訂單上限<@cc.vup>+6</>",
+            "description": "進駐控制中樞時，每個進駐在貿易站的<$cc.g.karlan><@cc.kw>謝拉格</></>幹員，訂單獲得效率<@cc.vdown>-15%</>，訂單上限<@cc.vup>+6</>",
             "efficiency": 0,
             "targetGroupSortId": 0,
             "targets": []
@@ -15152,7 +15152,7 @@
             "textColor": "#ffffff",
             "buffCategory": "FUNCTION",
             "roomType": "CONTROL",
-            "description": "進駐控制中樞時，控制中樞內每個<$cc.g.karlan><@cc.kw>喀蘭貿易</></>幹員可使控制中樞內所有幹員的心情每小時恢復<@cc.vup>+0.05</>",
+            "description": "進駐控制中樞時，控制中樞內每個<$cc.g.karlan><@cc.kw>謝拉格</></>幹員可使控制中樞內所有幹員的心情每小時恢復<@cc.vup>+0.05</>",
             "efficiency": 0,
             "targetGroupSortId": 0,
             "targets": []
@@ -70206,7 +70206,7 @@
                 "height": 3,
                 "comfort": 120,
                 "usage": "能夠用來裝扮宿舍與活動室，提高對應房間的氛圍",
-                "description": "典型的萊塔尼亞手工藝製品家具，以鋼琴為靈感設計。\n三個踏板分別調節椅子的高度、靠背的傾斜度和椅子的轉速。",
+                "description": "典型的萊塔尼亞手工藝製品傢俱，以鋼琴為靈感設計。\n三個踏板分別調節椅子的高度、靠背的傾斜度和椅子的轉速。",
                 "obtainApproach": "傢俱商店限時購買",
                 "processedProductId": "3401",
                 "processedProductCount": 110,
@@ -70956,7 +70956,7 @@
             "furni_postOffice_ceilingLights_01": {
                 "id": "furni_postOffice_ceilingLights_01",
                 "sortId": 1426,
-                "name": "木樑架吊燈",
+                "name": "木梁架吊燈",
                 "iconId": "furni_postOffice_ceilingLights_01",
                 "interactType": "NONE",
                 "musicId": "",
@@ -70974,7 +70974,7 @@
                 "height": 1,
                 "comfort": 290,
                 "usage": "能夠用來裝扮宿舍與活動室，提高對應房間的氛圍",
-                "description": "許多謝拉格老房子的木樑架上如今都掛有照明的燈具。\n當然是用電，難道用火？",
+                "description": "許多謝拉格老房子的木梁架上如今都掛有照明的燈具。\n當然是用電，難道用火？",
                 "obtainApproach": "傢俱商店限時購買",
                 "processedProductId": "3401",
                 "processedProductCount": 0,
@@ -95977,6 +95977,38 @@
                 "enableRoomType": 4112,
                 "quantity": 0
             },
+            "furni_act73d0_rabbits_01": {
+                "id": "furni_act73d0_rabbits_01",
+                "sortId": 10257,
+                "name": "“同慶時刻”",
+                "iconId": "furni_act73d0_rabbits_01",
+                "interactType": "NONE",
+                "musicId": "",
+                "type": "DECORATION",
+                "subType": "ART_D",
+                "location": "FLOOR",
+                "category": "FURNITURE",
+                "validOnRotate": false,
+                "enableRotate": false,
+                "rarity": 3,
+                "themeId": "",
+                "groupId": "",
+                "width": 6,
+                "depth": 6,
+                "height": 6,
+                "comfort": 120,
+                "usage": "能夠用來裝扮宿舍與活動室，提高對應房間的氛圍",
+                "description": "參考阿米婭和佩麗卡的形象製作的可愛擺飾，兔兔們在這一刻進行了歷史性的會面。\n為朝著明日的旅程，送上跨越時空的慶賀，每個人都因新的故事而歡欣鼓舞。",
+                "obtainApproach": "活動獲得",
+                "processedProductId": "3401",
+                "processedProductCount": 0,
+                "processedByProductPercentage": 0,
+                "processedByProductGroup": [],
+                "canBeDestroy": false,
+                "isOnly": 1,
+                "enableRoomType": 4112,
+                "quantity": 0
+            },
             "furni_dropS001_theLittleMermaid_01": {
                 "id": "furni_dropS001_theLittleMermaid_01",
                 "sortId": 11001,
@@ -119592,7 +119624,7 @@
                 "enableRoomType": 4112,
                 "sortId": 103,
                 "name": "“寶寶搖籃”號船艙",
-                "themeType": "EVNET",
+                "themeType": "EVENT",
                 "desc": "根據棘刺的描述還原的“寶寶搖籃”號船艙內景。鹽漠雖然一片蒼白了無生機，但船艙內的生活總是多彩有趣的。",
                 "quickSetup": [
                     {
@@ -119735,7 +119767,7 @@
                 "enableRoomType": 4112,
                 "sortId": 104,
                 "name": "鼎豐樓茶室",
-                "themeType": "EVNET",
+                "themeType": "EVENT",
                 "desc": "根據煌的描述還原的百灶鼎豐樓茶室。百灶酒樓裡有專供飲茶的區域，令煌幹員印象深刻。“坐在裡面喝一口茶，感覺能喝出六七八種滋味來。”",
                 "quickSetup": [
                     {
@@ -129659,7 +129691,7 @@
                 "type": "SEATING",
                 "sortId": 2,
                 "countLimit": -1,
-                "enableRoomType": 4112
+                "enableRoomType": 4144
             },
             "BARSTOOL": {
                 "subType": "BARSTOOL",
@@ -129843,7 +129875,7 @@
                 "type": "DECORATION",
                 "sortId": 9,
                 "countLimit": -1,
-                "enableRoomType": 4112
+                "enableRoomType": 4144
             },
             "BOARD_D": {
                 "subType": "BOARD_D",
@@ -129899,7 +129931,7 @@
                 "type": "DECORATION",
                 "sortId": 16,
                 "countLimit": -1,
-                "enableRoomType": 4112
+                "enableRoomType": 4144
             },
             "DECORATION_C": {
                 "subType": "DECORATION_C",
@@ -137864,5 +137896,6 @@
             "defaultGroupSortId": 0,
             "efficiencyTargetDict": {}
         }
-    }
+    },
+    "tradingRoomInfoData": null
 }

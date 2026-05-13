@@ -396256,5 +396256,220 @@
                 }
             }
         ]
+    },
+    {
+        "Key": "enemy_9016_acstmr",
+        "Value": [
+            {
+                "level": 0,
+                "enemyData": {
+                    "name": {
+                        "m_defined": true,
+                        "m_value": "刺胄之彈"
+                    },
+                    "description": {
+                        "m_defined": true,
+                        "m_value": null
+                    },
+                    "prefabKey": {
+                        "m_defined": true,
+                        "m_value": "enemy_9016_acstmr"
+                    },
+                    "attributes": {
+                        "maxHp": {
+                            "m_defined": true,
+                            "m_value": 8
+                        },
+                        "atk": {
+                            "m_defined": true,
+                            "m_value": 0
+                        },
+                        "def": {
+                            "m_defined": true,
+                            "m_value": 0
+                        },
+                        "magicResistance": {
+                            "m_defined": true,
+                            "m_value": 0.0
+                        },
+                        "cost": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "blockCnt": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "moveSpeed": {
+                            "m_defined": true,
+                            "m_value": 0.5
+                        },
+                        "attackSpeed": {
+                            "m_defined": true,
+                            "m_value": 100.0
+                        },
+                        "baseAttackTime": {
+                            "m_defined": true,
+                            "m_value": 1.0
+                        },
+                        "respawnTime": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "hpRecoveryPerSec": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "spRecoveryPerSec": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "maxDeployCount": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "massLevel": {
+                            "m_defined": true,
+                            "m_value": 2
+                        },
+                        "baseForceLevel": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "tauntLevel": {
+                            "m_defined": true,
+                            "m_value": 1
+                        },
+                        "epDamageResistance": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "epResistance": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "damageHitratePhysical": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "damageHitrateMagical": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "epBreakRecoverSpeed": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "stunImmune": {
+                            "m_defined": true,
+                            "m_value": true
+                        },
+                        "silenceImmune": {
+                            "m_defined": true,
+                            "m_value": true
+                        },
+                        "sleepImmune": {
+                            "m_defined": true,
+                            "m_value": true
+                        },
+                        "frozenImmune": {
+                            "m_defined": true,
+                            "m_value": true
+                        },
+                        "levitateImmune": {
+                            "m_defined": true,
+                            "m_value": true
+                        },
+                        "disarmedCombatImmune": {
+                            "m_defined": true,
+                            "m_value": true
+                        },
+                        "fearedImmune": {
+                            "m_defined": true,
+                            "m_value": true
+                        },
+                        "palsyImmune": {
+                            "m_defined": true,
+                            "m_value": true
+                        },
+                        "attractImmune": {
+                            "m_defined": true,
+                            "m_value": true
+                        }
+                    },
+                    "applyWay": {
+                        "m_defined": true,
+                        "m_value": "NONE"
+                    },
+                    "motion": {
+                        "m_defined": true,
+                        "m_value": "FLY"
+                    },
+                    "enemyTags": {
+                        "m_defined": true,
+                        "m_value": [
+                            "machine"
+                        ]
+                    },
+                    "lifePointReduce": {
+                        "m_defined": true,
+                        "m_value": 0
+                    },
+                    "levelType": {
+                        "m_defined": true,
+                        "m_value": "NORMAL"
+                    },
+                    "rangeRadius": {
+                        "m_defined": false,
+                        "m_value": -1.0
+                    },
+                    "numOfExtraDrops": {
+                        "m_defined": false,
+                        "m_value": 0
+                    },
+                    "viewRadius": {
+                        "m_defined": false,
+                        "m_value": 8.0
+                    },
+                    "notCountInTotal": {
+                        "m_defined": false,
+                        "m_value": false
+                    },
+                    "talentBlackboard": [
+                        {
+                            "key": "killed.stun",
+                            "value": 2.1,
+                            "valueStr": null
+                        },
+                        {
+                            "key": "killed.duration",
+                            "value": 10.0,
+                            "valueStr": null
+                        },
+                        {
+                            "key": "killed.value",
+                            "value": 400.0,
+                            "valueStr": null
+                        },
+                        {
+                            "key": "check_block.hit",
+                            "value": 1.0,
+                            "valueStr": null
+                        }
+                    ],
+                    "skills": [
+                        {
+                            "prefabKey": "Boom",
+                            "priority": 0,
+                            "cooldown": 0.0,
+                            "initCooldown": 0.0,
+                            "spCost": 0,
+                            "blackboard": null
+                        }
+                    ],
+                    "spData": null
+                }
+            }
+        ]
     }
 ]
