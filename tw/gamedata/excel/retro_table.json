@@ -88,6 +88,9 @@
         "permanent_sidestory_27_zone1": "permanent_sidestory_27_Adventure_That_Cannot_Waits_For_The_Sun",
         "permanent_sidestory_27_zone2": "permanent_sidestory_27_Adventure_That_Cannot_Waits_For_The_Sun",
         "permanent_sidestory_27_zone3": "permanent_sidestory_27_Adventure_That_Cannot_Waits_For_The_Sun",
+        "permanent_sidestory_28_zone1": "permanent_sidestory_28_i_portatori_dei_velluti",
+        "permanent_sidestory_28_zone2": "permanent_sidestory_28_i_portatori_dei_velluti",
+        "permanent_sidestory_28_zone3": "permanent_sidestory_28_i_portatori_dei_velluti",
         "permanent_sidestory_29_zone1": "permanent_sidestory_29_Exodus_From_The_Pale_Sea",
         "permanent_sidestory_29_zone2": "permanent_sidestory_29_Exodus_From_The_Pale_Sea"
     },
@@ -4804,6 +4807,182 @@
             "startTs": 1772049600,
             "endTs": -1
         },
+        "act38side_st01": {
+            "startTs": 1781035200,
+            "endTs": -1
+        },
+        "act38side_tr01": {
+            "startTs": 1781035200,
+            "endTs": -1
+        },
+        "act38side_01": {
+            "startTs": 1781035200,
+            "endTs": -1
+        },
+        "act38side_02": {
+            "startTs": 1781035200,
+            "endTs": -1
+        },
+        "act38side_03": {
+            "startTs": 1781035200,
+            "endTs": -1
+        },
+        "act38side_04": {
+            "startTs": 1781035200,
+            "endTs": -1
+        },
+        "act38side_st02": {
+            "startTs": 1781035200,
+            "endTs": -1
+        },
+        "act38side_05": {
+            "startTs": 1781035200,
+            "endTs": -1
+        },
+        "act38side_06": {
+            "startTs": 1781035200,
+            "endTs": -1
+        },
+        "act38side_07": {
+            "startTs": 1781035200,
+            "endTs": -1
+        },
+        "act38side_08": {
+            "startTs": 1781035200,
+            "endTs": -1
+        },
+        "act38side_st03": {
+            "startTs": 1781035200,
+            "endTs": -1
+        },
+        "act38side_09": {
+            "startTs": 1781035200,
+            "endTs": -1
+        },
+        "act38side_10": {
+            "startTs": 1781035200,
+            "endTs": -1
+        },
+        "act38side_st04": {
+            "startTs": 1781035200,
+            "endTs": -1
+        },
+        "act38side_sp01": {
+            "startTs": 1781035200,
+            "endTs": -1
+        },
+        "act38side_sp02": {
+            "startTs": 1781035200,
+            "endTs": -1
+        },
+        "act38side_sp03": {
+            "startTs": 1781035200,
+            "endTs": -1
+        },
+        "act38side_ex01": {
+            "startTs": 1781035200,
+            "endTs": -1
+        },
+        "act38side_ex01#f#": {
+            "startTs": 1781035200,
+            "endTs": -1
+        },
+        "act38side_ex02": {
+            "startTs": 1781035200,
+            "endTs": -1
+        },
+        "act38side_ex02#f#": {
+            "startTs": 1781035200,
+            "endTs": -1
+        },
+        "act38side_ex03": {
+            "startTs": 1781035200,
+            "endTs": -1
+        },
+        "act38side_ex03#f#": {
+            "startTs": 1781035200,
+            "endTs": -1
+        },
+        "act38side_ex04": {
+            "startTs": 1781035200,
+            "endTs": -1
+        },
+        "act38side_ex04#f#": {
+            "startTs": 1781035200,
+            "endTs": -1
+        },
+        "act38side_ex05": {
+            "startTs": 1781035200,
+            "endTs": -1
+        },
+        "act38side_ex05#f#": {
+            "startTs": 1781035200,
+            "endTs": -1
+        },
+        "act38side_ex06": {
+            "startTs": 1781035200,
+            "endTs": -1
+        },
+        "act38side_ex06#f#": {
+            "startTs": 1781035200,
+            "endTs": -1
+        },
+        "act38side_ex07": {
+            "startTs": 1781035200,
+            "endTs": -1
+        },
+        "act38side_ex07#f#": {
+            "startTs": 1781035200,
+            "endTs": -1
+        },
+        "act38side_ex08": {
+            "startTs": 1781035200,
+            "endTs": -1
+        },
+        "act38side_ex08#f#": {
+            "startTs": 1781035200,
+            "endTs": -1
+        },
+        "act38side_s01": {
+            "startTs": 1781035200,
+            "endTs": -1
+        },
+        "act38side_s01#f#": {
+            "startTs": 1781035200,
+            "endTs": -1
+        },
+        "act38side_s02": {
+            "startTs": 1781035200,
+            "endTs": -1
+        },
+        "act38side_s02#f#": {
+            "startTs": 1781035200,
+            "endTs": -1
+        },
+        "act38side_s03": {
+            "startTs": 1781035200,
+            "endTs": -1
+        },
+        "act38side_s03#f#": {
+            "startTs": 1781035200,
+            "endTs": -1
+        },
+        "act38side_s04": {
+            "startTs": 1781035200,
+            "endTs": -1
+        },
+        "act38side_s04#f#": {
+            "startTs": 1781035200,
+            "endTs": -1
+        },
+        "act38side_s05": {
+            "startTs": 1781035200,
+            "endTs": -1
+        },
+        "act38side_s05#f#": {
+            "startTs": 1781035200,
+            "endTs": -1
+        },
         "act39side_st01": {
             "startTs": 1779825600,
             "endTs": -1
@@ -5491,6 +5670,22 @@
             "haveTrail": false,
             "customActId": null,
             "customActType": "DEFAULT",
+            "trapDomainId": null
+        },
+        "permanent_sidestory_28_i_portatori_dei_velluti": {
+            "retroId": "permanent_sidestory_28_i_portatori_dei_velluti",
+            "type": "SIDESTORY",
+            "linkedActId": [
+                "act38side",
+                "act38sre"
+            ],
+            "startTime": 1781035200,
+            "trailStartTime": -1,
+            "index": 28,
+            "name": "揭幕者們",
+            "haveTrail": false,
+            "customActId": null,
+            "customActType": "TYPE_ACT38SIDE",
             "trapDomainId": null
         },
         "permanent_sidestory_29_Exodus_From_The_Pale_Sea": {
@@ -7941,6 +8136,87 @@
             "relatedFullPotentialItemId": null,
             "themeColor": "af471d",
             "fullPotentialItemId": "voucher_full_lessng"
+        },
+        "permanent_sidestory_24_The_Rides_To_Lake_Silberneherze": {
+            "retroId": "permanent_sidestory_24_The_Rides_To_Lake_Silberneherze",
+            "trailStartTime": 1779825600,
+            "trailRewardList": [
+                {
+                    "trailRewardId": "trailReward_sidestory_24_1",
+                    "starCount": 12,
+                    "rewardItem": {
+                        "id": "char_4114_harold",
+                        "count": 1,
+                        "type": "CHAR"
+                    }
+                },
+                {
+                    "trailRewardId": "trailReward_sidestory_24_2",
+                    "starCount": 24,
+                    "rewardItem": {
+                        "id": "voucher_full_harold",
+                        "count": 1,
+                        "type": "VOUCHER_FULL_POTENTIAL"
+                    }
+                },
+                {
+                    "trailRewardId": "trailReward_sidestory_24_3",
+                    "starCount": 36,
+                    "rewardItem": {
+                        "id": "uni_set_postOffice",
+                        "count": 1,
+                        "type": "UNI_COLLECTION"
+                    }
+                },
+                {
+                    "trailRewardId": "trailReward_sidestory_24_4",
+                    "starCount": 48,
+                    "rewardItem": {
+                        "id": "furni_terratimes_Kjerag_01",
+                        "count": 1,
+                        "type": "FURN"
+                    }
+                },
+                {
+                    "trailRewardId": "trailReward_sidestory_24_5",
+                    "starCount": 56,
+                    "rewardItem": {
+                        "id": "avatar_activity_RS",
+                        "count": 1,
+                        "type": "PLAYER_AVATAR"
+                    }
+                }
+            ],
+            "stageList": [
+                "act30side_01",
+                "act30side_02",
+                "act30side_03",
+                "act30side_04",
+                "act30side_05",
+                "act30side_06",
+                "act30side_07",
+                "act30side_08",
+                "act30side_ex01",
+                "act30side_ex01#f#",
+                "act30side_ex02",
+                "act30side_ex02#f#",
+                "act30side_ex03",
+                "act30side_ex03#f#",
+                "act30side_ex04",
+                "act30side_ex04#f#",
+                "act30side_ex05",
+                "act30side_ex05#f#",
+                "act30side_ex06",
+                "act30side_ex06#f#",
+                "act30side_ex07",
+                "act30side_ex07#f#",
+                "act30side_ex08",
+                "act30side_ex08#f#"
+            ],
+            "relatedChar": "char_4114_harold",
+            "relatedFullPotentialItemId": null,
+            "themeColor": "3f8cd1",
+            "fullPotentialItemId": "voucher_full_harold"
         }
     },
     "stageList": {
@@ -137691,7 +137967,7 @@
             "zoneId": "permanent_sidestory_28_zone1",
             "code": "PV-ST-4",
             "name": "《管理法修正案》",
-            "description": "將血污和泥濘從身軀上剔除，我們如何知道要將什麼填入？",
+            "description": "將血汙和泥濘從身軀上剔除，我們如何知道要將什麼填入？",
             "hardStagedId": null,
             "sixStarStageId": null,
             "dangerLevel": "-",
@@ -138544,7 +138820,7 @@
             "zoneId": "permanent_sidestory_28_zone2",
             "code": "PV-EX-4",
             "name": "窮街陋巷",
-            "description": "“看看這窮街陋巷，看看敘拉古'秩序'誕生的地方！”\n<@lv.item><煙火發射器></>點燃後開啟狂歡時刻，週期性對攻擊範圍內所有我方與敵方單位造成法術傷害",
+            "description": "“看看這窮街陋巷，看看敘拉古‘秩序’誕生的地方！”\n<@lv.item><煙火發射器></>點燃後開啟狂歡時刻，週期性對攻擊範圍內所有我方與敵方單位造成法術傷害",
             "hardStagedId": "act38side_ex04#f#",
             "sixStarStageId": null,
             "dangerLevel": "精英2 LV.1",
