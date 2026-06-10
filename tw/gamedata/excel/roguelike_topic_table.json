@@ -2647,6 +2647,42 @@
                 "canBeFree": true,
                 "uniEquipId": "uniequip_002_mantra",
                 "recruitType": "FREE"
+            },
+            "char_4051_akkord": {
+                "charId": "char_4051_akkord",
+                "canBeFree": true,
+                "uniEquipId": "uniequip_002_akkord",
+                "recruitType": "FREE"
+            },
+            "char_1047_halo2": {
+                "charId": "char_1047_halo2",
+                "canBeFree": true,
+                "uniEquipId": "uniequip_002_halo2",
+                "recruitType": "FREE"
+            },
+            "char_4211_snhunt": {
+                "charId": "char_4211_snhunt",
+                "canBeFree": true,
+                "uniEquipId": "uniequip_002_snhunt",
+                "recruitType": "FREE"
+            },
+            "char_394_hadiya": {
+                "charId": "char_394_hadiya",
+                "canBeFree": true,
+                "uniEquipId": null,
+                "recruitType": "FREE"
+            },
+            "char_1046_sbell2": {
+                "charId": "char_1046_sbell2",
+                "canBeFree": true,
+                "uniEquipId": "uniequip_002_sbell2",
+                "recruitType": "FREE"
+            },
+            "char_1045_svash2": {
+                "charId": "char_1045_svash2",
+                "canBeFree": true,
+                "uniEquipId": null,
+                "recruitType": "FREE"
             }
         }
     },

@@ -91,6 +91,138 @@
             "picGroup": [],
             "usePicGroup": false
         },
+        "act56sign": {
+            "id": "act56sign",
+            "type": "CHECKIN_ONLY",
+            "displayType": "NONE",
+            "name": "感謝慶典累計簽到",
+            "startTime": 1782331200,
+            "endTime": 1783195199,
+            "rewardEndTime": 1783195199,
+            "displayOnHome": false,
+            "hasStage": false,
+            "templateShopId": null,
+            "medalGroupId": null,
+            "ungroupedMedalIds": null,
+            "isReplicate": false,
+            "needFixedSync": false,
+            "trapDomainId": null,
+            "recType": "CAN_COMPLETE",
+            "isPageEntry": false,
+            "isMagnify": false,
+            "picGroup": [],
+            "usePicGroup": false
+        },
+        "act46side": {
+            "id": "act46side",
+            "type": "TYPE_ACT46SIDE",
+            "displayType": "NONE",
+            "name": "雪山降臨1101",
+            "startTime": 1781078400,
+            "endTime": 1782849599,
+            "rewardEndTime": 1783454399,
+            "displayOnHome": true,
+            "hasStage": true,
+            "templateShopId": "shop_act46side",
+            "medalGroupId": "medalGroupActivity46side",
+            "ungroupedMedalIds": null,
+            "isReplicate": false,
+            "needFixedSync": false,
+            "trapDomainId": "template_trap_46side",
+            "recType": "SPECIAL",
+            "isPageEntry": false,
+            "isMagnify": false,
+            "picGroup": [],
+            "usePicGroup": false
+        },
+        "act2recruit": {
+            "id": "act2recruit",
+            "type": "RECRUIT_ONLY",
+            "displayType": "NONE",
+            "name": "特別公開招募 - 高級資深幹員",
+            "startTime": 1781078400,
+            "endTime": 1783972799,
+            "rewardEndTime": 1783972799,
+            "displayOnHome": false,
+            "hasStage": false,
+            "templateShopId": null,
+            "medalGroupId": null,
+            "ungroupedMedalIds": null,
+            "isReplicate": false,
+            "needFixedSync": false,
+            "trapDomainId": null,
+            "recType": "CAN_COMPLETE",
+            "isPageEntry": false,
+            "isMagnify": false,
+            "picGroup": [],
+            "usePicGroup": false
+        },
+        "act26login": {
+            "id": "act26login",
+            "type": "LOGIN_ONLY",
+            "displayType": "NONE",
+            "name": "登入領取獎勵",
+            "startTime": 1781078400,
+            "endTime": 1782244799,
+            "rewardEndTime": 1782244799,
+            "displayOnHome": false,
+            "hasStage": false,
+            "templateShopId": null,
+            "medalGroupId": null,
+            "ungroupedMedalIds": null,
+            "isReplicate": false,
+            "needFixedSync": false,
+            "trapDomainId": null,
+            "recType": "CAN_COMPLETE",
+            "isPageEntry": false,
+            "isMagnify": false,
+            "picGroup": [],
+            "usePicGroup": false
+        },
+        "act55sign": {
+            "id": "act55sign",
+            "type": "CHECKIN_ONLY",
+            "displayType": "NONE",
+            "name": "感謝慶典累計簽到",
+            "startTime": 1781078400,
+            "endTime": 1782244799,
+            "rewardEndTime": 1782244799,
+            "displayOnHome": false,
+            "hasStage": false,
+            "templateShopId": null,
+            "medalGroupId": null,
+            "ungroupedMedalIds": null,
+            "isReplicate": false,
+            "needFixedSync": false,
+            "trapDomainId": null,
+            "recType": "CAN_COMPLETE",
+            "isPageEntry": false,
+            "isMagnify": false,
+            "picGroup": [],
+            "usePicGroup": false
+        },
+        "act13pray": {
+            "id": "act13pray",
+            "type": "PRAY_ONLY",
+            "displayType": "NONE",
+            "name": "幸運牆登入活動",
+            "startTime": 1781078400,
+            "endTime": 1782244799,
+            "rewardEndTime": 1782244799,
+            "displayOnHome": false,
+            "hasStage": false,
+            "templateShopId": null,
+            "medalGroupId": null,
+            "ungroupedMedalIds": null,
+            "isReplicate": false,
+            "needFixedSync": false,
+            "trapDomainId": null,
+            "recType": "CANNOT_COMPLETE",
+            "isPageEntry": false,
+            "isMagnify": false,
+            "picGroup": [],
+            "usePicGroup": false
+        },
         "act1recruit": {
             "id": "act1recruit",
             "type": "RECRUIT_ONLY",
@@ -5878,6 +6010,41 @@
             "actTopBarColor": "b58e50",
             "actTopBarText": "歡聚紀念簽到活動"
         },
+        "act56sign": {
+            "actId": "act56sign",
+            "isPopupAfterCheckin": false,
+            "showTopBarMenu": true,
+            "actTopBarColor": "3630d1",
+            "actTopBarText": "感謝慶典補給簽到"
+        },
+        "act2recruit": {
+            "actId": "act2recruit",
+            "isPopupAfterCheckin": false,
+            "showTopBarMenu": true,
+            "actTopBarColor": "ecac00",
+            "actTopBarText": "特別公開\n招募"
+        },
+        "act26login": {
+            "actId": "act26login",
+            "isPopupAfterCheckin": false,
+            "showTopBarMenu": true,
+            "actTopBarColor": "3630d1",
+            "actTopBarText": "感謝慶典特別登入"
+        },
+        "act55sign": {
+            "actId": "act55sign",
+            "isPopupAfterCheckin": false,
+            "showTopBarMenu": true,
+            "actTopBarColor": "3630d1",
+            "actTopBarText": "感謝慶典限時簽到"
+        },
+        "act13pray": {
+            "actId": "act13pray",
+            "isPopupAfterCheckin": false,
+            "showTopBarMenu": true,
+            "actTopBarColor": "2c3abf",
+            "actTopBarText": "喀蘭聖山許願牆"
+        },
         "act1recruit": {
             "actId": "act1recruit",
             "isPopupAfterCheckin": false,
@@ -6789,6 +6956,9 @@
         "act38sre_zone1": "act38sre",
         "act38sre_zone2": "act38sre",
         "act38sre_zone3": "act38sre",
+        "act46side_zone1": "act46side",
+        "act46side_zone2": "act46side",
+        "act46side_zone3": "act46side",
         "act3mainss_zone1": "act3mainss",
         "act2multi_zone1": "act2multi",
         "act1vhalfidle_zone1": "act1vhalfidle",
@@ -9319,6 +9489,1038 @@
                 {
                     "type": "ACTIVITY_ITEM",
                     "id": "act38side_token_ticket_rep_1",
+                    "count": 120
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "46sideActivity_1",
+            "sortId": 1,
+            "description": "通關OS-1",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteAnyStage",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act46side_01",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act46side",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act46side_token_detector",
+                    "count": 50
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "46sideActivity_2",
+            "sortId": 2,
+            "description": "通關OS-2",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteAnyStage",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act46side_02",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act46side",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act46side_token_detector",
+                    "count": 50
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "46sideActivity_3",
+            "sortId": 3,
+            "description": "通關OS-3",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteAnyStage",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act46side_03",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act46side",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act46side_token_detector",
+                    "count": 50
+                },
+                {
+                    "type": "FURN",
+                    "id": "furni_tradeLounge_curtain_01",
+                    "count": 1
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "46sideActivity_4",
+            "sortId": 4,
+            "description": "通關OS-4",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteAnyStage",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act46side_04",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act46side",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act46side_token_detector",
+                    "count": 60
+                },
+                {
+                    "type": "FURN",
+                    "id": "furni_tradeLounge_bookcase_01",
+                    "count": 1
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "46sideActivity_5",
+            "sortId": 5,
+            "description": "通關OS-5",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteAnyStage",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act46side_05",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act46side",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act46side_token_detector",
+                    "count": 60
+                },
+                {
+                    "type": "CHAR",
+                    "id": "char_1047_halo2",
+                    "count": 1
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "46sideActivity_6",
+            "sortId": 6,
+            "description": "通關OS-6",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteAnyStage",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act46side_06",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act46side",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act46side_token_detector",
+                    "count": 80
+                },
+                {
+                    "type": "FURN",
+                    "id": "furni_tradeLounge_lowchair_01",
+                    "count": 1
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "46sideActivity_7",
+            "sortId": 7,
+            "description": "以3星評價完成OS-6",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteAnyStage",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act46side_06",
+                "3"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act46side",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "MATERIAL",
+                    "id": "mod_unlock_token",
+                    "count": 1
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "46sideActivity_8",
+            "sortId": 8,
+            "description": "通關OS-7",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteAnyStage",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act46side_07",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act46side",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act46side_token_detector",
+                    "count": 80
+                },
+                {
+                    "type": "FURN",
+                    "id": "furni_tradeLounge_coffeemachine_01",
+                    "count": 1
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "46sideActivity_9",
+            "sortId": 9,
+            "description": "以3星評價完成OS-7",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteAnyStage",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act46side_07",
+                "3"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act46side",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "FURN",
+                    "id": "furni_tradeLounge_sofa_01",
+                    "count": 1
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "46sideActivity_10",
+            "sortId": 10,
+            "description": "通關OS-8",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteAnyStage",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act46side_08",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act46side",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act46side_token_detector",
+                    "count": 100
+                },
+                {
+                    "type": "FURN",
+                    "id": "furni_tradeLounge_ceilinglamp_01",
+                    "count": 1
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "46sideActivity_11",
+            "sortId": 11,
+            "description": "以3星評價完成OS-8",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteAnyStage",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act46side_08",
+                "3"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act46side",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "FURN",
+                    "id": "furni_tradeLounge_column_01",
+                    "count": 1
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "46sideActivity_12",
+            "sortId": 12,
+            "description": "通關OS-9",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteAnyStage",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act46side_09",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act46side",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act46side_token_detector",
+                    "count": 100
+                },
+                {
+                    "type": "FURN",
+                    "id": "furni_tradeLounge_statueBox_01",
+                    "count": 1
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "46sideActivity_13",
+            "sortId": 13,
+            "description": "以3星評價完成OS-9",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteAnyStage",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act46side_09",
+                "3"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act46side",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "FURN",
+                    "id": "furni_tradeLounge_chair_01",
+                    "count": 1
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "46sideActivity_14",
+            "sortId": 14,
+            "description": "通關OS-10",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteAnyStage",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act46side_10",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act46side",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act46side_token_detector",
+                    "count": 120
+                },
+                {
+                    "type": "FURN",
+                    "id": "furni_tradeLounge_shelf_01",
+                    "count": 1
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "46sideActivity_15",
+            "sortId": 15,
+            "description": "以3星評價完成OS-10",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteAnyStage",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act46side_10",
+                "3"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act46side",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "MATERIAL",
+                    "id": "mod_unlock_token",
+                    "count": 1
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "46sideActivity_16",
+            "sortId": 16,
+            "description": "通關OS-EX-1",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteAnyStage",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act46side_ex01",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act46side",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act46side_token_detector",
+                    "count": 40
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "46sideActivity_17",
+            "sortId": 17,
+            "description": "通關OS-EX-2",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteAnyStage",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act46side_ex02",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act46side",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act46side_token_detector",
+                    "count": 40
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "46sideActivity_18",
+            "sortId": 18,
+            "description": "通關OS-EX-3",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteAnyStage",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act46side_ex03",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act46side",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act46side_token_detector",
+                    "count": 60
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "46sideActivity_19",
+            "sortId": 19,
+            "description": "通關OS-EX-4",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteAnyStage",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act46side_ex04",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act46side",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act46side_token_detector",
+                    "count": 60
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "46sideActivity_20",
+            "sortId": 20,
+            "description": "通關OS-EX-5",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteAnyStage",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act46side_ex05",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act46side",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act46side_token_detector",
+                    "count": 60
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "46sideActivity_21",
+            "sortId": 21,
+            "description": "通關OS-EX-6",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteAnyStage",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act46side_ex06",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act46side",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act46side_token_detector",
+                    "count": 60
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "46sideActivity_22",
+            "sortId": 22,
+            "description": "通關OS-EX-7",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteAnyStage",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act46side_ex07",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act46side",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act46side_token_detector",
+                    "count": 80
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "46sideActivity_23",
+            "sortId": 23,
+            "description": "通關OS-EX-8",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteAnyStage",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act46side_ex08",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act46side",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act46side_token_detector",
+                    "count": 80
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "46sideActivity_24",
+            "sortId": 24,
+            "description": "通關OS-EX-8突襲模式",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteAnyStage",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act46side_ex08#f#",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act46side",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "FURN",
+                    "id": "furni_terracommericials_ExplorerPack_01",
+                    "count": 1
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "46sideActivity_25",
+            "sortId": 25,
+            "description": "以3星評價完成OS-S-1",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteAnyStage",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act46side_s01",
+                "3"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act46side",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act46side_token_detector",
+                    "count": 40
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "46sideActivity_26",
+            "sortId": 26,
+            "description": "以3星評價完成OS-S-2",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteAnyStage",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act46side_s02",
+                "3"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act46side",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act46side_token_detector",
+                    "count": 40
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "46sideActivity_27",
+            "sortId": 27,
+            "description": "以3星評價完成OS-S-3",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteAnyStage",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act46side_s03",
+                "3"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act46side",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act46side_token_detector",
+                    "count": 60
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "46sideActivity_28",
+            "sortId": 28,
+            "description": "以3星評價完成OS-S-4",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteAnyStage",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act46side_s04",
+                "3"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act46side",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act46side_token_detector",
+                    "count": 60
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "46sideActivity_29",
+            "sortId": 29,
+            "description": "以3星評價完成OS-S-5",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteAnyStage",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act46side_s05",
+                "3"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act46side",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act46side_token_detector",
+                    "count": 80
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "46sideActivity_30",
+            "sortId": 30,
+            "description": "通關活動關卡15次，不含教學關",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteStageAct",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act46side_01^act46side_02^act46side_03^act46side_04^act46side_05^act46side_06^act46side_07^act46side_08^act46side_09^act46side_10^act46side_ex01^act46side_ex01#f#^act46side_ex02^act46side_ex02#f#^act46side_ex03^act46side_ex03#f#^act46side_ex04^act46side_ex04#f#^act46side_ex05^act46side_ex05#f#^act46side_ex06^act46side_ex06#f#^act46side_ex07^act46side_ex07#f#^act46side_ex08^act46side_ex08#f#^act46side_s01^act46side_s01#f#^act46side_s02^act46side_s02#f#^act46side_s03^act46side_s03#f#^act46side_s04^act46side_s04#f#^^act46side_s05^act46side_s05#f#",
+                "15"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act46side",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act46side_token_detector",
+                    "count": 80
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "46sideActivity_31",
+            "sortId": 31,
+            "description": "通關活動關卡45次，不含教學關",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteStageAct",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act46side_01^act46side_02^act46side_03^act46side_04^act46side_05^act46side_06^act46side_07^act46side_08^act46side_09^act46side_10^act46side_ex01^act46side_ex01#f#^act46side_ex02^act46side_ex02#f#^act46side_ex03^act46side_ex03#f#^act46side_ex04^act46side_ex04#f#^act46side_ex05^act46side_ex05#f#^act46side_ex06^act46side_ex06#f#^act46side_ex07^act46side_ex07#f#^act46side_ex08^act46side_ex08#f#^act46side_s01^act46side_s01#f#^act46side_s02^act46side_s02#f#^act46side_s03^act46side_s03#f#^act46side_s04^act46side_s04#f#^^act46side_s05^act46side_s05#f#",
+                "45"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act46side",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act46side_token_detector",
+                    "count": 100
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": -1
+        },
+        {
+            "id": "46sideActivity_32",
+            "sortId": 32,
+            "description": "通關活動關卡85次，不含教學關",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteStageAct",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act46side_01^act46side_02^act46side_03^act46side_04^act46side_05^act46side_06^act46side_07^act46side_08^act46side_09^act46side_10^act46side_ex01^act46side_ex01#f#^act46side_ex02^act46side_ex02#f#^act46side_ex03^act46side_ex03#f#^act46side_ex04^act46side_ex04#f#^act46side_ex05^act46side_ex05#f#^act46side_ex06^act46side_ex06#f#^act46side_ex07^act46side_ex07#f#^act46side_ex08^act46side_ex08#f#^act46side_s01^act46side_s01#f#^act46side_s02^act46side_s02#f#^act46side_s03^act46side_s03#f#^act46side_s04^act46side_s04#f#^^act46side_s05^act46side_s05#f#",
+                "85"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act46side",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act46side_token_detector",
                     "count": 120
                 }
             ],
@@ -107846,6 +109048,50 @@
             "endTs": 1781035199
         },
         {
+            "id": "act46side",
+            "title": null,
+            "type": "ACTIVITY",
+            "preMissionGroup": null,
+            "period": null,
+            "rewards": [],
+            "missionIds": [
+                "46sideActivity_1",
+                "46sideActivity_2",
+                "46sideActivity_3",
+                "46sideActivity_4",
+                "46sideActivity_5",
+                "46sideActivity_6",
+                "46sideActivity_7",
+                "46sideActivity_8",
+                "46sideActivity_9",
+                "46sideActivity_10",
+                "46sideActivity_11",
+                "46sideActivity_12",
+                "46sideActivity_13",
+                "46sideActivity_14",
+                "46sideActivity_15",
+                "46sideActivity_16",
+                "46sideActivity_17",
+                "46sideActivity_18",
+                "46sideActivity_19",
+                "46sideActivity_20",
+                "46sideActivity_21",
+                "46sideActivity_22",
+                "46sideActivity_23",
+                "46sideActivity_24",
+                "46sideActivity_25",
+                "46sideActivity_26",
+                "46sideActivity_27",
+                "46sideActivity_28",
+                "46sideActivity_29",
+                "46sideActivity_30",
+                "46sideActivity_31",
+                "46sideActivity_32"
+            ],
+            "startTs": 1781078400,
+            "endTs": 1783454399
+        },
+        {
             "id": "act3mainss",
             "title": null,
             "type": "ACTIVITY",
@@ -112362,6 +113608,345 @@
                 },
                 "apSupplyOutOfDateDict": {
                     "ap_supply_lt_120": 1781467199
+                },
+                "dynCheckInData": null,
+                "extraCheckinList": null
+            },
+            "act56sign": {
+                "checkInList": {
+                    "0": {
+                        "itemList": [
+                            {
+                                "id": "classic_gacha",
+                                "count": 1,
+                                "type": "CLASSIC_TKT_GACHA"
+                            },
+                            {
+                                "id": "randomMaterial_6d5",
+                                "count": 1,
+                                "type": "VOUCHER_MGACHA"
+                            }
+                        ],
+                        "order": 1,
+                        "color": 0,
+                        "keyItem": 0,
+                        "showItemOrder": 0,
+                        "isDynItem": false
+                    },
+                    "1": {
+                        "itemList": [
+                            {
+                                "id": "classic_gacha",
+                                "count": 1,
+                                "type": "CLASSIC_TKT_GACHA"
+                            },
+                            {
+                                "id": "randomMaterial_6d5",
+                                "count": 1,
+                                "type": "VOUCHER_MGACHA"
+                            }
+                        ],
+                        "order": 2,
+                        "color": 0,
+                        "keyItem": 0,
+                        "showItemOrder": 0,
+                        "isDynItem": false
+                    },
+                    "2": {
+                        "itemList": [
+                            {
+                                "id": "classic_gacha",
+                                "count": 1,
+                                "type": "CLASSIC_TKT_GACHA"
+                            },
+                            {
+                                "id": "randomMaterial_6d5",
+                                "count": 1,
+                                "type": "VOUCHER_MGACHA"
+                            }
+                        ],
+                        "order": 3,
+                        "color": 0,
+                        "keyItem": 0,
+                        "showItemOrder": 0,
+                        "isDynItem": false
+                    },
+                    "3": {
+                        "itemList": [
+                            {
+                                "id": "classic_gacha",
+                                "count": 1,
+                                "type": "CLASSIC_TKT_GACHA"
+                            },
+                            {
+                                "id": "randomMaterial_6d5",
+                                "count": 1,
+                                "type": "VOUCHER_MGACHA"
+                            }
+                        ],
+                        "order": 4,
+                        "color": 0,
+                        "keyItem": 0,
+                        "showItemOrder": 0,
+                        "isDynItem": false
+                    },
+                    "4": {
+                        "itemList": [
+                            {
+                                "id": "classic_gacha",
+                                "count": 1,
+                                "type": "CLASSIC_TKT_GACHA"
+                            },
+                            {
+                                "id": "randomMaterial_6d5",
+                                "count": 1,
+                                "type": "VOUCHER_MGACHA"
+                            }
+                        ],
+                        "order": 5,
+                        "color": 0,
+                        "keyItem": 0,
+                        "showItemOrder": 0,
+                        "isDynItem": false
+                    },
+                    "5": {
+                        "itemList": [
+                            {
+                                "id": "classic_gacha",
+                                "count": 1,
+                                "type": "CLASSIC_TKT_GACHA"
+                            },
+                            {
+                                "id": "randomMaterial_6d5",
+                                "count": 1,
+                                "type": "VOUCHER_MGACHA"
+                            }
+                        ],
+                        "order": 6,
+                        "color": 0,
+                        "keyItem": 0,
+                        "showItemOrder": 0,
+                        "isDynItem": false
+                    },
+                    "6": {
+                        "itemList": [
+                            {
+                                "id": "classic_gacha",
+                                "count": 1,
+                                "type": "CLASSIC_TKT_GACHA"
+                            },
+                            {
+                                "id": "randomMaterial_6d5",
+                                "count": 1,
+                                "type": "VOUCHER_MGACHA"
+                            }
+                        ],
+                        "order": 7,
+                        "color": 0,
+                        "keyItem": 0,
+                        "showItemOrder": 0,
+                        "isDynItem": false
+                    }
+                },
+                "apSupplyOutOfDateDict": {},
+                "dynCheckInData": null,
+                "extraCheckinList": null
+            },
+            "act55sign": {
+                "checkInList": {
+                    "0": {
+                        "itemList": [
+                            {
+                                "id": "ap_supply_lt_120",
+                                "count": 1,
+                                "type": "AP_SUPPLY"
+                            },
+                            {
+                                "id": "7002",
+                                "count": 5,
+                                "type": "TKT_INST_FIN"
+                            }
+                        ],
+                        "order": 1,
+                        "color": 0,
+                        "keyItem": 1,
+                        "showItemOrder": 0,
+                        "isDynItem": false
+                    },
+                    "1": {
+                        "itemList": [
+                            {
+                                "id": "4003",
+                                "count": 200,
+                                "type": "DIAMOND_SHD"
+                            },
+                            {
+                                "id": "7001",
+                                "count": 5,
+                                "type": "TKT_RECRUIT"
+                            }
+                        ],
+                        "order": 2,
+                        "color": 0,
+                        "keyItem": 0,
+                        "showItemOrder": 0,
+                        "isDynItem": false
+                    },
+                    "2": {
+                        "itemList": [
+                            {
+                                "id": "furni_act67d0_frostEffigy_01",
+                                "count": 1,
+                                "type": "FURN"
+                            },
+                            {
+                                "id": "3301",
+                                "count": 30,
+                                "type": "MATERIAL"
+                            }
+                        ],
+                        "order": 3,
+                        "color": 0,
+                        "keyItem": 1,
+                        "showItemOrder": 1,
+                        "isDynItem": false
+                    },
+                    "3": {
+                        "itemList": [
+                            {
+                                "id": "mod_update_token_2",
+                                "count": 3,
+                                "type": "MATERIAL"
+                            },
+                            {
+                                "id": "4001",
+                                "count": 30000,
+                                "type": "GOLD"
+                            }
+                        ],
+                        "order": 4,
+                        "color": 0,
+                        "keyItem": 0,
+                        "showItemOrder": 0,
+                        "isDynItem": false
+                    },
+                    "4": {
+                        "itemList": [
+                            {
+                                "id": "2003",
+                                "count": 20,
+                                "type": "CARD_EXP"
+                            },
+                            {
+                                "id": "3302",
+                                "count": 20,
+                                "type": "MATERIAL"
+                            }
+                        ],
+                        "order": 5,
+                        "color": 0,
+                        "keyItem": 0,
+                        "showItemOrder": 0,
+                        "isDynItem": false
+                    },
+                    "5": {
+                        "itemList": [
+                            {
+                                "id": "char_127_estell@epoque#50",
+                                "count": 1,
+                                "type": "CHAR_SKIN"
+                            },
+                            {
+                                "id": "3003",
+                                "count": 20,
+                                "type": "MATERIAL"
+                            }
+                        ],
+                        "order": 6,
+                        "color": 0,
+                        "keyItem": 1,
+                        "showItemOrder": 2,
+                        "isDynItem": false
+                    },
+                    "6": {
+                        "itemList": [
+                            {
+                                "id": "mod_update_token_1",
+                                "count": 10,
+                                "type": "MATERIAL"
+                            },
+                            {
+                                "id": "3303",
+                                "count": 8,
+                                "type": "MATERIAL"
+                            }
+                        ],
+                        "order": 7,
+                        "color": 0,
+                        "keyItem": 0,
+                        "showItemOrder": 0,
+                        "isDynItem": false
+                    },
+                    "7": {
+                        "itemList": [
+                            {
+                                "id": "32001",
+                                "count": 1,
+                                "type": "MATERIAL"
+                            },
+                            {
+                                "id": "4001",
+                                "count": 30000,
+                                "type": "GOLD"
+                            }
+                        ],
+                        "order": 8,
+                        "color": 0,
+                        "keyItem": 0,
+                        "showItemOrder": 0,
+                        "isDynItem": false
+                    },
+                    "8": {
+                        "itemList": [
+                            {
+                                "id": "mod_unlock_token",
+                                "count": 1,
+                                "type": "MATERIAL"
+                            },
+                            {
+                                "id": "3401",
+                                "count": 300,
+                                "type": "MATERIAL"
+                            }
+                        ],
+                        "order": 9,
+                        "color": 0,
+                        "keyItem": 1,
+                        "showItemOrder": 0,
+                        "isDynItem": false
+                    },
+                    "9": {
+                        "itemList": [
+                            {
+                                "id": "4003",
+                                "count": 200,
+                                "type": "DIAMOND_SHD"
+                            },
+                            {
+                                "id": "2003",
+                                "count": 20,
+                                "type": "CARD_EXP"
+                            }
+                        ],
+                        "order": 10,
+                        "color": 0,
+                        "keyItem": 0,
+                        "showItemOrder": 0,
+                        "isDynItem": false
+                    }
+                },
+                "apSupplyOutOfDateDict": {
+                    "ap_supply_lt_120": 1783281599
                 },
                 "dynCheckInData": null,
                 "extraCheckinList": null
@@ -171631,6 +173216,17 @@
             }
         },
         "LOGIN_ONLY": {
+            "act26login": {
+                "description": "<color value=#bfbfbf>該物品過期時間</color>\n<color value=#ffffff>2026/06/24 03:59</color>",
+                "itemList": [
+                    {
+                        "id": "LIMITED_TKT_GACHA_10_6701",
+                        "count": 1,
+                        "type": "LIMITED_TKT_GACHA_10"
+                    }
+                ],
+                "apSupplyOutOfDateDict": {}
+            },
             "act24login": {
                 "description": "<color value=#bfbfbf>該物品過期時間</color>\n<color value=#bfbfbf>2026/03/12 03:59</color>",
                 "itemList": [
@@ -278846,6 +280442,21 @@
             }
         },
         "RECRUIT_ONLY": {
+            "act2recruit": {
+                "recruitData": {
+                    "id": "act2recruit_1",
+                    "phaseNum": 2,
+                    "tagId": 11,
+                    "tagTimes": 1,
+                    "startTime": 1781078400,
+                    "endTime": 1783972799,
+                    "startTimeDesc": "",
+                    "endTimeDesc": "",
+                    "desc1": "活動期間必定出現高級資深幹員標籤（僅限一次）",
+                    "desc2": "可獲得<color=#BDBDBD>6★</color>幹員"
+                },
+                "previewData": null
+            },
             "act1recruit": {
                 "recruitData": {
                     "id": "act1recruit_1",
@@ -278873,7 +280484,1316 @@
                 }
             }
         },
-        "TYPE_ACT46SIDE": {},
+        "TYPE_ACT46SIDE": {
+            "act46side": {
+                "zoneAdditionDataMap": {
+                    "act46side_zone1": {
+                        "zoneId": "act46side_zone1",
+                        "unlockText": "尚未解鎖"
+                    },
+                    "act46side_zone2": {
+                        "zoneId": "act46side_zone2",
+                        "unlockText": "完成“聖巡之旅”後解鎖"
+                    },
+                    "act46side_zone3": {
+                        "zoneId": "act46side_zone3",
+                        "unlockText": "完成“聖巡之旅”後解鎖"
+                    }
+                },
+                "monopolyStageDataMap": {
+                    "station_rebuild_01": {
+                        "stageId": "station_rebuild_01",
+                        "sortId": 1,
+                        "startTs": 1781078400,
+                        "stageName": "地基重建",
+                        "stageDesc": "如今，這裡只剩下一片廢墟。所幸我們還有機會。\n<color=#df5244><場地效果></color>每2回合，隨機一片區域的基礎資源產出x2倍\n<color=#df5244><點數範圍></color>在1-5內隨機生成點數",
+                        "taskRequiredAmount": 4,
+                        "rewardList": [
+                            {
+                                "id": "randomMaterial_act46side",
+                                "count": 2,
+                                "type": "VOUCHER_MGACHA"
+                            },
+                            {
+                                "id": "31013",
+                                "count": 3,
+                                "type": "MATERIAL"
+                            },
+                            {
+                                "id": "4001",
+                                "count": 10000,
+                                "type": "GOLD"
+                            }
+                        ],
+                        "buffIdList": [
+                            "station_rebuild_buff_1"
+                        ],
+                        "bgSpriteId": "station_rebuild_pic_1",
+                        "maxTurn": 6,
+                        "nodeIconStyleIndexList": [
+                            0,
+                            1,
+                            2,
+                            2,
+                            1,
+                            1,
+                            2,
+                            1,
+                            2,
+                            1
+                        ],
+                        "validResourceIdList": [
+                            "mine",
+                            "wood",
+                            "gear"
+                        ]
+                    },
+                    "station_rebuild_02": {
+                        "stageId": "station_rebuild_02",
+                        "sortId": 2,
+                        "startTs": 1781078400,
+                        "stageName": "物資支援",
+                        "stageDesc": "食物、木柴、毛毯與必要的藥物，好鄰居與“好鄰居”的幫助一起到來。\n<color=#df5244><場地效果></color>每2回合，隨機一片區域的基礎資源產出x2倍\n<color=#df5244><點數範圍></color>在1-5內隨機生成點數",
+                        "taskRequiredAmount": 10,
+                        "rewardList": [
+                            {
+                                "id": "randomMaterial_act46side",
+                                "count": 4,
+                                "type": "VOUCHER_MGACHA"
+                            },
+                            {
+                                "id": "30044",
+                                "count": 1,
+                                "type": "MATERIAL"
+                            },
+                            {
+                                "id": "2004",
+                                "count": 10,
+                                "type": "CARD_EXP"
+                            }
+                        ],
+                        "buffIdList": [
+                            "station_rebuild_buff_1"
+                        ],
+                        "bgSpriteId": "station_rebuild_pic_1",
+                        "maxTurn": 8,
+                        "nodeIconStyleIndexList": [
+                            0,
+                            1,
+                            2,
+                            2,
+                            1,
+                            1,
+                            2,
+                            1,
+                            2,
+                            1
+                        ],
+                        "validResourceIdList": [
+                            "mine",
+                            "wood",
+                            "gear"
+                        ]
+                    },
+                    "station_rebuild_03": {
+                        "stageId": "station_rebuild_03",
+                        "sortId": 3,
+                        "startTs": 1781078400,
+                        "stageName": "額外收穫",
+                        "stageDesc": "看看我們發現了什麼？\n<color=#df5244><場地效果></color>每2回合，所有區域的資源種類隨機變更\n<color=#df5244><點數範圍></color>在1-5內隨機生成點數",
+                        "taskRequiredAmount": 10,
+                        "rewardList": [
+                            {
+                                "id": "randomMaterial_act46side",
+                                "count": 4,
+                                "type": "VOUCHER_MGACHA"
+                            },
+                            {
+                                "id": "30104",
+                                "count": 1,
+                                "type": "MATERIAL"
+                            },
+                            {
+                                "id": "3303",
+                                "count": 8,
+                                "type": "MATERIAL"
+                            }
+                        ],
+                        "buffIdList": [
+                            "station_rebuild_buff_2"
+                        ],
+                        "bgSpriteId": "station_rebuild_pic_1",
+                        "maxTurn": 8,
+                        "nodeIconStyleIndexList": [
+                            0,
+                            1,
+                            2,
+                            2,
+                            1,
+                            1,
+                            2,
+                            1,
+                            2,
+                            1
+                        ],
+                        "validResourceIdList": [
+                            "mine",
+                            "wood",
+                            "gear"
+                        ]
+                    },
+                    "station_rebuild_04": {
+                        "stageId": "station_rebuild_04",
+                        "sortId": 4,
+                        "startTs": 1781294400,
+                        "stageName": "靈活配給",
+                        "stageDesc": "有捨有得，事情總有輕重緩急。\n<color=#df5244><場地效果></color>每2回合，隨機鎖定4個區域，被封鎖的區域無法蒐集資源，未封鎖區域基礎資源產出提升\n<color=#df5244><點數範圍></color>在1-5內隨機生成點數",
+                        "taskRequiredAmount": 10,
+                        "rewardList": [
+                            {
+                                "id": "randomMaterial_act46side",
+                                "count": 4,
+                                "type": "VOUCHER_MGACHA"
+                            },
+                            {
+                                "id": "32001",
+                                "count": 1,
+                                "type": "MATERIAL"
+                            },
+                            {
+                                "id": "4001",
+                                "count": 15000,
+                                "type": "GOLD"
+                            }
+                        ],
+                        "buffIdList": [
+                            "station_rebuild_buff_3"
+                        ],
+                        "bgSpriteId": "station_rebuild_pic_2",
+                        "maxTurn": 8,
+                        "nodeIconStyleIndexList": [
+                            0,
+                            1,
+                            2,
+                            2,
+                            1,
+                            1,
+                            2,
+                            1,
+                            2,
+                            1
+                        ],
+                        "validResourceIdList": [
+                            "mine",
+                            "wood",
+                            "gear"
+                        ]
+                    },
+                    "station_rebuild_05": {
+                        "stageId": "station_rebuild_05",
+                        "sortId": 5,
+                        "startTs": 1781294400,
+                        "stageName": "熟能生巧",
+                        "stageDesc": "祂說：“你們要記得來時的路，不可忘卻。”\n<color=#df5244><場地效果></color>區域初始基礎產出降低，每完成一圈，所有區域基礎資源產出+1\n<color=#df5244><點數範圍></color>在1-3內隨機生成點數",
+                        "taskRequiredAmount": 10,
+                        "rewardList": [
+                            {
+                                "id": "randomMaterial_act46side",
+                                "count": 4,
+                                "type": "VOUCHER_MGACHA"
+                            },
+                            {
+                                "id": "31034",
+                                "count": 1,
+                                "type": "MATERIAL"
+                            },
+                            {
+                                "id": "2003",
+                                "count": 20,
+                                "type": "CARD_EXP"
+                            }
+                        ],
+                        "buffIdList": [
+                            "station_rebuild_buff_4"
+                        ],
+                        "bgSpriteId": "station_rebuild_pic_2",
+                        "maxTurn": 8,
+                        "nodeIconStyleIndexList": [
+                            0,
+                            1,
+                            2,
+                            2,
+                            1,
+                            1,
+                            2,
+                            1,
+                            2,
+                            1
+                        ],
+                        "validResourceIdList": [
+                            "mine",
+                            "wood",
+                            "gear"
+                        ]
+                    },
+                    "station_rebuild_06": {
+                        "stageId": "station_rebuild_06",
+                        "sortId": 6,
+                        "startTs": 1781294400,
+                        "stageName": "雪地奇珍",
+                        "stageDesc": "我們低頭面朝大地時收穫食糧，抬頭遙望時捕獲星群。\n<color=#df5244><場地效果></color>每2回合在隨機區域中出現寶箱，持續2回合，經過該區域可獲得隨機資源\n<color=#df5244><點數範圍></color>在1-5內隨機生成點數",
+                        "taskRequiredAmount": 10,
+                        "rewardList": [
+                            {
+                                "id": "randomMaterial_act46side",
+                                "count": 4,
+                                "type": "VOUCHER_MGACHA"
+                            },
+                            {
+                                "id": "31014",
+                                "count": 1,
+                                "type": "MATERIAL"
+                            },
+                            {
+                                "id": "3302",
+                                "count": 16,
+                                "type": "MATERIAL"
+                            }
+                        ],
+                        "buffIdList": [
+                            "station_rebuild_buff_5"
+                        ],
+                        "bgSpriteId": "station_rebuild_pic_2",
+                        "maxTurn": 8,
+                        "nodeIconStyleIndexList": [
+                            0,
+                            1,
+                            2,
+                            2,
+                            1,
+                            1,
+                            2,
+                            1,
+                            2,
+                            1
+                        ],
+                        "validResourceIdList": [
+                            "mine",
+                            "oil",
+                            "metal"
+                        ]
+                    },
+                    "station_rebuild_07": {
+                        "stageId": "station_rebuild_07",
+                        "sortId": 7,
+                        "startTs": 1781294400,
+                        "stageName": "細緻修繕",
+                        "stageDesc": "把剩下的工作列成清單，你的效率會進一步提升。\n<color=#df5244><場地效果></color>初始修繕規劃數量減少，每獲得2重建值，修繕規劃數量+1（最多可增加4張）\n<color=#df5244><點數範圍></color>在1-5內隨機生成點數",
+                        "taskRequiredAmount": 10,
+                        "rewardList": [
+                            {
+                                "id": "randomMaterial_act46side",
+                                "count": 4,
+                                "type": "VOUCHER_MGACHA"
+                            },
+                            {
+                                "id": "mod_unlock_token",
+                                "count": 1,
+                                "type": "MATERIAL"
+                            },
+                            {
+                                "id": "4001",
+                                "count": 15000,
+                                "type": "GOLD"
+                            }
+                        ],
+                        "buffIdList": [
+                            "station_rebuild_buff_6"
+                        ],
+                        "bgSpriteId": "station_rebuild_pic_3",
+                        "maxTurn": 8,
+                        "nodeIconStyleIndexList": [
+                            0,
+                            1,
+                            2,
+                            2,
+                            1,
+                            1,
+                            2,
+                            1,
+                            2,
+                            1
+                        ],
+                        "validResourceIdList": [
+                            "mine",
+                            "oil",
+                            "metal"
+                        ]
+                    },
+                    "station_rebuild_08": {
+                        "stageId": "station_rebuild_08",
+                        "sortId": 8,
+                        "startTs": 1781726400,
+                        "stageName": "聯合作業",
+                        "stageDesc": "加把勁！就剩最後一點了！\n<color=#df5244><場地效果></color>初始修繕規劃數量減少，每獲得2重建值，修繕規劃數量+1（最多可增加4張）\n每2回合，所有區域的資源種類隨機變更\n<color=#df5244><點數範圍></color>在1-5內隨機生成點數",
+                        "taskRequiredAmount": 12,
+                        "rewardList": [
+                            {
+                                "id": "randomMaterial_act46side",
+                                "count": 8,
+                                "type": "VOUCHER_MGACHA"
+                            },
+                            {
+                                "id": "30115",
+                                "count": 1,
+                                "type": "MATERIAL"
+                            },
+                            {
+                                "id": "2004",
+                                "count": 20,
+                                "type": "CARD_EXP"
+                            }
+                        ],
+                        "buffIdList": [
+                            "station_rebuild_buff_9",
+                            "station_rebuild_buff_6"
+                        ],
+                        "bgSpriteId": "station_rebuild_pic_3",
+                        "maxTurn": 10,
+                        "nodeIconStyleIndexList": [
+                            0,
+                            1,
+                            2,
+                            2,
+                            1,
+                            1,
+                            2,
+                            1,
+                            2,
+                            1
+                        ],
+                        "validResourceIdList": [
+                            "mine",
+                            "oil",
+                            "metal"
+                        ]
+                    },
+                    "station_rebuild_09": {
+                        "stageId": "station_rebuild_09",
+                        "sortId": 9,
+                        "startTs": 1781726400,
+                        "stageName": "竣工檢查",
+                        "stageDesc": "最後一遍，確保沒有螺絲不牢固，也沒有工具遺漏。\n<color=#df5244><場地效果></color>初始修繕規劃數量減少，每獲得2重建值，修繕規劃數量+1（最多可增加4張）\n每2回合，隨機鎖定4個區域，被封鎖的區域無法蒐集資源，未封鎖區域基礎資源產出提升\n<color=#df5244><點數範圍></color>在1-5內隨機生成點數",
+                        "taskRequiredAmount": 12,
+                        "rewardList": [
+                            {
+                                "id": "randomMaterial_act46side",
+                                "count": 8,
+                                "type": "VOUCHER_MGACHA"
+                            },
+                            {
+                                "id": "30165",
+                                "count": 1,
+                                "type": "MATERIAL"
+                            },
+                            {
+                                "id": "3303",
+                                "count": 16,
+                                "type": "MATERIAL"
+                            }
+                        ],
+                        "buffIdList": [
+                            "station_rebuild_buff_10",
+                            "station_rebuild_buff_6"
+                        ],
+                        "bgSpriteId": "station_rebuild_pic_3",
+                        "maxTurn": 10,
+                        "nodeIconStyleIndexList": [
+                            0,
+                            1,
+                            2,
+                            2,
+                            1,
+                            1,
+                            2,
+                            1,
+                            2,
+                            1
+                        ],
+                        "validResourceIdList": [
+                            "mine",
+                            "oil",
+                            "metal"
+                        ]
+                    },
+                    "station_rebuild_10": {
+                        "stageId": "station_rebuild_10",
+                        "sortId": 10,
+                        "startTs": 1781726400,
+                        "stageName": "重建家園",
+                        "stageDesc": "謝拉格的春日如約而至。\n<color=#df5244><場地效果></color>區域初始基礎產出降低，每完成一圈，所有區域基礎資源產出+2\n每2回合在隨機區域中出現寶箱，持續2回合，經過該區域可獲得隨機資源\n<color=#df5244><點數範圍></color>在1-3內隨機生成點數",
+                        "taskRequiredAmount": 12,
+                        "rewardList": [
+                            {
+                                "id": "randomMaterial_act46side",
+                                "count": 8,
+                                "type": "VOUCHER_MGACHA"
+                            },
+                            {
+                                "id": "30145",
+                                "count": 1,
+                                "type": "MATERIAL"
+                            },
+                            {
+                                "id": "4001",
+                                "count": 30000,
+                                "type": "GOLD"
+                            }
+                        ],
+                        "buffIdList": [
+                            "station_rebuild_buff_7",
+                            "station_rebuild_buff_8"
+                        ],
+                        "bgSpriteId": "station_rebuild_pic_3",
+                        "maxTurn": 10,
+                        "nodeIconStyleIndexList": [
+                            0,
+                            1,
+                            2,
+                            2,
+                            1,
+                            1,
+                            2,
+                            1,
+                            2,
+                            1
+                        ],
+                        "validResourceIdList": [
+                            "mine",
+                            "oil",
+                            "metal"
+                        ]
+                    }
+                },
+                "buffDataMap": {
+                    "station_rebuild_buff_1": {
+                        "buffId": "station_rebuild_buff_1",
+                        "buffIconId": "station_rebuild_buff_1",
+                        "buffName": "優質收穫區",
+                        "buffDesc": "每2回合，隨機一片區域的基礎資源產出x2倍"
+                    },
+                    "station_rebuild_buff_2": {
+                        "buffId": "station_rebuild_buff_2",
+                        "buffIconId": "station_rebuild_buff_2",
+                        "buffName": "隨機採集",
+                        "buffDesc": "每2回合，所有區域的資源種類隨機變更"
+                    },
+                    "station_rebuild_buff_3": {
+                        "buffId": "station_rebuild_buff_3",
+                        "buffIconId": "station_rebuild_buff_3",
+                        "buffName": "有得必有失",
+                        "buffDesc": "每2回合，隨機鎖定4個區域，被封鎖的區域無法蒐集資源，未封鎖區域基礎資源產出提升"
+                    },
+                    "station_rebuild_buff_4": {
+                        "buffId": "station_rebuild_buff_4",
+                        "buffIconId": "station_rebuild_buff_4",
+                        "buffName": "自然的饋贈",
+                        "buffDesc": "區域初始基礎產出降低，每完成一圈，所有區域基礎資源產出+1"
+                    },
+                    "station_rebuild_buff_5": {
+                        "buffId": "station_rebuild_buff_5",
+                        "buffIconId": "station_rebuild_buff_5",
+                        "buffName": "識途",
+                        "buffDesc": "每2回合在隨機區域中出現寶箱，持續2回合，經過該區域可獲得隨機資源"
+                    },
+                    "station_rebuild_buff_6": {
+                        "buffId": "station_rebuild_buff_6",
+                        "buffIconId": "station_rebuild_buff_6",
+                        "buffName": "卓越的規劃",
+                        "buffDesc": "初始修繕規劃數量減少，每獲得2重建值，修繕規劃數量+1（最多可增加4張）"
+                    },
+                    "station_rebuild_buff_7": {
+                        "buffId": "station_rebuild_buff_7",
+                        "buffIconId": "station_rebuild_buff_5",
+                        "buffName": "識途·自然的饋贈",
+                        "buffDesc": "每2回合在隨機區域中出現寶箱，持續2回合，經過該區域可獲得隨機資源"
+                    },
+                    "station_rebuild_buff_8": {
+                        "buffId": "station_rebuild_buff_8",
+                        "buffIconId": "station_rebuild_buff_4",
+                        "buffName": "自然的饋贈",
+                        "buffDesc": "區域初始基礎產出降低，每完成一圈，所有區域基礎資源產出+2"
+                    },
+                    "station_rebuild_buff_9": {
+                        "buffId": "station_rebuild_buff_9",
+                        "buffIconId": "station_rebuild_buff_2",
+                        "buffName": "隨機採集·卓越的規劃",
+                        "buffDesc": "每2回合，所有區域的資源種類隨機變更"
+                    },
+                    "station_rebuild_buff_10": {
+                        "buffId": "station_rebuild_buff_10",
+                        "buffIconId": "station_rebuild_buff_3",
+                        "buffName": "有得必有失·卓越的規劃",
+                        "buffDesc": "每2回合，隨機鎖定4個區域，被封鎖的區域無法蒐集資源，未封鎖區域基礎資源產出提升"
+                    }
+                },
+                "settleDialogDataMap": {
+                    "station_rebuild_01": {
+                        "FAIL": [
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "……估算錯誤？把修繕規劃拿來給我看看。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_mlyss",
+                                "dialogText": "哎呀呀……別灰心，再試一次吧，我們一起。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_yucatan",
+                                "dialogText": "耶拉岡德在上……願祂指引正確的前路……"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "在收集資源之前，必須先完成一次前進活動。另外，在收集資源時連續使用點數連續的修繕規劃，可以提升收集效率。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "點數連續的修繕規劃可在收集資源時連續使用，每次連續使用都會額外獲得一定數量的全種類資源。合理利用將會明顯提升收集效率，不妨一試。"
+                            }
+                        ],
+                        "GOOD": [
+                            {
+                                "characterAvatarId": "rebuild_halo",
+                                "dialogText": "完成效率、整體數據還有人力調配……嗯，都很好，你果然做什麼都很優秀，博士。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_juana",
+                                "dialogText": "啊！您就是聖女大人說的那個博、博……博什麼的啊？總而言之很厲害的那個人……哎呀，算了！這是附近鄉親們拜託我拿給您的奶酥糖，好好享用吧！感謝您為謝拉格做的一切！"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_svrash2",
+                                "dialogText": "歡迎你的到來，盟友……嗯？修繕進度？我們都知道，你一定能處理妥當的，不是嗎？所以，我們的時間應該用來聊些更有意義的事。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_slbell",
+                                "dialogText": "好久不見了，博士。感謝你的幫助。有空的話，請來一趟蔓珠院吧。各位修士都期待著與博士這樣的博學者共進晚餐、交流思想呢。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "嗯，合理的成果。雖然欠缺驚喜或驚嚇，但誰說折衷不是最好的選擇呢？"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "在收集資源之前，必須先完成一次前進活動。另外，在收集資源時連續使用點數連續的修繕規劃，可以提升收集效率。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "點數連續的修繕規劃可在收集資源時連續使用，每次連續使用都會額外獲得一定數量的全種類資源。合理利用將會明顯提升收集效率，不妨一試。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "點數連續的修繕規劃可在收集資源時連續使用，每次連續使用都會額外獲得一定數量的全種類資源。合理利用將會明顯提升收集效率，不妨一試。"
+                            }
+                        ],
+                        "EXCELLENT": [
+                            {
+                                "characterAvatarId": "rebuild_svrash2_smile",
+                                "dialogText": "卓越的成果，你的能力一如既往值得信任。實際上，我很慶幸你是謝拉格的朋友，而非敵人。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_slbell_smile",
+                                "dialogText": "來吧，博士。我已經聽到建築隊伍和村民呼喚你的聲音了，想感謝你的人不計其數，在剪綵儀式開始之前……我想你需要留出一些時間來讓大家和你握手。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_halo_smile",
+                                "dialogText": "嗯……博士，請問你的這份規劃表可以借我影印一份嗎？我想回去整理一下，改善我的實驗日程安排。沒問題？太好了。"
+                            }
+                        ]
+                    },
+                    "station_rebuild_02": {
+                        "FAIL": [
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "……估算錯誤？把修繕規劃拿來給我看看。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_mlyss",
+                                "dialogText": "哎呀呀……別灰心，再試一次吧，我們一起。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_yucatan",
+                                "dialogText": "耶拉岡德在上……願祂指引正確的前路……"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "在收集資源之前，必須先完成一次前進活動。另外，在收集資源時連續使用點數連續的修繕規劃，可以提升收集效率。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "點數連續的修繕規劃可在收集資源時連續使用，每次連續使用都會額外獲得一定數量的全種類資源。合理利用將會明顯提升收集效率，不妨一試。"
+                            }
+                        ],
+                        "GOOD": [
+                            {
+                                "characterAvatarId": "rebuild_halo",
+                                "dialogText": "完成效率、整體數據還有人力調配……嗯，都很好，你果然做什麼都很優秀，博士。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_juana",
+                                "dialogText": "啊！您就是聖女大人說的那個博、博……博什麼的啊？總而言之很厲害的那個人……哎呀，算了！這是附近鄉親們拜託我拿給您的奶酥糖，好好享用吧！感謝您為謝拉格做的一切！"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_svrash2",
+                                "dialogText": "歡迎你的到來，盟友……嗯？修繕進度？我們都知道，你一定能處理妥當的，不是嗎？所以，我們的時間應該用來聊些更有意義的事。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_slbell",
+                                "dialogText": "好久不見了，博士。感謝你的幫助。有空的話，請來一趟蔓珠院吧。各位修士都期待著與博士這樣的博學者共進晚餐、交流思想呢。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "嗯，合理的成果。雖然欠缺驚喜或驚嚇，但誰說折衷不是最好的選擇呢？"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "在收集資源之前，必須先完成一次前進活動。另外，在收集資源時連續使用點數連續的修繕規劃，可以提升收集效率。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "點數連續的修繕規劃可在收集資源時連續使用，每次連續使用都會額外獲得一定數量的全種類資源。合理利用將會明顯提升收集效率，不妨一試。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "點數連續的修繕規劃可在收集資源時連續使用，每次連續使用都會額外獲得一定數量的全種類資源。合理利用將會明顯提升收集效率，不妨一試。"
+                            }
+                        ],
+                        "EXCELLENT": [
+                            {
+                                "characterAvatarId": "rebuild_svrash2_smile",
+                                "dialogText": "卓越的成果，你的能力一如既往值得信任。實際上，我很慶幸你是謝拉格的朋友，而非敵人。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_slbell_smile",
+                                "dialogText": "來吧，博士。我已經聽到建築隊伍和村民呼喚你的聲音了，想感謝你的人不計其數，在剪綵儀式開始之前……我想你需要留出一些時間來讓大家和你握手。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_halo_smile",
+                                "dialogText": "嗯……博士，請問你的這份規劃表可以借我影印一份嗎？我想回去整理一下，改善我的實驗日程安排。沒問題？太好了。"
+                            }
+                        ]
+                    },
+                    "station_rebuild_03": {
+                        "FAIL": [
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "……估算錯誤？把修繕規劃拿來給我看看。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_mlyss",
+                                "dialogText": "哎呀呀……別灰心，再試一次吧，我們一起。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_yucatan",
+                                "dialogText": "耶拉岡德在上……願祂指引正確的前路……"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "在收集資源之前，必須先完成一次前進活動。另外，在收集資源時連續使用點數連續的修繕規劃，可以提升收集效率。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "點數連續的修繕規劃可在收集資源時連續使用，每次連續使用都會額外獲得一定數量的全種類資源。合理利用將會明顯提升收集效率，不妨一試。"
+                            }
+                        ],
+                        "GOOD": [
+                            {
+                                "characterAvatarId": "rebuild_halo",
+                                "dialogText": "完成效率、整體數據還有人力調配……嗯，都很好，你果然做什麼都很優秀，博士。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_juana",
+                                "dialogText": "啊！您就是聖女大人說的那個博、博……博什麼的啊？總而言之很厲害的那個人……哎呀，算了！這是附近鄉親們拜託我拿給您的奶酥糖，好好享用吧！感謝您為謝拉格做的一切！"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_svrash2",
+                                "dialogText": "歡迎你的到來，盟友……嗯？修繕進度？我們都知道，你一定能處理妥當的，不是嗎？所以，我們的時間應該用來聊些更有意義的事。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_slbell",
+                                "dialogText": "好久不見了，博士。感謝你的幫助。有空的話，請來一趟蔓珠院吧。各位修士都期待著與博士這樣的博學者共進晚餐、交流思想呢。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "嗯，合理的成果。雖然欠缺驚喜或驚嚇，但誰說折衷不是最好的選擇呢？"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "在收集資源之前，必須先完成一次前進活動。另外，在收集資源時連續使用點數連續的修繕規劃，可以提升收集效率。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "點數連續的修繕規劃可在收集資源時連續使用，每次連續使用都會額外獲得一定數量的全種類資源。合理利用將會明顯提升收集效率，不妨一試。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "點數連續的修繕規劃可在收集資源時連續使用，每次連續使用都會額外獲得一定數量的全種類資源。合理利用將會明顯提升收集效率，不妨一試。"
+                            }
+                        ],
+                        "EXCELLENT": [
+                            {
+                                "characterAvatarId": "rebuild_svrash2_smile",
+                                "dialogText": "卓越的成果，你的能力一如既往值得信任。實際上，我很慶幸你是謝拉格的朋友，而非敵人。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_slbell_smile",
+                                "dialogText": "來吧，博士。我已經聽到建築隊伍和村民呼喚你的聲音了，想感謝你的人不計其數，在剪綵儀式開始之前……我想你需要留出一些時間來讓大家和你握手。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_halo_smile",
+                                "dialogText": "嗯……博士，請問你的這份規劃表可以借我影印一份嗎？我想回去整理一下，改善我的實驗日程安排。沒問題？太好了。"
+                            }
+                        ]
+                    },
+                    "station_rebuild_04": {
+                        "FAIL": [
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "……估算錯誤？把修繕規劃拿來給我看看。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_mlyss",
+                                "dialogText": "哎呀呀……別灰心，再試一次吧，我們一起。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_yucatan",
+                                "dialogText": "耶拉岡德在上……願祂指引正確的前路……"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "在收集資源之前，必須先完成一次前進活動。另外，在收集資源時連續使用點數連續的修繕規劃，可以提升收集效率。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "點數連續的修繕規劃可在收集資源時連續使用，每次連續使用都會額外獲得一定數量的全種類資源。合理利用將會明顯提升收集效率，不妨一試。"
+                            }
+                        ],
+                        "GOOD": [
+                            {
+                                "characterAvatarId": "rebuild_halo",
+                                "dialogText": "完成效率、整體數據還有人力調配……嗯，都很好，你果然做什麼都很優秀，博士。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_juana",
+                                "dialogText": "啊！您就是聖女大人說的那個博、博……博什麼的啊？總而言之很厲害的那個人……哎呀，算了！這是附近鄉親們拜託我拿給您的奶酥糖，好好享用吧！感謝您為謝拉格做的一切！"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_svrash2",
+                                "dialogText": "歡迎你的到來，盟友……嗯？修繕進度？我們都知道，你一定能處理妥當的，不是嗎？所以，我們的時間應該用來聊些更有意義的事。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_slbell",
+                                "dialogText": "好久不見了，博士。感謝你的幫助。有空的話，請來一趟蔓珠院吧。各位修士都期待著與博士這樣的博學者共進晚餐、交流思想呢。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "嗯，合理的成果。雖然欠缺驚喜或驚嚇，但誰說折衷不是最好的選擇呢？"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "在收集資源之前，必須先完成一次前進活動。另外，在收集資源時連續使用點數連續的修繕規劃，可以提升收集效率。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "點數連續的修繕規劃可在收集資源時連續使用，每次連續使用都會額外獲得一定數量的全種類資源。合理利用將會明顯提升收集效率，不妨一試。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "點數連續的修繕規劃可在收集資源時連續使用，每次連續使用都會額外獲得一定數量的全種類資源。合理利用將會明顯提升收集效率，不妨一試。"
+                            }
+                        ],
+                        "EXCELLENT": [
+                            {
+                                "characterAvatarId": "rebuild_svrash2_smile",
+                                "dialogText": "卓越的成果，你的能力一如既往值得信任。實際上，我很慶幸你是謝拉格的朋友，而非敵人。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_slbell_smile",
+                                "dialogText": "來吧，博士。我已經聽到建築隊伍和村民呼喚你的聲音了，想感謝你的人不計其數，在剪綵儀式開始之前……我想你需要留出一些時間來讓大家和你握手。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_halo_smile",
+                                "dialogText": "嗯……博士，請問你的這份規劃表可以借我影印一份嗎？我想回去整理一下，改善我的實驗日程安排。沒問題？太好了。"
+                            }
+                        ]
+                    },
+                    "station_rebuild_05": {
+                        "FAIL": [
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "……估算錯誤？把修繕規劃拿來給我看看。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_mlyss",
+                                "dialogText": "哎呀呀……別灰心，再試一次吧，我們一起。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_yucatan",
+                                "dialogText": "耶拉岡德在上……願祂指引正確的前路……"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "在收集資源之前，必須先完成一次前進活動。另外，在收集資源時連續使用點數連續的修繕規劃，可以提升收集效率。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "點數連續的修繕規劃可在收集資源時連續使用，每次連續使用都會額外獲得一定數量的全種類資源。合理利用將會明顯提升收集效率，不妨一試。"
+                            }
+                        ],
+                        "GOOD": [
+                            {
+                                "characterAvatarId": "rebuild_halo",
+                                "dialogText": "完成效率、整體數據還有人力調配……嗯，都很好，你果然做什麼都很優秀，博士。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_juana",
+                                "dialogText": "啊！您就是聖女大人說的那個博、博……博什麼的啊？總而言之很厲害的那個人……哎呀，算了！這是附近鄉親們拜託我拿給您的奶酥糖，好好享用吧！感謝您為謝拉格做的一切！"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_svrash2",
+                                "dialogText": "歡迎你的到來，盟友……嗯？修繕進度？我們都知道，你一定能處理妥當的，不是嗎？所以，我們的時間應該用來聊些更有意義的事。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_slbell",
+                                "dialogText": "好久不見了，博士。感謝你的幫助。有空的話，請來一趟蔓珠院吧。各位修士都期待著與博士這樣的博學者共進晚餐、交流思想呢。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "嗯，合理的成果。雖然欠缺驚喜或驚嚇，但誰說折衷不是最好的選擇呢？"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "在收集資源之前，必須先完成一次前進活動。另外，在收集資源時連續使用點數連續的修繕規劃，可以提升收集效率。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "點數連續的修繕規劃可在收集資源時連續使用，每次連續使用都會額外獲得一定數量的全種類資源。合理利用將會明顯提升收集效率，不妨一試。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "點數連續的修繕規劃可在收集資源時連續使用，每次連續使用都會額外獲得一定數量的全種類資源。合理利用將會明顯提升收集效率，不妨一試。"
+                            }
+                        ],
+                        "EXCELLENT": [
+                            {
+                                "characterAvatarId": "rebuild_svrash2_smile",
+                                "dialogText": "卓越的成果，你的能力一如既往值得信任。實際上，我很慶幸你是謝拉格的朋友，而非敵人。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_slbell_smile",
+                                "dialogText": "來吧，博士。我已經聽到建築隊伍和村民呼喚你的聲音了，想感謝你的人不計其數，在剪綵儀式開始之前……我想你需要留出一些時間來讓大家和你握手。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_halo_smile",
+                                "dialogText": "嗯……博士，請問你的這份規劃表可以借我影印一份嗎？我想回去整理一下，改善我的實驗日程安排。沒問題？太好了。"
+                            }
+                        ]
+                    },
+                    "station_rebuild_06": {
+                        "FAIL": [
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "……估算錯誤？把修繕規劃拿來給我看看。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_mlyss",
+                                "dialogText": "哎呀呀……別灰心，再試一次吧，我們一起。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_yucatan",
+                                "dialogText": "耶拉岡德在上……願祂指引正確的前路……"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "在收集資源之前，必須先完成一次前進活動。另外，在收集資源時連續使用點數連續的修繕規劃，可以提升收集效率。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "點數連續的修繕規劃可在收集資源時連續使用，每次連續使用都會額外獲得一定數量的全種類資源。合理利用將會明顯提升收集效率，不妨一試。"
+                            }
+                        ],
+                        "GOOD": [
+                            {
+                                "characterAvatarId": "rebuild_halo",
+                                "dialogText": "完成效率、整體數據還有人力調配……嗯，都很好，你果然做什麼都很優秀，博士。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_juana",
+                                "dialogText": "啊！您就是聖女大人說的那個博、博……博什麼的啊？總而言之很厲害的那個人……哎呀，算了！這是附近鄉親們拜託我拿給您的奶酥糖，好好享用吧！感謝您為謝拉格做的一切！"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_svrash2",
+                                "dialogText": "歡迎你的到來，盟友……嗯？修繕進度？我們都知道，你一定能處理妥當的，不是嗎？所以，我們的時間應該用來聊些更有意義的事。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_slbell",
+                                "dialogText": "好久不見了，博士。感謝你的幫助。有空的話，請來一趟蔓珠院吧。各位修士都期待著與博士這樣的博學者共進晚餐、交流思想呢。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "嗯，合理的成果。雖然欠缺驚喜或驚嚇，但誰說折衷不是最好的選擇呢？"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "在收集資源之前，必須先完成一次前進活動。另外，在收集資源時連續使用點數連續的修繕規劃，可以提升收集效率。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "點數連續的修繕規劃可在收集資源時連續使用，每次連續使用都會額外獲得一定數量的全種類資源。合理利用將會明顯提升收集效率，不妨一試。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "點數連續的修繕規劃可在收集資源時連續使用，每次連續使用都會額外獲得一定數量的全種類資源。合理利用將會明顯提升收集效率，不妨一試。"
+                            }
+                        ],
+                        "EXCELLENT": [
+                            {
+                                "characterAvatarId": "rebuild_svrash2_smile",
+                                "dialogText": "卓越的成果，你的能力一如既往值得信任。實際上，我很慶幸你是謝拉格的朋友，而非敵人。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_slbell_smile",
+                                "dialogText": "來吧，博士。我已經聽到建築隊伍和村民呼喚你的聲音了，想感謝你的人不計其數，在剪綵儀式開始之前……我想你需要留出一些時間來讓大家和你握手。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_halo_smile",
+                                "dialogText": "嗯……博士，請問你的這份規劃表可以借我影印一份嗎？我想回去整理一下，改善我的實驗日程安排。沒問題？太好了。"
+                            }
+                        ]
+                    },
+                    "station_rebuild_07": {
+                        "FAIL": [
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "……估算錯誤？把修繕規劃拿來給我看看。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_mlyss",
+                                "dialogText": "哎呀呀……別灰心，再試一次吧，我們一起。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_yucatan",
+                                "dialogText": "耶拉岡德在上……願祂指引正確的前路……"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "在收集資源之前，必須先完成一次前進活動。另外，在收集資源時連續使用點數連續的修繕規劃，可以提升收集效率。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "點數連續的修繕規劃可在收集資源時連續使用，每次連續使用都會額外獲得一定數量的全種類資源。合理利用將會明顯提升收集效率，不妨一試。"
+                            }
+                        ],
+                        "GOOD": [
+                            {
+                                "characterAvatarId": "rebuild_halo",
+                                "dialogText": "完成效率、整體數據還有人力調配……嗯，都很好，你果然做什麼都很優秀，博士。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_juana",
+                                "dialogText": "啊！您就是聖女大人說的那個博、博……博什麼的啊？總而言之很厲害的那個人……哎呀，算了！這是附近鄉親們拜託我拿給您的奶酥糖，好好享用吧！感謝您為謝拉格做的一切！"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_svrash2",
+                                "dialogText": "歡迎你的到來，盟友……嗯？修繕進度？我們都知道，你一定能處理妥當的，不是嗎？所以，我們的時間應該用來聊些更有意義的事。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_slbell",
+                                "dialogText": "好久不見了，博士。感謝你的幫助。有空的話，請來一趟蔓珠院吧。各位修士都期待著與博士這樣的博學者共進晚餐、交流思想呢。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "嗯，合理的成果。雖然欠缺驚喜或驚嚇，但誰說折衷不是最好的選擇呢？"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "在收集資源之前，必須先完成一次前進活動。另外，在收集資源時連續使用點數連續的修繕規劃，可以提升收集效率。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "點數連續的修繕規劃可在收集資源時連續使用，每次連續使用都會額外獲得一定數量的全種類資源。合理利用將會明顯提升收集效率，不妨一試。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "點數連續的修繕規劃可在收集資源時連續使用，每次連續使用都會額外獲得一定數量的全種類資源。合理利用將會明顯提升收集效率，不妨一試。"
+                            }
+                        ],
+                        "EXCELLENT": [
+                            {
+                                "characterAvatarId": "rebuild_svrash2_smile",
+                                "dialogText": "卓越的成果，你的能力一如既往值得信任。實際上，我很慶幸你是謝拉格的朋友，而非敵人。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_slbell_smile",
+                                "dialogText": "來吧，博士。我已經聽到建築隊伍和村民呼喚你的聲音了，想感謝你的人不計其數，在剪綵儀式開始之前……我想你需要留出一些時間來讓大家和你握手。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_halo_smile",
+                                "dialogText": "嗯……博士，請問你的這份規劃表可以借我影印一份嗎？我想回去整理一下，改善我的實驗日程安排。沒問題？太好了。"
+                            }
+                        ]
+                    },
+                    "station_rebuild_08": {
+                        "FAIL": [
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "……估算錯誤？把修繕規劃拿來給我看看。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_mlyss",
+                                "dialogText": "哎呀呀……別灰心，再試一次吧，我們一起。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_yucatan",
+                                "dialogText": "耶拉岡德在上……願祂指引正確的前路……"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "在收集資源之前，必須先完成一次前進活動。另外，在收集資源時連續使用點數連續的修繕規劃，可以提升收集效率。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "點數連續的修繕規劃可在收集資源時連續使用，每次連續使用都會額外獲得一定數量的全種類資源。合理利用將會明顯提升收集效率，不妨一試。"
+                            }
+                        ],
+                        "GOOD": [
+                            {
+                                "characterAvatarId": "rebuild_halo",
+                                "dialogText": "完成效率、整體數據還有人力調配……嗯，都很好，你果然做什麼都很優秀，博士。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_juana",
+                                "dialogText": "啊！您就是聖女大人說的那個博、博……博什麼的啊？總而言之很厲害的那個人……哎呀，算了！這是附近鄉親們拜託我拿給您的奶酥糖，好好享用吧！感謝您為謝拉格做的一切！"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_svrash2",
+                                "dialogText": "歡迎你的到來，盟友……嗯？修繕進度？我們都知道，你一定能處理妥當的，不是嗎？所以，我們的時間應該用來聊些更有意義的事。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_slbell",
+                                "dialogText": "好久不見了，博士。感謝你的幫助。有空的話，請來一趟蔓珠院吧。各位修士都期待著與博士這樣的博學者共進晚餐、交流思想呢。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "嗯，合理的成果。雖然欠缺驚喜或驚嚇，但誰說折衷不是最好的選擇呢？"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "在收集資源之前，必須先完成一次前進活動。另外，在收集資源時連續使用點數連續的修繕規劃，可以提升收集效率。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "點數連續的修繕規劃可在收集資源時連續使用，每次連續使用都會額外獲得一定數量的全種類資源。合理利用將會明顯提升收集效率，不妨一試。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "點數連續的修繕規劃可在收集資源時連續使用，每次連續使用都會額外獲得一定數量的全種類資源。合理利用將會明顯提升收集效率，不妨一試。"
+                            }
+                        ],
+                        "EXCELLENT": [
+                            {
+                                "characterAvatarId": "rebuild_svrash2_smile",
+                                "dialogText": "卓越的成果，你的能力一如既往值得信任。實際上，我很慶幸你是謝拉格的朋友，而非敵人。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_slbell_smile",
+                                "dialogText": "來吧，博士。我已經聽到建築隊伍和村民呼喚你的聲音了，想感謝你的人不計其數，在剪綵儀式開始之前……我想你需要留出一些時間來讓大家和你握手。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_halo_smile",
+                                "dialogText": "嗯……博士，請問你的這份規劃表可以借我影印一份嗎？我想回去整理一下，改善我的實驗日程安排。沒問題？太好了。"
+                            }
+                        ]
+                    },
+                    "station_rebuild_09": {
+                        "FAIL": [
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "……估算錯誤？把修繕規劃拿來給我看看。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_mlyss",
+                                "dialogText": "哎呀呀……別灰心，再試一次吧，我們一起。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_yucatan",
+                                "dialogText": "耶拉岡德在上……願祂指引正確的前路……"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "在收集資源之前，必須先完成一次前進活動。另外，在收集資源時連續使用點數連續的修繕規劃，可以提升收集效率。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "點數連續的修繕規劃可在收集資源時連續使用，每次連續使用都會額外獲得一定數量的全種類資源。合理利用將會明顯提升收集效率，不妨一試。"
+                            }
+                        ],
+                        "GOOD": [
+                            {
+                                "characterAvatarId": "rebuild_halo",
+                                "dialogText": "完成效率、整體數據還有人力調配……嗯，都很好，你果然做什麼都很優秀，博士。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_juana",
+                                "dialogText": "啊！您就是聖女大人說的那個博、博……博什麼的啊？總而言之很厲害的那個人……哎呀，算了！這是附近鄉親們拜託我拿給您的奶酥糖，好好享用吧！感謝您為謝拉格做的一切！"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_svrash2",
+                                "dialogText": "歡迎你的到來，盟友……嗯？修繕進度？我們都知道，你一定能處理妥當的，不是嗎？所以，我們的時間應該用來聊些更有意義的事。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_slbell",
+                                "dialogText": "好久不見了，博士。感謝你的幫助。有空的話，請來一趟蔓珠院吧。各位修士都期待著與博士這樣的博學者共進晚餐、交流思想呢。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "嗯，合理的成果。雖然欠缺驚喜或驚嚇，但誰說折衷不是最好的選擇呢？"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "在收集資源之前，必須先完成一次前進活動。另外，在收集資源時連續使用點數連續的修繕規劃，可以提升收集效率。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "點數連續的修繕規劃可在收集資源時連續使用，每次連續使用都會額外獲得一定數量的全種類資源。合理利用將會明顯提升收集效率，不妨一試。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "點數連續的修繕規劃可在收集資源時連續使用，每次連續使用都會額外獲得一定數量的全種類資源。合理利用將會明顯提升收集效率，不妨一試。"
+                            }
+                        ],
+                        "EXCELLENT": [
+                            {
+                                "characterAvatarId": "rebuild_svrash2_smile",
+                                "dialogText": "卓越的成果，你的能力一如既往值得信任。實際上，我很慶幸你是謝拉格的朋友，而非敵人。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_slbell_smile",
+                                "dialogText": "來吧，博士。我已經聽到建築隊伍和村民呼喚你的聲音了，想感謝你的人不計其數，在剪綵儀式開始之前……我想你需要留出一些時間來讓大家和你握手。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_halo_smile",
+                                "dialogText": "嗯……博士，請問你的這份規劃表可以借我影印一份嗎？我想回去整理一下，改善我的實驗日程安排。沒問題？太好了。"
+                            }
+                        ]
+                    },
+                    "station_rebuild_10": {
+                        "FAIL": [
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "……估算錯誤？把修繕規劃拿來給我看看。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_mlyss",
+                                "dialogText": "哎呀呀……別灰心，再試一次吧，我們一起。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_yucatan",
+                                "dialogText": "耶拉岡德在上……願祂指引正確的前路……"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "在收集資源之前，必須先完成一次前進活動。另外，在收集資源時連續使用點數連續的修繕規劃，可以提升收集效率。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "點數連續的修繕規劃可在收集資源時連續使用，每次連續使用都會額外獲得一定數量的全種類資源。合理利用將會明顯提升收集效率，不妨一試。"
+                            }
+                        ],
+                        "GOOD": [
+                            {
+                                "characterAvatarId": "rebuild_halo",
+                                "dialogText": "完成效率、整體數據還有人力調配……嗯，都很好，你果然做什麼都很優秀，博士。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_juana",
+                                "dialogText": "啊！您就是聖女大人說的那個博、博……博什麼的啊？總而言之很厲害的那個人……哎呀，算了！這是附近鄉親們拜託我拿給您的奶酥糖，好好享用吧！感謝您為謝拉格做的一切！"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_svrash2",
+                                "dialogText": "歡迎你的到來，盟友……嗯？修繕進度？我們都知道，你一定能處理妥當的，不是嗎？所以，我們的時間應該用來聊些更有意義的事。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_slbell",
+                                "dialogText": "好久不見了，博士。感謝你的幫助。有空的話，請來一趟蔓珠院吧。各位修士都期待著與博士這樣的博學者共進晚餐、交流思想呢。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "嗯，合理的成果。雖然欠缺驚喜或驚嚇，但誰說折衷不是最好的選擇呢？"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "在收集資源之前，必須先完成一次前進活動。另外，在收集資源時連續使用點數連續的修繕規劃，可以提升收集效率。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "點數連續的修繕規劃可在收集資源時連續使用，每次連續使用都會額外獲得一定數量的全種類資源。合理利用將會明顯提升收集效率，不妨一試。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_gnosis",
+                                "dialogText": "點數連續的修繕規劃可在收集資源時連續使用，每次連續使用都會額外獲得一定數量的全種類資源。合理利用將會明顯提升收集效率，不妨一試。"
+                            }
+                        ],
+                        "EXCELLENT": [
+                            {
+                                "characterAvatarId": "rebuild_svrash2_smile",
+                                "dialogText": "卓越的成果，你的能力一如既往值得信任。實際上，我很慶幸你是謝拉格的朋友，而非敵人。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_slbell_smile",
+                                "dialogText": "來吧，博士。我已經聽到建築隊伍和村民呼喚你的聲音了，想感謝你的人不計其數，在剪綵儀式開始之前……我想你需要留出一些時間來讓大家和你握手。"
+                            },
+                            {
+                                "characterAvatarId": "rebuild_halo_smile",
+                                "dialogText": "嗯……博士，請問你的這份規劃表可以借我影印一份嗎？我想回去整理一下，改善我的實驗日程安排。沒問題？太好了。"
+                            }
+                        ]
+                    }
+                },
+                "constData": {
+                    "trainingStageId": "station_rebuild_01",
+                    "excellentRate": [
+                        7,
+                        4
+                    ],
+                    "entryRequirement": "act46side_tr01",
+                    "businessUnlockText": "<color=#43deae>喀蘭貿易技術研發部</color>已解鎖",
+                    "mapNodeStartIcon": "map_node_start",
+                    "comboTaskProgressCount": 2
+                },
+                "resourceItemDataMap": {
+                    "mine": {
+                        "resourceId": "mine",
+                        "sortId": 1
+                    },
+                    "wood": {
+                        "resourceId": "wood",
+                        "sortId": 2
+                    },
+                    "gear": {
+                        "resourceId": "gear",
+                        "sortId": 3
+                    },
+                    "oil": {
+                        "resourceId": "oil",
+                        "sortId": 4
+                    },
+                    "metal": {
+                        "resourceId": "metal",
+                        "sortId": 5
+                    }
+                }
+            }
+        },
         "AUTOCHESS_SEASON": {}
     },
     "extraData": {
@@ -278908,6 +281828,9 @@
         ],
         "act38sre": [
             "act38side_token_ticket_rep_1"
+        ],
+        "act46side": [
+            "act46side_token_detector"
         ],
         "act3mainss": [
             "act3mainss_token"
@@ -279683,6 +282606,11 @@
         ]
     },
     "dynActs": {
+        "act13pray": {
+            "rule1": "用盡當日次數選取的所有許願籤中，合成玉數量最多的1張許願籤為當日最終獎勵。",
+            "rule2": "當日許願籤合成玉獎勵不足400時，次日可選擇3張許願籤。",
+            "slotCount": 12
+        },
         "act12pray": {
             "rule1": "用盡當日次數選取的所有許願籤中，合成玉數量最多的1張許願籤為當日最終獎勵。",
             "rule2": "當日許願籤合成玉獎勵不足400時，次日可選擇3張許願籤。",
@@ -286747,6 +289675,30 @@
             ],
             "picGroups": [],
             "startTs": 1777449600
+        },
+        {
+            "id": "dis_side_46",
+            "type": "ACTIVITY",
+            "funcId": "act46side",
+            "endTs": 1782849599,
+            "sortId": 134,
+            "itemId": "act46side_token_detector",
+            "timeNodes": [
+                {
+                    "title": "<雪山降臨1101>活動已開放",
+                    "ts": 1781078400
+                },
+                {
+                    "title": "“變革之路”內關卡已開放",
+                    "ts": 1781683200
+                },
+                {
+                    "title": "“喀蘭之心”內關卡已開放",
+                    "ts": 1782288000
+                }
+            ],
+            "picGroups": [],
+            "startTs": 1781078400
         },
         {
             "id": "dis_side_38_sre",
@@ -314946,6 +317898,55 @@
         }
     },
     "activityTraps": {
+        "template_trap_46side": {
+            "templateTraps": {
+                "trap_267_xdmac1": {
+                    "trapId": "trap_267_xdmac1",
+                    "sortId": 1,
+                    "trapName": "雪崩觸發裝置",
+                    "trapDesc": "部署後短時間內大量增加自身所在禁區的雪崩預警",
+                    "trapText": "積雪清理系統裝置",
+                    "trapTaskId": "act46side_trap_unlock_1",
+                    "trapUnlockDesc": "通關OS-2解鎖",
+                    "trapBuffId": "rune_act46side_xdmac1",
+                    "availableCount": 3
+                },
+                "trap_268_xdmac2": {
+                    "trapId": "trap_268_xdmac2",
+                    "sortId": 2,
+                    "trapName": "積雪固定裝置",
+                    "trapDesc": "部署後存在期間內自身所在禁區不會觸發雪崩，一段時間後退場",
+                    "trapText": "積雪清理系統裝置",
+                    "trapTaskId": "act46side_trap_unlock_2",
+                    "trapUnlockDesc": "通關OS-4解鎖",
+                    "trapBuffId": "rune_act46side_xdmac2",
+                    "availableCount": 2
+                },
+                "trap_269_xdmac3": {
+                    "trapId": "trap_269_xdmac3",
+                    "sortId": 3,
+                    "trapName": "落雪防護裝置",
+                    "trapDesc": "部署後存在期間內保護自身身後的所有單位不受雪崩影響，遭遇雪崩後退場",
+                    "trapText": "積雪清理系統裝置",
+                    "trapTaskId": "act46side_trap_unlock_3",
+                    "trapUnlockDesc": "通關OS-7解鎖",
+                    "trapBuffId": "rune_act46side_xdmac3",
+                    "availableCount": 2
+                }
+            },
+            "trapConstData": {
+                "stageUnlockTrapDesc": "解鎖了新的系統裝置",
+                "trapMaximum": 1,
+                "stageCanNotUseTrap": [
+                    "act46side_tr01"
+                ],
+                "mustSelectTrap": true,
+                "systemUnlockToast": "積雪清理系統已開放",
+                "squadSaveSuccessToast": "積雪清理系統已切換為“{0}”",
+                "lockedToast": "通關OS-2解鎖",
+                "showBtnBack": false
+            }
+        },
         "act32side": {
             "templateTraps": {
                 "trap_rnfcar": {
@@ -314998,6 +317999,46 @@
         }
     },
     "activityTrapMissions": {
+        "template_trap_46side": {
+            "trapMissions": {
+                "act46side_trap_unlock_1": {
+                    "id": "act46side_trap_unlock_1",
+                    "description": "通關OS-2",
+                    "type": "ACTIVITY",
+                    "rewards": [
+                        {
+                            "type": "TEMPLATE_TRAP",
+                            "id": "trap_267_xdmac1",
+                            "count": 1
+                        }
+                    ]
+                },
+                "act46side_trap_unlock_2": {
+                    "id": "act46side_trap_unlock_2",
+                    "description": "通關OS-4",
+                    "type": "ACTIVITY",
+                    "rewards": [
+                        {
+                            "type": "TEMPLATE_TRAP",
+                            "id": "trap_268_xdmac2",
+                            "count": 1
+                        }
+                    ]
+                },
+                "act46side_trap_unlock_3": {
+                    "id": "act46side_trap_unlock_3",
+                    "description": "通關OS-7",
+                    "type": "ACTIVITY",
+                    "rewards": [
+                        {
+                            "type": "TEMPLATE_TRAP",
+                            "id": "trap_269_xdmac3",
+                            "count": 1
+                        }
+                    ]
+                }
+            }
+        },
         "act32side": {
             "trapMissions": {
                 "32sidetrap_1": {
@@ -315305,6 +318346,27 @@
             "titleType": "COMMON",
             "coinType": "COMMON",
             "coinBackColor": "a41836"
+        },
+        "act46side": {
+            "bigRewardType": "ILLUST_CHAR_REWARD",
+            "bigRewardParamList": [
+                "char_1047_halo2",
+                "通關OS-5後可招募此幹員",
+                "3a46e9",
+                "279.3,-76.2"
+            ],
+            "isMissionListCommonType": true,
+            "isMissionItemCommonType": false,
+            "missionItemMainColor": null,
+            "isMissionItemCompleteUseMainColor": false,
+            "missionItemCompleteColor": null,
+            "isMissionRewardItemCommonType": true,
+            "isClaimAllBtnCommonType": false,
+            "claimAllBtnMainColor": null,
+            "claimAllBtnTips": null,
+            "titleType": "COMMON",
+            "coinType": "COMMON",
+            "coinBackColor": "a42626"
         },
         "act3mainss": {
             "bigRewardType": "SKIN_REWARD",
