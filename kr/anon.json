@@ -1,7 +1,7 @@
 {
   "m_GameObject": {
     "m_FileID": 0,
-    "m_PathID": 7096309642624137454
+    "m_PathID": -3153143625099452068
   },
   "m_Enabled": 1,
   "m_Script": {
@@ -14,12 +14,12 @@
     "m_PathID": 0
   },
   "m_Color": {
-    "r": 0.0,
-    "g": 0.0,
-    "b": 0.0,
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
     "a": 1.0
   },
-  "m_RaycastTarget": 1,
+  "m_RaycastTarget": 0,
   "m_RaycastPadding": {
     "x": 0.0,
     "y": 0.0,
@@ -34,7 +34,7 @@
   },
   "m_Sprite": {
     "m_FileID": 0,
-    "m_PathID": 0
+    "m_PathID": 716655598397814170
   },
   "m_PackIntoRuntimeAtlas": 1,
   "m_AtlasHandleId": 0,
