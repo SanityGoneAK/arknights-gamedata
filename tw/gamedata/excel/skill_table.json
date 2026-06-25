@@ -108896,6 +108896,303 @@
             }
         ]
     },
+    "skchr_pithst_1": {
+        "skillId": "skchr_pithst_1",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "戰術詠唱·雙型",
+                "rangeId": null,
+                "description": "攻擊速度<@ba.vup>+{attack_speed}</>，同時攻擊{attack@max_target}個目標",
+                "skillType": "MANUAL",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": "INCREASE_WHEN_ATTACK",
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 23,
+                    "initSp": 8,
+                    "increment": 1.0
+                },
+                "prefabId": "skchr_pithst_1",
+                "duration": 30.0,
+                "blackboard": [
+                    {
+                        "key": "attack_speed",
+                        "value": 60.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "attack@max_target",
+                        "value": 2.0,
+                        "valueStr": null
+                    }
+                ]
+            },
+            {
+                "name": "戰術詠唱·雙型",
+                "rangeId": null,
+                "description": "攻擊速度<@ba.vup>+{attack_speed}</>，同時攻擊{attack@max_target}個目標",
+                "skillType": "MANUAL",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": "INCREASE_WHEN_ATTACK",
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 22,
+                    "initSp": 8,
+                    "increment": 1.0
+                },
+                "prefabId": "skchr_pithst_1",
+                "duration": 30.0,
+                "blackboard": [
+                    {
+                        "key": "attack_speed",
+                        "value": 60.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "attack@max_target",
+                        "value": 2.0,
+                        "valueStr": null
+                    }
+                ]
+            },
+            {
+                "name": "戰術詠唱·雙型",
+                "rangeId": null,
+                "description": "攻擊速度<@ba.vup>+{attack_speed}</>，同時攻擊{attack@max_target}個目標",
+                "skillType": "MANUAL",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": "INCREASE_WHEN_ATTACK",
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 21,
+                    "initSp": 8,
+                    "increment": 1.0
+                },
+                "prefabId": "skchr_pithst_1",
+                "duration": 30.0,
+                "blackboard": [
+                    {
+                        "key": "attack_speed",
+                        "value": 60.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "attack@max_target",
+                        "value": 2.0,
+                        "valueStr": null
+                    }
+                ]
+            },
+            {
+                "name": "戰術詠唱·雙型",
+                "rangeId": null,
+                "description": "攻擊速度<@ba.vup>+{attack_speed}</>，同時攻擊{attack@max_target}個目標",
+                "skillType": "MANUAL",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": "INCREASE_WHEN_ATTACK",
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 20,
+                    "initSp": 9,
+                    "increment": 1.0
+                },
+                "prefabId": "skchr_pithst_1",
+                "duration": 30.0,
+                "blackboard": [
+                    {
+                        "key": "attack_speed",
+                        "value": 70.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "attack@max_target",
+                        "value": 2.0,
+                        "valueStr": null
+                    }
+                ]
+            },
+            {
+                "name": "戰術詠唱·雙型",
+                "rangeId": null,
+                "description": "攻擊速度<@ba.vup>+{attack_speed}</>，同時攻擊{attack@max_target}個目標",
+                "skillType": "MANUAL",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": "INCREASE_WHEN_ATTACK",
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 19,
+                    "initSp": 9,
+                    "increment": 1.0
+                },
+                "prefabId": "skchr_pithst_1",
+                "duration": 30.0,
+                "blackboard": [
+                    {
+                        "key": "attack_speed",
+                        "value": 70.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "attack@max_target",
+                        "value": 2.0,
+                        "valueStr": null
+                    }
+                ]
+            },
+            {
+                "name": "戰術詠唱·雙型",
+                "rangeId": null,
+                "description": "攻擊速度<@ba.vup>+{attack_speed}</>，同時攻擊{attack@max_target}個目標",
+                "skillType": "MANUAL",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": "INCREASE_WHEN_ATTACK",
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 18,
+                    "initSp": 9,
+                    "increment": 1.0
+                },
+                "prefabId": "skchr_pithst_1",
+                "duration": 30.0,
+                "blackboard": [
+                    {
+                        "key": "attack_speed",
+                        "value": 70.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "attack@max_target",
+                        "value": 2.0,
+                        "valueStr": null
+                    }
+                ]
+            },
+            {
+                "name": "戰術詠唱·雙型",
+                "rangeId": null,
+                "description": "攻擊速度<@ba.vup>+{attack_speed}</>，同時攻擊{attack@max_target}個目標",
+                "skillType": "MANUAL",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": "INCREASE_WHEN_ATTACK",
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 17,
+                    "initSp": 10,
+                    "increment": 1.0
+                },
+                "prefabId": "skchr_pithst_1",
+                "duration": 30.0,
+                "blackboard": [
+                    {
+                        "key": "attack_speed",
+                        "value": 80.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "attack@max_target",
+                        "value": 2.0,
+                        "valueStr": null
+                    }
+                ]
+            },
+            {
+                "name": "戰術詠唱·雙型",
+                "rangeId": null,
+                "description": "攻擊速度<@ba.vup>+{attack_speed}</>，同時攻擊{attack@max_target}個目標",
+                "skillType": "MANUAL",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": "INCREASE_WHEN_ATTACK",
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 16,
+                    "initSp": 10,
+                    "increment": 1.0
+                },
+                "prefabId": "skchr_pithst_1",
+                "duration": 30.0,
+                "blackboard": [
+                    {
+                        "key": "attack_speed",
+                        "value": 80.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "attack@max_target",
+                        "value": 2.0,
+                        "valueStr": null
+                    }
+                ]
+            },
+            {
+                "name": "戰術詠唱·雙型",
+                "rangeId": null,
+                "description": "攻擊速度<@ba.vup>+{attack_speed}</>，同時攻擊{attack@max_target}個目標",
+                "skillType": "MANUAL",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": "INCREASE_WHEN_ATTACK",
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 15,
+                    "initSp": 10,
+                    "increment": 1.0
+                },
+                "prefabId": "skchr_pithst_1",
+                "duration": 30.0,
+                "blackboard": [
+                    {
+                        "key": "attack_speed",
+                        "value": 80.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "attack@max_target",
+                        "value": 2.0,
+                        "valueStr": null
+                    }
+                ]
+            },
+            {
+                "name": "戰術詠唱·雙型",
+                "rangeId": null,
+                "description": "攻擊速度<@ba.vup>+{attack_speed}</>，同時攻擊{attack@max_target}個目標",
+                "skillType": "MANUAL",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": "INCREASE_WHEN_ATTACK",
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 15,
+                    "initSp": 10,
+                    "increment": 1.0
+                },
+                "prefabId": "skchr_pithst_1",
+                "duration": 30.0,
+                "blackboard": [
+                    {
+                        "key": "attack_speed",
+                        "value": 90.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "attack@max_target",
+                        "value": 2.0,
+                        "valueStr": null
+                    }
+                ]
+            }
+        ]
+    },
     "skchr_ethan_1": {
         "skillId": "skchr_ethan_1",
         "iconId": null,
@@ -301702,6 +301999,353 @@
             }
         ]
     },
+    "skchr_sharp2_1": {
+        "skillId": "skchr_sharp2_1",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "沉默的爆發",
+                "rangeId": null,
+                "description": "攻擊力<@ba.vup>+{atk:0%}</>，攻擊速度<@ba.vup>+{attack_speed}</>，同時攻擊<@ba.vup>{attack@max_target}</>個目標，遠程攻擊不再降低攻擊力",
+                "skillType": "MANUAL",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": "INCREASE_WITH_TIME",
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 48,
+                    "initSp": 20,
+                    "increment": 1.0
+                },
+                "prefabId": "skchr_sharp2_1",
+                "duration": 30.0,
+                "blackboard": [
+                    {
+                        "key": "atk",
+                        "value": 1.05,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "attack_speed",
+                        "value": 20.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "attack@max_target",
+                        "value": 2.0,
+                        "valueStr": null
+                    }
+                ]
+            },
+            {
+                "name": "沉默的爆發",
+                "rangeId": null,
+                "description": "攻擊力<@ba.vup>+{atk:0%}</>，攻擊速度<@ba.vup>+{attack_speed}</>，同時攻擊<@ba.vup>{attack@max_target}</>個目標，遠程攻擊不再降低攻擊力",
+                "skillType": "MANUAL",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": "INCREASE_WITH_TIME",
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 48,
+                    "initSp": 21,
+                    "increment": 1.0
+                },
+                "prefabId": "skchr_sharp2_1",
+                "duration": 30.0,
+                "blackboard": [
+                    {
+                        "key": "atk",
+                        "value": 1.1,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "attack_speed",
+                        "value": 20.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "attack@max_target",
+                        "value": 2.0,
+                        "valueStr": null
+                    }
+                ]
+            },
+            {
+                "name": "沉默的爆發",
+                "rangeId": null,
+                "description": "攻擊力<@ba.vup>+{atk:0%}</>，攻擊速度<@ba.vup>+{attack_speed}</>，同時攻擊<@ba.vup>{attack@max_target}</>個目標，遠程攻擊不再降低攻擊力",
+                "skillType": "MANUAL",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": "INCREASE_WITH_TIME",
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 47,
+                    "initSp": 21,
+                    "increment": 1.0
+                },
+                "prefabId": "skchr_sharp2_1",
+                "duration": 30.0,
+                "blackboard": [
+                    {
+                        "key": "atk",
+                        "value": 1.2,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "attack_speed",
+                        "value": 20.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "attack@max_target",
+                        "value": 2.0,
+                        "valueStr": null
+                    }
+                ]
+            },
+            {
+                "name": "沉默的爆發",
+                "rangeId": null,
+                "description": "攻擊力<@ba.vup>+{atk:0%}</>，攻擊速度<@ba.vup>+{attack_speed}</>，同時攻擊<@ba.vup>{attack@max_target}</>個目標，遠程攻擊不再降低攻擊力",
+                "skillType": "MANUAL",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": "INCREASE_WITH_TIME",
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 45,
+                    "initSp": 22,
+                    "increment": 1.0
+                },
+                "prefabId": "skchr_sharp2_1",
+                "duration": 30.0,
+                "blackboard": [
+                    {
+                        "key": "atk",
+                        "value": 1.3,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "attack_speed",
+                        "value": 35.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "attack@max_target",
+                        "value": 2.0,
+                        "valueStr": null
+                    }
+                ]
+            },
+            {
+                "name": "沉默的爆發",
+                "rangeId": null,
+                "description": "攻擊力<@ba.vup>+{atk:0%}</>，攻擊速度<@ba.vup>+{attack_speed}</>，同時攻擊<@ba.vup>{attack@max_target}</>個目標，遠程攻擊不再降低攻擊力",
+                "skillType": "MANUAL",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": "INCREASE_WITH_TIME",
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 45,
+                    "initSp": 23,
+                    "increment": 1.0
+                },
+                "prefabId": "skchr_sharp2_1",
+                "duration": 30.0,
+                "blackboard": [
+                    {
+                        "key": "atk",
+                        "value": 1.45,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "attack_speed",
+                        "value": 35.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "attack@max_target",
+                        "value": 2.0,
+                        "valueStr": null
+                    }
+                ]
+            },
+            {
+                "name": "沉默的爆發",
+                "rangeId": null,
+                "description": "攻擊力<@ba.vup>+{atk:0%}</>，攻擊速度<@ba.vup>+{attack_speed}</>，同時攻擊<@ba.vup>{attack@max_target}</>個目標，遠程攻擊不再降低攻擊力",
+                "skillType": "MANUAL",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": "INCREASE_WITH_TIME",
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 45,
+                    "initSp": 24,
+                    "increment": 1.0
+                },
+                "prefabId": "skchr_sharp2_1",
+                "duration": 30.0,
+                "blackboard": [
+                    {
+                        "key": "atk",
+                        "value": 1.6,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "attack_speed",
+                        "value": 35.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "attack@max_target",
+                        "value": 2.0,
+                        "valueStr": null
+                    }
+                ]
+            },
+            {
+                "name": "沉默的爆發",
+                "rangeId": null,
+                "description": "攻擊力<@ba.vup>+{atk:0%}</>，攻擊速度<@ba.vup>+{attack_speed}</>，同時攻擊<@ba.vup>{attack@max_target}</>個目標，遠程攻擊不再降低攻擊力",
+                "skillType": "MANUAL",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": "INCREASE_WITH_TIME",
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 42,
+                    "initSp": 24,
+                    "increment": 1.0
+                },
+                "prefabId": "skchr_sharp2_1",
+                "duration": 30.0,
+                "blackboard": [
+                    {
+                        "key": "atk",
+                        "value": 1.8,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "attack_speed",
+                        "value": 50.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "attack@max_target",
+                        "value": 2.0,
+                        "valueStr": null
+                    }
+                ]
+            },
+            {
+                "name": "沉默的爆發",
+                "rangeId": null,
+                "description": "攻擊力<@ba.vup>+{atk:0%}</>，攻擊速度<@ba.vup>+{attack_speed}</>，同時攻擊<@ba.vup>{attack@max_target}</>個目標，遠程攻擊不再降低攻擊力",
+                "skillType": "MANUAL",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": "INCREASE_WITH_TIME",
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 42,
+                    "initSp": 25,
+                    "increment": 1.0
+                },
+                "prefabId": "skchr_sharp2_1",
+                "duration": 30.0,
+                "blackboard": [
+                    {
+                        "key": "atk",
+                        "value": 1.95,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "attack_speed",
+                        "value": 50.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "attack@max_target",
+                        "value": 2.0,
+                        "valueStr": null
+                    }
+                ]
+            },
+            {
+                "name": "沉默的爆發",
+                "rangeId": null,
+                "description": "攻擊力<@ba.vup>+{atk:0%}</>，攻擊速度<@ba.vup>+{attack_speed}</>，同時攻擊<@ba.vup>{attack@max_target}</>個目標，遠程攻擊不再降低攻擊力",
+                "skillType": "MANUAL",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": "INCREASE_WITH_TIME",
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 42,
+                    "initSp": 26,
+                    "increment": 1.0
+                },
+                "prefabId": "skchr_sharp2_1",
+                "duration": 30.0,
+                "blackboard": [
+                    {
+                        "key": "atk",
+                        "value": 2.1,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "attack_speed",
+                        "value": 50.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "attack@max_target",
+                        "value": 2.0,
+                        "valueStr": null
+                    }
+                ]
+            },
+            {
+                "name": "沉默的爆發",
+                "rangeId": null,
+                "description": "攻擊力<@ba.vup>+{atk:0%}</>，攻擊速度<@ba.vup>+{attack_speed}</>，同時攻擊<@ba.vup>{attack@max_target}</>個目標，遠程攻擊不再降低攻擊力",
+                "skillType": "MANUAL",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": "INCREASE_WITH_TIME",
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 42,
+                    "initSp": 27,
+                    "increment": 1.0
+                },
+                "prefabId": "skchr_sharp2_1",
+                "duration": 30.0,
+                "blackboard": [
+                    {
+                        "key": "atk",
+                        "value": 2.25,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "attack_speed",
+                        "value": 50.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "attack@max_target",
+                        "value": 2.0,
+                        "valueStr": null
+                    }
+                ]
+            }
+        ]
+    },
     "skchr_hodrer_1": {
         "skillId": "skchr_hodrer_1",
         "iconId": null,
@@ -343049,6 +343693,2352 @@
                 },
                 "prefabId": "sktok_empty",
                 "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm040_1": {
+        "skillId": "sktok_acarm040_1",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "炎國短刀",
+                "rangeId": null,
+                "description": "每開啟一次技能，獲得5%的攻擊力加成（最多疊加10次）",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm040_2": {
+        "skillId": "sktok_acarm040_2",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "炎國短刀",
+                "rangeId": null,
+                "description": "每開啟一次技能，獲得8%的攻擊力加成（最多疊加10次）",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm041_1": {
+        "skillId": "sktok_acarm041_1",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "維式重鎚",
+                "rangeId": null,
+                "description": "攻擊力+10%",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm041_2": {
+        "skillId": "sktok_acarm041_2",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "維式重鎚",
+                "rangeId": null,
+                "description": "攻擊力+20%",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm042_1": {
+        "skillId": "sktok_acarm042_1",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "灼燃維式重鎚",
+                "rangeId": null,
+                "description": "攻擊力+25%；造成法術傷害附帶相當於10%傷害的<$ba.dt.burning2>灼燃損傷</>",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm042_2": {
+        "skillId": "sktok_acarm042_2",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "灼燃維式重鎚",
+                "rangeId": null,
+                "description": "攻擊力+40%；造成法術傷害附帶相當於10%傷害的<$ba.dt.burning2>灼燃損傷</>",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm043_1": {
+        "skillId": "sktok_acarm043_1",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "堅固維式重鎚",
+                "rangeId": null,
+                "description": "攻擊力+25%；首次受到致命傷害時生命值不低於1，持續15秒",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm043_2": {
+        "skillId": "sktok_acarm043_2",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "堅固維式重鎚",
+                "rangeId": null,
+                "description": "攻擊力+40%；首次受到致命傷害時生命值不低於1，持續15秒",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm044_1": {
+        "skillId": "sktok_acarm044_1",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "加速維式重鎚",
+                "rangeId": null,
+                "description": "攻擊力+25%；攻擊速度+30",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm044_2": {
+        "skillId": "sktok_acarm044_2",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "加速維式重鎚",
+                "rangeId": null,
+                "description": "攻擊力+40%；攻擊速度+30",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm045_1": {
+        "skillId": "sktok_acarm045_1",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "戰慄維式重鎚",
+                "rangeId": null,
+                "description": "攻擊力+25%；若攜帶者是地面幹員，則攻擊時有8%機率使目標<$ba.tremble>戰慄</>2秒",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm045_2": {
+        "skillId": "sktok_acarm045_2",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "戰慄維式重鎚",
+                "rangeId": null,
+                "description": "攻擊力+40%；若攜帶者是地面幹員，則攻擊時有8%機率使目標<$ba.tremble>戰慄</>2秒",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm046_1": {
+        "skillId": "sktok_acarm046_1",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "阿戈爾重刃",
+                "rangeId": null,
+                "description": "攻擊力+35%，攻擊速度-10",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm046_2": {
+        "skillId": "sktok_acarm046_2",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "阿戈爾重刃",
+                "rangeId": null,
+                "description": "攻擊力+60%，攻擊速度-10",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm047_1": {
+        "skillId": "sktok_acarm047_1",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "堅守盾牌",
+                "rangeId": null,
+                "description": "防禦力+35%",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm047_2": {
+        "skillId": "sktok_acarm047_2",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "堅守盾牌",
+                "rangeId": null,
+                "description": "防禦力+60%",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm048_1": {
+        "skillId": "sktok_acarm048_1",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "口袋法陣",
+                "rangeId": null,
+                "description": "法術抗性+20",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm048_2": {
+        "skillId": "sktok_acarm048_2",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "口袋法陣",
+                "rangeId": null,
+                "description": "法術抗性+35",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm049_1": {
+        "skillId": "sktok_acarm049_1",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "歌利亞頭盔",
+                "rangeId": null,
+                "description": "生命值+35%；部署時若身前一格沒有其他幹員，生命值額外+25%",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm049_2": {
+        "skillId": "sktok_acarm049_2",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "歌利亞頭盔",
+                "rangeId": null,
+                "description": "生命值+60%；部署時若身前一格沒有其他幹員，生命值額外+40%",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm050_1": {
+        "skillId": "sktok_acarm050_1",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "薩爾貢濃茶",
+                "rangeId": null,
+                "description": "技力自然回復速度+0.15/秒",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm050_2": {
+        "skillId": "sktok_acarm050_2",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "薩爾貢濃茶",
+                "rangeId": null,
+                "description": "技力自然回復速度+0.25/秒",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm051_1": {
+        "skillId": "sktok_acarm051_1",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "迅捷作戰糧",
+                "rangeId": null,
+                "description": "部署時，獲得3點技力；每有一個同盟約的其他幹員，額外獲得3點技力",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm051_2": {
+        "skillId": "sktok_acarm051_2",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "迅捷作戰糧",
+                "rangeId": null,
+                "description": "部署時，獲得6點技力；每有一個同盟約的其他幹員，額外獲得6點技力",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm052_1": {
+        "skillId": "sktok_acarm052_1",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "有限加速器",
+                "rangeId": null,
+                "description": "每次攻擊或治療後，本場戰鬥中攻擊速度+1，最高60層",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm052_2": {
+        "skillId": "sktok_acarm052_2",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "有限加速器",
+                "rangeId": null,
+                "description": "每次攻擊或治療後，本場戰鬥中攻擊速度+2，最高60層",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm053_1": {
+        "skillId": "sktok_acarm053_1",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "鐳射發射器",
+                "rangeId": null,
+                "description": "攻擊無視目標25%法術抗性",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm053_2": {
+        "skillId": "sktok_acarm053_2",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "鐳射發射器",
+                "rangeId": null,
+                "description": "攻擊無視目標40%法術抗性",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm054_1": {
+        "skillId": "sktok_acarm054_1",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "蜂鳴器",
+                "rangeId": null,
+                "description": "更容易受到攻擊",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm054_2": {
+        "skillId": "sktok_acarm054_2",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "蜂鳴器",
+                "rangeId": null,
+                "description": "更容易受到攻擊，生命值+30%",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm055_1": {
+        "skillId": "sktok_acarm055_1",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "偽裝服",
+                "rangeId": null,
+                "description": "部署後25秒內獲得<$ba.camou>迷彩</>",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm055_2": {
+        "skillId": "sktok_acarm055_2",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "偽裝服",
+                "rangeId": null,
+                "description": "部署後50秒內獲得<$ba.camou>迷彩</>",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm056_1": {
+        "skillId": "sktok_acarm056_1",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "不屈彈射器",
+                "rangeId": null,
+                "description": "再部署時間-30%，生命值-30%",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm056_2": {
+        "skillId": "sktok_acarm056_2",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "不屈彈射器",
+                "rangeId": null,
+                "description": "再部署時間-50%，生命值-30%",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm057_1": {
+        "skillId": "sktok_acarm057_1",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "拉特蘭橋夾",
+                "rangeId": null,
+                "description": "子彈類技能首次剩餘一發子彈時有40%機率恢復40%的子彈",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm057_2": {
+        "skillId": "sktok_acarm057_2",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "拉特蘭橋夾",
+                "rangeId": null,
+                "description": "子彈類技能首次剩餘一發子彈時有70%機率恢復40%的子彈",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm058_1": {
+        "skillId": "sktok_acarm058_1",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "催淚瓦斯",
+                "rangeId": null,
+                "description": "攻擊時有3%機率使目標獲得一層<$ba.palsy>麻痺</>",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm058_2": {
+        "skillId": "sktok_acarm058_2",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "催淚瓦斯",
+                "rangeId": null,
+                "description": "攻擊時有5%機率使目標獲得一層<$ba.palsy>麻痺</>",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm059_1": {
+        "skillId": "sktok_acarm059_1",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "濃縮嗅鹽",
+                "rangeId": null,
+                "description": "生命值大於80%時，免疫<$ba.stun>暈眩</>、<$ba.frozen>凍結</>等特殊狀態",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm059_2": {
+        "skillId": "sktok_acarm059_2",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "濃縮嗅鹽",
+                "rangeId": null,
+                "description": "生命值大於50%時，免疫<$ba.stun>暈眩</>、<$ba.frozen>凍結</>等特殊狀態",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm060_1": {
+        "skillId": "sktok_acarm060_1",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "防暴盾",
+                "rangeId": null,
+                "description": "阻擋敵人時，受到來自非自身阻擋單位的傷害降低40%",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm060_2": {
+        "skillId": "sktok_acarm060_2",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "防暴盾",
+                "rangeId": null,
+                "description": "阻擋敵人時，受到來自非自身阻擋單位的傷害降低70%",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm061_1": {
+        "skillId": "sktok_acarm061_1",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "護盾無人機",
+                "rangeId": null,
+                "description": "治療時有10%機率使目標獲得1層<$ba.shield>護盾</>（最多1層）",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm061_2": {
+        "skillId": "sktok_acarm061_2",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "護盾無人機",
+                "rangeId": null,
+                "description": "治療時有15%機率使目標獲得1層<$ba.shield>護盾</>（最多1層）",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm062_1": {
+        "skillId": "sktok_acarm062_1",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "謝拉格不融冰",
+                "rangeId": null,
+                "description": "攻擊時有18%機率對目標施加1秒的<$ba.cold>寒冷</>",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm062_2": {
+        "skillId": "sktok_acarm062_2",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "謝拉格不融冰",
+                "rangeId": null,
+                "description": "攻擊時有30%機率對目標施加1秒的<$ba.cold>寒冷</>",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm063_1": {
+        "skillId": "sktok_acarm063_1",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "精準狙擊鏡",
+                "rangeId": null,
+                "description": "攻擊距離自身3格及以上的目標時，傷害提高25%",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm063_2": {
+        "skillId": "sktok_acarm063_2",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "精準狙擊鏡",
+                "rangeId": null,
+                "description": "攻擊距離自身3格及以上的目標時，傷害提高40%",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm064_1": {
+        "skillId": "sktok_acarm064_1",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "突襲手榴彈",
+                "rangeId": null,
+                "description": "每次部署後的8秒內，攻擊時使目標<$ba.stun>暈眩</>2秒",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm064_2": {
+        "skillId": "sktok_acarm064_2",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "突襲手榴彈",
+                "rangeId": null,
+                "description": "每次部署後的12秒內，攻擊時使目標<$ba.stun>暈眩</>2秒",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm065_1": {
+        "skillId": "sktok_acarm065_1",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "休眠子裔",
+                "rangeId": null,
+                "description": "每攻擊1個目標，回復自身2%最大生命值",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm065_2": {
+        "skillId": "sktok_acarm065_2",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "休眠子裔",
+                "rangeId": null,
+                "description": "每攻擊1個目標，回復自身4%最大生命值",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm066_1": {
+        "skillId": "sktok_acarm066_1",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "幸運硬幣",
+                "rangeId": null,
+                "description": "裝備時銷毀，並隨機獲得1~6資金",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm066_2": {
+        "skillId": "sktok_acarm066_2",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "幸運硬幣",
+                "rangeId": null,
+                "description": "裝備時銷毀，並隨機獲得2~12資金",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm067_1": {
+        "skillId": "sktok_acarm067_1",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "雙模機械臂",
+                "rangeId": null,
+                "description": "攻擊力+10%，自身造成物理和法術傷害時，傷害類型轉化為<$ba.weaknessatk>弱點傷害</>",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm067_2": {
+        "skillId": "sktok_acarm067_2",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "雙模機械臂",
+                "rangeId": null,
+                "description": "攻擊力+20%，自身造成物理和法術傷害時，傷害類型轉化為<$ba.weaknessatk>弱點傷害</>",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm068_1": {
+        "skillId": "sktok_acarm068_1",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "M3繭甲",
+                "rangeId": null,
+                "description": "戰鬥階段被擊倒時立刻復活（一場戰鬥僅1次）",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm068_2": {
+        "skillId": "sktok_acarm068_2",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "M3繭甲",
+                "rangeId": null,
+                "description": "戰鬥階段被擊倒時立刻復活（一場戰鬥僅2次）",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm069_1": {
+        "skillId": "sktok_acarm069_1",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "擬態物質",
+                "rangeId": null,
+                "description": "裝備時銷毀，若已擁有至少2名該初始幹員，則再獲得1名該初始幹員；否則隨機獲得1名同盟約初始幹員",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm069_2": {
+        "skillId": "sktok_acarm069_2",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "擬態物質",
+                "rangeId": null,
+                "description": "裝備時銷毀，若已擁有至少2名該初始幹員，則再獲得1名該初始幹員；否則隨機獲得1名同盟約初始幹員",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm070_1": {
+        "skillId": "sktok_acarm070_1",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "人事部文件",
+                "rangeId": null,
+                "description": "裝備時銷毀，最大可部署人數變為9",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm070_2": {
+        "skillId": "sktok_acarm070_2",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "人事部文件",
+                "rangeId": null,
+                "description": "裝備時銷毀，最大可部署人數變為9",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm071_1": {
+        "skillId": "sktok_acarm071_1",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "博士投影",
+                "rangeId": null,
+                "description": "任意幹員可裝備，下個回合開始時銷毀，並使該幹員晉升為精銳幹員",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm071_2": {
+        "skillId": "sktok_acarm071_2",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "博士投影",
+                "rangeId": null,
+                "description": "任意幹員可裝備，立即使該幹員晉升為精銳幹員",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm072_1": {
+        "skillId": "sktok_acarm072_1",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "突變細胞",
+                "rangeId": null,
+                "description": "戰鬥結束後，裝備者替換為高一階的隨機幹員",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm072_2": {
+        "skillId": "sktok_acarm072_2",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "突變細胞",
+                "rangeId": null,
+                "description": "戰鬥結束後，裝備者替換為高一階的隨機幹員",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm073_1": {
+        "skillId": "sktok_acarm073_1",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "變形同構體",
+                "rangeId": null,
+                "description": "攜帶者獲得額外盟約（由另一件攜帶裝備而定）\n<@ba.acrem>詳細對應關係可在模擬中查看本裝備天賦欄</>",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm073_2": {
+        "skillId": "sktok_acarm073_2",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "變形同構體",
+                "rangeId": null,
+                "description": "攜帶者獲得額外盟約（由另一件攜帶裝備而定）\n<@ba.acrem>詳細對應關係可在模擬中查看本裝備天賦欄</>",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm074_1": {
+        "skillId": "sktok_acarm074_1",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "商業包裝方案",
+                "rangeId": null,
+                "description": "每出售8名幹員，額外獲得一個此裝備攜帶者的初始同名幹員",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm074_2": {
+        "skillId": "sktok_acarm074_2",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "商業包裝方案",
+                "rangeId": null,
+                "description": "每出售6名幹員，額外獲得一個此裝備攜帶者的初始同名幹員",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm075_1": {
+        "skillId": "sktok_acarm075_1",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "傳呼模組",
+                "rangeId": null,
+                "description": "裝備時銷毀，立即特殊更新一次商店，僅出現與該幹員有相同盟約的幹員",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm075_2": {
+        "skillId": "sktok_acarm075_2",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "傳呼模組",
+                "rangeId": null,
+                "description": "裝備時銷毀，立即特殊更新一次商店，僅出現與該幹員有相同盟約的幹員",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm076_1": {
+        "skillId": "sktok_acarm076_1",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "銃騎之威",
+                "rangeId": null,
+                "description": "攻擊力+35%；若攜帶者為【拉特蘭】盟約幹員，該幹員每次攻擊時，有35%機率額外對攻擊範圍內一名敵人發射子彈造成150%攻擊力的物理傷害\n<@ba.acrem>若該【拉特蘭】盟約幹員同時攜帶“拉特蘭橋夾”，子彈傷害改為300%攻擊力</>",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm076_2": {
+        "skillId": "sktok_acarm076_2",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "銃騎之威",
+                "rangeId": null,
+                "description": "攻擊力+60%；若攜帶者為【拉特蘭】盟約幹員，該幹員每次攻擊時，有35%機率額外對攻擊範圍內一名敵人發射子彈造成150%攻擊力的物理傷害\n<@ba.acrem>若該【拉特蘭】盟約幹員同時攜帶“拉特蘭橋夾”，子彈傷害改為300%攻擊力</>",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm077_1": {
+        "skillId": "sktok_acarm077_1",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "天師古鼎",
+                "rangeId": null,
+                "description": "生命值+45%；若攜帶者為【炎】盟約幹員，本回合每獲得過1名幹員，戰鬥開始後攻擊速度+25（最多3層）\n<@ba.acrem>若該【炎】盟約幹員同時攜帶“炎國短刀”，每次獲得幹員時獲得2資金（每回合最多3次）</>",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm077_2": {
+        "skillId": "sktok_acarm077_2",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "天師古鼎",
+                "rangeId": null,
+                "description": "生命值+70%；若攜帶者為【炎】盟約幹員，本回合每獲得過1名幹員，戰鬥開始後攻擊速度+25（最多3層）\n<@ba.acrem>若該【炎】盟約幹員同時攜帶“炎國短刀”，每次獲得幹員時獲得2資金（每回合最多3次）</>",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm078_1": {
+        "skillId": "sktok_acarm078_1",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "海溝實驗體",
+                "rangeId": null,
+                "description": "受到的傷害-180點；若攜帶者為【阿戈爾】盟約幹員，該幹員觸發【阿戈爾】盟約<@ba.vup>吞噬</>效果的範圍改為周圍四格，並讓【阿戈爾】盟約獲得對應層數\n<@ba.acrem>若該【阿戈爾】盟約幹員同時攜帶“阿戈爾重刃”，<@ba.vup>吞噬</>周圍四格幹員時額外獲得其等量生命值</>",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm078_2": {
+        "skillId": "sktok_acarm078_2",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "海溝實驗體",
+                "rangeId": null,
+                "description": "受到的傷害-300點；若攜帶者為【阿戈爾】盟約幹員，該幹員觸發【阿戈爾】盟約<@ba.vup>吞噬</>效果的範圍改為周圍四格，並讓【阿戈爾】盟約獲得對應層數\n<@ba.acrem>若該【阿戈爾】盟約幹員同時攜帶“阿戈爾重刃”，<@ba.vup>吞噬</>周圍四格幹員時額外獲得其等量生命值</>",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm079_1": {
+        "skillId": "sktok_acarm079_1",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "蒸汽之心",
+                "rangeId": null,
+                "description": "攻擊速度+35；若攜帶者為【維多利亞】盟約幹員，該幹員獲得目前場上所有維式重鎚特殊效果\n<@ba.acrem>若該【維多利亞】盟約幹員同時攜帶“維式重鎚”系列裝備，該“維式重鎚”裝備特殊效果獲得強化（效果變為2倍）</>",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm079_2": {
+        "skillId": "sktok_acarm079_2",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "蒸汽之心",
+                "rangeId": null,
+                "description": "攻擊速度+60；若攜帶者為【維多利亞】盟約幹員，該幹員獲得目前場上所有維式重鎚特殊效果\n<@ba.acrem>若該【維多利亞】盟約幹員同時攜帶“維式重鎚”系列裝備，該“維式重鎚”裝備特殊效果獲得強化（效果變為2倍）</>",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm102_1": {
+        "skillId": "sktok_acarm102_1",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "耶拉岡德之淚",
+                "rangeId": null,
+                "description": "法術抗性+30；若攜帶者為【謝拉格】盟約幹員，該幹員擊倒敵人時使周圍一定範圍內的其他敵人受到2秒<$ba.cold>寒冷</>\n<@ba.acrem>若該【謝拉格】盟約幹員同時攜帶“謝拉格不融冰”，擊倒敵人時使周圍一定範圍內的其他敵人額外受到一次2秒<$ba.cold>寒冷</></>",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm102_2": {
+        "skillId": "sktok_acarm102_2",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "耶拉岡德之淚",
+                "rangeId": null,
+                "description": "法術抗性+50；若攜帶者為【謝拉格】盟約幹員，該幹員擊倒敵人時使周圍一定範圍內的其他敵人受到2秒<$ba.cold>寒冷</>\n<@ba.acrem>若該【謝拉格】盟約幹員同時攜帶“謝拉格不融冰”，擊倒敵人時使周圍一定範圍內的其他敵人額外受到一次2秒寒冷<$ba.cold></></>",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm103_1": {
+        "skillId": "sktok_acarm103_1",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "黃沙羅盤",
+                "rangeId": null,
+                "description": "初始技力+25；若攜帶者為【薩爾貢】盟約幹員，該幹員首次技能結束時立刻回復30點技力\n<@ba.acrem>若該【薩爾貢】盟約幹員同時攜帶“薩爾貢濃茶”，每次開啟技能時為全部【薩爾貢】幹員回復3點技力</>",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm103_2": {
+        "skillId": "sktok_acarm103_2",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "黃沙羅盤",
+                "rangeId": null,
+                "description": "初始技力+40；若攜帶者為【薩爾貢】盟約幹員，該幹員首次技能結束時立刻回復30點技力\n<@ba.acrem>若該【薩爾貢】盟約幹員同時攜帶“薩爾貢濃茶”，每次開啟技能時為全部【薩爾貢】幹員回復5點技力</>",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm109_1": {
+        "skillId": "sktok_acarm109_1",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "信標",
+                "rangeId": null,
+                "description": "裝備時，目標幹員和本裝備銷毀並自動選擇1位在場相應盟約人數最多的隊友，下個休整期向其<@ba.vup>發送</>1個同品質的同名幹員\n<@ba.acrem>若無符合條件者則返還該幹員</>\n<@ba.acrem>無法裝備給自選幹員</>",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acarm109_2": {
+        "skillId": "sktok_acarm109_2",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "信標",
+                "rangeId": null,
+                "description": "裝備時，目標幹員和本裝備銷毀並自動選擇1位在場相應盟約人數最多的隊友，下個休整期向其<@ba.vup>發送</>1個同品質的同名幹員\n<@ba.acrem>若無符合條件者則返還該幹員</>\n<@ba.acrem>無法裝備給自選幹員</>",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_common_acarm",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_aclasert": {
+        "skillId": "sktok_aclasert",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "“雙眼皮”",
+                "rangeId": null,
+                "description": "根據目前層數最高的盟約獲得強化：每層盟約層數使自身攻擊速度+1，攻擊額外附帶造成0.1%<$ba.fragile>脆弱</>，持續2秒（最多300層）",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 0.0
+                },
+                "prefabId": "sktok_aclasert",
+                "duration": 2.0,
+                "blackboard": [
+                    {
+                        "key": "attack_speed_per_stack",
+                        "value": 1.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "damage_scale_per_stack",
+                        "value": 0.001,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "max_attack_speed",
+                        "value": 300.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "max_damage_scale",
+                        "value": 1.3,
+                        "valueStr": null
+                    }
+                ]
+            }
+        ]
+    },
+    "sktok_accrate": {
+        "skillId": "sktok_accrate",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "阻隔工事",
+                "rangeId": null,
+                "description": "改變敵人的行進路線\n<@ba.rem>如果阻隔工事阻擋了敵人，敵人會破壞此工事</>",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 0.0
+                },
+                "prefabId": null,
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_achplat": {
+        "skillId": "sktok_achplat",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "射擊台",
+                "rangeId": null,
+                "description": "可將高台幹員部署於其上",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 1,
+                    "initSp": 0,
+                    "increment": 0.0
+                },
+                "prefabId": "sktok_achplat",
+                "duration": -1.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acdisney_1": {
+        "skillId": "sktok_acdisney_1",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "“神秘顧客”",
+                "rangeId": "0-1",
+                "description": "拖曳至場上使用後，選擇一項特殊懸賞任務進行挑戰；主動銷毀時獲得1份資金，並將“神秘顧客”傳遞給下一名玩家",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_acdisney_1",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_accopy_1": {
+        "skillId": "sktok_accopy_1",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "畫卷",
+                "rangeId": "1-1",
+                "description": "拖曳至場上使用後，獲得範圍內的幹員（包括精銳狀態和裝備！）",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_accopy_1",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acchal_1": {
+        "skillId": "sktok_acchal_1",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "教鞭",
+                "rangeId": "0-1",
+                "description": "拖曳至場上使用後，選擇一項懸賞任務進行挑戰",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_acchal_1",
+                "duration": 0.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_acblzd": {
+        "skillId": "sktok_acblzd",
+        "iconId": null,
+        "hidden": false,
+        "levels": [
+            {
+                "name": "謝拉格寒風",
+                "rangeId": null,
+                "description": "每隔一定時間對全場敵人造成一定時間的<$ba.cold>寒冷</>",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 0.0
+                },
+                "prefabId": "sktok_empty",
+                "duration": -1.0,
                 "blackboard": []
             }
         ]
