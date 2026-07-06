@@ -153166,5 +153166,2091 @@
                 "tokenAttributeBlackboard": {}
             }
         ]
+    },
+    "uniequip_002_monstr": {
+        "phases": [
+            {
+                "equipLevel": 1,
+                "parts": [
+                    {
+                        "resKey": null,
+                        "target": "DISPLAY",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": null
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": [
+                                {
+                                    "additionalDescription": null,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "blackboard": [
+                                        {
+                                            "key": "attack@chain.max_target",
+                                            "value": 3.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "attack@chain.atk_scale",
+                                            "value": 0.85,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "overrideDescripton": "恢復友方單位生命，且會在<@ba.kw>3</>個友方單位間跳躍，每次跳躍治療量降低15%",
+                                    "prefabKey": null,
+                                    "rangeId": null
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "resKey": "monstr_equip_1_1_p1",
+                        "target": "TALENT",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": [
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "",
+                                    "talentIndex": -1,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "prefabKey": "10_root",
+                                    "name": null,
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "attack@chain.max_target",
+                                            "value": 3.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "attack@chain.atk_scale",
+                                            "value": 0.85,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                }
+                            ]
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": null
+                        }
+                    }
+                ],
+                "attributeBlackboard": [
+                    {
+                        "key": "atk",
+                        "value": 40.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "def",
+                        "value": 30.0,
+                        "valueStr": null
+                    }
+                ],
+                "tokenAttributeBlackboard": {}
+            },
+            {
+                "equipLevel": 2,
+                "parts": [
+                    {
+                        "resKey": null,
+                        "target": "DISPLAY",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": null
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": [
+                                {
+                                    "additionalDescription": null,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "blackboard": [
+                                        {
+                                            "key": "attack@chain.max_target",
+                                            "value": 3.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "attack@chain.atk_scale",
+                                            "value": 0.85,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "overrideDescripton": "恢復友方單位生命，且會在<@ba.kw>3</>個友方單位間跳躍，每次跳躍治療量降低15%",
+                                    "prefabKey": null,
+                                    "rangeId": null
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "resKey": "monstr_equip_1_2_p1",
+                        "target": "TALENT",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": [
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "",
+                                    "talentIndex": -1,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "prefabKey": "10_root",
+                                    "name": null,
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "attack@chain.max_target",
+                                            "value": 3.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "attack@chain.atk_scale",
+                                            "value": 0.85,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                }
+                            ]
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": null
+                        }
+                    },
+                    {
+                        "resKey": null,
+                        "target": "TALENT_DATA_ONLY",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": [
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "可以在攻擊範圍內的地面使用一個僅可被自身治療的重構體，重構體周圍友方單位的攻擊力+20%，重構體受到自身和Mon3tr治療時，可額外進行一次不會衰減的治療跳躍",
+                                    "talentIndex": 0,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "prefabKey": "1",
+                                    "name": "自我修復",
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "cnt",
+                                            "value": 1.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "atk",
+                                            "value": 0.2,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                },
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "可以在攻擊範圍內的地面使用一個僅可被自身治療的重構體，重構體周圍友方單位的攻擊力+25%<@ba.talpu>（+5%）</>，重構體受到自身和Mon3tr治療時，可額外進行一次不會衰減的治療跳躍",
+                                    "talentIndex": 0,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 2,
+                                    "prefabKey": "1",
+                                    "name": "自我修復",
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "cnt",
+                                            "value": 1.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "atk",
+                                            "value": 0.25,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                }
+                            ]
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": null
+                        }
+                    }
+                ],
+                "attributeBlackboard": [
+                    {
+                        "key": "atk",
+                        "value": 55.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "def",
+                        "value": 35.0,
+                        "valueStr": null
+                    }
+                ],
+                "tokenAttributeBlackboard": {}
+            },
+            {
+                "equipLevel": 3,
+                "parts": [
+                    {
+                        "resKey": null,
+                        "target": "DISPLAY",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": null
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": [
+                                {
+                                    "additionalDescription": null,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "blackboard": [
+                                        {
+                                            "key": "attack@chain.max_target",
+                                            "value": 3.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "attack@chain.atk_scale",
+                                            "value": 0.85,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "overrideDescripton": "恢復友方單位生命，且會在<@ba.kw>3</>個友方單位間跳躍，每次跳躍治療量降低15%",
+                                    "prefabKey": null,
+                                    "rangeId": null
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "resKey": "monstr_equip_1_3_p1",
+                        "target": "TALENT",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": [
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "",
+                                    "talentIndex": -1,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "prefabKey": "10_root",
+                                    "name": null,
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "attack@chain.max_target",
+                                            "value": 3.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "attack@chain.atk_scale",
+                                            "value": 0.85,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                }
+                            ]
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": null
+                        }
+                    },
+                    {
+                        "resKey": null,
+                        "target": "TALENT_DATA_ONLY",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": [
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "可以在攻擊範圍內的地面使用一個僅可被自身治療的重構體，重構體周圍友方單位的攻擊力+25%，重構體受到自身和Mon3tr治療時，可額外進行一次不會衰減的治療跳躍，且下次跳躍也不衰減",
+                                    "talentIndex": 0,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "prefabKey": "1",
+                                    "name": "自我修復",
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "cnt",
+                                            "value": 1.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "atk",
+                                            "value": 0.25,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "attack@chain.extra_cnt",
+                                            "value": 1.0,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                },
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "可以在攻擊範圍內的地面使用一個僅可被自身治療的重構體，重構體周圍友方單位的攻擊力+30%<@ba.talpu>（+5%）</>，重構體受到自身和Mon3tr治療時，可額外進行一次不會衰減的治療跳躍，且下次跳躍也不衰減",
+                                    "talentIndex": 0,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 2,
+                                    "prefabKey": "1",
+                                    "name": "自我修復",
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "cnt",
+                                            "value": 1.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "atk",
+                                            "value": 0.3,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "attack@chain.extra_cnt",
+                                            "value": 1.0,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                }
+                            ]
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": null
+                        }
+                    }
+                ],
+                "attributeBlackboard": [
+                    {
+                        "key": "atk",
+                        "value": 65.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "def",
+                        "value": 40.0,
+                        "valueStr": null
+                    }
+                ],
+                "tokenAttributeBlackboard": {}
+            }
+        ]
+    },
+    "uniequip_002_papyrs": {
+        "phases": [
+            {
+                "equipLevel": 1,
+                "parts": [
+                    {
+                        "resKey": null,
+                        "target": "DISPLAY",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": null
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": [
+                                {
+                                    "additionalDescription": null,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 50
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "blackboard": [
+                                        {
+                                            "key": "attack@chain.max_target",
+                                            "value": 3.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "attack@chain.atk_scale",
+                                            "value": 0.85,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "overrideDescripton": "恢復友方單位生命，且會在<@ba.kw>3</>個友方單位間跳躍，每次跳躍治療量降低15%",
+                                    "prefabKey": null,
+                                    "rangeId": null
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "resKey": "papyrs_equip_1_1_p1",
+                        "target": "TALENT",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": [
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "",
+                                    "talentIndex": -1,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 50
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "prefabKey": "10_root",
+                                    "name": null,
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "attack@chain.max_target",
+                                            "value": 3.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "attack@chain.atk_scale",
+                                            "value": 0.85,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                }
+                            ]
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": null
+                        }
+                    }
+                ],
+                "attributeBlackboard": [
+                    {
+                        "key": "atk",
+                        "value": 38.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "def",
+                        "value": 23.0,
+                        "valueStr": null
+                    }
+                ],
+                "tokenAttributeBlackboard": {}
+            },
+            {
+                "equipLevel": 2,
+                "parts": [
+                    {
+                        "resKey": null,
+                        "target": "DISPLAY",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": null
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": [
+                                {
+                                    "additionalDescription": null,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 50
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "blackboard": [
+                                        {
+                                            "key": "attack@chain.max_target",
+                                            "value": 3.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "attack@chain.atk_scale",
+                                            "value": 0.85,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "overrideDescripton": "恢復友方單位生命，且會在<@ba.kw>3</>個友方單位間跳躍，每次跳躍治療量降低15%",
+                                    "prefabKey": null,
+                                    "rangeId": null
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "resKey": "papyrs_equip_1_2_p1",
+                        "target": "TALENT",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": [
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "",
+                                    "talentIndex": -1,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 50
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "prefabKey": "10_root",
+                                    "name": null,
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "attack@chain.max_target",
+                                            "value": 3.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "attack@chain.atk_scale",
+                                            "value": 0.85,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                }
+                            ]
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": null
+                        }
+                    },
+                    {
+                        "resKey": null,
+                        "target": "TALENT_DATA_ONLY",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": [
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "治療會為目標幹員附加相當於自身23%攻擊力的<$ba.barrier>屏障</>，持續8秒",
+                                    "talentIndex": 0,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 50
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "prefabKey": "1",
+                                    "name": "博覽古卷",
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "attack@scale",
+                                            "value": 0.23,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "attack@shield_duration",
+                                            "value": 8.0,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                },
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "治療會為目標幹員附加相當於自身25%<@ba.talpu>（+2%）</>攻擊力的<$ba.barrier>屏障</>，持續8秒",
+                                    "talentIndex": 0,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 50
+                                    },
+                                    "requiredPotentialRank": 4,
+                                    "prefabKey": "1",
+                                    "name": "博覽古卷",
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "attack@scale",
+                                            "value": 0.25,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "attack@shield_duration",
+                                            "value": 8.0,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                }
+                            ]
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": null
+                        }
+                    }
+                ],
+                "attributeBlackboard": [
+                    {
+                        "key": "atk",
+                        "value": 50.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "def",
+                        "value": 28.0,
+                        "valueStr": null
+                    }
+                ],
+                "tokenAttributeBlackboard": {}
+            },
+            {
+                "equipLevel": 3,
+                "parts": [
+                    {
+                        "resKey": null,
+                        "target": "DISPLAY",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": null
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": [
+                                {
+                                    "additionalDescription": null,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 50
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "blackboard": [
+                                        {
+                                            "key": "attack@chain.max_target",
+                                            "value": 3.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "attack@chain.atk_scale",
+                                            "value": 0.85,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "overrideDescripton": "恢復友方單位生命，且會在<@ba.kw>3</>個友方單位間跳躍，每次跳躍治療量降低15%",
+                                    "prefabKey": null,
+                                    "rangeId": null
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "resKey": "papyrs_equip_1_3_p1",
+                        "target": "TALENT",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": [
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "",
+                                    "talentIndex": -1,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 50
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "prefabKey": "10_root",
+                                    "name": null,
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "attack@chain.max_target",
+                                            "value": 3.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "attack@chain.atk_scale",
+                                            "value": 0.85,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                }
+                            ]
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": null
+                        }
+                    },
+                    {
+                        "resKey": null,
+                        "target": "TALENT_DATA_ONLY",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": [
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "治療會為目標幹員附加相當於自身27%攻擊力的<$ba.barrier>屏障</>，持續10秒",
+                                    "talentIndex": 0,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 50
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "prefabKey": "1",
+                                    "name": "博覽古卷",
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "attack@scale",
+                                            "value": 0.27,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "attack@shield_duration",
+                                            "value": 10.0,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                },
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "治療會為目標幹員附加相當於自身29%<@ba.talpu>（+2%）</>攻擊力的<$ba.barrier>屏障</>，持續10秒",
+                                    "talentIndex": 0,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 50
+                                    },
+                                    "requiredPotentialRank": 4,
+                                    "prefabKey": "1",
+                                    "name": "博覽古卷",
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "attack@scale",
+                                            "value": 0.29,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "attack@shield_duration",
+                                            "value": 10.0,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                }
+                            ]
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": null
+                        }
+                    }
+                ],
+                "attributeBlackboard": [
+                    {
+                        "key": "atk",
+                        "value": 60.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "def",
+                        "value": 33.0,
+                        "valueStr": null
+                    }
+                ],
+                "tokenAttributeBlackboard": {}
+            }
+        ]
+    },
+    "uniequip_002_peper": {
+        "phases": [
+            {
+                "equipLevel": 1,
+                "parts": [
+                    {
+                        "resKey": null,
+                        "target": "DISPLAY",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": null
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": [
+                                {
+                                    "additionalDescription": null,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 50
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "blackboard": [
+                                        {
+                                            "key": "attack@chain.max_target",
+                                            "value": 3.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "attack@chain.atk_scale",
+                                            "value": 0.85,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "overrideDescripton": "恢復友方單位生命，且會在<@ba.kw>3</>個友方單位間跳躍，每次跳躍治療量降低15%",
+                                    "prefabKey": null,
+                                    "rangeId": null
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "resKey": "peper_equip_1_1_p1",
+                        "target": "TALENT",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": [
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "",
+                                    "talentIndex": -1,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 50
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "prefabKey": "10_root",
+                                    "name": null,
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "attack@chain.max_target",
+                                            "value": 3.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "attack@chain.atk_scale",
+                                            "value": 0.85,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                }
+                            ]
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": null
+                        }
+                    }
+                ],
+                "attributeBlackboard": [
+                    {
+                        "key": "max_hp",
+                        "value": 160.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "atk",
+                        "value": 36.0,
+                        "valueStr": null
+                    }
+                ],
+                "tokenAttributeBlackboard": {}
+            },
+            {
+                "equipLevel": 2,
+                "parts": [
+                    {
+                        "resKey": null,
+                        "target": "DISPLAY",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": null
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": [
+                                {
+                                    "additionalDescription": null,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 50
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "blackboard": [
+                                        {
+                                            "key": "attack@chain.max_target",
+                                            "value": 3.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "attack@chain.atk_scale",
+                                            "value": 0.85,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "overrideDescripton": "恢復友方單位生命，且會在<@ba.kw>3</>個友方單位間跳躍，每次跳躍治療量降低15%",
+                                    "prefabKey": null,
+                                    "rangeId": null
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "resKey": "peper_equip_1_2_p1",
+                        "target": "TALENT",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": [
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "",
+                                    "talentIndex": -1,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 50
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "prefabKey": "10_root",
+                                    "name": null,
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "attack@chain.max_target",
+                                            "value": 3.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "attack@chain.atk_scale",
+                                            "value": 0.85,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                }
+                            ]
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": null
+                        }
+                    },
+                    {
+                        "resKey": null,
+                        "target": "TALENT_DATA_ONLY",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": [
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "治療時，若目標生命少於40%則為其額外恢復170點生命",
+                                    "talentIndex": 0,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 50
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "prefabKey": "1",
+                                    "name": "重點關照",
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "hp_ratio",
+                                            "value": 0.4,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "value",
+                                            "value": 170.0,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                },
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "治療時，若目標生命少於40%則為其額外恢復180<@ba.talpu>（+10）</>點生命",
+                                    "talentIndex": 0,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 50
+                                    },
+                                    "requiredPotentialRank": 4,
+                                    "prefabKey": "1",
+                                    "name": "重點關照",
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "hp_ratio",
+                                            "value": 0.4,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "value",
+                                            "value": 180.0,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                }
+                            ]
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": null
+                        }
+                    }
+                ],
+                "attributeBlackboard": [
+                    {
+                        "key": "max_hp",
+                        "value": 180.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "atk",
+                        "value": 51.0,
+                        "valueStr": null
+                    }
+                ],
+                "tokenAttributeBlackboard": {}
+            },
+            {
+                "equipLevel": 3,
+                "parts": [
+                    {
+                        "resKey": null,
+                        "target": "DISPLAY",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": null
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": [
+                                {
+                                    "additionalDescription": null,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 50
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "blackboard": [
+                                        {
+                                            "key": "attack@chain.max_target",
+                                            "value": 3.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "attack@chain.atk_scale",
+                                            "value": 0.85,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "overrideDescripton": "恢復友方單位生命，且會在<@ba.kw>3</>個友方單位間跳躍，每次跳躍治療量降低15%",
+                                    "prefabKey": null,
+                                    "rangeId": null
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "resKey": "peper_equip_1_3_p1",
+                        "target": "TALENT",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": [
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "",
+                                    "talentIndex": -1,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 50
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "prefabKey": "10_root",
+                                    "name": null,
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "attack@chain.max_target",
+                                            "value": 3.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "attack@chain.atk_scale",
+                                            "value": 0.85,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                }
+                            ]
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": null
+                        }
+                    },
+                    {
+                        "resKey": null,
+                        "target": "TALENT_DATA_ONLY",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": [
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "治療時，若目標生命少於50%則為其額外恢復200點生命",
+                                    "talentIndex": 0,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 50
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "prefabKey": "1",
+                                    "name": "重點關照",
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "hp_ratio",
+                                            "value": 0.5,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "value",
+                                            "value": 200.0,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                },
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "治療時，若目標生命少於50%則為其額外恢復210<@ba.talpu>（+10）</>點生命",
+                                    "talentIndex": 0,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 50
+                                    },
+                                    "requiredPotentialRank": 4,
+                                    "prefabKey": "1",
+                                    "name": "重點關照",
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "hp_ratio",
+                                            "value": 0.5,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "value",
+                                            "value": 210.0,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                }
+                            ]
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": null
+                        }
+                    }
+                ],
+                "attributeBlackboard": [
+                    {
+                        "key": "max_hp",
+                        "value": 200.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "atk",
+                        "value": 61.0,
+                        "valueStr": null
+                    }
+                ],
+                "tokenAttributeBlackboard": {}
+            }
+        ]
+    },
+    "uniequip_003_ray": {
+        "phases": [
+            {
+                "equipLevel": 1,
+                "parts": [
+                    {
+                        "resKey": null,
+                        "target": "TRAIT_DATA_ONLY",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": null
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": [
+                                {
+                                    "additionalDescription": null,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "blackboard": [
+                                        {
+                                            "key": "value",
+                                            "value": 8.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "atk_scale",
+                                            "value": 1.33,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "overrideDescripton": "攻擊時需要消耗子彈且攻擊力提升至<@ba.kw>133%</>，不攻擊時會緩慢地裝填子彈（最多{value}發）",
+                                    "prefabKey": "-1",
+                                    "rangeId": null
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "attributeBlackboard": [
+                    {
+                        "key": "max_hp",
+                        "value": 100.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "atk",
+                        "value": 60.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "attack_speed",
+                        "value": 5.0,
+                        "valueStr": null
+                    }
+                ],
+                "tokenAttributeBlackboard": {}
+            },
+            {
+                "equipLevel": 2,
+                "parts": [
+                    {
+                        "resKey": null,
+                        "target": "TRAIT_DATA_ONLY",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": null
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": [
+                                {
+                                    "additionalDescription": null,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "blackboard": [
+                                        {
+                                            "key": "value",
+                                            "value": 8.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "atk_scale",
+                                            "value": 1.33,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "overrideDescripton": "攻擊時需要消耗子彈且攻擊力提升至<@ba.kw>133%</>，不攻擊時會緩慢地裝填子彈（最多{value}發）",
+                                    "prefabKey": "-1",
+                                    "rangeId": null
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "resKey": null,
+                        "target": "TALENT_DATA_ONLY",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": [
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "攻擊相同目標時每次攻擊提高自身攻擊力8%，最多4層",
+                                    "talentIndex": 1,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "prefabKey": "2",
+                                    "name": "入神",
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "max_stack_cnt",
+                                            "value": 4.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "atk",
+                                            "value": 0.08,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                },
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "攻擊相同目標時每次攻擊提高自身攻擊力9%<@ba.talpu>（+1%）</>，最多4層",
+                                    "talentIndex": 1,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 4,
+                                    "prefabKey": "2",
+                                    "name": "入神",
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "max_stack_cnt",
+                                            "value": 4.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "atk",
+                                            "value": 0.09,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                }
+                            ]
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": null
+                        }
+                    }
+                ],
+                "attributeBlackboard": [
+                    {
+                        "key": "max_hp",
+                        "value": 160.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "atk",
+                        "value": 65.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "attack_speed",
+                        "value": 6.0,
+                        "valueStr": null
+                    }
+                ],
+                "tokenAttributeBlackboard": {}
+            },
+            {
+                "equipLevel": 3,
+                "parts": [
+                    {
+                        "resKey": null,
+                        "target": "TRAIT_DATA_ONLY",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": null
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": [
+                                {
+                                    "additionalDescription": null,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "blackboard": [
+                                        {
+                                            "key": "value",
+                                            "value": 8.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "atk_scale",
+                                            "value": 1.33,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "overrideDescripton": "攻擊時需要消耗子彈且攻擊力提升至<@ba.kw>133%</>，不攻擊時會緩慢地裝填子彈（最多{value}發）",
+                                    "prefabKey": "-1",
+                                    "rangeId": null
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "resKey": null,
+                        "target": "TALENT_DATA_ONLY",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": [
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "攻擊相同目標時每次攻擊提高自身攻擊力9%，最多4層",
+                                    "talentIndex": 1,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "prefabKey": "2",
+                                    "name": "入神",
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "max_stack_cnt",
+                                            "value": 4.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "atk",
+                                            "value": 0.09,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                },
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "攻擊相同目標時每次攻擊提高自身攻擊力10%<@ba.talpu>（+1%）</>，最多4層",
+                                    "talentIndex": 1,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 4,
+                                    "prefabKey": "2",
+                                    "name": "入神",
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "max_stack_cnt",
+                                            "value": 4.0,
+                                            "valueStr": null
+                                        },
+                                        {
+                                            "key": "atk",
+                                            "value": 0.1,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                }
+                            ]
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": null
+                        }
+                    }
+                ],
+                "attributeBlackboard": [
+                    {
+                        "key": "max_hp",
+                        "value": 200.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "atk",
+                        "value": 75.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "attack_speed",
+                        "value": 7.0,
+                        "valueStr": null
+                    }
+                ],
+                "tokenAttributeBlackboard": {}
+            }
+        ]
+    },
+    "uniequip_002_nasti": {
+        "phases": [
+            {
+                "equipLevel": 1,
+                "parts": [
+                    {
+                        "resKey": "nasti_equip_1_1_p1",
+                        "target": "TRAIT",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": null
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": [
+                                {
+                                    "additionalDescription": "<支援裝置>的持有上限<@ba.kw>+{cnt}</>且部署費用<@ba.kw>減少</>",
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "blackboard": [
+                                        {
+                                            "key": "cnt",
+                                            "value": 1.0,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "overrideDescripton": null,
+                                    "prefabKey": null,
+                                    "rangeId": null
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "attributeBlackboard": [
+                    {
+                        "key": "max_hp",
+                        "value": 78.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "atk",
+                        "value": 26.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "def",
+                        "value": 25.0,
+                        "valueStr": null
+                    }
+                ],
+                "tokenAttributeBlackboard": {
+                    "token_10059_nasti_nstdef": [
+                        {
+                            "key": "cost",
+                            "value": -2.0,
+                            "valueStr": null
+                        },
+                        {
+                            "key": "max_deck_stack_cnt",
+                            "value": 1.0,
+                            "valueStr": null
+                        }
+                    ],
+                    "token_10060_nasti_nstchr": [
+                        {
+                            "key": "cost",
+                            "value": -2.0,
+                            "valueStr": null
+                        },
+                        {
+                            "key": "max_deck_stack_cnt",
+                            "value": 1.0,
+                            "valueStr": null
+                        }
+                    ],
+                    "token_10061_nasti_nstbld": [
+                        {
+                            "key": "cost",
+                            "value": -3.0,
+                            "valueStr": null
+                        },
+                        {
+                            "key": "max_deck_stack_cnt",
+                            "value": 1.0,
+                            "valueStr": null
+                        }
+                    ]
+                }
+            },
+            {
+                "equipLevel": 2,
+                "parts": [
+                    {
+                        "resKey": "nasti_equip_1_2_p1",
+                        "target": "TRAIT",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": null
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": [
+                                {
+                                    "additionalDescription": "<支援裝置>的持有上限<@ba.kw>+{cnt}</>且部署費用<@ba.kw>減少</>",
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "blackboard": [
+                                        {
+                                            "key": "cnt",
+                                            "value": 1.0,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "overrideDescripton": null,
+                                    "prefabKey": null,
+                                    "rangeId": null
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "resKey": null,
+                        "target": "TALENT_DATA_ONLY",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": [
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "可以攜帶3個<支援裝置>（最多可部署2個），效果根據技能改變而改變，首個裝置部署費用減少",
+                                    "talentIndex": 0,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "prefabKey": "#",
+                                    "name": "前方施工",
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                }
+                            ]
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": null
+                        }
+                    },
+                    {
+                        "resKey": "nasti_equip_1_2_p2",
+                        "target": "TALENT",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": [
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "",
+                                    "talentIndex": 0,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "prefabKey": "10_root",
+                                    "name": null,
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "value",
+                                            "value": -3.0,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": true
+                                }
+                            ]
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": null
+                        }
+                    }
+                ],
+                "attributeBlackboard": [
+                    {
+                        "key": "max_hp",
+                        "value": 102.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "atk",
+                        "value": 32.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "def",
+                        "value": 35.0,
+                        "valueStr": null
+                    }
+                ],
+                "tokenAttributeBlackboard": {
+                    "token_10059_nasti_nstdef": [
+                        {
+                            "key": "cost",
+                            "value": -2.0,
+                            "valueStr": null
+                        },
+                        {
+                            "key": "max_deck_stack_cnt",
+                            "value": 1.0,
+                            "valueStr": null
+                        }
+                    ],
+                    "token_10060_nasti_nstchr": [
+                        {
+                            "key": "cost",
+                            "value": -2.0,
+                            "valueStr": null
+                        },
+                        {
+                            "key": "max_deck_stack_cnt",
+                            "value": 1.0,
+                            "valueStr": null
+                        }
+                    ],
+                    "token_10061_nasti_nstbld": [
+                        {
+                            "key": "cost",
+                            "value": -3.0,
+                            "valueStr": null
+                        },
+                        {
+                            "key": "max_deck_stack_cnt",
+                            "value": 1.0,
+                            "valueStr": null
+                        }
+                    ]
+                }
+            },
+            {
+                "equipLevel": 3,
+                "parts": [
+                    {
+                        "resKey": "nasti_equip_1_3_p1",
+                        "target": "TRAIT",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": null
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": [
+                                {
+                                    "additionalDescription": "<支援裝置>的持有上限<@ba.kw>+{cnt}</>且部署費用<@ba.kw>減少</>",
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "blackboard": [
+                                        {
+                                            "key": "cnt",
+                                            "value": 1.0,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "overrideDescripton": null,
+                                    "prefabKey": null,
+                                    "rangeId": null
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "resKey": null,
+                        "target": "TALENT_DATA_ONLY",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": [
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "可以攜帶3個<支援裝置>（最多可部署2個），效果根據技能改變而改變，首個裝置部署費用減少；裝置可與攻擊範圍內其他裝置共同提供效果",
+                                    "talentIndex": 0,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "prefabKey": "#",
+                                    "name": "前方施工",
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [],
+                                    "tokenKey": null,
+                                    "isHideTalent": false
+                                }
+                            ]
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": null
+                        }
+                    },
+                    {
+                        "resKey": "nasti_equip_1_3_p2",
+                        "target": "TALENT",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": [
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "",
+                                    "talentIndex": 0,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "prefabKey": "10_root",
+                                    "name": null,
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [
+                                        {
+                                            "key": "value",
+                                            "value": -3.0,
+                                            "valueStr": null
+                                        }
+                                    ],
+                                    "tokenKey": null,
+                                    "isHideTalent": true
+                                }
+                            ]
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": null
+                        }
+                    },
+                    {
+                        "resKey": "nasti_equip_1_3_p3",
+                        "target": "TALENT",
+                        "isToken": false,
+                        "validInGameTag": null,
+                        "validInMapTag": null,
+                        "addOrOverrideTalentDataBundle": {
+                            "candidates": [
+                                {
+                                    "displayRangeId": false,
+                                    "upgradeDescription": "",
+                                    "talentIndex": -1,
+                                    "unlockCondition": {
+                                        "phase": "PHASE_2",
+                                        "level": 60
+                                    },
+                                    "requiredPotentialRank": 0,
+                                    "prefabKey": "20_root",
+                                    "name": null,
+                                    "description": null,
+                                    "rangeId": null,
+                                    "blackboard": [],
+                                    "tokenKey": null,
+                                    "isHideTalent": true
+                                }
+                            ]
+                        },
+                        "overrideTraitDataBundle": {
+                            "candidates": null
+                        }
+                    }
+                ],
+                "attributeBlackboard": [
+                    {
+                        "key": "max_hp",
+                        "value": 145.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "atk",
+                        "value": 40.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "def",
+                        "value": 45.0,
+                        "valueStr": null
+                    }
+                ],
+                "tokenAttributeBlackboard": {
+                    "token_10059_nasti_nstdef": [
+                        {
+                            "key": "cost",
+                            "value": -2.0,
+                            "valueStr": null
+                        },
+                        {
+                            "key": "max_deck_stack_cnt",
+                            "value": 1.0,
+                            "valueStr": null
+                        }
+                    ],
+                    "token_10060_nasti_nstchr": [
+                        {
+                            "key": "cost",
+                            "value": -2.0,
+                            "valueStr": null
+                        },
+                        {
+                            "key": "max_deck_stack_cnt",
+                            "value": 1.0,
+                            "valueStr": null
+                        }
+                    ],
+                    "token_10061_nasti_nstbld": [
+                        {
+                            "key": "cost",
+                            "value": -3.0,
+                            "valueStr": null
+                        },
+                        {
+                            "key": "max_deck_stack_cnt",
+                            "value": 1.0,
+                            "valueStr": null
+                        }
+                    ]
+                }
+            }
+        ]
     }
 }

@@ -2683,6 +2683,24 @@
                 "canBeFree": true,
                 "uniEquipId": null,
                 "recruitType": "FREE"
+            },
+            "char_4213_skybx": {
+                "charId": "char_4213_skybx",
+                "canBeFree": true,
+                "uniEquipId": null,
+                "recruitType": "FREE"
+            },
+            "char_4214_cairn": {
+                "charId": "char_4214_cairn",
+                "canBeFree": true,
+                "uniEquipId": null,
+                "recruitType": "FREE"
+            },
+            "char_4212_nasti": {
+                "charId": "char_4212_nasti",
+                "canBeFree": true,
+                "uniEquipId": "uniequip_002_nasti",
+                "recruitType": "FREE"
             }
         }
     },
