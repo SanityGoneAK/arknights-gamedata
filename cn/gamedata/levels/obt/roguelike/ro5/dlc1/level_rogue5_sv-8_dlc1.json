@@ -3300,6 +3300,10 @@
                     "attractImmune": {
                         "m_defined": false,
                         "m_value": false
+                    },
+                    "teleportImmune": {
+                        "m_defined": false,
+                        "m_value": false
                     }
                 },
                 "applyWay": {
@@ -3793,7 +3797,8 @@
                 "mainSkillLvl": 1,
                 "skinId": "",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             }
         ],
         "characterCards": [],

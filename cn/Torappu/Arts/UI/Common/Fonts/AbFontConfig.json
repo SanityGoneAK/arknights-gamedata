@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -4022436028062949902
+  },
+  "m_Name": "AbFontConfig",
+  "_fonts": [
+    {
+      "logicalFontName": "SourceHanSansCN-Bold",
+      "resPath": "Arts/UI/Common/Fonts/SourceHanSansCN-Bold.otf",
+      "projectPath": "Assets/Torappu/Arts/UI/Common/Fonts/SourceHanSansCN-Bold.otf",
+      "retainBundle": 1
+    }
+  ]
+}

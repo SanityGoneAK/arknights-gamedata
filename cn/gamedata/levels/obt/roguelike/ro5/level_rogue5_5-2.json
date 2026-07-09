@@ -7030,6 +7030,10 @@
                     "attractImmune": {
                         "m_defined": false,
                         "m_value": false
+                    },
+                    "teleportImmune": {
+                        "m_defined": false,
+                        "m_value": false
                     }
                 },
                 "applyWay": {
@@ -8459,7 +8463,8 @@
                 "mainSkillLvl": 1,
                 "skinId": "",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -8489,7 +8494,8 @@
                         "value": 0.4,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -8519,7 +8525,8 @@
                         "value": 0.0,
                         "valueStr": "enemy_2106_dyremy"
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -8559,7 +8566,8 @@
                         "value": 0.0,
                         "valueStr": "enemy_1317_wdexg_2"
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -8583,7 +8591,8 @@
                 "mainSkillLvl": 1,
                 "skinId": "",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -8613,7 +8622,8 @@
                         "value": 0.4,
                         "valueStr": null
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -8643,7 +8653,8 @@
                         "value": 0.0,
                         "valueStr": "enemy_2106_dyremy"
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -8667,7 +8678,8 @@
                 "mainSkillLvl": 1,
                 "skinId": "",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             }
         ],
         "characterCards": [],

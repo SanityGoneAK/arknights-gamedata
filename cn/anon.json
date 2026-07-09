@@ -1,7 +1,7 @@
 {
   "m_GameObject": {
     "m_FileID": 0,
-    "m_PathID": 8770304455383900508
+    "m_PathID": 4937457129542940349
   },
   "m_Enabled": 1,
   "m_Script": {
@@ -34,7 +34,7 @@
   },
   "m_Sprite": {
     "m_FileID": 0,
-    "m_PathID": 4021245277454321022
+    "m_PathID": 4850415238503934595
   },
   "m_PackIntoRuntimeAtlas": 1,
   "m_AtlasHandleId": 0,
