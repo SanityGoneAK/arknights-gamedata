@@ -11675,7 +11675,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -11742,7 +11742,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -11799,7 +11799,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -11866,7 +11866,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -11923,7 +11923,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -11980,7 +11980,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -12057,7 +12057,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": []
                     }
@@ -12103,7 +12103,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -12137,7 +12137,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -12209,7 +12209,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -12276,7 +12276,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -12338,7 +12338,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -12372,7 +12372,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -12434,7 +12434,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -12491,7 +12491,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -12553,7 +12553,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -12610,7 +12610,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -12672,7 +12672,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -12729,7 +12729,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -12791,7 +12791,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -12874,7 +12874,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -12934,7 +12934,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -12968,7 +12968,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -13025,7 +13025,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -13089,7 +13089,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -13151,7 +13151,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -13213,7 +13213,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -13252,7 +13252,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -13291,7 +13291,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -13343,7 +13343,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -13372,7 +13372,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -13424,7 +13424,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -13458,7 +13458,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -13520,7 +13520,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -13549,7 +13549,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -13611,7 +13611,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -13655,7 +13655,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -13707,7 +13707,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -13751,7 +13751,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -13803,7 +13803,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -13837,7 +13837,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -13866,7 +13866,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -13918,7 +13918,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -13962,7 +13962,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -14014,7 +14014,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -14096,7 +14096,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -14168,7 +14168,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": []
                     }
@@ -14209,7 +14209,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": []
                     }
@@ -14250,7 +14250,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -14284,7 +14284,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -14352,7 +14352,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -14386,7 +14386,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -14453,7 +14453,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -14516,7 +14516,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -14555,7 +14555,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -14618,7 +14618,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -14675,7 +14675,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -14724,7 +14724,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -14781,7 +14781,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -14815,7 +14815,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -14849,7 +14849,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -14906,7 +14906,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -14945,7 +14945,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -14979,7 +14979,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -15036,7 +15036,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -15088,7 +15088,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -15122,7 +15122,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -15184,7 +15184,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -15223,7 +15223,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -15275,7 +15275,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -15332,7 +15332,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -15389,7 +15389,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -15441,7 +15441,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -15480,7 +15480,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -15537,7 +15537,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -15594,7 +15594,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -15646,7 +15646,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -15698,7 +15698,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -15755,7 +15755,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -15812,7 +15812,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -15874,7 +15874,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -15903,7 +15903,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -15947,7 +15947,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -16016,7 +16016,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -16076,7 +16076,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -16136,7 +16136,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -16170,7 +16170,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -16204,7 +16204,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -16256,7 +16256,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -16290,7 +16290,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -16342,7 +16342,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {
@@ -16404,7 +16404,7 @@
                             "filterTagExcludeFilter": null,
                             "subProfessionExcludeFilter": null,
                             "mapTagFilter": null,
-                            "heightTypeMask": "ALL"
+                            "heightTypeMask": "NONE"
                         },
                         "blackboard": [
                             {

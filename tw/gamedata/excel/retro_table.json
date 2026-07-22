@@ -5632,10 +5632,10 @@
                 "act31sre"
             ],
             "startTime": 1760990400,
-            "trailStartTime": -1,
+            "trailStartTime": 1785873600,
             "index": 25,
             "name": "懷黍離",
-            "haveTrail": false,
+            "haveTrail": true,
             "customActId": null,
             "customActType": "DEFAULT",
             "trapDomainId": null
@@ -143634,6 +143634,3980 @@
             "advancedRuneIdList1": [],
             "advancedRuneIdList2": [],
             "useSpecialSizeMapPreview": false
+        },
+        "act40side_st01": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "main_01-10",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act40side_st01",
+            "levelId": null,
+            "zoneId": "permanent_sidestory_30_zone1",
+            "code": "OR-ST-1",
+            "name": "陳皮菊花茶",
+            "description": "四十年的陳皮與今秋新摘的菊花同泡一杯，陳年舊味是否還經得起細品？",
+            "hardStagedId": null,
+            "sixStarStageId": null,
+            "dangerLevel": "-",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_OR_downtownDay",
+            "canPractice": true,
+            "canBattleReplay": false,
+            "apCost": 0,
+            "apFailReturn": 0,
+            "maxSlot": -1,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 0,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 0,
+            "dailyStageDifficulty": 0,
+            "expGain": 0,
+            "goldGain": 0,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 0,
+            "completeFavor": 0,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": true,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": false,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act40side_st01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act40side_tr01": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act40side_st01",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act40side_tr01",
+            "levelId": "Activities/act40side/level_act40side_tr01",
+            "zoneId": "permanent_sidestory_30_zone1",
+            "code": "OR-TR-1",
+            "name": "翡翠墨玉",
+            "description": "爽口前菜。苦瓜與木耳，放入醬油、白砂糖、陳年烏醋，再撒一把辣椒，酸甜苦辣，滋味俱全。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對沿途所有我方單位造成真實傷害。",
+            "hardStagedId": null,
+            "sixStarStageId": null,
+            "dangerLevel": "-",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_OR_downtownDay",
+            "canPractice": false,
+            "canBattleReplay": false,
+            "apCost": 0,
+            "apFailReturn": 0,
+            "maxSlot": -1,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 0,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": -1,
+            "dailyStageDifficulty": 0,
+            "expGain": 0,
+            "goldGain": 0,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 0,
+            "completeFavor": 0,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": true,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "TRAINING",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": false,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act40side_st01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act40side_01": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act40side_tr01",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act40side_01",
+            "levelId": "Activities/act40side/level_act40side_01",
+            "zoneId": "permanent_sidestory_30_zone1",
+            "code": "OR-1",
+            "name": "一清二白",
+            "description": "青蔥拌豆腐，若要口味“清清白白”，須得功底深厚。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對沿途所有我方單位造成真實傷害。",
+            "hardStagedId": null,
+            "sixStarStageId": null,
+            "dangerLevel": "LV.20",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_OR_downtownDay",
+            "canPractice": true,
+            "canBattleReplay": true,
+            "apCost": 9,
+            "apFailReturn": 9,
+            "maxSlot": -1,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 1,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 1,
+            "dailyStageDifficulty": 0,
+            "expGain": 90,
+            "goldGain": 90,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 9,
+            "completeFavor": 9,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "MATERIAL",
+                        "id": "30012",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "MATERIAL",
+                        "id": "30012",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30011",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30021",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30031",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30041",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30051",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30061",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "3003",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": false,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act40side_st01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act40side_02": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act40side_01",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act40side_02",
+            "levelId": "Activities/act40side/level_act40side_02",
+            "zoneId": "permanent_sidestory_30_zone1",
+            "code": "OR-2",
+            "name": "糖瓜黏",
+            "description": "“二十三，糖瓜黏，灶君爺爺要上天。上天言好事，壞事把嘴關。”\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對沿途所有我方單位造成真實傷害。",
+            "hardStagedId": null,
+            "sixStarStageId": null,
+            "dangerLevel": "LV.35",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_OR_downtownDay",
+            "canPractice": true,
+            "canBattleReplay": true,
+            "apCost": 9,
+            "apFailReturn": 9,
+            "maxSlot": -1,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 1,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 1,
+            "dailyStageDifficulty": 0,
+            "expGain": 90,
+            "goldGain": 90,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 9,
+            "completeFavor": 9,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "MATERIAL",
+                        "id": "30052",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "USUAL",
+                        "type": "MATERIAL",
+                        "id": "30052",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30011",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30021",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30031",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30041",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30051",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30061",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "3003",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": false,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act40side_st01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act40side_03": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act40side_02",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act40side_03",
+            "levelId": "Activities/act40side/level_act40side_03",
+            "zoneId": "permanent_sidestory_30_zone1",
+            "code": "OR-3",
+            "name": "油潑扯麵",
+            "description": "有的麵越揉越筋道，越摔打越愛反彈。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對沿途所有我方單位造成真實傷害。",
+            "hardStagedId": null,
+            "sixStarStageId": null,
+            "dangerLevel": "精英1 LV.1",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_OR_downtownDay",
+            "canPractice": true,
+            "canBattleReplay": true,
+            "apCost": 9,
+            "apFailReturn": 9,
+            "maxSlot": -1,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 1,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 1,
+            "dailyStageDifficulty": 0,
+            "expGain": 90,
+            "goldGain": 90,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 9,
+            "completeFavor": 9,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "MATERIAL",
+                        "id": "30032",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALMOST",
+                        "type": "MATERIAL",
+                        "id": "30032",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30011",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30021",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30031",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30041",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30051",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30061",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "3003",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": false,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act40side_st01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act40side_04": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act40side_03",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act40side_04",
+            "levelId": "Activities/act40side/level_act40side_04",
+            "zoneId": "permanent_sidestory_30_zone1",
+            "code": "OR-4",
+            "name": "雪裡紅",
+            "description": "鮮菜入罈，壓實，封口。待時候到了，罈蓋再壓也壓不住外溢的香氣，封口再牢也總得開蓋。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對沿途所有我方單位造成真實傷害。",
+            "hardStagedId": null,
+            "sixStarStageId": null,
+            "dangerLevel": "精英1 LV.20",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_OR_downtownDay",
+            "canPractice": true,
+            "canBattleReplay": true,
+            "apCost": 12,
+            "apFailReturn": 12,
+            "maxSlot": -1,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 1,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 1,
+            "dailyStageDifficulty": 0,
+            "expGain": 120,
+            "goldGain": 120,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 12,
+            "completeFavor": 12,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "MATERIAL",
+                        "id": "30041",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "MATERIAL",
+                        "id": "30041",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "occPercent": "OFTEN",
+                        "type": "MATERIAL",
+                        "id": "30011",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "OFTEN",
+                        "type": "MATERIAL",
+                        "id": "30031",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30061",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "3003",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30012",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30032",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30062",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": false,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act40side_st01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act40side_05": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act40side_04",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act40side_05",
+            "levelId": "Activities/act40side/level_act40side_05",
+            "zoneId": "permanent_sidestory_30_zone1",
+            "code": "OR-5",
+            "name": "醍醐湯",
+            "description": "飯後茶飲。解得了膩，解不了新愁舊憾，入口雖甘，回味卻苦澀悠遠。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對沿途所有我方單位造成真實傷害。",
+            "hardStagedId": null,
+            "sixStarStageId": null,
+            "dangerLevel": "精英1 LV.30",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_OR_downtownDay",
+            "canPractice": true,
+            "canBattleReplay": true,
+            "apCost": 12,
+            "apFailReturn": 12,
+            "maxSlot": -1,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 1,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 1,
+            "dailyStageDifficulty": 0,
+            "expGain": 120,
+            "goldGain": 120,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 12,
+            "completeFavor": 12,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "CARD_EXP",
+                        "id": "2002",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "CARD_EXP",
+                        "id": "2002",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "occPercent": "OFTEN",
+                        "type": "MATERIAL",
+                        "id": "30021",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "OFTEN",
+                        "type": "MATERIAL",
+                        "id": "30041",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "OFTEN",
+                        "type": "MATERIAL",
+                        "id": "30051",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "OFTEN",
+                        "type": "CARD_EXP",
+                        "id": "2001",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30022",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30042",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30052",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "CARD_EXP",
+                        "id": "2002",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": false,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act40side_st01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act40side_st02": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act40side_05",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act40side_st02",
+            "levelId": null,
+            "zoneId": "permanent_sidestory_30_zone1",
+            "code": "OR-ST-2",
+            "name": "雷公栗",
+            "description": "要栗子開口，用蠻力最難，且容易自傷。不如一栗沾油，一栗沾水，放入鍋內，再用剩下的栗子蓋住，置於火上炙烤，等待發出雷聲即可。",
+            "hardStagedId": null,
+            "sixStarStageId": null,
+            "dangerLevel": "-",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_OR_downtownDay",
+            "canPractice": true,
+            "canBattleReplay": false,
+            "apCost": 0,
+            "apFailReturn": 0,
+            "maxSlot": -1,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 0,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 0,
+            "dailyStageDifficulty": 0,
+            "expGain": 0,
+            "goldGain": 0,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 0,
+            "completeFavor": 0,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": true,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": false,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act40side_st01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act40side_06": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act40side_st02",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act40side_06",
+            "levelId": "Activities/act40side/level_act40side_06",
+            "zoneId": "permanent_sidestory_30_zone1",
+            "code": "OR-6",
+            "name": "勝肉火方",
+            "description": "冬瓜挖空做出肉的造型，其中填入素火腿，再淋上勾芡醬汁——濃油赤醬的“紅燒肉”足以騙過眼睛，卻騙不過嘴。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對沿途所有我方單位造成真實傷害。",
+            "hardStagedId": null,
+            "sixStarStageId": null,
+            "dangerLevel": "精英1 LV.50",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_OR_downtownDay",
+            "canPractice": true,
+            "canBattleReplay": true,
+            "apCost": 12,
+            "apFailReturn": 12,
+            "maxSlot": -1,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 1,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 1,
+            "dailyStageDifficulty": 0,
+            "expGain": 120,
+            "goldGain": 120,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 12,
+            "completeFavor": 12,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "MATERIAL",
+                        "id": "30061",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "MATERIAL",
+                        "id": "30061",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "occPercent": "OFTEN",
+                        "type": "MATERIAL",
+                        "id": "30011",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "OFTEN",
+                        "type": "MATERIAL",
+                        "id": "30031",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30061",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "3003",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30012",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30032",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30062",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": false,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act40side_st01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act40side_07": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act40side_06",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act40side_07",
+            "levelId": "Activities/act40side/level_act40side_07",
+            "zoneId": "permanent_sidestory_30_zone1",
+            "code": "OR-7",
+            "name": "五省盤",
+            "description": "五種牲肉所做的肉盤。“省”亦有省察之意，曾有官員於百珍宴上將其隨諫言獻給真龍。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對沿途所有我方單位造成真實傷害。",
+            "hardStagedId": null,
+            "sixStarStageId": null,
+            "dangerLevel": "精英1 LV.60",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_OR_downtownDay",
+            "canPractice": true,
+            "canBattleReplay": true,
+            "apCost": 21,
+            "apFailReturn": 21,
+            "maxSlot": -1,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 1,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 1,
+            "dailyStageDifficulty": 0,
+            "expGain": 210,
+            "goldGain": 210,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 21,
+            "completeFavor": 21,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "MATERIAL",
+                        "id": "30093",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "type": "MATERIAL",
+                        "id": "30094",
+                        "dropType": "SPECIAL"
+                    },
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "OFTEN",
+                        "type": "MATERIAL",
+                        "id": "30093",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30094",
+                        "dropType": "SPECIAL"
+                    },
+                    {
+                        "occPercent": "OFTEN",
+                        "type": "MATERIAL",
+                        "id": "30011",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30061",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "OFTEN",
+                        "type": "MATERIAL",
+                        "id": "30012",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30062",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30013",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30063",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30073",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "31013",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "31053",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "3003",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": false,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act40side_st01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act40side_08": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act40side_07",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act40side_08",
+            "levelId": "Activities/act40side/level_act40side_08",
+            "zoneId": "permanent_sidestory_30_zone1",
+            "code": "OR-8",
+            "name": "金玉藏心",
+            "description": "炸至金黃的鍋巴如同一個鍋蓋將盤子罩住。待上桌時，敲開鍋巴，其中藏的是什麼菜方才真相大白。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對沿途所有我方單位造成真實傷害。",
+            "hardStagedId": null,
+            "sixStarStageId": null,
+            "dangerLevel": "精英2 LV.10",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_OR_downtownNight",
+            "canPractice": true,
+            "canBattleReplay": true,
+            "apCost": 21,
+            "apFailReturn": 21,
+            "maxSlot": -1,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 1,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 1,
+            "dailyStageDifficulty": 0,
+            "expGain": 210,
+            "goldGain": 210,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 21,
+            "completeFavor": 21,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "MATERIAL",
+                        "id": "31013",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "type": "MATERIAL",
+                        "id": "31014",
+                        "dropType": "SPECIAL"
+                    },
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "OFTEN",
+                        "type": "MATERIAL",
+                        "id": "31013",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "31014",
+                        "dropType": "SPECIAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30021",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30041",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "CARD_EXP",
+                        "id": "2001",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "OFTEN",
+                        "type": "MATERIAL",
+                        "id": "30022",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30042",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "CARD_EXP",
+                        "id": "2002",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30023",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30043",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30083",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "31023",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "31043",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "CARD_EXP",
+                        "id": "2003",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": false,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act40side_st01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act40side_09": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act40side_08",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act40side_09",
+            "levelId": "Activities/act40side/level_act40side_09",
+            "zoneId": "permanent_sidestory_30_zone1",
+            "code": "OR-9",
+            "name": "長壽麵",
+            "description": "長壽麵的好壞從來不在於口味，而在於是誰為壽星做了這碗麵，彼時內心又懷著怎樣的祝福。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對沿途所有我方單位造成真實傷害。",
+            "hardStagedId": null,
+            "sixStarStageId": null,
+            "dangerLevel": "精英2 LV.20",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_OR_downtownNight",
+            "canPractice": true,
+            "canBattleReplay": true,
+            "apCost": 21,
+            "apFailReturn": 21,
+            "maxSlot": -1,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 1,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 1,
+            "dailyStageDifficulty": 0,
+            "expGain": 210,
+            "goldGain": 210,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 21,
+            "completeFavor": 21,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "MATERIAL",
+                        "id": "31053",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "type": "MATERIAL",
+                        "id": "31054",
+                        "dropType": "SPECIAL"
+                    },
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "OFTEN",
+                        "type": "MATERIAL",
+                        "id": "31053",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "31054",
+                        "dropType": "SPECIAL"
+                    },
+                    {
+                        "occPercent": "OFTEN",
+                        "type": "MATERIAL",
+                        "id": "30031",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "OFTEN",
+                        "type": "MATERIAL",
+                        "id": "30051",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30032",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30052",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30033",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30053",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30093",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "31033",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30103",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "31063",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": false,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act40side_st01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act40side_st03": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act40side_09",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act40side_st03",
+            "levelId": null,
+            "zoneId": "permanent_sidestory_30_zone1",
+            "code": "OR-ST-3",
+            "name": "須問湯",
+            "description": "一鍋濁湯，一點清明。與其問道，不如自尋。",
+            "hardStagedId": null,
+            "sixStarStageId": null,
+            "dangerLevel": "-",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_OR_downtownNight",
+            "canPractice": true,
+            "canBattleReplay": false,
+            "apCost": 0,
+            "apFailReturn": 0,
+            "maxSlot": -1,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 0,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 0,
+            "dailyStageDifficulty": 0,
+            "expGain": 0,
+            "goldGain": 0,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 0,
+            "completeFavor": 0,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": true,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": false,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act40side_st01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act40side_ex01": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act40side_st03",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act40side_ex01",
+            "levelId": "Activities/act40side/level_act40side_ex01",
+            "zoneId": "permanent_sidestory_30_zone2",
+            "code": "OR-EX-1",
+            "name": "酸",
+            "description": "為做團圓飯釀的一罈醋，陳釀時間越久，其中滋味越香，卻始終沒有開封的機會。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對沿途所有我方單位造成真實傷害。",
+            "hardStagedId": "act40side_ex01#f#",
+            "sixStarStageId": null,
+            "dangerLevel": "精英1 LV.50",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_OR_downtownDay",
+            "canPractice": true,
+            "canBattleReplay": true,
+            "apCost": 10,
+            "apFailReturn": 10,
+            "maxSlot": -1,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 1,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 1,
+            "dailyStageDifficulty": 0,
+            "expGain": 100,
+            "goldGain": 100,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 10,
+            "completeFavor": 10,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": false,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act40side_ex01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act40side_ex01#f#": {
+            "stageType": "ACTIVITY",
+            "difficulty": "FOUR_STAR",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "main_02-08",
+                    "completeState": "PASS"
+                },
+                {
+                    "stageId": "act40side_ex01",
+                    "completeState": "COMPLETE"
+                }
+            ],
+            "stageId": "act40side_ex01#f#",
+            "levelId": "Activities/act40side/level_act40side_ex01",
+            "zoneId": "permanent_sidestory_30_zone2",
+            "code": "OR-EX-1",
+            "name": "酸",
+            "description": "<@lv.fs>附加條件：</>\n場上出現額外的<@lv.item>“飽食”</>",
+            "hardStagedId": null,
+            "sixStarStageId": null,
+            "dangerLevel": "-",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_OR_downtownDay",
+            "canPractice": true,
+            "canBattleReplay": false,
+            "apCost": 10,
+            "apFailReturn": 10,
+            "maxSlot": -1,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 0,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 3,
+            "dailyStageDifficulty": 0,
+            "expGain": 100,
+            "goldGain": 100,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 10,
+            "completeFavor": 10,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": false,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act40side_ex01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act40side_ex02": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act40side_ex01",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act40side_ex02",
+            "levelId": "Activities/act40side/level_act40side_ex02",
+            "zoneId": "permanent_sidestory_30_zone2",
+            "code": "OR-EX-2",
+            "name": "甜",
+            "description": "從炎國寄來的糕點，酥皮表面沾著晶瑩的糖粒。邊啃糕點，邊聽媽媽讀信，是她那些年最期待的事。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對沿途所有我方單位造成真實傷害。",
+            "hardStagedId": "act40side_ex02#f#",
+            "sixStarStageId": null,
+            "dangerLevel": "精英1 LV.60",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_OR_downtownDay",
+            "canPractice": true,
+            "canBattleReplay": true,
+            "apCost": 10,
+            "apFailReturn": 10,
+            "maxSlot": -1,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 1,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 1,
+            "dailyStageDifficulty": 0,
+            "expGain": 100,
+            "goldGain": 100,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 10,
+            "completeFavor": 10,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": false,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act40side_ex01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act40side_ex02#f#": {
+            "stageType": "ACTIVITY",
+            "difficulty": "FOUR_STAR",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "main_02-08",
+                    "completeState": "PASS"
+                },
+                {
+                    "stageId": "act40side_ex02",
+                    "completeState": "COMPLETE"
+                }
+            ],
+            "stageId": "act40side_ex02#f#",
+            "levelId": "Activities/act40side/level_act40side_ex02",
+            "zoneId": "permanent_sidestory_30_zone2",
+            "code": "OR-EX-2",
+            "name": "甜",
+            "description": "<@lv.fs>附加條件：</>\n場上出現額外的<@lv.item>飄香</>",
+            "hardStagedId": null,
+            "sixStarStageId": null,
+            "dangerLevel": "-",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_OR_downtownDay",
+            "canPractice": true,
+            "canBattleReplay": false,
+            "apCost": 10,
+            "apFailReturn": 10,
+            "maxSlot": -1,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 0,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 3,
+            "dailyStageDifficulty": 0,
+            "expGain": 100,
+            "goldGain": 100,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 10,
+            "completeFavor": 10,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": false,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act40side_ex01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act40side_ex03": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act40side_ex02",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act40side_ex03",
+            "levelId": "Activities/act40side/level_act40side_ex03",
+            "zoneId": "permanent_sidestory_30_zone2",
+            "code": "OR-EX-3",
+            "name": "苦",
+            "description": "粗劣的濃茶泡飯，便是一日的飯食。他低頭扒飯，女兒書房的方向，從不敢多望一眼。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對沿途所有我方單位造成真實傷害。",
+            "hardStagedId": "act40side_ex03#f#",
+            "sixStarStageId": null,
+            "dangerLevel": "精英2 LV.1",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_OR_downtownNight",
+            "canPractice": true,
+            "canBattleReplay": true,
+            "apCost": 15,
+            "apFailReturn": 15,
+            "maxSlot": -1,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 1,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 1,
+            "dailyStageDifficulty": 0,
+            "expGain": 150,
+            "goldGain": 150,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 15,
+            "completeFavor": 15,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": false,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act40side_ex01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act40side_ex03#f#": {
+            "stageType": "ACTIVITY",
+            "difficulty": "FOUR_STAR",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "main_02-08",
+                    "completeState": "PASS"
+                },
+                {
+                    "stageId": "act40side_ex03",
+                    "completeState": "COMPLETE"
+                }
+            ],
+            "stageId": "act40side_ex03#f#",
+            "levelId": "Activities/act40side/level_act40side_ex03",
+            "zoneId": "permanent_sidestory_30_zone2",
+            "code": "OR-EX-3",
+            "name": "苦",
+            "description": "<@lv.fs>附加條件：</>\n可部署的箱子數量大幅減少",
+            "hardStagedId": null,
+            "sixStarStageId": null,
+            "dangerLevel": "-",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_OR_downtownNight",
+            "canPractice": true,
+            "canBattleReplay": false,
+            "apCost": 15,
+            "apFailReturn": 15,
+            "maxSlot": -1,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 0,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 3,
+            "dailyStageDifficulty": 0,
+            "expGain": 150,
+            "goldGain": 150,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 15,
+            "completeFavor": 15,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": false,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act40side_ex01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act40side_ex04": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act40side_ex03",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act40side_ex04",
+            "levelId": "Activities/act40side/level_act40side_ex04",
+            "zoneId": "permanent_sidestory_30_zone2",
+            "code": "OR-EX-4",
+            "name": "辣",
+            "description": "每到冬天，火鍋店的生意總是爆滿。麻辣鮮香的鍋底，熏人眼睛又嗆人鼻子。屋外寒風呼嘯，屋內的客人們卻吃得汗流浹背，熱鬧非凡。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對沿途所有我方單位造成真實傷害。",
+            "hardStagedId": "act40side_ex04#f#",
+            "sixStarStageId": null,
+            "dangerLevel": "精英2 LV.1",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_OR_downtownNight",
+            "canPractice": true,
+            "canBattleReplay": true,
+            "apCost": 15,
+            "apFailReturn": 15,
+            "maxSlot": -1,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 1,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 1,
+            "dailyStageDifficulty": 0,
+            "expGain": 150,
+            "goldGain": 150,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 15,
+            "completeFavor": 15,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": false,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act40side_ex01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act40side_ex04#f#": {
+            "stageType": "ACTIVITY",
+            "difficulty": "FOUR_STAR",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "main_02-08",
+                    "completeState": "PASS"
+                },
+                {
+                    "stageId": "act40side_ex04",
+                    "completeState": "COMPLETE"
+                }
+            ],
+            "stageId": "act40side_ex04#f#",
+            "levelId": "Activities/act40side/level_act40side_ex04",
+            "zoneId": "permanent_sidestory_30_zone2",
+            "code": "OR-EX-4",
+            "name": "辣",
+            "description": "<@lv.fs>附加條件：</>\n戰場有3個位置無法部署",
+            "hardStagedId": null,
+            "sixStarStageId": null,
+            "dangerLevel": "-",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_OR_downtownNight",
+            "canPractice": true,
+            "canBattleReplay": false,
+            "apCost": 15,
+            "apFailReturn": 15,
+            "maxSlot": -1,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 0,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 3,
+            "dailyStageDifficulty": 0,
+            "expGain": 150,
+            "goldGain": 150,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 15,
+            "completeFavor": 15,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": false,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act40side_ex01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act40side_ex05": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act40side_ex04",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act40side_ex05",
+            "levelId": "Activities/act40side/level_act40side_ex05",
+            "zoneId": "permanent_sidestory_30_zone2",
+            "code": "OR-EX-5",
+            "name": "鹹",
+            "description": "日新月異的城中，總有他們勞作的身影。醃肉醃菜，鹹鮮適口，是揮汗後不錯的選擇。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對沿途所有我方單位造成真實傷害。",
+            "hardStagedId": "act40side_ex05#f#",
+            "sixStarStageId": null,
+            "dangerLevel": "精英2 LV.10",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_OR_downtownDay",
+            "canPractice": true,
+            "canBattleReplay": true,
+            "apCost": 15,
+            "apFailReturn": 15,
+            "maxSlot": -1,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 1,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 1,
+            "dailyStageDifficulty": 0,
+            "expGain": 150,
+            "goldGain": 150,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 15,
+            "completeFavor": 15,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": false,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act40side_ex01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act40side_ex05#f#": {
+            "stageType": "ACTIVITY",
+            "difficulty": "FOUR_STAR",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "main_02-08",
+                    "completeState": "PASS"
+                },
+                {
+                    "stageId": "act40side_ex05",
+                    "completeState": "COMPLETE"
+                }
+            ],
+            "stageId": "act40side_ex05#f#",
+            "levelId": "Activities/act40side/level_act40side_ex05",
+            "zoneId": "permanent_sidestory_30_zone2",
+            "code": "OR-EX-5",
+            "name": "鹹",
+            "description": "<@lv.fs>附加條件：</>\n出現額外的<@lv.item>“裡子”</>",
+            "hardStagedId": null,
+            "sixStarStageId": null,
+            "dangerLevel": "-",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_OR_downtownDay",
+            "canPractice": true,
+            "canBattleReplay": false,
+            "apCost": 15,
+            "apFailReturn": 15,
+            "maxSlot": -1,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 0,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 3,
+            "dailyStageDifficulty": 0,
+            "expGain": 150,
+            "goldGain": 150,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 15,
+            "completeFavor": 15,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": false,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act40side_ex01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act40side_ex06": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act40side_ex05",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act40side_ex06",
+            "levelId": "Activities/act40side/level_act40side_ex06",
+            "zoneId": "permanent_sidestory_30_zone2",
+            "code": "OR-EX-6",
+            "name": "鮮",
+            "description": "大廚家的孩子，最神氣活現的時候便是掏出飯盒的瞬間。一盒精美鮮香的飯食，大大方方分享給前來圍觀的同學們，自己倒是餓得肚子咕咕叫。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對沿途所有我方單位造成真實傷害。",
+            "hardStagedId": "act40side_ex06#f#",
+            "sixStarStageId": null,
+            "dangerLevel": "精英2 LV.20",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_OR_downtownDay",
+            "canPractice": true,
+            "canBattleReplay": true,
+            "apCost": 15,
+            "apFailReturn": 15,
+            "maxSlot": -1,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 1,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 1,
+            "dailyStageDifficulty": 0,
+            "expGain": 150,
+            "goldGain": 150,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 15,
+            "completeFavor": 15,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": false,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act40side_ex01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act40side_ex06#f#": {
+            "stageType": "ACTIVITY",
+            "difficulty": "FOUR_STAR",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "main_02-08",
+                    "completeState": "PASS"
+                },
+                {
+                    "stageId": "act40side_ex06",
+                    "completeState": "COMPLETE"
+                }
+            ],
+            "stageId": "act40side_ex06#f#",
+            "levelId": "Activities/act40side/level_act40side_ex06",
+            "zoneId": "permanent_sidestory_30_zone2",
+            "code": "OR-EX-6",
+            "name": "鮮",
+            "description": "<@lv.fs>附加條件：</>\n出現額外的<@lv.item>招財</>",
+            "hardStagedId": null,
+            "sixStarStageId": null,
+            "dangerLevel": "-",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_OR_downtownDay",
+            "canPractice": true,
+            "canBattleReplay": false,
+            "apCost": 15,
+            "apFailReturn": 15,
+            "maxSlot": -1,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 0,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 3,
+            "dailyStageDifficulty": 0,
+            "expGain": 150,
+            "goldGain": 150,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 15,
+            "completeFavor": 15,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": false,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act40side_ex01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act40side_ex07": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act40side_ex06",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act40side_ex07",
+            "levelId": "Activities/act40side/level_act40side_ex07",
+            "zoneId": "permanent_sidestory_30_zone2",
+            "code": "OR-EX-7",
+            "name": "澀",
+            "description": "院中的柿子，外觀雖好，口味卻澀。只要不去品嚐，便可對其抱有甜美的幻想。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對沿途所有我方單位造成真實傷害。",
+            "hardStagedId": "act40side_ex07#f#",
+            "sixStarStageId": null,
+            "dangerLevel": "精英2 LV.35",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_OR_downtownNight",
+            "canPractice": true,
+            "canBattleReplay": true,
+            "apCost": 20,
+            "apFailReturn": 20,
+            "maxSlot": -1,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 1,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 1,
+            "dailyStageDifficulty": 0,
+            "expGain": 200,
+            "goldGain": 200,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 20,
+            "completeFavor": 20,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": false,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act40side_ex01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act40side_ex07#f#": {
+            "stageType": "ACTIVITY",
+            "difficulty": "FOUR_STAR",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "main_02-08",
+                    "completeState": "PASS"
+                },
+                {
+                    "stageId": "act40side_ex07",
+                    "completeState": "COMPLETE"
+                }
+            ],
+            "stageId": "act40side_ex07#f#",
+            "levelId": "Activities/act40side/level_act40side_ex07",
+            "zoneId": "permanent_sidestory_30_zone2",
+            "code": "OR-EX-7",
+            "name": "澀",
+            "description": "<@lv.fs>附加條件：</>\n<@lv.item><火灶></>和<@lv.item><廢棄火灶></>位置改變，部分敵人類型改變",
+            "hardStagedId": null,
+            "sixStarStageId": null,
+            "dangerLevel": "-",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_OR_downtownNight",
+            "canPractice": true,
+            "canBattleReplay": false,
+            "apCost": 20,
+            "apFailReturn": 20,
+            "maxSlot": -1,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 0,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 3,
+            "dailyStageDifficulty": 0,
+            "expGain": 200,
+            "goldGain": 200,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 20,
+            "completeFavor": 20,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": false,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act40side_ex01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act40side_ex08": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act40side_ex07",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act40side_ex08",
+            "levelId": "Activities/act40side/level_act40side_ex08",
+            "zoneId": "permanent_sidestory_30_zone2",
+            "code": "OR-EX-8",
+            "name": "百味靈明",
+            "description": "火中生百味，灶內有乾坤。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對沿途所有我方單位造成真實傷害。",
+            "hardStagedId": "act40side_ex08#f#",
+            "sixStarStageId": null,
+            "dangerLevel": "精英2 LV.40",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_OR_downtownNight",
+            "canPractice": true,
+            "canBattleReplay": true,
+            "apCost": 20,
+            "apFailReturn": 20,
+            "maxSlot": -1,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 1,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 1,
+            "dailyStageDifficulty": 0,
+            "expGain": 200,
+            "goldGain": 200,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 20,
+            "completeFavor": 20,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": false,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act40side_ex01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act40side_ex08#f#": {
+            "stageType": "ACTIVITY",
+            "difficulty": "FOUR_STAR",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "main_02-08",
+                    "completeState": "PASS"
+                },
+                {
+                    "stageId": "act40side_ex08",
+                    "completeState": "COMPLETE"
+                }
+            ],
+            "stageId": "act40side_ex08#f#",
+            "levelId": "Activities/act40side/level_act40side_ex08",
+            "zoneId": "permanent_sidestory_30_zone2",
+            "code": "OR-EX-8",
+            "name": "百味靈明",
+            "description": "<@lv.fs>附加條件：</>\n<@lv.item><火灶></>所需技力增加",
+            "hardStagedId": null,
+            "sixStarStageId": null,
+            "dangerLevel": "-",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_OR_downtownNight",
+            "canPractice": true,
+            "canBattleReplay": false,
+            "apCost": 20,
+            "apFailReturn": 20,
+            "maxSlot": -1,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 0,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 3,
+            "dailyStageDifficulty": 0,
+            "expGain": 200,
+            "goldGain": 200,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 20,
+            "completeFavor": 20,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": false,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act40side_ex01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act40side_s01": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act40side_st03",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act40side_s01",
+            "levelId": "Activities/act40side/level_act40side_sub-1-1",
+            "zoneId": "permanent_sidestory_30_zone3",
+            "code": "OR-S-1",
+            "name": "周歲宴",
+            "description": "抓周儀式上，小孩懵懂伸手，大人翹首期待。小手向右，喜笑顏開；小手向左，心急如火。茲事體大啊！\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對沿途所有我方單位造成真實傷害。",
+            "hardStagedId": "act40side_s01#f#",
+            "sixStarStageId": null,
+            "dangerLevel": "-",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_OR_downtownDay",
+            "canPractice": true,
+            "canBattleReplay": true,
+            "apCost": 15,
+            "apFailReturn": 15,
+            "maxSlot": -1,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 1,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 1,
+            "dailyStageDifficulty": 0,
+            "expGain": 150,
+            "goldGain": 150,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 15,
+            "completeFavor": 15,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": false,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act40side_s01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act40side_s01#f#": {
+            "stageType": "ACTIVITY",
+            "difficulty": "FOUR_STAR",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "main_02-08",
+                    "completeState": "PASS"
+                },
+                {
+                    "stageId": "act40side_s01",
+                    "completeState": "COMPLETE"
+                }
+            ],
+            "stageId": "act40side_s01#f#",
+            "levelId": "Activities/act40side/level_act40side_sub-1-1",
+            "zoneId": "permanent_sidestory_30_zone3",
+            "code": "OR-S-1",
+            "name": "周歲宴",
+            "description": "<@lv.fs>附加條件：</>\n<@lv.item>“廢食”</>召喚技能冷卻時間減少",
+            "hardStagedId": null,
+            "sixStarStageId": null,
+            "dangerLevel": "-",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_OR_downtownDay",
+            "canPractice": true,
+            "canBattleReplay": false,
+            "apCost": 15,
+            "apFailReturn": 15,
+            "maxSlot": -1,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 0,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 3,
+            "dailyStageDifficulty": 0,
+            "expGain": 150,
+            "goldGain": 150,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 15,
+            "completeFavor": 15,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": false,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act40side_s01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act40side_s02": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act40side_s01",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act40side_s02",
+            "levelId": "Activities/act40side/level_act40side_sub-1-2",
+            "zoneId": "permanent_sidestory_30_zone3",
+            "code": "OR-S-2",
+            "name": "新婚宴",
+            "description": "安撫完為禮金不歡而散的父母，應付完喋喋不休說教的遠房親戚，小倆口躲在沒有客人的角落，吃起了已經冷掉的飯菜。如釋重負，相視失笑。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對沿途所有我方單位造成真實傷害。",
+            "hardStagedId": "act40side_s02#f#",
+            "sixStarStageId": null,
+            "dangerLevel": "-",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_OR_downtownDay",
+            "canPractice": true,
+            "canBattleReplay": true,
+            "apCost": 15,
+            "apFailReturn": 15,
+            "maxSlot": -1,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 1,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 1,
+            "dailyStageDifficulty": 0,
+            "expGain": 150,
+            "goldGain": 150,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 15,
+            "completeFavor": 15,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": false,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act40side_s01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act40side_s02#f#": {
+            "stageType": "ACTIVITY",
+            "difficulty": "FOUR_STAR",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "main_02-08",
+                    "completeState": "PASS"
+                },
+                {
+                    "stageId": "act40side_s02",
+                    "completeState": "COMPLETE"
+                }
+            ],
+            "stageId": "act40side_s02#f#",
+            "levelId": "Activities/act40side/level_act40side_sub-1-2",
+            "zoneId": "permanent_sidestory_30_zone3",
+            "code": "OR-S-2",
+            "name": "新婚宴",
+            "description": "<@lv.fs>附加條件：</>\n輔助、特種幹員部署費用提升至3倍",
+            "hardStagedId": null,
+            "sixStarStageId": null,
+            "dangerLevel": "-",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_OR_downtownDay",
+            "canPractice": true,
+            "canBattleReplay": false,
+            "apCost": 15,
+            "apFailReturn": 15,
+            "maxSlot": -1,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 0,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 3,
+            "dailyStageDifficulty": 0,
+            "expGain": 150,
+            "goldGain": 150,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 15,
+            "completeFavor": 15,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": false,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act40side_s01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act40side_s03": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act40side_s02",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act40side_s03",
+            "levelId": "Activities/act40side/level_act40side_sub-1-3",
+            "zoneId": "permanent_sidestory_30_zone3",
+            "code": "OR-S-3",
+            "name": "壽辰宴",
+            "description": "一年難得齊聚一次，卻還為那一點身外之物，互相攀比誰更會盡孝。不見想念，見了聒噪。然而，端上每個人兒時最愛的菜時，飯桌上緊繃的氣氛漸漸柔和了起來。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對沿途所有我方單位造成真實傷害。",
+            "hardStagedId": "act40side_s03#f#",
+            "sixStarStageId": null,
+            "dangerLevel": "-",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_OR_downtownNight",
+            "canPractice": true,
+            "canBattleReplay": true,
+            "apCost": 20,
+            "apFailReturn": 20,
+            "maxSlot": -1,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 1,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 1,
+            "dailyStageDifficulty": 0,
+            "expGain": 200,
+            "goldGain": 200,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 20,
+            "completeFavor": 20,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": false,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act40side_s01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act40side_s03#f#": {
+            "stageType": "ACTIVITY",
+            "difficulty": "FOUR_STAR",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "main_02-08",
+                    "completeState": "PASS"
+                },
+                {
+                    "stageId": "act40side_s03",
+                    "completeState": "COMPLETE"
+                }
+            ],
+            "stageId": "act40side_s03#f#",
+            "levelId": "Activities/act40side/level_act40side_sub-1-3",
+            "zoneId": "permanent_sidestory_30_zone3",
+            "code": "OR-S-3",
+            "name": "壽辰宴",
+            "description": "<@lv.fs>附加條件：</>\n<@lv.item>“飲露餐風”</>造成的傷害提升",
+            "hardStagedId": null,
+            "sixStarStageId": null,
+            "dangerLevel": "-",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_OR_downtownNight",
+            "canPractice": true,
+            "canBattleReplay": false,
+            "apCost": 20,
+            "apFailReturn": 20,
+            "maxSlot": -1,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 0,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 3,
+            "dailyStageDifficulty": 0,
+            "expGain": 200,
+            "goldGain": 200,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 20,
+            "completeFavor": 20,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": false,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act40side_s01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act40side_s04": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act40side_s03",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act40side_s04",
+            "levelId": "Activities/act40side/level_act40side_sub-1-4",
+            "zoneId": "permanent_sidestory_30_zone3",
+            "code": "OR-S-4",
+            "name": "白事宴",
+            "description": "兩腿一蹬飄然去，心煩只有在世人。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對沿途所有我方單位造成真實傷害。",
+            "hardStagedId": "act40side_s04#f#",
+            "sixStarStageId": null,
+            "dangerLevel": "-",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_OR_downtownNight",
+            "canPractice": true,
+            "canBattleReplay": true,
+            "apCost": 20,
+            "apFailReturn": 20,
+            "maxSlot": -1,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 1,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 1,
+            "dailyStageDifficulty": 0,
+            "expGain": 200,
+            "goldGain": 200,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 20,
+            "completeFavor": 20,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": false,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act40side_s01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act40side_s04#f#": {
+            "stageType": "ACTIVITY",
+            "difficulty": "FOUR_STAR",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "main_02-08",
+                    "completeState": "PASS"
+                },
+                {
+                    "stageId": "act40side_s04",
+                    "completeState": "COMPLETE"
+                }
+            ],
+            "stageId": "act40side_s04#f#",
+            "levelId": "Activities/act40side/level_act40side_sub-1-4",
+            "zoneId": "permanent_sidestory_30_zone3",
+            "code": "OR-S-4",
+            "name": "白事宴",
+            "description": "<@lv.fs>附加條件：</>\n<@lv.item>無謂</>生命值提升",
+            "hardStagedId": null,
+            "sixStarStageId": null,
+            "dangerLevel": "-",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_OR_downtownNight",
+            "canPractice": true,
+            "canBattleReplay": false,
+            "apCost": 20,
+            "apFailReturn": 20,
+            "maxSlot": -1,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 0,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 3,
+            "dailyStageDifficulty": 0,
+            "expGain": 200,
+            "goldGain": 200,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 20,
+            "completeFavor": 20,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": false,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act40side_s01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
+        },
+        "act40side_mo01": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act40side_st03",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act40side_mo01",
+            "levelId": "Activities/act40side/level_act40side_mo01",
+            "zoneId": "permanent_sidestory_30_zone3",
+            "code": "OR-MO-1",
+            "name": "一日三餐",
+            "description": "吃給別人看的飯，只求光鮮。吃進自己肚子裡的飯，苦甜自知。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對沿途所有我方單位造成真實傷害。",
+            "hardStagedId": null,
+            "sixStarStageId": null,
+            "dangerLevel": "-",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_OR_downtownDay",
+            "canPractice": false,
+            "canBattleReplay": true,
+            "apCost": 0,
+            "apFailReturn": 0,
+            "maxSlot": -1,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 0,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": -1,
+            "dailyStageDifficulty": 0,
+            "expGain": 0,
+            "goldGain": 0,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 0,
+            "completeFavor": 0,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MIST_OPS",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "canUseCharm": false,
+            "canUseTech": false,
+            "canUseTrapTool": false,
+            "canUseBattlePerformance": false,
+            "canUseFirework": false,
+            "canMultipleBattle": false,
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act40side_s01",
+            "extraCondition": null,
+            "extraInfo": null,
+            "sixStarBaseDesc": null,
+            "sixStarDisplayRewardList": null,
+            "advancedRuneIdList1": [],
+            "advancedRuneIdList2": [],
+            "useSpecialSizeMapPreview": false
         }
     },
     "ruleData": {
@@ -153298,7 +157272,7 @@
                                         "filterTagExcludeFilter": null,
                                         "subProfessionExcludeFilter": null,
                                         "mapTagFilter": null,
-                                        "heightTypeMask": "ALL"
+                                        "heightTypeMask": "NONE"
                                     },
                                     "blackboard": [
                                         {
@@ -153352,7 +157326,7 @@
                                         "filterTagExcludeFilter": null,
                                         "subProfessionExcludeFilter": null,
                                         "mapTagFilter": null,
-                                        "heightTypeMask": "ALL"
+                                        "heightTypeMask": "NONE"
                                     },
                                     "blackboard": [
                                         {
@@ -153381,7 +157355,7 @@
                                         "filterTagExcludeFilter": null,
                                         "subProfessionExcludeFilter": null,
                                         "mapTagFilter": null,
-                                        "heightTypeMask": "ALL"
+                                        "heightTypeMask": "NONE"
                                     },
                                     "blackboard": [
                                         {
@@ -153425,7 +157399,7 @@
                                         "filterTagExcludeFilter": null,
                                         "subProfessionExcludeFilter": null,
                                         "mapTagFilter": null,
-                                        "heightTypeMask": "ALL"
+                                        "heightTypeMask": "NONE"
                                     },
                                     "blackboard": [
                                         {
@@ -153474,7 +157448,7 @@
                                         "filterTagExcludeFilter": null,
                                         "subProfessionExcludeFilter": null,
                                         "mapTagFilter": null,
-                                        "heightTypeMask": "ALL"
+                                        "heightTypeMask": "NONE"
                                     },
                                     "blackboard": [
                                         {
@@ -153523,7 +157497,7 @@
                                         "filterTagExcludeFilter": null,
                                         "subProfessionExcludeFilter": null,
                                         "mapTagFilter": null,
-                                        "heightTypeMask": "ALL"
+                                        "heightTypeMask": "NONE"
                                     },
                                     "blackboard": [
                                         {
@@ -153567,7 +157541,7 @@
                                         "filterTagExcludeFilter": null,
                                         "subProfessionExcludeFilter": null,
                                         "mapTagFilter": null,
-                                        "heightTypeMask": "ALL"
+                                        "heightTypeMask": "NONE"
                                     },
                                     "blackboard": [
                                         {
@@ -153616,7 +157590,7 @@
                                         "filterTagExcludeFilter": null,
                                         "subProfessionExcludeFilter": null,
                                         "mapTagFilter": null,
-                                        "heightTypeMask": "ALL"
+                                        "heightTypeMask": "NONE"
                                     },
                                     "blackboard": [
                                         {
@@ -153670,7 +157644,7 @@
                                         "filterTagExcludeFilter": null,
                                         "subProfessionExcludeFilter": null,
                                         "mapTagFilter": null,
-                                        "heightTypeMask": "ALL"
+                                        "heightTypeMask": "NONE"
                                     },
                                     "blackboard": [
                                         {
@@ -153724,7 +157698,7 @@
                                         "filterTagExcludeFilter": null,
                                         "subProfessionExcludeFilter": null,
                                         "mapTagFilter": null,
-                                        "heightTypeMask": "ALL"
+                                        "heightTypeMask": "NONE"
                                     },
                                     "blackboard": [
                                         {
@@ -153808,7 +157782,7 @@
                                         "filterTagExcludeFilter": null,
                                         "subProfessionExcludeFilter": null,
                                         "mapTagFilter": null,
-                                        "heightTypeMask": "ALL"
+                                        "heightTypeMask": "NONE"
                                     },
                                     "blackboard": [
                                         {
@@ -155059,7 +159033,7 @@
                                         "filterTagExcludeFilter": null,
                                         "subProfessionExcludeFilter": null,
                                         "mapTagFilter": null,
-                                        "heightTypeMask": "ALL"
+                                        "heightTypeMask": "NONE"
                                     },
                                     "blackboard": [
                                         {
@@ -155088,7 +159062,7 @@
                                         "filterTagExcludeFilter": null,
                                         "subProfessionExcludeFilter": null,
                                         "mapTagFilter": null,
-                                        "heightTypeMask": "ALL"
+                                        "heightTypeMask": "NONE"
                                     },
                                     "blackboard": [
                                         {
@@ -155133,7 +159107,7 @@
                                         "filterTagExcludeFilter": null,
                                         "subProfessionExcludeFilter": null,
                                         "mapTagFilter": null,
-                                        "heightTypeMask": "ALL"
+                                        "heightTypeMask": "NONE"
                                     },
                                     "blackboard": [
                                         {
@@ -155162,7 +159136,7 @@
                                         "filterTagExcludeFilter": null,
                                         "subProfessionExcludeFilter": null,
                                         "mapTagFilter": null,
-                                        "heightTypeMask": "ALL"
+                                        "heightTypeMask": "NONE"
                                     },
                                     "blackboard": [
                                         {
@@ -155207,7 +159181,7 @@
                                         "filterTagExcludeFilter": null,
                                         "subProfessionExcludeFilter": null,
                                         "mapTagFilter": null,
-                                        "heightTypeMask": "ALL"
+                                        "heightTypeMask": "NONE"
                                     },
                                     "blackboard": [
                                         {
@@ -155236,7 +159210,7 @@
                                         "filterTagExcludeFilter": null,
                                         "subProfessionExcludeFilter": null,
                                         "mapTagFilter": null,
-                                        "heightTypeMask": "ALL"
+                                        "heightTypeMask": "NONE"
                                     },
                                     "blackboard": [
                                         {
@@ -155281,7 +159255,7 @@
                                         "filterTagExcludeFilter": null,
                                         "subProfessionExcludeFilter": null,
                                         "mapTagFilter": null,
-                                        "heightTypeMask": "ALL"
+                                        "heightTypeMask": "NONE"
                                     },
                                     "blackboard": [
                                         {
@@ -155310,7 +159284,7 @@
                                         "filterTagExcludeFilter": null,
                                         "subProfessionExcludeFilter": null,
                                         "mapTagFilter": null,
-                                        "heightTypeMask": "ALL"
+                                        "heightTypeMask": "NONE"
                                     },
                                     "blackboard": [
                                         {
@@ -155355,7 +159329,7 @@
                                         "filterTagExcludeFilter": null,
                                         "subProfessionExcludeFilter": null,
                                         "mapTagFilter": null,
-                                        "heightTypeMask": "ALL"
+                                        "heightTypeMask": "NONE"
                                     },
                                     "blackboard": [
                                         {
@@ -155400,7 +159374,7 @@
                                         "filterTagExcludeFilter": null,
                                         "subProfessionExcludeFilter": null,
                                         "mapTagFilter": null,
-                                        "heightTypeMask": "ALL"
+                                        "heightTypeMask": "NONE"
                                     },
                                     "blackboard": [
                                         {
@@ -155445,7 +159419,7 @@
                                         "filterTagExcludeFilter": null,
                                         "subProfessionExcludeFilter": null,
                                         "mapTagFilter": null,
-                                        "heightTypeMask": "ALL"
+                                        "heightTypeMask": "NONE"
                                     },
                                     "blackboard": [
                                         {
@@ -155479,7 +159453,7 @@
                                         "filterTagExcludeFilter": null,
                                         "subProfessionExcludeFilter": null,
                                         "mapTagFilter": null,
-                                        "heightTypeMask": "ALL"
+                                        "heightTypeMask": "NONE"
                                     },
                                     "blackboard": [
                                         {
@@ -155524,7 +159498,7 @@
                                         "filterTagExcludeFilter": null,
                                         "subProfessionExcludeFilter": null,
                                         "mapTagFilter": null,
-                                        "heightTypeMask": "ALL"
+                                        "heightTypeMask": "NONE"
                                     },
                                     "blackboard": [
                                         {
@@ -155558,7 +159532,7 @@
                                         "filterTagExcludeFilter": null,
                                         "subProfessionExcludeFilter": null,
                                         "mapTagFilter": null,
-                                        "heightTypeMask": "ALL"
+                                        "heightTypeMask": "NONE"
                                     },
                                     "blackboard": [
                                         {

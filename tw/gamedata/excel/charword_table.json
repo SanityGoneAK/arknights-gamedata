@@ -244736,7 +244736,7 @@
             "wordKey": "char_4213_skybx",
             "charId": "char_4213_skybx",
             "voiceId": "CN_011",
-            "voiceText": "來一根，博士。這裡，火。源石煙火而已，更厲害的還有的是。我們今天談得好，你明天就能拿到。煙酒施術單元以及源石製品管理局，高登·譚農，幸會。",
+            "voiceText": "來一根，博士。這裡，火。源石煙火而已，更厲害的還有的是。我們今天談得好，你明天就能拿到。菸酒施術單元以及源石製品管理局，高登·譚農，幸會。",
             "voiceTitle": "幹員報到",
             "voiceIndex": 11,
             "voiceType": "ENUM",
@@ -245789,6 +245789,1869 @@
             "lockDescription": null,
             "placeType": "ANNIVERSARY",
             "voiceAsset": "char_4214_cairn/CN_044"
+        },
+        "char_4056_titi_CN_001": {
+            "charWordId": "char_4056_titi_CN_001",
+            "wordKey": "char_4056_titi",
+            "charId": "char_4056_titi",
+            "voiceId": "CN_001",
+            "voiceText": "幫你工作？也可以。我能規劃羅德島之後的行程嗎？正好附近有個部落即將舉行特別的儀式，我想去看看——不能亂開？沒有啊，順路都不行嗎……",
+            "voiceTitle": "任命助理",
+            "voiceIndex": 1,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "HOME_PLACE",
+            "voiceAsset": "char_4056_titi/CN_001"
+        },
+        "char_4056_titi_CN_002": {
+            "charWordId": "char_4056_titi_CN_002",
+            "wordKey": "char_4056_titi",
+            "charId": "char_4056_titi",
+            "voiceId": "CN_002",
+            "voiceText": "我瀏海上的裝飾？是文物沒錯。本來的用途嘛，應該是帶扣吧。在家裡的倉庫放著也沒人能看到，我就學哥倫比亞人往腦袋上架墨鏡的樣子夾在頭髮上了。你看，古董也可以很時髦吧？",
+            "voiceTitle": "交談1",
+            "voiceIndex": 2,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4056_titi/CN_002"
+        },
+        "char_4056_titi_CN_003": {
+            "charWordId": "char_4056_titi_CN_003",
+            "wordKey": "char_4056_titi",
+            "charId": "char_4056_titi",
+            "voiceId": "CN_003",
+            "voiceText": "博物館展出的未必得是貴重的文物，展覽嘛，只要能讓人看到認知以外的事物就可以，對吧。你點頭了！好，我這裡正好有個提案——薩卡茲鍋爐工生活展，你看看沒問題就給我通過吧！",
+            "voiceTitle": "交談2",
+            "voiceIndex": 3,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4056_titi/CN_003"
+        },
+        "char_4056_titi_CN_004": {
+            "charWordId": "char_4056_titi_CN_004",
+            "wordKey": "char_4056_titi",
+            "charId": "char_4056_titi",
+            "voiceId": "CN_004",
+            "voiceText": "心理學、建築學、文物鑑定與修復、布展策劃與動線設計……研究博物館學要瞭解的這些我都會——但是都不是很精通？怎麼了嘛，夠用就好，而且我一直有在學新的東西啊……",
+            "voiceTitle": "交談3",
+            "voiceIndex": 4,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4056_titi/CN_004"
+        },
+        "char_4056_titi_CN_005": {
+            "charWordId": "char_4056_titi_CN_005",
+            "wordKey": "char_4056_titi",
+            "charId": "char_4056_titi",
+            "voiceId": "CN_005",
+            "voiceText": "我家傳到父親那一代就沒落了，我的家世沒有佩佩和阿娜特那麼顯赫。現在想來也是好事，我想去哥倫比亞留學就去，想來羅德島看看就來。你想讓我做什麼可以直接說，不用跟面對她們一樣有顧慮。",
+            "voiceTitle": "晉升後交談1",
+            "voiceIndex": 5,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "AWAKE",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                },
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4056_titi/CN_005"
+        },
+        "char_4056_titi_CN_006": {
+            "charWordId": "char_4056_titi_CN_006",
+            "wordKey": "char_4056_titi",
+            "charId": "char_4056_titi",
+            "voiceId": "CN_006",
+            "voiceText": "“薩爾貢的帕夏多如繁星，只要有心，誰都能找到機會。”這是我很喜歡的盜賊帕夏梅里特說過的話——不不，我不是說自己要做帕夏，只是覺得她這種想要就去做到的態度很帥，你不覺得嗎？",
+            "voiceTitle": "晉升後交談2",
+            "voiceIndex": 6,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "AWAKE",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 2
+                },
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4056_titi/CN_006"
+        },
+        "char_4056_titi_CN_007": {
+            "charWordId": "char_4056_titi_CN_007",
+            "wordKey": "char_4056_titi",
+            "charId": "char_4056_titi",
+            "voiceId": "CN_007",
+            "voiceText": "博士博士，來不及了！幫我把這個薩爾貢南部沼澤部落民俗展的文物說明寫了吧！啊？你不清楚寫不了？嗚哇，還有你不知道的事……好吧，那我在你這裡寫，寫完你先幫我讀一遍。",
+            "voiceTitle": "信賴提升後交談1",
+            "voiceIndex": 7,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "FAVOR",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 40
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4056_titi/CN_007"
+        },
+        "char_4056_titi_CN_008": {
+            "charWordId": "char_4056_titi_CN_008",
+            "wordKey": "char_4056_titi",
+            "charId": "char_4056_titi",
+            "voiceId": "CN_008",
+            "voiceText": "我知道米奧不是普通的菲林獸親啊……博士你自己也不是什麼普通人嘛。沒關係，你們再掩飾身分，我也能和你們做朋友。當然，博士你要是願意說說自己的“秘密”，我很樂意好好聽。",
+            "voiceTitle": "信賴提升後交談2",
+            "voiceIndex": 8,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "FAVOR",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 100
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4056_titi/CN_008"
+        },
+        "char_4056_titi_CN_009": {
+            "charWordId": "char_4056_titi_CN_009",
+            "wordKey": "char_4056_titi",
+            "charId": "char_4056_titi",
+            "voiceId": "CN_009",
+            "voiceText": "閉眼，上車，跟我走！熱？別問那麼多——好了，睜眼吧。看看這片無垠的沙漠，沙阿就是從這裡開始征伐，說不定哪陣風還能吹出當年的腳印。別說話，博士，別驚擾流過我們的時間……",
+            "voiceTitle": "信賴提升後交談3",
+            "voiceIndex": 9,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "FAVOR",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 200
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4056_titi/CN_009"
+        },
+        "char_4056_titi_CN_010": {
+            "charWordId": "char_4056_titi_CN_010",
+            "wordKey": "char_4056_titi",
+            "charId": "char_4056_titi",
+            "voiceId": "CN_010",
+            "voiceText": "什麼都不用做嗎……？嗯……要不然學學帕拉斯小姐，聽說她可以站著睡覺……？呼……呼……啊！撞到頭了，好痛！",
+            "voiceTitle": "閒置",
+            "voiceIndex": 10,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "HOME_WAIT",
+            "voiceAsset": "char_4056_titi/CN_010"
+        },
+        "char_4056_titi_CN_011": {
+            "charWordId": "char_4056_titi_CN_011",
+            "wordKey": "char_4056_titi",
+            "charId": "char_4056_titi",
+            "voiceId": "CN_011",
+            "voiceText": "你好，博士，我的名字很長，你可以跟朋友們一樣叫我緹緹——稱呼不重要，我在為我的博物館籌備新的特展，不知道你和羅德島有沒有興趣參與？",
+            "voiceTitle": "幹員報到",
+            "voiceIndex": 11,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "GACHA",
+            "voiceAsset": "char_4056_titi/CN_011"
+        },
+        "char_4056_titi_CN_012": {
+            "charWordId": "char_4056_titi_CN_012",
+            "wordKey": "char_4056_titi",
+            "charId": "char_4056_titi",
+            "voiceId": "CN_012",
+            "voiceText": "嗯，有點像我在哥倫比亞看的文物修復的教學影片——看別人做似乎很簡單，但真自己去試，會發現根本不知道要從哪裡入手。",
+            "voiceTitle": "觀看作戰記錄",
+            "voiceIndex": 12,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "LEVEL_UP",
+            "voiceAsset": "char_4056_titi/CN_012"
+        },
+        "char_4056_titi_CN_013": {
+            "charWordId": "char_4056_titi_CN_013",
+            "wordKey": "char_4056_titi",
+            "charId": "char_4056_titi",
+            "voiceId": "CN_013",
+            "voiceText": "這就是羅德島的升職？把古老的授勛儀式應用在現代的企業管理中……有趣，在我的博物館裡也可以推行試試。",
+            "voiceTitle": "精英化晉升1",
+            "voiceIndex": 13,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "AWAKE",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                },
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "EVOLVE_ONE",
+            "voiceAsset": "char_4056_titi/CN_013"
+        },
+        "char_4056_titi_CN_014": {
+            "charWordId": "char_4056_titi_CN_014",
+            "wordKey": "char_4056_titi",
+            "charId": "char_4056_titi",
+            "voiceId": "CN_014",
+            "voiceText": "我覺得我還可以再往上晉升——啊，這就已經升到頭了？",
+            "voiceTitle": "精英化晉升2",
+            "voiceIndex": 14,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "AWAKE",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 2
+                },
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "EVOLVE_TWO",
+            "voiceAsset": "char_4056_titi/CN_014"
+        },
+        "char_4056_titi_CN_017": {
+            "charWordId": "char_4056_titi_CN_017",
+            "wordKey": "char_4056_titi",
+            "charId": "char_4056_titi",
+            "voiceId": "CN_017",
+            "voiceText": "又有新的文物要入庫，一起去看看？",
+            "voiceTitle": "編入隊伍",
+            "voiceIndex": 17,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "SQUAD",
+            "voiceAsset": "char_4056_titi/CN_017"
+        },
+        "char_4056_titi_CN_018": {
+            "charWordId": "char_4056_titi_CN_018",
+            "wordKey": "char_4056_titi",
+            "charId": "char_4056_titi",
+            "voiceId": "CN_018",
+            "voiceText": "好的，先來看看我的規劃——跟昨天說的不一樣？嗯，剛才我突然有了個新點子。怎麼了？有什麼問題嗎？",
+            "voiceTitle": "任命隊長",
+            "voiceIndex": 18,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "SQUAD_FIRST",
+            "voiceAsset": "char_4056_titi/CN_018"
+        },
+        "char_4056_titi_CN_019": {
+            "charWordId": "char_4056_titi_CN_019",
+            "wordKey": "char_4056_titi",
+            "charId": "char_4056_titi",
+            "voiceId": "CN_019",
+            "voiceText": "走吧，看看這次的文物能帶來什麼新的故事。",
+            "voiceTitle": "行動出發",
+            "voiceIndex": 19,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_START",
+            "voiceAsset": "char_4056_titi/CN_019"
+        },
+        "char_4056_titi_CN_020": {
+            "charWordId": "char_4056_titi_CN_020",
+            "wordKey": "char_4056_titi",
+            "charId": "char_4056_titi",
+            "voiceId": "CN_020",
+            "voiceText": "進了庫房，動作就要輕一點啦。",
+            "voiceTitle": "行動開始",
+            "voiceIndex": 20,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_FACE_ENEMY",
+            "voiceAsset": "char_4056_titi/CN_020"
+        },
+        "char_4056_titi_CN_021": {
+            "charWordId": "char_4056_titi_CN_021",
+            "wordKey": "char_4056_titi",
+            "charId": "char_4056_titi",
+            "voiceId": "CN_021",
+            "voiceText": "清潔、保養、矯形、修復，這些我都會哦。",
+            "voiceTitle": "選中幹員1",
+            "voiceIndex": 21,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SELECT",
+            "voiceAsset": "char_4056_titi/CN_021"
+        },
+        "char_4056_titi_CN_022": {
+            "charWordId": "char_4056_titi_CN_022",
+            "wordKey": "char_4056_titi",
+            "charId": "char_4056_titi",
+            "voiceId": "CN_022",
+            "voiceText": "就放心交給我吧。",
+            "voiceTitle": "選中幹員2",
+            "voiceIndex": 22,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SELECT",
+            "voiceAsset": "char_4056_titi/CN_022"
+        },
+        "char_4056_titi_CN_023": {
+            "charWordId": "char_4056_titi_CN_023",
+            "wordKey": "char_4056_titi",
+            "charId": "char_4056_titi",
+            "voiceId": "CN_023",
+            "voiceText": "要有耐心才是。",
+            "voiceTitle": "部署1",
+            "voiceIndex": 23,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_PLACE",
+            "voiceAsset": "char_4056_titi/CN_023"
+        },
+        "char_4056_titi_CN_024": {
+            "charWordId": "char_4056_titi_CN_024",
+            "wordKey": "char_4056_titi",
+            "charId": "char_4056_titi",
+            "voiceId": "CN_024",
+            "voiceText": "慢慢來。",
+            "voiceTitle": "部署2",
+            "voiceIndex": 24,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_PLACE",
+            "voiceAsset": "char_4056_titi/CN_024"
+        },
+        "char_4056_titi_CN_025": {
+            "charWordId": "char_4056_titi_CN_025",
+            "wordKey": "char_4056_titi",
+            "charId": "char_4056_titi",
+            "voiceId": "CN_025",
+            "voiceText": "拂掃塵垢，讓陶器的色釉展露華彩。",
+            "voiceTitle": "作戰中1",
+            "voiceIndex": 25,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SKILL_1",
+            "voiceAsset": "char_4056_titi/CN_025"
+        },
+        "char_4056_titi_CN_026": {
+            "charWordId": "char_4056_titi_CN_026",
+            "wordKey": "char_4056_titi",
+            "charId": "char_4056_titi",
+            "voiceId": "CN_026",
+            "voiceText": "分解霉斑，令織物恢復柔韌。",
+            "voiceTitle": "作戰中2",
+            "voiceIndex": 26,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SKILL_2",
+            "voiceAsset": "char_4056_titi/CN_026"
+        },
+        "char_4056_titi_CN_027": {
+            "charWordId": "char_4056_titi_CN_027",
+            "wordKey": "char_4056_titi",
+            "charId": "char_4056_titi",
+            "voiceId": "CN_027",
+            "voiceText": "清除表面鈣化，使大理石雕塑重現壯美。",
+            "voiceTitle": "作戰中3",
+            "voiceIndex": 27,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SKILL_3",
+            "voiceAsset": "char_4056_titi/CN_027"
+        },
+        "char_4056_titi_CN_028": {
+            "charWordId": "char_4056_titi_CN_028",
+            "wordKey": "char_4056_titi",
+            "charId": "char_4056_titi",
+            "voiceId": "CN_028",
+            "voiceText": "呼！就沒有新的器型了嗎？那都用不著我出手。",
+            "voiceTitle": "作戰中4",
+            "voiceIndex": 28,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SKILL_4",
+            "voiceAsset": "char_4056_titi/CN_028"
+        },
+        "char_4056_titi_CN_029": {
+            "charWordId": "char_4056_titi_CN_029",
+            "wordKey": "char_4056_titi",
+            "charId": "char_4056_titi",
+            "voiceId": "CN_029",
+            "voiceText": "年代比預估的要久遠許多呢，整理庫房偶爾也是能有這種大發現的，去喝杯橘子薩拉布慶祝一下吧！",
+            "voiceTitle": "完成高難行動",
+            "voiceIndex": 29,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "FOUR_STAR",
+            "voiceAsset": "char_4056_titi/CN_029"
+        },
+        "char_4056_titi_CN_030": {
+            "charWordId": "char_4056_titi_CN_030",
+            "wordKey": "char_4056_titi",
+            "charId": "char_4056_titi",
+            "voiceId": "CN_030",
+            "voiceText": "入庫完畢。用這些藏品布置一個主題展，遊客至少肯排兩小時的隊吧。",
+            "voiceTitle": "3星結束行動",
+            "voiceIndex": 30,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "THREE_STAR",
+            "voiceAsset": "char_4056_titi/CN_030"
+        },
+        "char_4056_titi_CN_031": {
+            "charWordId": "char_4056_titi_CN_031",
+            "wordKey": "char_4056_titi",
+            "charId": "char_4056_titi",
+            "voiceId": "CN_031",
+            "voiceText": "沒關係的，我幫你用環氧樹脂黏一黏，在接縫上補一下顏色，看不出來。",
+            "voiceTitle": "非3星結束行動",
+            "voiceIndex": 31,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "TWO_STAR",
+            "voiceAsset": "char_4056_titi/CN_031"
+        },
+        "char_4056_titi_CN_032": {
+            "charWordId": "char_4056_titi_CN_032",
+            "wordKey": "char_4056_titi",
+            "charId": "char_4056_titi",
+            "voiceId": "CN_032",
+            "voiceText": "出門的時候就覺得睏睏的，今天果然不適合工作。明天再來好啦。",
+            "voiceTitle": "行動失敗",
+            "voiceIndex": 32,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "LOSE",
+            "voiceAsset": "char_4056_titi/CN_032"
+        },
+        "char_4056_titi_CN_033": {
+            "charWordId": "char_4056_titi_CN_033",
+            "wordKey": "char_4056_titi",
+            "charId": "char_4056_titi",
+            "voiceId": "CN_033",
+            "voiceText": "奇妙的傢俱意外地多呢，你是以什麼為主題布置的？",
+            "voiceTitle": "進駐設施",
+            "voiceIndex": 33,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BUILDING_PLACE",
+            "voiceAsset": "char_4056_titi/CN_033"
+        },
+        "char_4056_titi_CN_034": {
+            "charWordId": "char_4056_titi_CN_034",
+            "wordKey": "char_4056_titi",
+            "charId": "char_4056_titi",
+            "voiceId": "CN_034",
+            "voiceText": "我看到了哦，你偷偷摸摸想要拉我衣服帶子的手。",
+            "voiceTitle": "戳一下",
+            "voiceIndex": 34,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BUILDING_TOUCHING",
+            "voiceAsset": "char_4056_titi/CN_034"
+        },
+        "char_4056_titi_CN_036": {
+            "charWordId": "char_4056_titi_CN_036",
+            "wordKey": "char_4056_titi",
+            "charId": "char_4056_titi",
+            "voiceId": "CN_036",
+            "voiceText": "找我去逛街？好啊，那我要吃芒果和角豆味道的冰沙，加大份堅果碎。再來一杯木槿汁，拜託你都要請客哦。",
+            "voiceTitle": "信賴觸摸",
+            "voiceIndex": 36,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BUILDING_FAVOR_BUBBLE",
+            "voiceAsset": "char_4056_titi/CN_036"
+        },
+        "char_4056_titi_CN_037": {
+            "charWordId": "char_4056_titi_CN_037",
+            "wordKey": "char_4056_titi",
+            "charId": "char_4056_titi",
+            "voiceId": "CN_037",
+            "voiceText": "明日方舟。",
+            "voiceTitle": "標題",
+            "voiceIndex": 37,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "LOADING_PANEL",
+            "voiceAsset": "char_4056_titi/CN_037"
+        },
+        "char_4056_titi_CN_038": {
+            "charWordId": "char_4056_titi_CN_038",
+            "wordKey": "char_4056_titi",
+            "charId": "char_4056_titi",
+            "voiceId": "CN_038",
+            "voiceText": "新年快樂。博士，要不要試試雷姆必拓南方流行的蘿蔔發酵餅？在醫務室一位卡特斯病人分我的，他說他們新年都吃這個來慶祝。不要？氣味很怪？嗯，有點，但還是可以試試的嘛。",
+            "voiceTitle": "新年祝福",
+            "voiceIndex": 38,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "NEW_YEAR",
+            "voiceAsset": "char_4056_titi/CN_038"
+        },
+        "char_4056_titi_CN_042": {
+            "charWordId": "char_4056_titi_CN_042",
+            "wordKey": "char_4056_titi",
+            "charId": "char_4056_titi",
+            "voiceId": "CN_042",
+            "voiceText": "啊，博士。你來艦橋的這個角落，也是要看前面那座城市的全景嗎？到我這裡來，我這個角度超級好！",
+            "voiceTitle": "問候",
+            "voiceIndex": 42,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "GREETING",
+            "voiceAsset": "char_4056_titi/CN_042"
+        },
+        "char_4056_titi_CN_043": {
+            "charWordId": "char_4056_titi_CN_043",
+            "wordKey": "char_4056_titi",
+            "charId": "char_4056_titi",
+            "voiceId": "CN_043",
+            "voiceText": "生日快樂，博士。這是我前陣子整理我家倉庫發現的，本來是戰車上的配飾，你可以拿去當扣環用，這樣就算風再大，帽兜也不會被吹開。我看到的時候就覺得非常適合你。",
+            "voiceTitle": "生日",
+            "voiceIndex": 43,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BIRTHDAY",
+            "voiceAsset": "char_4056_titi/CN_043"
+        },
+        "char_4056_titi_CN_044": {
+            "charWordId": "char_4056_titi_CN_044",
+            "wordKey": "char_4056_titi",
+            "charId": "char_4056_titi",
+            "voiceId": "CN_044",
+            "voiceText": "所有文物上的使用痕跡，都是它們的主人曾經活著的證明。我們也一樣……只要我們還在思考，在行動，我們就必然會在這片大地上留下痕跡。以後的人，也會看得到。",
+            "voiceTitle": "周年慶典",
+            "voiceIndex": 44,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "ANNIVERSARY",
+            "voiceAsset": "char_4056_titi/CN_044"
+        },
+        "char_1022_flwr2_CN_001": {
+            "charWordId": "char_1022_flwr2_CN_001",
+            "wordKey": "char_1022_flwr2",
+            "charId": "char_1022_flwr2",
+            "voiceId": "CN_001",
+            "voiceText": "想要我幫你做點什麼呢，博士，你來決定吧？",
+            "voiceTitle": "任命助理",
+            "voiceIndex": 1,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "HOME_PLACE",
+            "voiceAsset": "char_1022_flwr2/CN_001"
+        },
+        "char_1022_flwr2_CN_002": {
+            "charWordId": "char_1022_flwr2_CN_002",
+            "wordKey": "char_1022_flwr2",
+            "charId": "char_1022_flwr2",
+            "voiceId": "CN_002",
+            "voiceText": "這是雅賽努斯辦事處前兩個季度的營運數據，博士你應該看一下概要部分就……嗯，想聽我詳細報告嗎？那可能要花一點時間。回到米諾斯之後，我還真是遇到了不少事情呢。",
+            "voiceTitle": "交談1",
+            "voiceIndex": 2,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_1022_flwr2/CN_002"
+        },
+        "char_1022_flwr2_CN_003": {
+            "charWordId": "char_1022_flwr2_CN_003",
+            "wordKey": "char_1022_flwr2",
+            "charId": "char_1022_flwr2",
+            "voiceId": "CN_003",
+            "voiceText": "博士，你也去療養庭院嗎？那正好一起——欸？那是……波登可？她真的搬了張床到溫室裡？唉，博士，我不在本艦了，你就不能幫我多照顧一下那孩子嗎？",
+            "voiceTitle": "交談2",
+            "voiceIndex": 3,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_1022_flwr2/CN_003"
+        },
+        "char_1022_flwr2_CN_004": {
+            "charWordId": "char_1022_flwr2_CN_004",
+            "wordKey": "char_1022_flwr2",
+            "charId": "char_1022_flwr2",
+            "voiceId": "CN_004",
+            "voiceText": "療養庭院的登記簿上，新名字漸漸比老名字多了……香苜蓿成熟的時候，細細的豆莢會把種子彈得很遠。羅德島這枚豆莢也成熟了。多愁善感嗎？你就當是詩人國度的傳統好啦。",
+            "voiceTitle": "交談3",
+            "voiceIndex": 4,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_1022_flwr2/CN_004"
+        },
+        "char_1022_flwr2_CN_005": {
+            "charWordId": "char_1022_flwr2_CN_005",
+            "wordKey": "char_1022_flwr2",
+            "charId": "char_1022_flwr2",
+            "voiceId": "CN_005",
+            "voiceText": "回到米諾斯也有頭痛的事。米諾斯人一旦得了礦石病，覺得自己再也成不了英雄，就什麼都無所謂了，連治病也不當回事……我簡直想請吟遊詩人在三城巡演，就唱感染者也能成為英雄！",
+            "voiceTitle": "晉升後交談1",
+            "voiceIndex": 5,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "AWAKE",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                },
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_1022_flwr2/CN_005"
+        },
+        "char_1022_flwr2_CN_006": {
+            "charWordId": "char_1022_flwr2_CN_006",
+            "wordKey": "char_1022_flwr2",
+            "charId": "char_1022_flwr2",
+            "voiceId": "CN_006",
+            "voiceText": "人很容易沉迷在自己擅長的事裡吧？對我來說，就是調香。甚至來羅德島後，有很長一段時間，我也把自己藏在這件事裡。而現在……當我知道我不是只有它的時候，我才真正擁有了它。",
+            "voiceTitle": "晉升後交談2",
+            "voiceIndex": 6,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "AWAKE",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 2
+                },
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_1022_flwr2/CN_006"
+        },
+        "char_1022_flwr2_CN_007": {
+            "charWordId": "char_1022_flwr2_CN_007",
+            "wordKey": "char_1022_flwr2",
+            "charId": "char_1022_flwr2",
+            "voiceId": "CN_007",
+            "voiceText": "山怡草、百里香、阿蘇芹……我隨身攜帶的種子又變成了這些曾經最熟悉的米諾斯植物。我曾遠離它們，如今重拾於手中……種子還是這些種子，我卻已經不是小時候的萊娜了。",
+            "voiceTitle": "信賴提升後交談1",
+            "voiceIndex": 7,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "FAVOR",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 40
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_1022_flwr2/CN_007"
+        },
+        "char_1022_flwr2_CN_008": {
+            "charWordId": "char_1022_flwr2_CN_008",
+            "wordKey": "char_1022_flwr2",
+            "charId": "char_1022_flwr2",
+            "voiceId": "CN_008",
+            "voiceText": "我和里底婭的事？哎呀，你從哪裡知道這個名字的……只是一個依賴心有點重的妹妹，博士想知道的話，我當然可以說給你聽。只不過，這個故事的結局，也許沒有那麼有趣哦。",
+            "voiceTitle": "信賴提升後交談2",
+            "voiceIndex": 8,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "FAVOR",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 100
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_1022_flwr2/CN_008"
+        },
+        "char_1022_flwr2_CN_009": {
+            "charWordId": "char_1022_flwr2_CN_009",
+            "wordKey": "char_1022_flwr2",
+            "charId": "char_1022_flwr2",
+            "voiceId": "CN_009",
+            "voiceText": "博士，今天的香味和平時有點不一樣哦，發生了什麼特別的事嗎？還是說，我送給你的香水已經用完了……？是後者的話，以後要提前和我說，我得及時補充呢。",
+            "voiceTitle": "信賴提升後交談3",
+            "voiceIndex": 9,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "FAVOR",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 200
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_1022_flwr2/CN_009"
+        },
+        "char_1022_flwr2_CN_010": {
+            "charWordId": "char_1022_flwr2_CN_010",
+            "wordKey": "char_1022_flwr2",
+            "charId": "char_1022_flwr2",
+            "voiceId": "CN_010",
+            "voiceText": "博士？唔，今天明明沒有用薰衣草啊。我看看，幫博士稍微請兩個小時假吧……咦？怎麼有這麼多補假沒休？",
+            "voiceTitle": "閒置",
+            "voiceIndex": 10,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "HOME_WAIT",
+            "voiceAsset": "char_1022_flwr2/CN_010"
+        },
+        "char_1022_flwr2_CN_011": {
+            "charWordId": "char_1022_flwr2_CN_011",
+            "wordKey": "char_1022_flwr2",
+            "charId": "char_1022_flwr2",
+            "voiceId": "CN_011",
+            "voiceText": "我回來了，博士。桌上的波羅尼很新鮮，看來波登可把療養庭院和你都照顧得很好，我就把回羅德島的這段時間當成回家休假吧……開玩笑的。",
+            "voiceTitle": "幹員報到",
+            "voiceIndex": 11,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "GACHA",
+            "voiceAsset": "char_1022_flwr2/CN_011"
+        },
+        "char_1022_flwr2_CN_012": {
+            "charWordId": "char_1022_flwr2_CN_012",
+            "wordKey": "char_1022_flwr2",
+            "charId": "char_1022_flwr2",
+            "voiceId": "CN_012",
+            "voiceText": "唔……好像更能理解博士了。以前我偶爾會覺得您有點冒險，現在卻覺得您周詳得可怕呢。",
+            "voiceTitle": "觀看作戰記錄",
+            "voiceIndex": 12,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "LEVEL_UP",
+            "voiceAsset": "char_1022_flwr2/CN_012"
+        },
+        "char_1022_flwr2_CN_013": {
+            "charWordId": "char_1022_flwr2_CN_013",
+            "wordKey": "char_1022_flwr2",
+            "charId": "char_1022_flwr2",
+            "voiceId": "CN_013",
+            "voiceText": "剛接手療養庭院時，我想，餘生都要在這裡度過了，我不會再離開……每次這樣想，命運都給了我另一個回答。不過，我也開始喜歡上“出乎意料”的感覺了。",
+            "voiceTitle": "精英化晉升1",
+            "voiceIndex": 13,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "AWAKE",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                },
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "EVOLVE_ONE",
+            "voiceAsset": "char_1022_flwr2/CN_013"
+        },
+        "char_1022_flwr2_CN_014": {
+            "charWordId": "char_1022_flwr2_CN_014",
+            "wordKey": "char_1022_flwr2",
+            "charId": "char_1022_flwr2",
+            "voiceId": "CN_014",
+            "voiceText": "回到米諾斯沒有我想像的難。再度站在家人面前我才發現，那些難堪的往事原來已經……那麼陳舊了。不值得花更多的時間。現在我是羅德島的調香師萊娜，這就很好。",
+            "voiceTitle": "精英化晉升2",
+            "voiceIndex": 14,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "AWAKE",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 2
+                },
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "EVOLVE_TWO",
+            "voiceAsset": "char_1022_flwr2/CN_014"
+        },
+        "char_1022_flwr2_CN_017": {
+            "charWordId": "char_1022_flwr2_CN_017",
+            "wordKey": "char_1022_flwr2",
+            "charId": "char_1022_flwr2",
+            "voiceId": "CN_017",
+            "voiceText": "沒問題。記得提醒大家檢查一下補給哦。",
+            "voiceTitle": "編入隊伍",
+            "voiceIndex": 17,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "SQUAD",
+            "voiceAsset": "char_1022_flwr2/CN_017"
+        },
+        "char_1022_flwr2_CN_018": {
+            "charWordId": "char_1022_flwr2_CN_018",
+            "wordKey": "char_1022_flwr2",
+            "charId": "char_1022_flwr2",
+            "voiceId": "CN_018",
+            "voiceText": "好哦。我也已經開始習慣帶領別人了。",
+            "voiceTitle": "任命隊長",
+            "voiceIndex": 18,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "SQUAD_FIRST",
+            "voiceAsset": "char_1022_flwr2/CN_018"
+        },
+        "char_1022_flwr2_CN_019": {
+            "charWordId": "char_1022_flwr2_CN_019",
+            "wordKey": "char_1022_flwr2",
+            "charId": "char_1022_flwr2",
+            "voiceId": "CN_019",
+            "voiceText": "我會照顧好大家的。",
+            "voiceTitle": "行動出發",
+            "voiceIndex": 19,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_START",
+            "voiceAsset": "char_1022_flwr2/CN_019"
+        },
+        "char_1022_flwr2_CN_020": {
+            "charWordId": "char_1022_flwr2_CN_020",
+            "wordKey": "char_1022_flwr2",
+            "charId": "char_1022_flwr2",
+            "voiceId": "CN_020",
+            "voiceText": "請把安全放在第一位哦。",
+            "voiceTitle": "行動開始",
+            "voiceIndex": 20,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_FACE_ENEMY",
+            "voiceAsset": "char_1022_flwr2/CN_020"
+        },
+        "char_1022_flwr2_CN_021": {
+            "charWordId": "char_1022_flwr2_CN_021",
+            "wordKey": "char_1022_flwr2",
+            "charId": "char_1022_flwr2",
+            "voiceId": "CN_021",
+            "voiceText": "博士？",
+            "voiceTitle": "選中幹員1",
+            "voiceIndex": 21,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SELECT",
+            "voiceAsset": "char_1022_flwr2/CN_021"
+        },
+        "char_1022_flwr2_CN_022": {
+            "charWordId": "char_1022_flwr2_CN_022",
+            "wordKey": "char_1022_flwr2",
+            "charId": "char_1022_flwr2",
+            "voiceId": "CN_022",
+            "voiceText": "很慎重呢，博士。",
+            "voiceTitle": "選中幹員2",
+            "voiceIndex": 22,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SELECT",
+            "voiceAsset": "char_1022_flwr2/CN_022"
+        },
+        "char_1022_flwr2_CN_023": {
+            "charWordId": "char_1022_flwr2_CN_023",
+            "wordKey": "char_1022_flwr2",
+            "charId": "char_1022_flwr2",
+            "voiceId": "CN_023",
+            "voiceText": "我已經抵達，隨時可以支援。",
+            "voiceTitle": "部署1",
+            "voiceIndex": 23,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_PLACE",
+            "voiceAsset": "char_1022_flwr2/CN_023"
+        },
+        "char_1022_flwr2_CN_024": {
+            "charWordId": "char_1022_flwr2_CN_024",
+            "wordKey": "char_1022_flwr2",
+            "charId": "char_1022_flwr2",
+            "voiceId": "CN_024",
+            "voiceText": "已經確認大家的位置，請放心吧。",
+            "voiceTitle": "部署2",
+            "voiceIndex": 24,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_PLACE",
+            "voiceAsset": "char_1022_flwr2/CN_024"
+        },
+        "char_1022_flwr2_CN_025": {
+            "charWordId": "char_1022_flwr2_CN_025",
+            "wordKey": "char_1022_flwr2",
+            "charId": "char_1022_flwr2",
+            "voiceId": "CN_025",
+            "voiceText": "深呼吸，氣味分子正在進入循環系統。",
+            "voiceTitle": "作戰中1",
+            "voiceIndex": 25,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SKILL_1",
+            "voiceAsset": "char_1022_flwr2/CN_025"
+        },
+        "char_1022_flwr2_CN_026": {
+            "charWordId": "char_1022_flwr2_CN_026",
+            "wordKey": "char_1022_flwr2",
+            "charId": "char_1022_flwr2",
+            "voiceId": "CN_026",
+            "voiceText": "雖然辛辣，但能增強肌肉供血哦。",
+            "voiceTitle": "作戰中2",
+            "voiceIndex": 26,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SKILL_2",
+            "voiceAsset": "char_1022_flwr2/CN_026"
+        },
+        "char_1022_flwr2_CN_027": {
+            "charWordId": "char_1022_flwr2_CN_027",
+            "wordKey": "char_1022_flwr2",
+            "charId": "char_1022_flwr2",
+            "voiceId": "CN_027",
+            "voiceText": "冷靜，呼吸急促不利於氣體交換。",
+            "voiceTitle": "作戰中3",
+            "voiceIndex": 27,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SKILL_3",
+            "voiceAsset": "char_1022_flwr2/CN_027"
+        },
+        "char_1022_flwr2_CN_028": {
+            "charWordId": "char_1022_flwr2_CN_028",
+            "wordKey": "char_1022_flwr2",
+            "charId": "char_1022_flwr2",
+            "voiceId": "CN_028",
+            "voiceText": "雖然苦澀，但能讓你忘記疼痛哦。",
+            "voiceTitle": "作戰中4",
+            "voiceIndex": 28,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SKILL_4",
+            "voiceAsset": "char_1022_flwr2/CN_028"
+        },
+        "char_1022_flwr2_CN_029": {
+            "charWordId": "char_1022_flwr2_CN_029",
+            "wordKey": "char_1022_flwr2",
+            "charId": "char_1022_flwr2",
+            "voiceId": "CN_029",
+            "voiceText": "唔……就是這股焚香的味道。完成高危任務之後，偶爾能在你身邊聞到。我很懷念哦，博士。",
+            "voiceTitle": "完成高難行動",
+            "voiceIndex": 29,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "FOUR_STAR",
+            "voiceAsset": "char_1022_flwr2/CN_029"
+        },
+        "char_1022_flwr2_CN_030": {
+            "charWordId": "char_1022_flwr2_CN_030",
+            "wordKey": "char_1022_flwr2",
+            "charId": "char_1022_flwr2",
+            "voiceId": "CN_030",
+            "voiceText": "博士縱覽全局的能力，有點想學過來呢……我會用“禮物”來交換的，回去之後可以跟我講解一下嗎？現在的我需要考慮的事也更多了。",
+            "voiceTitle": "3星結束行動",
+            "voiceIndex": 30,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "THREE_STAR",
+            "voiceAsset": "char_1022_flwr2/CN_030"
+        },
+        "char_1022_flwr2_CN_031": {
+            "charWordId": "char_1022_flwr2_CN_031",
+            "wordKey": "char_1022_flwr2",
+            "charId": "char_1022_flwr2",
+            "voiceId": "CN_031",
+            "voiceText": "好像需要稍微放鬆一下了，博士……不用太緊張。",
+            "voiceTitle": "非3星結束行動",
+            "voiceIndex": 31,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "TWO_STAR",
+            "voiceAsset": "char_1022_flwr2/CN_031"
+        },
+        "char_1022_flwr2_CN_032": {
+            "charWordId": "char_1022_flwr2_CN_032",
+            "wordKey": "char_1022_flwr2",
+            "charId": "char_1022_flwr2",
+            "voiceId": "CN_032",
+            "voiceText": "博士，請下令吧，我來引導大家撤離……別灰心，沒關係的。",
+            "voiceTitle": "行動失敗",
+            "voiceIndex": 32,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "LOSE",
+            "voiceAsset": "char_1022_flwr2/CN_032"
+        },
+        "char_1022_flwr2_CN_033": {
+            "charWordId": "char_1022_flwr2_CN_033",
+            "wordKey": "char_1022_flwr2",
+            "charId": "char_1022_flwr2",
+            "voiceId": "CN_033",
+            "voiceText": "回家了呢。",
+            "voiceTitle": "進駐設施",
+            "voiceIndex": 33,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BUILDING_PLACE",
+            "voiceAsset": "char_1022_flwr2/CN_033"
+        },
+        "char_1022_flwr2_CN_034": {
+            "charWordId": "char_1022_flwr2_CN_034",
+            "wordKey": "char_1022_flwr2",
+            "charId": "char_1022_flwr2",
+            "voiceId": "CN_034",
+            "voiceText": "今天的味道？是小豆蔻。",
+            "voiceTitle": "戳一下",
+            "voiceIndex": 34,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BUILDING_TOUCHING",
+            "voiceAsset": "char_1022_flwr2/CN_034"
+        },
+        "char_1022_flwr2_CN_036": {
+            "charWordId": "char_1022_flwr2_CN_036",
+            "wordKey": "char_1022_flwr2",
+            "charId": "char_1022_flwr2",
+            "voiceId": "CN_036",
+            "voiceText": "這樣做，博士身上也會沾到我的味道哦。",
+            "voiceTitle": "信賴觸摸",
+            "voiceIndex": 36,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BUILDING_FAVOR_BUBBLE",
+            "voiceAsset": "char_1022_flwr2/CN_036"
+        },
+        "char_1022_flwr2_CN_037": {
+            "charWordId": "char_1022_flwr2_CN_037",
+            "wordKey": "char_1022_flwr2",
+            "charId": "char_1022_flwr2",
+            "voiceId": "CN_037",
+            "voiceText": "明日方舟。",
+            "voiceTitle": "標題",
+            "voiceIndex": 37,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "LOADING_PANEL",
+            "voiceAsset": "char_1022_flwr2/CN_037"
+        },
+        "char_1022_flwr2_CN_038": {
+            "charWordId": "char_1022_flwr2_CN_038",
+            "wordKey": "char_1022_flwr2",
+            "charId": "char_1022_flwr2",
+            "voiceId": "CN_038",
+            "voiceText": "新年果然還是要回來過啊。比起雅賽努斯新年點燃的巨大火炬，我好像更想見到羅德島行駛時冒出的白煙呢……其實是想回來見你？哎呀，被博士猜到了呢。",
+            "voiceTitle": "新年祝福",
+            "voiceIndex": 38,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "NEW_YEAR",
+            "voiceAsset": "char_1022_flwr2/CN_038"
+        },
+        "char_1022_flwr2_CN_042": {
+            "charWordId": "char_1022_flwr2_CN_042",
+            "wordKey": "char_1022_flwr2",
+            "charId": "char_1022_flwr2",
+            "voiceId": "CN_042",
+            "voiceText": "日安，博士……哎呀，好像有點沒睡醒。稍等……聞聞這個？怎麼樣，現在清醒一點了嗎？",
+            "voiceTitle": "問候",
+            "voiceIndex": 42,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "GREETING",
+            "voiceAsset": "char_1022_flwr2/CN_042"
+        },
+        "char_1022_flwr2_CN_043": {
+            "charWordId": "char_1022_flwr2_CN_043",
+            "wordKey": "char_1022_flwr2",
+            "charId": "char_1022_flwr2",
+            "voiceId": "CN_043",
+            "voiceText": "可以邀請你去溫室嗎，博士？我照顧的一盆花恰巧也在今天開花……你笑什麼啊——好吧，確實不是“恰巧”。那麼，這就是我的禮物，你要到溫室查收嗎？",
+            "voiceTitle": "生日",
+            "voiceIndex": 43,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BIRTHDAY",
+            "voiceAsset": "char_1022_flwr2/CN_043"
+        },
+        "char_1022_flwr2_CN_044": {
+            "charWordId": "char_1022_flwr2_CN_044",
+            "wordKey": "char_1022_flwr2",
+            "charId": "char_1022_flwr2",
+            "voiceId": "CN_044",
+            "voiceText": "是因為“藉”來了羅德島的理想，萊娜·阿蘇普歐洛才會變成“萊娜醫生”。這是小時候的萊娜從未設想過的未來，卻比我設想過的都好……能和大家一起做正確的事，我很滿足。",
+            "voiceTitle": "周年慶典",
+            "voiceIndex": 44,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "ANNIVERSARY",
+            "voiceAsset": "char_1022_flwr2/CN_044"
+        },
+        "char_4166_varkis_CN_001": {
+            "charWordId": "char_4166_varkis_CN_001",
+            "wordKey": "char_4166_varkis",
+            "charId": "char_4166_varkis",
+            "voiceId": "CN_001",
+            "voiceText": "我並不擅長這類工作，恐怕要請你多做說明，我盡力而為。你教了我，我該給你什麼回報？我的學生會送我青扁豆、葡萄和鱗，你想要這些嗎？",
+            "voiceTitle": "任命助理",
+            "voiceIndex": 1,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "HOME_PLACE",
+            "voiceAsset": "char_4166_varkis/CN_001"
+        },
+        "char_4166_varkis_CN_002": {
+            "charWordId": "char_4166_varkis_CN_002",
+            "wordKey": "char_4166_varkis",
+            "charId": "char_4166_varkis",
+            "voiceId": "CN_002",
+            "voiceText": "……羅德島的航向，能否向西轉五度？繼續沿河航行，會經過前方曲流的河漫灘，雖然不會影響羅德島移動，但那上面的植被比較脆弱。河流會……不，我會感謝你。",
+            "voiceTitle": "交談1",
+            "voiceIndex": 2,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4166_varkis/CN_002"
+        },
+        "char_4166_varkis_CN_003": {
+            "charWordId": "char_4166_varkis_CN_003",
+            "wordKey": "char_4166_varkis",
+            "charId": "char_4166_varkis",
+            "voiceId": "CN_003",
+            "voiceText": "博士，可以出來了，醫療部的人已經走了。但他們肯定還會再來，你為什麼要躲著他們？……我？我得的是礦石病，何必浪費時間治療。如今活過的每一天，都已是多餘的饋贈了。",
+            "voiceTitle": "交談2",
+            "voiceIndex": 3,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4166_varkis/CN_003"
+        },
+        "char_4166_varkis_CN_004": {
+            "charWordId": "char_4166_varkis_CN_004",
+            "wordKey": "char_4166_varkis",
+            "charId": "char_4166_varkis",
+            "voiceId": "CN_004",
+            "voiceText": "博士，梅捷緹克緹小姐剛才來找你，記得聯絡她……為什麼這樣看我？我知道羅德島是什麼地方，不會在這裡對薩爾貢人怎麼樣……不過，也請別對我說什麼“放下仇恨”之類的話。",
+            "voiceTitle": "交談3",
+            "voiceIndex": 4,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4166_varkis/CN_004"
+        },
+        "char_4166_varkis_CN_005": {
+            "charWordId": "char_4166_varkis_CN_005",
+            "wordKey": "char_4166_varkis",
+            "charId": "char_4166_varkis",
+            "voiceId": "CN_005",
+            "voiceText": "若你有機會去雅賽努斯，我可以載你在特爾斐運河上早航。那時的城市清涼安寧，行人和行船都少，朝陽越過神殿的頂角，照得河面在晨霧中閃爍……我惟願這樣的米諾斯久久長存。",
+            "voiceTitle": "晉升後交談1",
+            "voiceIndex": 5,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "AWAKE",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                },
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4166_varkis/CN_005"
+        },
+        "char_4166_varkis_CN_006": {
+            "charWordId": "char_4166_varkis_CN_006",
+            "wordKey": "char_4166_varkis",
+            "charId": "char_4166_varkis",
+            "voiceId": "CN_006",
+            "voiceText": "雅賽努斯城不是我的家鄉，我的家鄉已經毀於薩爾貢人之手。特爾斐運河當然好，但即使是真正的特爾斐河，也不能讓我忘懷故鄉河流的夜色，隨水搖晃的漁燈……那是我所見第一條河。",
+            "voiceTitle": "晉升後交談2",
+            "voiceIndex": 6,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "AWAKE",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 2
+                },
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4166_varkis/CN_006"
+        },
+        "char_4166_varkis_CN_007": {
+            "charWordId": "char_4166_varkis_CN_007",
+            "wordKey": "char_4166_varkis",
+            "charId": "char_4166_varkis",
+            "voiceId": "CN_007",
+            "voiceText": "——喝！……抱歉，博士。你不小心撞倒了杯子？我來收拾。剛才突然聽到響聲，有點失禮，有沒有嚇到你？……我沒事，只是昨夜夢到了披甲馱獸的蹄聲，沒有睡好。",
+            "voiceTitle": "信賴提升後交談1",
+            "voiceIndex": 7,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "FAVOR",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 40
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4166_varkis/CN_007"
+        },
+        "char_4166_varkis_CN_008": {
+            "charWordId": "char_4166_varkis_CN_008",
+            "wordKey": "char_4166_varkis",
+            "charId": "char_4166_varkis",
+            "voiceId": "CN_008",
+            "voiceText": "博士，你要帶我去哪裡？這是去醫療部的路，我記得今天不是你的檢查日。我來這裡是想報答羅德島的救助之恩，不是來治病……好吧，如果是你要求。",
+            "voiceTitle": "信賴提升後交談2",
+            "voiceIndex": 8,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "FAVOR",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 100
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4166_varkis/CN_008"
+        },
+        "char_4166_varkis_CN_009": {
+            "charWordId": "char_4166_varkis_CN_009",
+            "wordKey": "char_4166_varkis",
+            "charId": "char_4166_varkis",
+            "voiceId": "CN_009",
+            "voiceText": "我已經送別了太多比我更應該活下去的年輕人……一想到這樣的事以後或許還會發生，我也會有些，害怕。但……博士，為什麼我會在你的眼中，看到跟我相似的恐懼呢？",
+            "voiceTitle": "信賴提升後交談3",
+            "voiceIndex": 9,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "FAVOR",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 200
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "HOME_SHOW",
+            "voiceAsset": "char_4166_varkis/CN_009"
+        },
+        "char_4166_varkis_CN_010": {
+            "charWordId": "char_4166_varkis_CN_010",
+            "wordKey": "char_4166_varkis",
+            "charId": "char_4166_varkis",
+            "voiceId": "CN_010",
+            "voiceText": "……你又是為何如此辛勞。",
+            "voiceTitle": "閒置",
+            "voiceIndex": 10,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "HOME_WAIT",
+            "voiceAsset": "char_4166_varkis/CN_010"
+        },
+        "char_4166_varkis_CN_011": {
+            "charWordId": "char_4166_varkis_CN_011",
+            "wordKey": "char_4166_varkis",
+            "charId": "char_4166_varkis",
+            "voiceId": "CN_011",
+            "voiceText": "“博士”，對嗎？萊娜小姐說可以在這裡找到你。需要我做什麼，下命令就好。不過，請不要讓我和薩爾貢人一起行動。這樣對所有人都好。",
+            "voiceTitle": "幹員報到",
+            "voiceIndex": 11,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "GACHA",
+            "voiceAsset": "char_4166_varkis/CN_011"
+        },
+        "char_4166_varkis_CN_012": {
+            "charWordId": "char_4166_varkis_CN_012",
+            "wordKey": "char_4166_varkis",
+            "charId": "char_4166_varkis",
+            "voiceId": "CN_012",
+            "voiceText": "……這些戰鬥，都是由你指揮？",
+            "voiceTitle": "觀看作戰記錄",
+            "voiceIndex": 12,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "LEVEL_UP",
+            "voiceAsset": "char_4166_varkis/CN_012"
+        },
+        "char_4166_varkis_CN_013": {
+            "charWordId": "char_4166_varkis_CN_013",
+            "wordKey": "char_4166_varkis",
+            "charId": "char_4166_varkis",
+            "voiceId": "CN_013",
+            "voiceText": "謝謝，但容我拒絕。我願意為你們戰鬥，但並不想為此得到嘉獎——是表彰我救活了博士辦公室裡的黃金葛？……我會收下，謝謝。",
+            "voiceTitle": "精英化晉升1",
+            "voiceIndex": 13,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "AWAKE",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                },
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "EVOLVE_ONE",
+            "voiceAsset": "char_4166_varkis/CN_013"
+        },
+        "char_4166_varkis_CN_014": {
+            "charWordId": "char_4166_varkis_CN_014",
+            "wordKey": "char_4166_varkis",
+            "charId": "char_4166_varkis",
+            "voiceId": "CN_014",
+            "voiceText": "我不相信你們說的和平，我絕不會放棄仇恨，若薩爾貢人再敢染指米諾斯，我必將用我的死交換他們的死。我頑固至此，你也要予我信任嗎？……好。",
+            "voiceTitle": "精英化晉升2",
+            "voiceIndex": 14,
+            "voiceType": "ONLY_TEXT",
+            "unlockType": "AWAKE",
+            "unlockParam": [
+                {
+                    "valueStr": null,
+                    "valueInt": 2
+                },
+                {
+                    "valueStr": null,
+                    "valueInt": 1
+                }
+            ],
+            "lockDescription": null,
+            "placeType": "EVOLVE_TWO",
+            "voiceAsset": "char_4166_varkis/CN_014"
+        },
+        "char_4166_varkis_CN_017": {
+            "charWordId": "char_4166_varkis_CN_017",
+            "wordKey": "char_4166_varkis",
+            "charId": "char_4166_varkis",
+            "voiceId": "CN_017",
+            "voiceText": "到。",
+            "voiceTitle": "編入隊伍",
+            "voiceIndex": 17,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "SQUAD",
+            "voiceAsset": "char_4166_varkis/CN_017"
+        },
+        "char_4166_varkis_CN_018": {
+            "charWordId": "char_4166_varkis_CN_018",
+            "wordKey": "char_4166_varkis",
+            "charId": "char_4166_varkis",
+            "voiceId": "CN_018",
+            "voiceText": "隨我前進。",
+            "voiceTitle": "任命隊長",
+            "voiceIndex": 18,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "SQUAD_FIRST",
+            "voiceAsset": "char_4166_varkis/CN_018"
+        },
+        "char_4166_varkis_CN_019": {
+            "charWordId": "char_4166_varkis_CN_019",
+            "wordKey": "char_4166_varkis",
+            "charId": "char_4166_varkis",
+            "voiceId": "CN_019",
+            "voiceText": "領命。",
+            "voiceTitle": "行動出發",
+            "voiceIndex": 19,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_START",
+            "voiceAsset": "char_4166_varkis/CN_019"
+        },
+        "char_4166_varkis_CN_020": {
+            "charWordId": "char_4166_varkis_CN_020",
+            "wordKey": "char_4166_varkis",
+            "charId": "char_4166_varkis",
+            "voiceId": "CN_020",
+            "voiceText": "警戒。",
+            "voiceTitle": "行動開始",
+            "voiceIndex": 20,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_FACE_ENEMY",
+            "voiceAsset": "char_4166_varkis/CN_020"
+        },
+        "char_4166_varkis_CN_021": {
+            "charWordId": "char_4166_varkis_CN_021",
+            "wordKey": "char_4166_varkis",
+            "charId": "char_4166_varkis",
+            "voiceId": "CN_021",
+            "voiceText": "是。",
+            "voiceTitle": "選中幹員1",
+            "voiceIndex": 21,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SELECT",
+            "voiceAsset": "char_4166_varkis/CN_021"
+        },
+        "char_4166_varkis_CN_022": {
+            "charWordId": "char_4166_varkis_CN_022",
+            "wordKey": "char_4166_varkis",
+            "charId": "char_4166_varkis",
+            "voiceId": "CN_022",
+            "voiceText": "在。",
+            "voiceTitle": "選中幹員2",
+            "voiceIndex": 22,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SELECT",
+            "voiceAsset": "char_4166_varkis/CN_022"
+        },
+        "char_4166_varkis_CN_023": {
+            "charWordId": "char_4166_varkis_CN_023",
+            "wordKey": "char_4166_varkis",
+            "charId": "char_4166_varkis",
+            "voiceId": "CN_023",
+            "voiceText": "目標位置安全。",
+            "voiceTitle": "部署1",
+            "voiceIndex": 23,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_PLACE",
+            "voiceAsset": "char_4166_varkis/CN_023"
+        },
+        "char_4166_varkis_CN_024": {
+            "charWordId": "char_4166_varkis_CN_024",
+            "wordKey": "char_4166_varkis",
+            "charId": "char_4166_varkis",
+            "voiceId": "CN_024",
+            "voiceText": "隨時可以行動。",
+            "voiceTitle": "部署2",
+            "voiceIndex": 24,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_PLACE",
+            "voiceAsset": "char_4166_varkis/CN_024"
+        },
+        "char_4166_varkis_CN_025": {
+            "charWordId": "char_4166_varkis_CN_025",
+            "wordKey": "char_4166_varkis",
+            "charId": "char_4166_varkis",
+            "voiceId": "CN_025",
+            "voiceText": "無人有權奴役！",
+            "voiceTitle": "作戰中1",
+            "voiceIndex": 25,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SKILL_1",
+            "voiceAsset": "char_4166_varkis/CN_025"
+        },
+        "char_4166_varkis_CN_026": {
+            "charWordId": "char_4166_varkis_CN_026",
+            "wordKey": "char_4166_varkis",
+            "charId": "char_4166_varkis",
+            "voiceId": "CN_026",
+            "voiceText": "兇暴必趨滅亡！",
+            "voiceTitle": "作戰中2",
+            "voiceIndex": 26,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SKILL_2",
+            "voiceAsset": "char_4166_varkis/CN_026"
+        },
+        "char_4166_varkis_CN_027": {
+            "charWordId": "char_4166_varkis_CN_027",
+            "wordKey": "char_4166_varkis",
+            "charId": "char_4166_varkis",
+            "voiceId": "CN_027",
+            "voiceText": "殘軀不足為惜！",
+            "voiceTitle": "作戰中3",
+            "voiceIndex": 27,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SKILL_3",
+            "voiceAsset": "char_4166_varkis/CN_027"
+        },
+        "char_4166_varkis_CN_028": {
+            "charWordId": "char_4166_varkis_CN_028",
+            "wordKey": "char_4166_varkis",
+            "charId": "char_4166_varkis",
+            "voiceId": "CN_028",
+            "voiceText": "血債必以血償！",
+            "voiceTitle": "作戰中4",
+            "voiceIndex": 28,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BATTLE_SKILL_4",
+            "voiceAsset": "char_4166_varkis/CN_028"
+        },
+        "char_4166_varkis_CN_029": {
+            "charWordId": "char_4166_varkis_CN_029",
+            "wordKey": "char_4166_varkis",
+            "charId": "char_4166_varkis",
+            "voiceId": "CN_029",
+            "voiceText": "……你是如何做到的？不，我不是指你的指揮、計謀乃至詭詐，而是在如此絕境中，你為什麼仍然敢於承諾？",
+            "voiceTitle": "完成高難行動",
+            "voiceIndex": 29,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "FOUR_STAR",
+            "voiceAsset": "char_4166_varkis/CN_029"
+        },
+        "char_4166_varkis_CN_030": {
+            "charWordId": "char_4166_varkis_CN_030",
+            "wordKey": "char_4166_varkis",
+            "charId": "char_4166_varkis",
+            "voiceId": "CN_030",
+            "voiceText": "你不只對勝利負責，也對聽從你命令之人的生命負責。這樣……很好。",
+            "voiceTitle": "3星結束行動",
+            "voiceIndex": 30,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "THREE_STAR",
+            "voiceAsset": "char_4166_varkis/CN_030"
+        },
+        "char_4166_varkis_CN_031": {
+            "charWordId": "char_4166_varkis_CN_031",
+            "wordKey": "char_4166_varkis",
+            "charId": "char_4166_varkis",
+            "voiceId": "CN_031",
+            "voiceText": "戰場上沒有算無遺策。不必對自己過苛。",
+            "voiceTitle": "非3星結束行動",
+            "voiceIndex": 31,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "TWO_STAR",
+            "voiceAsset": "char_4166_varkis/CN_031"
+        },
+        "char_4166_varkis_CN_032": {
+            "charWordId": "char_4166_varkis_CN_032",
+            "wordKey": "char_4166_varkis",
+            "charId": "char_4166_varkis",
+            "voiceId": "CN_032",
+            "voiceText": "這種程度的損失仍然可以接受。你該撤離了。你更重要。",
+            "voiceTitle": "行動失敗",
+            "voiceIndex": 32,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "LOSE",
+            "voiceAsset": "char_4166_varkis/CN_032"
+        },
+        "char_4166_varkis_CN_033": {
+            "charWordId": "char_4166_varkis_CN_033",
+            "wordKey": "char_4166_varkis",
+            "charId": "char_4166_varkis",
+            "voiceId": "CN_033",
+            "voiceText": "……我似乎聽見了誦詩聲。",
+            "voiceTitle": "進駐設施",
+            "voiceIndex": 33,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BUILDING_PLACE",
+            "voiceAsset": "char_4166_varkis/CN_033"
+        },
+        "char_4166_varkis_CN_034": {
+            "charWordId": "char_4166_varkis_CN_034",
+            "wordKey": "char_4166_varkis",
+            "charId": "char_4166_varkis",
+            "voiceId": "CN_034",
+            "voiceText": "有何命令？",
+            "voiceTitle": "戳一下",
+            "voiceIndex": 34,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BUILDING_TOUCHING",
+            "voiceAsset": "char_4166_varkis/CN_034"
+        },
+        "char_4166_varkis_CN_036": {
+            "charWordId": "char_4166_varkis_CN_036",
+            "wordKey": "char_4166_varkis",
+            "charId": "char_4166_varkis",
+            "voiceId": "CN_036",
+            "voiceText": "我發現有時候你呼喚我之後，卻不下令。那是什麼意思？",
+            "voiceTitle": "信賴觸摸",
+            "voiceIndex": 36,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BUILDING_FAVOR_BUBBLE",
+            "voiceAsset": "char_4166_varkis/CN_036"
+        },
+        "char_4166_varkis_CN_037": {
+            "charWordId": "char_4166_varkis_CN_037",
+            "wordKey": "char_4166_varkis",
+            "charId": "char_4166_varkis",
+            "voiceId": "CN_037",
+            "voiceText": "明日方舟。",
+            "voiceTitle": "標題",
+            "voiceIndex": 37,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "LOADING_PANEL",
+            "voiceAsset": "char_4166_varkis/CN_037"
+        },
+        "char_4166_varkis_CN_038": {
+            "charWordId": "char_4166_varkis_CN_038",
+            "wordKey": "char_4166_varkis",
+            "charId": "char_4166_varkis",
+            "voiceId": "CN_038",
+            "voiceText": "雅賽努斯外部地塊的岩山徑流有時會讓我忘記它是一座移動城市……在這裡則不同，疾馳在大地上迎來新年對我來說很新奇。您想去甲板上走走嗎？也許我們能望見今年相遇的第一條河。",
+            "voiceTitle": "新年祝福",
+            "voiceIndex": 38,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "NEW_YEAR",
+            "voiceAsset": "char_4166_varkis/CN_038"
+        },
+        "char_4166_varkis_CN_042": {
+            "charWordId": "char_4166_varkis_CN_042",
+            "wordKey": "char_4166_varkis",
+            "charId": "char_4166_varkis",
+            "voiceId": "CN_042",
+            "voiceText": "博士，你來得很早。我見你桌上放了一本詩集，待你讀完，能借給我嗎？我不會在工作時看的。",
+            "voiceTitle": "問候",
+            "voiceIndex": 42,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "GREETING",
+            "voiceAsset": "char_4166_varkis/CN_042"
+        },
+        "char_4166_varkis_CN_043": {
+            "charWordId": "char_4166_varkis_CN_043",
+            "wordKey": "char_4166_varkis",
+            "charId": "char_4166_varkis",
+            "voiceId": "CN_043",
+            "voiceText": "博士，方便閉上眼睛嗎？……好了，請聽。這是我錄下的特爾斐河春汛時的流水聲。春汛徑流自荷謨伊山的融雪而來，於我，這就是冬天離去的聲音。願你也喜歡這件禮物。",
+            "voiceTitle": "生日",
+            "voiceIndex": 43,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "BIRTHDAY",
+            "voiceAsset": "char_4166_varkis/CN_043"
+        },
+        "char_4166_varkis_CN_044": {
+            "charWordId": "char_4166_varkis_CN_044",
+            "wordKey": "char_4166_varkis",
+            "charId": "char_4166_varkis",
+            "voiceId": "CN_044",
+            "voiceText": "強大和良善難以並存。難獲懲罰的慾望必然膨脹。但，羅德島……親眼所見之前，我不相信這片大地有如你們一般的人與事存在。我依舊無法相信你們會成功……但我希望你們能。",
+            "voiceTitle": "周年慶典",
+            "voiceIndex": 44,
+            "voiceType": "ENUM",
+            "unlockType": "DIRECT",
+            "unlockParam": [],
+            "lockDescription": null,
+            "placeType": "ANNIVERSARY",
+            "voiceAsset": "char_4166_varkis/CN_044"
         },
         "char_113_cqbw_epoque#7_CN_001": {
             "charWordId": "char_113_cqbw_epoque#7_CN_001",
@@ -290927,7 +292790,7 @@
                     "wordkey": "char_4213_skybx",
                     "voiceLangType": "KR",
                     "cvName": [
-                        "兪善壹"
+                        "俞善壹"
                     ],
                     "voicePath": null
                 },
@@ -290976,6 +292839,126 @@
                     "voiceLangType": "EN",
                     "cvName": [
                         "Adrienne Crawford"
+                    ],
+                    "voicePath": null
+                }
+            }
+        },
+        "char_4056_titi": {
+            "wordkeys": [
+                "char_4056_titi"
+            ],
+            "charId": "char_4056_titi",
+            "dict": {
+                "CN_MANDARIN": {
+                    "wordkey": "char_4056_titi",
+                    "voiceLangType": "CN_MANDARIN",
+                    "cvName": [
+                        "木子橙"
+                    ],
+                    "voicePath": null
+                },
+                "JP": {
+                    "wordkey": "char_4056_titi",
+                    "voiceLangType": "JP",
+                    "cvName": [
+                        "五十嵐裕美"
+                    ],
+                    "voicePath": null
+                },
+                "KR": {
+                    "wordkey": "char_4056_titi",
+                    "voiceLangType": "KR",
+                    "cvName": [
+                        "孫廷旼"
+                    ],
+                    "voicePath": null
+                },
+                "EN": {
+                    "wordkey": "char_4056_titi",
+                    "voiceLangType": "EN",
+                    "cvName": [
+                        "Christina Costello"
+                    ],
+                    "voicePath": null
+                }
+            }
+        },
+        "char_1022_flwr2": {
+            "wordkeys": [
+                "char_1022_flwr2"
+            ],
+            "charId": "char_1022_flwr2",
+            "dict": {
+                "CN_MANDARIN": {
+                    "wordkey": "char_1022_flwr2",
+                    "voiceLangType": "CN_MANDARIN",
+                    "cvName": [
+                        "楊冬會"
+                    ],
+                    "voicePath": null
+                },
+                "JP": {
+                    "wordkey": "char_1022_flwr2",
+                    "voiceLangType": "JP",
+                    "cvName": [
+                        "高橋李依"
+                    ],
+                    "voicePath": null
+                },
+                "KR": {
+                    "wordkey": "char_1022_flwr2",
+                    "voiceLangType": "KR",
+                    "cvName": [
+                        "李賢真"
+                    ],
+                    "voicePath": null
+                },
+                "EN": {
+                    "wordkey": "char_1022_flwr2",
+                    "voiceLangType": "EN",
+                    "cvName": [
+                        "Sam Slade"
+                    ],
+                    "voicePath": null
+                }
+            }
+        },
+        "char_4166_varkis": {
+            "wordkeys": [
+                "char_4166_varkis"
+            ],
+            "charId": "char_4166_varkis",
+            "dict": {
+                "CN_MANDARIN": {
+                    "wordkey": "char_4166_varkis",
+                    "voiceLangType": "CN_MANDARIN",
+                    "cvName": [
+                        "孟祥龍"
+                    ],
+                    "voicePath": null
+                },
+                "JP": {
+                    "wordkey": "char_4166_varkis",
+                    "voiceLangType": "JP",
+                    "cvName": [
+                        "鶴岡聰"
+                    ],
+                    "voicePath": null
+                },
+                "KR": {
+                    "wordkey": "char_4166_varkis",
+                    "voiceLangType": "KR",
+                    "cvName": [
+                        "張智旼"
+                    ],
+                    "voicePath": null
+                },
+                "EN": {
+                    "wordkey": "char_4166_varkis",
+                    "voiceLangType": "EN",
+                    "cvName": [
+                        "Greg Jones"
                     ],
                     "voicePath": null
                 }
@@ -291569,15 +293552,9 @@
     },
     "defaultLangType": "JP",
     "newTagList": [
-        "char_1045_svash2",
-        "char_1046_sbell2",
-        "char_1047_halo2",
-        "char_4211_snhunt",
-        "char_394_hadiya",
-        "char_4051_akkord",
-        "char_4212_nasti",
-        "char_4213_skybx",
-        "char_4214_cairn"
+        "char_4056_titi",
+        "char_1022_flwr2",
+        "char_4166_varkis"
     ],
     "voiceLangTypeDict": {
         "CN_MANDARIN": {
@@ -292072,7 +294049,10 @@
         "char_4051_akkord": "JP",
         "char_4212_nasti": "JP",
         "char_4213_skybx": "JP",
-        "char_4214_cairn": "JP"
+        "char_4214_cairn": "JP",
+        "char_4056_titi": "JP",
+        "char_1022_flwr2": "JP",
+        "char_4166_varkis": "JP"
     },
     "startTimeWithTypeDict": {
         "CN_TOPOLECT": [
@@ -292140,6 +294120,14 @@
             }
         ],
         "KR": [
+            {
+                "timestamp": 1784700000,
+                "charSet": [
+                    "char_4056_titi",
+                    "char_1022_flwr2",
+                    "char_4166_varkis"
+                ]
+            },
             {
                 "timestamp": 1783324800,
                 "charSet": [
@@ -292770,6 +294758,14 @@
             }
         ],
         "EN": [
+            {
+                "timestamp": 1784700000,
+                "charSet": [
+                    "char_4056_titi",
+                    "char_1022_flwr2",
+                    "char_4166_varkis"
+                ]
+            },
             {
                 "timestamp": 1783324800,
                 "charSet": [
