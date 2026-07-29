@@ -3115,7 +3115,8 @@
                     "attractImmune": {
                         "m_defined": true,
                         "m_value": false
-                    }
+                    },
+                    "teleportImmune": null
                 },
                 "applyWay": {
                     "m_defined": true,

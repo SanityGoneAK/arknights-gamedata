@@ -4171,7 +4171,8 @@
                     "attractImmune": {
                         "m_defined": false,
                         "m_value": false
-                    }
+                    },
+                    "teleportImmune": null
                 },
                 "applyWay": {
                     "m_defined": false,
@@ -4351,7 +4352,8 @@
                     "attractImmune": {
                         "m_defined": false,
                         "m_value": false
-                    }
+                    },
+                    "teleportImmune": null
                 },
                 "applyWay": {
                     "m_defined": false,
@@ -4531,7 +4533,8 @@
                     "attractImmune": {
                         "m_defined": false,
                         "m_value": false
-                    }
+                    },
+                    "teleportImmune": null
                 },
                 "applyWay": {
                     "m_defined": false,
@@ -4711,7 +4714,8 @@
                     "attractImmune": {
                         "m_defined": false,
                         "m_value": false
-                    }
+                    },
+                    "teleportImmune": null
                 },
                 "applyWay": {
                     "m_defined": false,
@@ -4891,7 +4895,8 @@
                     "attractImmune": {
                         "m_defined": false,
                         "m_value": false
-                    }
+                    },
+                    "teleportImmune": null
                 },
                 "applyWay": {
                     "m_defined": false,
