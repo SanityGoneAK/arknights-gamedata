@@ -10,7 +10,7 @@
   },
   "m_Name": "CpuLadder",
   "_middleThresholdSOCScore": 1200,
-  "_lowThresholdSOCScore": 600,
+  "_lowThresholdSOCScore": 800,
   "_androidCPULadder": [
     {
       "cpu": "qualcomm sm8850-ac snapdragon 8 elite gen 5",
@@ -41,6 +41,11 @@
       "cpu": "mediatek mt8799 dimensity 9400+",
       "mainKeyword": "mt8799",
       "score": 2013.0
+    },
+    {
+      "cpu": "xiaomi xring o1",
+      "mainKeyword": "o1",
+      "score": 2086.0
     },
     {
       "cpu": "mediatek mt6991 dimensity 9400",
@@ -283,6 +288,11 @@
       "score": 800.0
     },
     {
+      "cpu": "mediatek mt8775",
+      "mainKeyword": "mt8775",
+      "score": 798.0
+    },
+    {
       "cpu": "qualcomm sm7450-ab snapdragon 7 gen 1",
       "mainKeyword": "sm7450-ab",
       "score": 797.0
@@ -321,6 +331,11 @@
       "cpu": "hisilicon kirin 990",
       "mainKeyword": "kirin990",
       "score": 756.5
+    },
+    {
+      "cpu": "mediatek mt6858 dimensity 7100",
+      "mainKeyword": "mt6858",
+      "score": 750.0
     },
     {
       "cpu": "mediatek mt6855 dimensity 7025 ultra",
@@ -421,6 +436,11 @@
       "cpu": "qualcomm sm6375 snapdragon 695",
       "mainKeyword": "sm6375",
       "score": 661.0
+    },
+    {
+      "cpu": "mediatek mt8755",
+      "mainKeyword": "mt8755",
+      "score": 651.0
     },
     {
       "cpu": "qualcomm sm7250-ac snapdragon 768g",
@@ -651,6 +671,11 @@
       "cpu": "mediatek mt6779v helio p95",
       "mainKeyword": "mt6779v",
       "score": 398.0
+    },
+    {
+      "cpu": "mediatek mt8786v/n",
+      "mainKeyword": "mt8786v/n",
+      "score": 392.0
     },
     {
       "cpu": "qualcomm sdm710 snapdragon 710",
@@ -1810,38 +1835,6 @@
   ],
   "_iOSGenerationLadder": [
     {
-      "iOSGeneration": 56,
-      "gradingLevel": 3
-    },
-    {
-      "iOSGeneration": 57,
-      "gradingLevel": 3
-    },
-    {
-      "iOSGeneration": 58,
-      "gradingLevel": 3
-    },
-    {
-      "iOSGeneration": 59,
-      "gradingLevel": 3
-    },
-    {
-      "iOSGeneration": 61,
-      "gradingLevel": 3
-    },
-    {
-      "iOSGeneration": 63,
-      "gradingLevel": 3
-    },
-    {
-      "iOSGeneration": 64,
-      "gradingLevel": 3
-    },
-    {
-      "iOSGeneration": 65,
-      "gradingLevel": 3
-    },
-    {
       "iOSGeneration": 66,
       "gradingLevel": 3
     },
@@ -1855,10 +1848,6 @@
     },
     {
       "iOSGeneration": 69,
-      "gradingLevel": 3
-    },
-    {
-      "iOSGeneration": 70,
       "gradingLevel": 3
     },
     {
@@ -1923,6 +1912,26 @@
     },
     {
       "iOSGeneration": 86,
+      "gradingLevel": 3
+    },
+    {
+      "iOSGeneration": 87,
+      "gradingLevel": 3
+    },
+    {
+      "iOSGeneration": 88,
+      "gradingLevel": 3
+    },
+    {
+      "iOSGeneration": 89,
+      "gradingLevel": 3
+    },
+    {
+      "iOSGeneration": 90,
+      "gradingLevel": 3
+    },
+    {
+      "iOSGeneration": 91,
       "gradingLevel": 3
     },
     {
@@ -2146,11 +2155,47 @@
       "gradingLevel": 2
     },
     {
+      "iOSGeneration": 56,
+      "gradingLevel": 2
+    },
+    {
+      "iOSGeneration": 57,
+      "gradingLevel": 2
+    },
+    {
+      "iOSGeneration": 58,
+      "gradingLevel": 2
+    },
+    {
+      "iOSGeneration": 59,
+      "gradingLevel": 2
+    },
+    {
       "iOSGeneration": 60,
       "gradingLevel": 2
     },
     {
+      "iOSGeneration": 61,
+      "gradingLevel": 2
+    },
+    {
       "iOSGeneration": 62,
+      "gradingLevel": 2
+    },
+    {
+      "iOSGeneration": 63,
+      "gradingLevel": 2
+    },
+    {
+      "iOSGeneration": 64,
+      "gradingLevel": 2
+    },
+    {
+      "iOSGeneration": 65,
+      "gradingLevel": 2
+    },
+    {
+      "iOSGeneration": 70,
       "gradingLevel": 2
     }
   ]
