@@ -2608,7 +2608,7 @@
                     "time": 0.0,
                     "position": {
                         "row": 6,
-                        "col": 8
+                        "col": 4
                     },
                     "reachOffset": {
                         "x": 0.0,
@@ -2675,7 +2675,7 @@
                     "time": 0.0,
                     "position": {
                         "row": 6,
-                        "col": 8
+                        "col": 4
                     },
                     "reachOffset": {
                         "x": 0.0,
@@ -2742,7 +2742,7 @@
                     "time": 0.0,
                     "position": {
                         "row": 6,
-                        "col": 8
+                        "col": 4
                     },
                     "reachOffset": {
                         "x": 0.0,
@@ -4472,7 +4472,7 @@
                     "time": 0.0,
                     "position": {
                         "row": 6,
-                        "col": 8
+                        "col": 4
                     },
                     "reachOffset": {
                         "x": 0.0,
@@ -4539,7 +4539,7 @@
                     "time": 0.0,
                     "position": {
                         "row": 6,
-                        "col": 8
+                        "col": 4
                     },
                     "reachOffset": {
                         "x": 0.0,

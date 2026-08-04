@@ -280515,7 +280515,7 @@
             "popOldest": true,
             "customMixerGroup": "Battle_P_NAtk",
             "loop": false,
-            "name": "battle.ON_ABILITY_START.char_4235_thumpy.combat.0",
+            "name": "battle.ON_ABILITY_START.char_4235_thumpy.attack.0",
             "mixerDesc": null
         },
         {
@@ -280537,7 +280537,7 @@
             "popOldest": true,
             "customMixerGroup": "Battle_P_NImp",
             "loop": false,
-            "name": "battle.ON_ABILITY_HIT.char_4235_thumpy.combat.0",
+            "name": "battle.ON_ABILITY_HIT.char_4235_thumpy.attack.0",
             "mixerDesc": null
         },
         {
@@ -280713,7 +280713,7 @@
             "popOldest": true,
             "customMixerGroup": "Battle_P_SAtk",
             "loop": false,
-            "name": "battle.ON_ABILITY_START.char_4235_thumpy.combat.2",
+            "name": "battle.ON_ABILITY_START.char_4235_thumpy.attack.2",
             "mixerDesc": null
         },
         {
@@ -280735,7 +280735,7 @@
             "popOldest": true,
             "customMixerGroup": "Battle_P_SImp",
             "loop": false,
-            "name": "battle.ON_ABILITY_HIT.char_4235_thumpy.combat.2",
+            "name": "battle.ON_ABILITY_HIT.char_4235_thumpy.attack.2",
             "mixerDesc": null
         },
         {

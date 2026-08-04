@@ -316191,7 +316191,7 @@
             {
                 "name": "“慢慢走~”",
                 "rangeId": null,
-                "description": "攻击力和防御力<@ba.vup>+{def:0%}</>；向前方可通行地面喷洒占据<@ba.vup>4</>格的强力胶，每<@ba.vup>{interval}</>秒造成相当于珊比攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害和<@ba.vup>{sluggish}</>秒<$ba.sluggish>停顿</>，其他干员对强力胶内的敌人造成物理伤害时附带相当于珊比攻击力<@ba.vup>{ep_damage_ratio[damage]:0%}</>的<$ba.dt.erosion>侵蚀损伤</>",
+                "description": "攻击力和防御力<@ba.vup>+{def:0%}</>；向前方可通行地面喷洒占据<@ba.vup>4</>格的强力胶，每<@ba.vup>{interval}</>秒造成相当于珊比攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害和<@ba.vup>{sluggish}</>秒<$ba.sluggish>停顿</>，其他干员对强力胶内的敌人造成物理伤害时附带相当于珊比攻击力<@ba.vup>{ep_damage_ratio[damage]:0%}</>的<$ba.dt.erosion2>侵蚀损伤</>",
                 "skillType": "MANUAL",
                 "durationType": "NONE",
                 "spData": {
@@ -316250,7 +316250,7 @@
             {
                 "name": "“慢慢走~”",
                 "rangeId": null,
-                "description": "攻击力和防御力<@ba.vup>+{def:0%}</>；向前方可通行地面喷洒占据<@ba.vup>4</>格的强力胶，每<@ba.vup>{interval}</>秒造成相当于珊比攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害和<@ba.vup>{sluggish}</>秒<$ba.sluggish>停顿</>，其他干员对强力胶内的敌人造成物理伤害时附带相当于珊比攻击力<@ba.vup>{ep_damage_ratio[damage]:0%}</>的<$ba.dt.erosion>侵蚀损伤</>",
+                "description": "攻击力和防御力<@ba.vup>+{def:0%}</>；向前方可通行地面喷洒占据<@ba.vup>4</>格的强力胶，每<@ba.vup>{interval}</>秒造成相当于珊比攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害和<@ba.vup>{sluggish}</>秒<$ba.sluggish>停顿</>，其他干员对强力胶内的敌人造成物理伤害时附带相当于珊比攻击力<@ba.vup>{ep_damage_ratio[damage]:0%}</>的<$ba.dt.erosion2>侵蚀损伤</>",
                 "skillType": "MANUAL",
                 "durationType": "NONE",
                 "spData": {
@@ -316309,7 +316309,7 @@
             {
                 "name": "“慢慢走~”",
                 "rangeId": null,
-                "description": "攻击力和防御力<@ba.vup>+{def:0%}</>；向前方可通行地面喷洒占据<@ba.vup>4</>格的强力胶，每<@ba.vup>{interval}</>秒造成相当于珊比攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害和<@ba.vup>{sluggish}</>秒<$ba.sluggish>停顿</>，其他干员对强力胶内的敌人造成物理伤害时附带相当于珊比攻击力<@ba.vup>{ep_damage_ratio[damage]:0%}</>的<$ba.dt.erosion>侵蚀损伤</>",
+                "description": "攻击力和防御力<@ba.vup>+{def:0%}</>；向前方可通行地面喷洒占据<@ba.vup>4</>格的强力胶，每<@ba.vup>{interval}</>秒造成相当于珊比攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害和<@ba.vup>{sluggish}</>秒<$ba.sluggish>停顿</>，其他干员对强力胶内的敌人造成物理伤害时附带相当于珊比攻击力<@ba.vup>{ep_damage_ratio[damage]:0%}</>的<$ba.dt.erosion2>侵蚀损伤</>",
                 "skillType": "MANUAL",
                 "durationType": "NONE",
                 "spData": {
@@ -316368,7 +316368,7 @@
             {
                 "name": "“慢慢走~”",
                 "rangeId": null,
-                "description": "攻击力和防御力<@ba.vup>+{def:0%}</>；向前方可通行地面喷洒占据<@ba.vup>4</>格的强力胶，每<@ba.vup>{interval}</>秒造成相当于珊比攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害和<@ba.vup>{sluggish}</>秒<$ba.sluggish>停顿</>，其他干员对强力胶内的敌人造成物理伤害时附带相当于珊比攻击力<@ba.vup>{ep_damage_ratio[damage]:0%}</>的<$ba.dt.erosion>侵蚀损伤</>",
+                "description": "攻击力和防御力<@ba.vup>+{def:0%}</>；向前方可通行地面喷洒占据<@ba.vup>4</>格的强力胶，每<@ba.vup>{interval}</>秒造成相当于珊比攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害和<@ba.vup>{sluggish}</>秒<$ba.sluggish>停顿</>，其他干员对强力胶内的敌人造成物理伤害时附带相当于珊比攻击力<@ba.vup>{ep_damage_ratio[damage]:0%}</>的<$ba.dt.erosion2>侵蚀损伤</>",
                 "skillType": "MANUAL",
                 "durationType": "NONE",
                 "spData": {
@@ -316427,7 +316427,7 @@
             {
                 "name": "“慢慢走~”",
                 "rangeId": null,
-                "description": "攻击力和防御力<@ba.vup>+{def:0%}</>；向前方可通行地面喷洒占据<@ba.vup>4</>格的强力胶，每<@ba.vup>{interval}</>秒造成相当于珊比攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害和<@ba.vup>{sluggish}</>秒<$ba.sluggish>停顿</>，其他干员对强力胶内的敌人造成物理伤害时附带相当于珊比攻击力<@ba.vup>{ep_damage_ratio[damage]:0%}</>的<$ba.dt.erosion>侵蚀损伤</>",
+                "description": "攻击力和防御力<@ba.vup>+{def:0%}</>；向前方可通行地面喷洒占据<@ba.vup>4</>格的强力胶，每<@ba.vup>{interval}</>秒造成相当于珊比攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害和<@ba.vup>{sluggish}</>秒<$ba.sluggish>停顿</>，其他干员对强力胶内的敌人造成物理伤害时附带相当于珊比攻击力<@ba.vup>{ep_damage_ratio[damage]:0%}</>的<$ba.dt.erosion2>侵蚀损伤</>",
                 "skillType": "MANUAL",
                 "durationType": "NONE",
                 "spData": {
@@ -316486,7 +316486,7 @@
             {
                 "name": "“慢慢走~”",
                 "rangeId": null,
-                "description": "攻击力和防御力<@ba.vup>+{def:0%}</>；向前方可通行地面喷洒占据<@ba.vup>4</>格的强力胶，每<@ba.vup>{interval}</>秒造成相当于珊比攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害和<@ba.vup>{sluggish}</>秒<$ba.sluggish>停顿</>，其他干员对强力胶内的敌人造成物理伤害时附带相当于珊比攻击力<@ba.vup>{ep_damage_ratio[damage]:0%}</>的<$ba.dt.erosion>侵蚀损伤</>",
+                "description": "攻击力和防御力<@ba.vup>+{def:0%}</>；向前方可通行地面喷洒占据<@ba.vup>4</>格的强力胶，每<@ba.vup>{interval}</>秒造成相当于珊比攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害和<@ba.vup>{sluggish}</>秒<$ba.sluggish>停顿</>，其他干员对强力胶内的敌人造成物理伤害时附带相当于珊比攻击力<@ba.vup>{ep_damage_ratio[damage]:0%}</>的<$ba.dt.erosion2>侵蚀损伤</>",
                 "skillType": "MANUAL",
                 "durationType": "NONE",
                 "spData": {
@@ -316545,7 +316545,7 @@
             {
                 "name": "“慢慢走~”",
                 "rangeId": null,
-                "description": "攻击力和防御力<@ba.vup>+{def:0%}</>；向前方可通行地面喷洒占据<@ba.vup>4</>格的强力胶，每<@ba.vup>{interval}</>秒造成相当于珊比攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害和<@ba.vup>{sluggish}</>秒<$ba.sluggish>停顿</>，其他干员对强力胶内的敌人造成物理伤害时附带相当于珊比攻击力<@ba.vup>{ep_damage_ratio[damage]:0%}</>的<$ba.dt.erosion>侵蚀损伤</>",
+                "description": "攻击力和防御力<@ba.vup>+{def:0%}</>；向前方可通行地面喷洒占据<@ba.vup>4</>格的强力胶，每<@ba.vup>{interval}</>秒造成相当于珊比攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害和<@ba.vup>{sluggish}</>秒<$ba.sluggish>停顿</>，其他干员对强力胶内的敌人造成物理伤害时附带相当于珊比攻击力<@ba.vup>{ep_damage_ratio[damage]:0%}</>的<$ba.dt.erosion2>侵蚀损伤</>",
                 "skillType": "MANUAL",
                 "durationType": "NONE",
                 "spData": {
@@ -316604,7 +316604,7 @@
             {
                 "name": "“慢慢走~”",
                 "rangeId": null,
-                "description": "攻击力和防御力<@ba.vup>+{def:0%}</>；向前方可通行地面喷洒占据<@ba.vup>4</>格的强力胶，每<@ba.vup>{interval}</>秒造成相当于珊比攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害和<@ba.vup>{sluggish}</>秒<$ba.sluggish>停顿</>，其他干员对强力胶内的敌人造成物理伤害时附带相当于珊比攻击力<@ba.vup>{ep_damage_ratio[damage]:0%}</>的<$ba.dt.erosion>侵蚀损伤</>",
+                "description": "攻击力和防御力<@ba.vup>+{def:0%}</>；向前方可通行地面喷洒占据<@ba.vup>4</>格的强力胶，每<@ba.vup>{interval}</>秒造成相当于珊比攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害和<@ba.vup>{sluggish}</>秒<$ba.sluggish>停顿</>，其他干员对强力胶内的敌人造成物理伤害时附带相当于珊比攻击力<@ba.vup>{ep_damage_ratio[damage]:0%}</>的<$ba.dt.erosion2>侵蚀损伤</>",
                 "skillType": "MANUAL",
                 "durationType": "NONE",
                 "spData": {
@@ -316663,7 +316663,7 @@
             {
                 "name": "“慢慢走~”",
                 "rangeId": null,
-                "description": "攻击力和防御力<@ba.vup>+{def:0%}</>；向前方可通行地面喷洒占据<@ba.vup>4</>格的强力胶，每<@ba.vup>{interval}</>秒造成相当于珊比攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害和<@ba.vup>{sluggish}</>秒<$ba.sluggish>停顿</>，其他干员对强力胶内的敌人造成物理伤害时附带相当于珊比攻击力<@ba.vup>{ep_damage_ratio[damage]:0%}</>的<$ba.dt.erosion>侵蚀损伤</>",
+                "description": "攻击力和防御力<@ba.vup>+{def:0%}</>；向前方可通行地面喷洒占据<@ba.vup>4</>格的强力胶，每<@ba.vup>{interval}</>秒造成相当于珊比攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害和<@ba.vup>{sluggish}</>秒<$ba.sluggish>停顿</>，其他干员对强力胶内的敌人造成物理伤害时附带相当于珊比攻击力<@ba.vup>{ep_damage_ratio[damage]:0%}</>的<$ba.dt.erosion2>侵蚀损伤</>",
                 "skillType": "MANUAL",
                 "durationType": "NONE",
                 "spData": {
@@ -316722,7 +316722,7 @@
             {
                 "name": "“慢慢走~”",
                 "rangeId": null,
-                "description": "攻击力和防御力<@ba.vup>+{def:0%}</>；向前方可通行地面喷洒占据<@ba.vup>4</>格的强力胶，每<@ba.vup>{interval}</>秒造成相当于珊比攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害和<@ba.vup>{sluggish}</>秒<$ba.sluggish>停顿</>，其他干员对强力胶内的敌人造成物理伤害时附带相当于珊比攻击力<@ba.vup>{ep_damage_ratio[damage]:0%}</>的<$ba.dt.erosion>侵蚀损伤</>",
+                "description": "攻击力和防御力<@ba.vup>+{def:0%}</>；向前方可通行地面喷洒占据<@ba.vup>4</>格的强力胶，每<@ba.vup>{interval}</>秒造成相当于珊比攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害和<@ba.vup>{sluggish}</>秒<$ba.sluggish>停顿</>，其他干员对强力胶内的敌人造成物理伤害时附带相当于珊比攻击力<@ba.vup>{ep_damage_ratio[damage]:0%}</>的<$ba.dt.erosion2>侵蚀损伤</>",
                 "skillType": "MANUAL",
                 "durationType": "NONE",
                 "spData": {
