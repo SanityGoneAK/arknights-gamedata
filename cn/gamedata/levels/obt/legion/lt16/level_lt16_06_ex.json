@@ -5241,6 +5241,10 @@
                     "teleportImmune": {
                         "m_defined": false,
                         "m_value": false
+                    },
+                    "groundBoundImmune": {
+                        "m_defined": false,
+                        "m_value": false
                     }
                 },
                 "applyWay": {
@@ -5423,6 +5427,10 @@
                         "m_value": false
                     },
                     "teleportImmune": {
+                        "m_defined": false,
+                        "m_value": false
+                    },
+                    "groundBoundImmune": {
                         "m_defined": false,
                         "m_value": false
                     }
@@ -5609,6 +5617,10 @@
                     "teleportImmune": {
                         "m_defined": false,
                         "m_value": false
+                    },
+                    "groundBoundImmune": {
+                        "m_defined": false,
+                        "m_value": false
                     }
                 },
                 "applyWay": {
@@ -5793,6 +5805,10 @@
                     "teleportImmune": {
                         "m_defined": false,
                         "m_value": false
+                    },
+                    "groundBoundImmune": {
+                        "m_defined": false,
+                        "m_value": false
                     }
                 },
                 "applyWay": {
@@ -5975,6 +5991,10 @@
                         "m_value": false
                     },
                     "teleportImmune": {
+                        "m_defined": false,
+                        "m_value": false
+                    },
+                    "groundBoundImmune": {
                         "m_defined": false,
                         "m_value": false
                     }
