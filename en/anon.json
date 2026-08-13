@@ -1,17 +1,45 @@
 {
   "m_GameObject": {
     "m_FileID": 0,
-    "m_PathID": -4657441485615569939
+    "m_PathID": -2921888653408771091
   },
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 1,
-    "m_PathID": -313811669401408955
+    "m_PathID": 7701452043956100076
   },
   "m_Name": "",
-  "m_IgnoreReversedGraphics": 1,
-  "m_BlockingObjects": 0,
-  "m_BlockingMask": {
-    "m_Bits": 4294967295
+  "_cameraUI": {
+    "m_FileID": 0,
+    "m_PathID": 6858876691354248173
+  },
+  "_canvasUI": {
+    "m_FileID": 0,
+    "m_PathID": 7646432318589723629
+  },
+  "_defaultConfig": {
+    "mouseHandler": {
+      "m_FileID": 0,
+      "m_PathID": 1993331248678663869
+    },
+    "mouseHandlerInBattle": {
+      "m_FileID": 0,
+      "m_PathID": -9073361065364496036
+    }
+  },
+  "_mouseHolder": {
+    "m_FileID": 0,
+    "m_PathID": -9135020467874405395
   }
+}s": 1,
+  "m_AtlasHandleId": 0,
+  "m_Type": 0,
+  "m_PreserveAspect": 0,
+  "m_FillCenter": 1,
+  "m_FillMethod": 4,
+  "m_FillAmount": 1.0,
+  "m_FillClockwise": 1,
+  "m_FillOrigin": 0,
+  "m_UseSpriteMesh": 0,
+  "m_PixelsPerUnitMultiplier": 1.0
 }
