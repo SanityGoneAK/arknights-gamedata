@@ -86,7 +86,9 @@
                                 "disarmedCombatImmune": false,
                                 "fearedImmune": false,
                                 "palsyImmune": false,
-                                "attractImmune": false
+                                "attractImmune": false,
+                                "teleportImmune": false,
+                                "groundBoundImmune": false
                             }
                         },
                         {
@@ -117,7 +119,9 @@
                                 "disarmedCombatImmune": false,
                                 "fearedImmune": false,
                                 "palsyImmune": false,
-                                "attractImmune": false
+                                "attractImmune": false,
+                                "teleportImmune": false,
+                                "groundBoundImmune": false
                             }
                         }
                     ],
@@ -156,7 +160,9 @@
                                 "disarmedCombatImmune": false,
                                 "fearedImmune": false,
                                 "palsyImmune": false,
-                                "attractImmune": false
+                                "attractImmune": false,
+                                "teleportImmune": false,
+                                "groundBoundImmune": false
                             }
                         },
                         {
@@ -187,7 +193,9 @@
                                 "disarmedCombatImmune": false,
                                 "fearedImmune": false,
                                 "palsyImmune": false,
-                                "attractImmune": false
+                                "attractImmune": false,
+                                "teleportImmune": false,
+                                "groundBoundImmune": false
                             }
                         }
                     ],
@@ -242,7 +250,9 @@
                                 "disarmedCombatImmune": false,
                                 "fearedImmune": false,
                                 "palsyImmune": false,
-                                "attractImmune": false
+                                "attractImmune": false,
+                                "teleportImmune": false,
+                                "groundBoundImmune": false
                             }
                         },
                         {
@@ -273,7 +283,9 @@
                                 "disarmedCombatImmune": false,
                                 "fearedImmune": false,
                                 "palsyImmune": false,
-                                "attractImmune": false
+                                "attractImmune": false,
+                                "teleportImmune": false,
+                                "groundBoundImmune": false
                             }
                         }
                     ],
@@ -667,7 +679,9 @@
                         "disarmedCombatImmune": false,
                         "fearedImmune": false,
                         "palsyImmune": false,
-                        "attractImmune": false
+                        "attractImmune": false,
+                        "teleportImmune": false,
+                        "groundBoundImmune": false
                     }
                 },
                 {
@@ -698,7 +712,9 @@
                         "disarmedCombatImmune": false,
                         "fearedImmune": false,
                         "palsyImmune": false,
-                        "attractImmune": false
+                        "attractImmune": false,
+                        "teleportImmune": false,
+                        "groundBoundImmune": false
                     }
                 }
             ],
@@ -815,7 +831,7 @@
         },
         "char_1037_amiya3": {
             "name": "アーミヤ",
-            "description": "術ダメージを与え、敵を攻撃するたび攻撃範囲内の味方1人のHPを与ダメージの50%回復",
+            "description": "術ダメージを与え、敵を攻撃するたび攻撃範囲内の味方1名のHPを与ダメージの50%回復",
             "sortIndex": 0,
             "spTargetType": "NONE",
             "spTargetId": null,
@@ -910,7 +926,9 @@
                                 "disarmedCombatImmune": false,
                                 "fearedImmune": false,
                                 "palsyImmune": false,
-                                "attractImmune": false
+                                "attractImmune": false,
+                                "teleportImmune": false,
+                                "groundBoundImmune": false
                             }
                         },
                         {
@@ -941,7 +959,9 @@
                                 "disarmedCombatImmune": false,
                                 "fearedImmune": false,
                                 "palsyImmune": false,
-                                "attractImmune": false
+                                "attractImmune": false,
+                                "teleportImmune": false,
+                                "groundBoundImmune": false
                             }
                         }
                     ],
@@ -980,7 +1000,9 @@
                                 "disarmedCombatImmune": false,
                                 "fearedImmune": false,
                                 "palsyImmune": false,
-                                "attractImmune": false
+                                "attractImmune": false,
+                                "teleportImmune": false,
+                                "groundBoundImmune": false
                             }
                         },
                         {
@@ -1011,7 +1033,9 @@
                                 "disarmedCombatImmune": false,
                                 "fearedImmune": false,
                                 "palsyImmune": false,
-                                "attractImmune": false
+                                "attractImmune": false,
+                                "teleportImmune": false,
+                                "groundBoundImmune": false
                             }
                         }
                     ],
@@ -1066,7 +1090,9 @@
                                 "disarmedCombatImmune": false,
                                 "fearedImmune": false,
                                 "palsyImmune": false,
-                                "attractImmune": false
+                                "attractImmune": false,
+                                "teleportImmune": false,
+                                "groundBoundImmune": false
                             }
                         },
                         {
@@ -1097,7 +1123,9 @@
                                 "disarmedCombatImmune": false,
                                 "fearedImmune": false,
                                 "palsyImmune": false,
-                                "attractImmune": false
+                                "attractImmune": false,
+                                "teleportImmune": false,
+                                "groundBoundImmune": false
                             }
                         }
                     ],
@@ -1491,7 +1519,9 @@
                         "disarmedCombatImmune": false,
                         "fearedImmune": false,
                         "palsyImmune": false,
-                        "attractImmune": false
+                        "attractImmune": false,
+                        "teleportImmune": false,
+                        "groundBoundImmune": false
                     }
                 },
                 {
@@ -1522,7 +1552,9 @@
                         "disarmedCombatImmune": false,
                         "fearedImmune": false,
                         "palsyImmune": false,
-                        "attractImmune": false
+                        "attractImmune": false,
+                        "teleportImmune": false,
+                        "groundBoundImmune": false
                     }
                 }
             ],

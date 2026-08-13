@@ -321,7 +321,7 @@
             "sixStarMilestoneGroupId": "main_15",
             "bindMainlineZoneId": null,
             "bindMainlineRetroZoneId": "permanent_main_1_zone1",
-            "diamondRewardCount": 0
+            "diamondRewardCount": 42
         },
         "act3mainss_zone1": {
             "zoneID": "act3mainss_zone1",
@@ -340,7 +340,7 @@
             "sixStarMilestoneGroupId": "main_16",
             "bindMainlineZoneId": null,
             "bindMainlineRetroZoneId": "permanent_main_2_zone1",
-            "diamondRewardCount": 0
+            "diamondRewardCount": 39
         },
         "weekly_1": {
             "zoneID": "weekly_1",
@@ -1317,6 +1317,25 @@
             "type": "ROGUELIKE",
             "zoneNameFirst": null,
             "zoneNameSecond": null,
+            "zoneNameTitleCurrent": null,
+            "zoneNameTitleUnCurrent": null,
+            "zoneNameTitleEx": null,
+            "zoneNameThird": null,
+            "lockedText": null,
+            "antiSpoilerId": null,
+            "canPreview": false,
+            "hasAdditionalPanel": false,
+            "sixStarMilestoneGroupId": null,
+            "bindMainlineZoneId": null,
+            "bindMainlineRetroZoneId": null,
+            "diamondRewardCount": 0
+        },
+        "act20mini_zone1": {
+            "zoneID": "act20mini_zone1",
+            "zoneIndex": 0,
+            "type": "ACTIVITY",
+            "zoneNameFirst": null,
+            "zoneNameSecond": "비밀 장부",
             "zoneNameTitleCurrent": null,
             "zoneNameTitleUnCurrent": null,
             "zoneNameTitleEx": null,
@@ -8296,6 +8315,10 @@
         }
     },
     "zoneValidInfo": {
+        "act20mini_zone1": {
+            "startTs": 1786586400,
+            "endTs": 1787165999
+        },
         "act2break_zone1": {
             "startTs": 1785394800,
             "endTs": 1787165999
@@ -10951,7 +10974,7 @@
                     "recordTitleName": "12-17",
                     "preRecordId": "main_12_note_3",
                     "nodeTitle1": "Mr. McClaren's Monthly Card",
-                    "nodeTitle2": "비디오룸 먼슬리 카드",
+                    "nodeTitle2": "비디오룸 먼슬리카드",
                     "rewards": [
                         {
                             "bindStageId": "easy_12-15",

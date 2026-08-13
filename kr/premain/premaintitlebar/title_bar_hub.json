@@ -17,12 +17,8 @@
   },
   "_extraPicSize": [
     {
-      "width": 688,
-      "height": 212
-    },
-    {
-      "width": 1026,
-      "height": 311
+      "width": 684,
+      "height": 208
     },
     {
       "width": 684,
@@ -46,6 +42,7 @@
     "breaker_1",
     "epoque_39",
     "epoque_42",
+    "game_8",
     "iteration_epoque",
     "nian_11",
     "nian_12",
@@ -66,6 +63,7 @@
     "Premain/PremainTitleBar/breaker_1",
     "Premain/PremainTitleBar/epoque_39",
     "Premain/PremainTitleBar/epoque_42",
+    "Premain/PremainTitleBar/game_8",
     "Premain/PremainTitleBar/iteration_epoque",
     "Premain/PremainTitleBar/nian_11",
     "Premain/PremainTitleBar/nian_12",

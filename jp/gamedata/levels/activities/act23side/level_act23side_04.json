@@ -2288,7 +2288,8 @@
                 "fearedImmune": false,
                 "palsyImmune": false,
                 "attractImmune": false,
-                "teleportImmune": false
+                "teleportImmune": false,
+                "groundBoundImmune": false
             },
             "applyWay": "MELEE",
             "motion": "WALK",
@@ -2335,7 +2336,8 @@
                 "fearedImmune": false,
                 "palsyImmune": false,
                 "attractImmune": false,
-                "teleportImmune": false
+                "teleportImmune": false,
+                "groundBoundImmune": false
             },
             "applyWay": "MELEE",
             "motion": "WALK",
@@ -2382,7 +2384,8 @@
                 "fearedImmune": false,
                 "palsyImmune": false,
                 "attractImmune": false,
-                "teleportImmune": false
+                "teleportImmune": false,
+                "groundBoundImmune": false
             },
             "applyWay": "MELEE",
             "motion": "WALK",
@@ -2429,7 +2432,8 @@
                 "fearedImmune": false,
                 "palsyImmune": false,
                 "attractImmune": false,
-                "teleportImmune": false
+                "teleportImmune": false,
+                "groundBoundImmune": false
             },
             "applyWay": "MELEE",
             "motion": "WALK",
@@ -2476,7 +2480,8 @@
                 "fearedImmune": false,
                 "palsyImmune": false,
                 "attractImmune": false,
-                "teleportImmune": false
+                "teleportImmune": false,
+                "groundBoundImmune": false
             },
             "applyWay": "MELEE",
             "motion": "WALK",
@@ -2523,7 +2528,8 @@
                 "fearedImmune": false,
                 "palsyImmune": false,
                 "attractImmune": false,
-                "teleportImmune": false
+                "teleportImmune": false,
+                "groundBoundImmune": false
             },
             "applyWay": "MELEE",
             "motion": "WALK",
@@ -2570,7 +2576,8 @@
                 "fearedImmune": false,
                 "palsyImmune": false,
                 "attractImmune": false,
-                "teleportImmune": false
+                "teleportImmune": false,
+                "groundBoundImmune": false
             },
             "applyWay": "MELEE",
             "motion": "WALK",
@@ -2617,7 +2624,8 @@
                 "fearedImmune": false,
                 "palsyImmune": false,
                 "attractImmune": false,
-                "teleportImmune": false
+                "teleportImmune": false,
+                "groundBoundImmune": false
             },
             "applyWay": "MELEE",
             "motion": "WALK",
@@ -2664,7 +2672,8 @@
                 "fearedImmune": false,
                 "palsyImmune": false,
                 "attractImmune": false,
-                "teleportImmune": false
+                "teleportImmune": false,
+                "groundBoundImmune": false
             },
             "applyWay": "MELEE",
             "motion": "WALK",
@@ -2726,7 +2735,8 @@
                 "fearedImmune": false,
                 "palsyImmune": false,
                 "attractImmune": false,
-                "teleportImmune": false
+                "teleportImmune": false,
+                "groundBoundImmune": false
             },
             "applyWay": "MELEE",
             "motion": "WALK",
@@ -2788,7 +2798,8 @@
                 "fearedImmune": false,
                 "palsyImmune": false,
                 "attractImmune": false,
-                "teleportImmune": false
+                "teleportImmune": false,
+                "groundBoundImmune": false
             },
             "applyWay": "MELEE",
             "motion": "WALK",
@@ -2865,7 +2876,8 @@
                 "fearedImmune": false,
                 "palsyImmune": false,
                 "attractImmune": false,
-                "teleportImmune": false
+                "teleportImmune": false,
+                "groundBoundImmune": false
             },
             "applyWay": "MELEE",
             "motion": "WALK",
@@ -2942,7 +2954,8 @@
                 "fearedImmune": false,
                 "palsyImmune": false,
                 "attractImmune": false,
-                "teleportImmune": false
+                "teleportImmune": false,
+                "groundBoundImmune": false
             },
             "applyWay": "MELEE",
             "motion": "WALK",
@@ -2989,7 +3002,8 @@
                 "fearedImmune": false,
                 "palsyImmune": false,
                 "attractImmune": false,
-                "teleportImmune": false
+                "teleportImmune": false,
+                "groundBoundImmune": false
             },
             "applyWay": "MELEE",
             "motion": "WALK",
@@ -3036,7 +3050,8 @@
                 "fearedImmune": false,
                 "palsyImmune": false,
                 "attractImmune": false,
-                "teleportImmune": false
+                "teleportImmune": false,
+                "groundBoundImmune": false
             },
             "applyWay": "MELEE",
             "motion": "WALK",
@@ -3089,7 +3104,8 @@
                 "fearedImmune": false,
                 "palsyImmune": false,
                 "attractImmune": false,
-                "teleportImmune": false
+                "teleportImmune": false,
+                "groundBoundImmune": false
             },
             "applyWay": "MELEE",
             "motion": "WALK",
