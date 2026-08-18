@@ -2459,7 +2459,8 @@
                         "m_defined": false,
                         "m_value": false
                     },
-                    "teleportImmune": null
+                    "teleportImmune": null,
+                    "groundBoundImmune": null
                 },
                 "applyWay": {
                     "m_defined": true,
@@ -2676,7 +2677,8 @@
                         "m_defined": false,
                         "m_value": false
                     },
-                    "teleportImmune": null
+                    "teleportImmune": null,
+                    "groundBoundImmune": null
                 },
                 "applyWay": {
                     "m_defined": true,
@@ -2893,7 +2895,8 @@
                         "m_defined": false,
                         "m_value": false
                     },
-                    "teleportImmune": null
+                    "teleportImmune": null,
+                    "groundBoundImmune": null
                 },
                 "applyWay": {
                     "m_defined": true,
@@ -3110,7 +3113,8 @@
                         "m_defined": false,
                         "m_value": false
                     },
-                    "teleportImmune": null
+                    "teleportImmune": null,
+                    "groundBoundImmune": null
                 },
                 "applyWay": {
                     "m_defined": true,

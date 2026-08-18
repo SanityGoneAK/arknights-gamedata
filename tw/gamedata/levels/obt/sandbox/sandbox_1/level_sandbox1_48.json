@@ -5922,7 +5922,8 @@
                         "m_defined": false,
                         "m_value": false
                     },
-                    "teleportImmune": null
+                    "teleportImmune": null,
+                    "groundBoundImmune": null
                 },
                 "applyWay": {
                     "m_defined": false,
@@ -6103,7 +6104,8 @@
                         "m_defined": false,
                         "m_value": false
                     },
-                    "teleportImmune": null
+                    "teleportImmune": null,
+                    "groundBoundImmune": null
                 },
                 "applyWay": {
                     "m_defined": false,
@@ -6284,7 +6286,8 @@
                         "m_defined": false,
                         "m_value": false
                     },
-                    "teleportImmune": null
+                    "teleportImmune": null,
+                    "groundBoundImmune": null
                 },
                 "applyWay": {
                     "m_defined": false,
@@ -6465,7 +6468,8 @@
                         "m_defined": false,
                         "m_value": false
                     },
-                    "teleportImmune": null
+                    "teleportImmune": null,
+                    "groundBoundImmune": null
                 },
                 "applyWay": {
                     "m_defined": false,
@@ -6646,7 +6650,8 @@
                         "m_defined": false,
                         "m_value": false
                     },
-                    "teleportImmune": null
+                    "teleportImmune": null,
+                    "groundBoundImmune": null
                 },
                 "applyWay": {
                     "m_defined": false,

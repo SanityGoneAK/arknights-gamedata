@@ -8875,11 +8875,25 @@
                     "reachDistance": 0.0
                 },
                 {
+                    "type": "WAIT_FOR_SECONDS",
+                    "time": 1.0,
+                    "position": {
+                        "row": 0,
+                        "col": 0
+                    },
+                    "reachOffset": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "randomizeReachOffset": false,
+                    "reachDistance": 0.0
+                },
+                {
                     "type": "APPEAR_AT_POS",
                     "time": 0.0,
                     "position": {
                         "row": 8,
-                        "col": 5
+                        "col": 1
                     },
                     "reachOffset": {
                         "x": 0.0,
@@ -8942,11 +8956,25 @@
                     "reachDistance": 0.0
                 },
                 {
+                    "type": "WAIT_FOR_SECONDS",
+                    "time": 1.0,
+                    "position": {
+                        "row": 0,
+                        "col": 0
+                    },
+                    "reachOffset": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "randomizeReachOffset": false,
+                    "reachDistance": 0.0
+                },
+                {
                     "type": "APPEAR_AT_POS",
                     "time": 0.0,
                     "position": {
                         "row": 8,
-                        "col": 5
+                        "col": 1
                     },
                     "reachOffset": {
                         "x": 0.0,
@@ -9009,11 +9037,25 @@
                     "reachDistance": 0.0
                 },
                 {
+                    "type": "WAIT_FOR_SECONDS",
+                    "time": 1.0,
+                    "position": {
+                        "row": 0,
+                        "col": 0
+                    },
+                    "reachOffset": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "randomizeReachOffset": false,
+                    "reachDistance": 0.0
+                },
+                {
                     "type": "APPEAR_AT_POS",
                     "time": 0.0,
                     "position": {
                         "row": 8,
-                        "col": 5
+                        "col": 1
                     },
                     "reachOffset": {
                         "x": 0.0,
@@ -9076,11 +9118,25 @@
                     "reachDistance": 0.0
                 },
                 {
+                    "type": "WAIT_FOR_SECONDS",
+                    "time": 1.0,
+                    "position": {
+                        "row": 0,
+                        "col": 0
+                    },
+                    "reachOffset": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "randomizeReachOffset": false,
+                    "reachDistance": 0.0
+                },
+                {
                     "type": "APPEAR_AT_POS",
                     "time": 0.0,
                     "position": {
                         "row": 8,
-                        "col": 5
+                        "col": 1
                     },
                     "reachOffset": {
                         "x": 0.0,
@@ -9143,11 +9199,25 @@
                     "reachDistance": 0.0
                 },
                 {
+                    "type": "WAIT_FOR_SECONDS",
+                    "time": 1.0,
+                    "position": {
+                        "row": 0,
+                        "col": 0
+                    },
+                    "reachOffset": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "randomizeReachOffset": false,
+                    "reachDistance": 0.0
+                },
+                {
                     "type": "APPEAR_AT_POS",
                     "time": 0.0,
                     "position": {
                         "row": 8,
-                        "col": 5
+                        "col": 1
                     },
                     "reachOffset": {
                         "x": 0.0,
@@ -9210,11 +9280,25 @@
                     "reachDistance": 0.0
                 },
                 {
+                    "type": "WAIT_FOR_SECONDS",
+                    "time": 1.0,
+                    "position": {
+                        "row": 0,
+                        "col": 0
+                    },
+                    "reachOffset": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "randomizeReachOffset": false,
+                    "reachDistance": 0.0
+                },
+                {
                     "type": "APPEAR_AT_POS",
                     "time": 0.0,
                     "position": {
                         "row": 8,
-                        "col": 5
+                        "col": 1
                     },
                     "reachOffset": {
                         "x": 0.0,
@@ -9277,11 +9361,25 @@
                     "reachDistance": 0.0
                 },
                 {
+                    "type": "WAIT_FOR_SECONDS",
+                    "time": 1.0,
+                    "position": {
+                        "row": 0,
+                        "col": 0
+                    },
+                    "reachOffset": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "randomizeReachOffset": false,
+                    "reachDistance": 0.0
+                },
+                {
                     "type": "APPEAR_AT_POS",
                     "time": 0.0,
                     "position": {
                         "row": 8,
-                        "col": 5
+                        "col": 1
                     },
                     "reachOffset": {
                         "x": 0.0,
@@ -9344,11 +9442,25 @@
                     "reachDistance": 0.0
                 },
                 {
+                    "type": "WAIT_FOR_SECONDS",
+                    "time": 1.0,
+                    "position": {
+                        "row": 0,
+                        "col": 0
+                    },
+                    "reachOffset": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "randomizeReachOffset": false,
+                    "reachDistance": 0.0
+                },
+                {
                     "type": "APPEAR_AT_POS",
                     "time": 0.0,
                     "position": {
                         "row": 8,
-                        "col": 5
+                        "col": 1
                     },
                     "reachOffset": {
                         "x": 0.0,
