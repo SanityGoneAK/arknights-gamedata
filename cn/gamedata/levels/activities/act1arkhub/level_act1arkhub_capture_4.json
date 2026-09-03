@@ -11,15 +11,9 @@
         "isHardTrainingLevel": false,
         "isPredefinedCardsSelectable": false,
         "displayRestTime": false,
-        "maxPlayTime": -1.0,
-        "functionDisableMask": "NONE",
-        "configBlackBoard": [
-            {
-                "key": "branch_interval",
-                "value": 7.0,
-                "valueStr": null
-            }
-        ]
+        "maxPlayTime": 0.0,
+        "functionDisableMask": -1082130432,
+        "configBlackBoard": null
     },
     "levelId": null,
     "mapId": null,

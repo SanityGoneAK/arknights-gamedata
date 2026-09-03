@@ -11,8 +11,8 @@
         "isHardTrainingLevel": false,
         "isPredefinedCardsSelectable": false,
         "displayRestTime": false,
-        "maxPlayTime": -1.0,
-        "functionDisableMask": "NONE",
+        "maxPlayTime": 0.0,
+        "functionDisableMask": -1082130432,
         "configBlackBoard": null
     },
     "levelId": null,
@@ -797,7 +797,7 @@
         "tokenCards": []
     },
     "excludeCharIdList": null,
-    "randomSeed": -1,
+    "randomSeed": 1644914183,
     "operaConfig": null,
     "cameraPlugin": ""
 }

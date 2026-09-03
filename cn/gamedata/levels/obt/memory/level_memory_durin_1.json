@@ -7,12 +7,12 @@
         "costIncreaseTime": 1.0,
         "moveMultiplier": 0.5,
         "steeringEnabled": true,
-        "isTrainingLevel": true,
-        "isHardTrainingLevel": false,
+        "isTrainingLevel": false,
+        "isHardTrainingLevel": true,
         "isPredefinedCardsSelectable": false,
         "displayRestTime": false,
-        "maxPlayTime": -1.0,
-        "functionDisableMask": "NONE",
+        "maxPlayTime": 0.0,
+        "functionDisableMask": -1082130432,
         "configBlackBoard": null
     },
     "levelId": null,
@@ -3236,6 +3236,10 @@
                         "m_value": false
                     },
                     "teleportImmune": {
+                        "m_defined": false,
+                        "m_value": false
+                    },
+                    "groundBoundImmune": {
                         "m_defined": false,
                         "m_value": false
                     }

@@ -11,8 +11,8 @@
         "isHardTrainingLevel": false,
         "isPredefinedCardsSelectable": false,
         "displayRestTime": false,
-        "maxPlayTime": -1.0,
-        "functionDisableMask": "NONE",
+        "maxPlayTime": 0.0,
+        "functionDisableMask": -1082130432,
         "configBlackBoard": null
     },
     "levelId": null,
@@ -4073,6 +4073,10 @@
                     "teleportImmune": {
                         "m_defined": false,
                         "m_value": false
+                    },
+                    "groundBoundImmune": {
+                        "m_defined": false,
+                        "m_value": false
                     }
                 },
                 "applyWay": {
@@ -4296,6 +4300,10 @@
                         "m_value": false
                     },
                     "teleportImmune": {
+                        "m_defined": false,
+                        "m_value": false
+                    },
+                    "groundBoundImmune": {
                         "m_defined": false,
                         "m_value": false
                     }
@@ -4547,6 +4555,10 @@
                     "teleportImmune": {
                         "m_defined": false,
                         "m_value": false
+                    },
+                    "groundBoundImmune": {
+                        "m_defined": false,
+                        "m_value": false
                     }
                 },
                 "applyWay": {
@@ -4742,6 +4754,10 @@
                     "teleportImmune": {
                         "m_defined": false,
                         "m_value": false
+                    },
+                    "groundBoundImmune": {
+                        "m_defined": false,
+                        "m_value": false
                     }
                 },
                 "applyWay": {
@@ -4931,6 +4947,10 @@
                     "teleportImmune": {
                         "m_defined": false,
                         "m_value": false
+                    },
+                    "groundBoundImmune": {
+                        "m_defined": false,
+                        "m_value": false
                     }
                 },
                 "applyWay": {
@@ -5118,6 +5138,10 @@
                         "m_value": false
                     },
                     "teleportImmune": {
+                        "m_defined": false,
+                        "m_value": false
+                    },
+                    "groundBoundImmune": {
                         "m_defined": false,
                         "m_value": false
                     }

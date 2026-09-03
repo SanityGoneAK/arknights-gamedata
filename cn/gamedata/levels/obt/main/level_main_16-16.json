@@ -10,21 +10,10 @@
         "isTrainingLevel": false,
         "isHardTrainingLevel": false,
         "isPredefinedCardsSelectable": false,
-        "displayRestTime": true,
-        "maxPlayTime": 420.0,
-        "functionDisableMask": "NONE",
-        "configBlackBoard": [
-            {
-                "key": "dialog_before_battle",
-                "value": 0.0,
-                "valueStr": "Obt/Tutorial/Level/main_16-16"
-            },
-            {
-                "key": "dialog_after_battle",
-                "value": 0.0,
-                "valueStr": ""
-            }
-        ]
+        "displayRestTime": false,
+        "maxPlayTime": -0.0,
+        "functionDisableMask": 1137836032,
+        "configBlackBoard": null
     },
     "levelId": null,
     "mapId": null,
@@ -7391,6 +7380,10 @@
                     "teleportImmune": {
                         "m_defined": false,
                         "m_value": false
+                    },
+                    "groundBoundImmune": {
+                        "m_defined": false,
+                        "m_value": false
                     }
                 },
                 "applyWay": {
@@ -7579,6 +7572,10 @@
                         "m_value": false
                     },
                     "teleportImmune": {
+                        "m_defined": false,
+                        "m_value": false
+                    },
+                    "groundBoundImmune": {
                         "m_defined": false,
                         "m_value": false
                     }
@@ -7775,6 +7772,10 @@
                         "m_value": false
                     },
                     "teleportImmune": {
+                        "m_defined": false,
+                        "m_value": false
+                    },
+                    "groundBoundImmune": {
                         "m_defined": false,
                         "m_value": false
                     }
