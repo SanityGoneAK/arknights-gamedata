@@ -5608,6 +5608,27 @@
             "limitParam": null
         },
         {
+            "gachaPoolId": "DOUBLE_TC_40_0_7",
+            "gachaIndex": 865,
+            "openTime": 1788811200,
+            "endTime": 1790020799,
+            "gachaPoolName": "適合多種場合的強力幹員",
+            "gachaPoolSummary": "結束於9月22日 03:59",
+            "gachaPoolDetail": "-",
+            "guaranteeName": "標準選調",
+            "guarantee5Avail": 1,
+            "guarantee5Count": 10,
+            "LMTGSID": null,
+            "CDPrimColor": null,
+            "CDSecColor": null,
+            "freeBackColor": null,
+            "gachaRuleType": "DOUBLE",
+            "dynMeta": null,
+            "linkageRuleId": null,
+            "linkageParam": null,
+            "limitParam": null
+        },
+        {
             "gachaPoolId": "LIMITED_TC_4_3_1",
             "gachaIndex": 10,
             "openTime": 1622100600,
@@ -12380,6 +12401,13 @@
             "spriteId": "picDouble_tc_40_0_5"
         },
         {
+            "poolId": "DOUBLE_TC_40_0_7",
+            "index": 865,
+            "startTime": 1788811200,
+            "endTime": 1790020799,
+            "spriteId": "picDouble_tc_40_0_7"
+        },
+        {
             "poolId": "FESCLASSIC_TC_23_0_4",
             "index": 9999,
             "startTime": 1712174400,
@@ -12648,36 +12676,42 @@
             "endTime": 1788206399
         }
     ],
-    "linkageTenGachaItem": [
+    "linkageGachaItem": [
         {
             "itemId": "LINKAGE_TKT_GACHA_10_1701",
             "endTime": 1632340799,
-            "gachaPoolId": "LINKAGE_TC_7_2_1"
+            "gachaPoolId": "LINKAGE_TC_7_2_1",
+            "isTen": false
         },
         {
             "itemId": "LINKAGE_TKT_GACHA_10_3601",
             "endTime": 1703534399,
-            "gachaPoolId": "LINKAGE_TC_22_1_1"
+            "gachaPoolId": "LINKAGE_TC_22_1_1",
+            "isTen": false
         },
         {
             "itemId": "LINKAGE_TKT_GACHA_10_3602",
             "endTime": 1703534399,
-            "gachaPoolId": "LINKAGE_TC_22_1_1"
+            "gachaPoolId": "LINKAGE_TC_22_1_1",
+            "isTen": false
         },
         {
             "itemId": "LINKAGE_TKT_GACHA_10_4801",
             "endTime": 1735675199,
-            "gachaPoolId": "LINKAGE_TC_29_0_1"
+            "gachaPoolId": "LINKAGE_TC_29_0_1",
+            "isTen": false
         },
         {
             "itemId": "LINKAGE_TKT_GACHA_10_5401",
             "endTime": 1750103999,
-            "gachaPoolId": "LINKAGE_TC_32_0_4"
+            "gachaPoolId": "LINKAGE_TC_32_0_4",
+            "isTen": false
         },
         {
             "itemId": "LINKAGE_TKT_GACHA_10_6501",
             "endTime": 1776196799,
-            "gachaPoolId": "LINKAGE_TC_38_0_3"
+            "gachaPoolId": "LINKAGE_TC_38_0_3",
+            "isTen": false
         }
     ],
     "normalGachaItem": [
