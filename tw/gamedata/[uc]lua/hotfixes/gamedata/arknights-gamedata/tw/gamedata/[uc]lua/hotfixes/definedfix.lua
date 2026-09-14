@@ -3,12 +3,10 @@ local list =
 {
   
   "HotFixes/TestStubHotfixer",
-  "HotFixes/Act1vHalfidleHotfixer",
-  "HotFixes/Mainline16ManagerHotfixer",
-  "HotFixes/BattleControllerHotfixer",
-  "HotFixes/ParamVariablePoolHotfixer",
-  "HotFixes/HomeThemeApNumbersViewHotfixer",
-  "HotFixes/MultiV3Hotfixer"
+  "HotFixes/PCHotfixer",
+  "HotFixes/UICharTabGroupInAutochessHotfixer",
+  "HotFixes/EPControllerHotfixer",
+  "Hotfixes/AVGControllerHotfixer"
 };
 
 return list;

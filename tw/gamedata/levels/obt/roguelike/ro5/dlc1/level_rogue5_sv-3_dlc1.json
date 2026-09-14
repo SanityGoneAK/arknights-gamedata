@@ -7,11 +7,12 @@
         "costIncreaseTime": 1.0,
         "moveMultiplier": 0.5,
         "steeringEnabled": true,
+        "reachableCheckIgnoreStartTile": false,
         "isTrainingLevel": false,
         "isHardTrainingLevel": false,
         "isPredefinedCardsSelectable": false,
         "displayRestTime": false,
-        "maxPlayTime": -1.0,
+        "maxPlayTime": 0.0,
         "functionDisableMask": "NONE",
         "configBlackBoard": null
     },
@@ -1644,13 +1645,13 @@
             "visitEveryCheckPoint": true
         },
         {
-            "motionMode": "WALK",
+            "motionMode": "FLY",
             "startPosition": {
                 "row": 7,
                 "col": 10
             },
             "endPosition": {
-                "row": 1,
+                "row": 2,
                 "col": 0
             },
             "spawnRandomRange": {
@@ -1703,6 +1704,20 @@
                     },
                     "randomizeReachOffset": false,
                     "reachDistance": 0.0
+                },
+                {
+                    "type": "MOVE",
+                    "time": 0.0,
+                    "position": {
+                        "row": 1,
+                        "col": 0
+                    },
+                    "reachOffset": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "randomizeReachOffset": false,
+                    "reachDistance": 0.0
                 }
             ],
             "allowDiagonalMove": true,
@@ -1954,13 +1969,13 @@
             "visitEveryCheckPoint": true
         },
         {
-            "motionMode": "WALK",
+            "motionMode": "FLY",
             "startPosition": {
                 "row": 7,
                 "col": 10
             },
             "endPosition": {
-                "row": 1,
+                "row": 2,
                 "col": 0
             },
             "spawnRandomRange": {
@@ -2006,6 +2021,20 @@
                     "position": {
                         "row": 1,
                         "col": 1
+                    },
+                    "reachOffset": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "randomizeReachOffset": false,
+                    "reachDistance": 0.0
+                },
+                {
+                    "type": "MOVE",
+                    "time": 0.0,
+                    "position": {
+                        "row": 1,
+                        "col": 0
                     },
                     "reachOffset": {
                         "x": 0.0,
@@ -4620,7 +4649,8 @@
                         "m_defined": false,
                         "m_value": false
                     },
-                    "teleportImmune": null
+                    "teleportImmune": null,
+                    "groundBoundImmune": null
                 },
                 "applyWay": {
                     "m_defined": false,
@@ -4807,7 +4837,8 @@
                         "m_defined": false,
                         "m_value": false
                     },
-                    "teleportImmune": null
+                    "teleportImmune": null,
+                    "groundBoundImmune": null
                 },
                 "applyWay": {
                     "m_defined": true,
@@ -5036,7 +5067,8 @@
                         "m_defined": false,
                         "m_value": false
                     },
-                    "teleportImmune": null
+                    "teleportImmune": null,
+                    "groundBoundImmune": null
                 },
                 "applyWay": {
                     "m_defined": false,
@@ -5223,7 +5255,8 @@
                         "m_defined": false,
                         "m_value": false
                     },
-                    "teleportImmune": null
+                    "teleportImmune": null,
+                    "groundBoundImmune": null
                 },
                 "applyWay": {
                     "m_defined": false,
