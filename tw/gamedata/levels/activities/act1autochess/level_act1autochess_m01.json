@@ -7,178 +7,18 @@
         "costIncreaseTime": 1.0,
         "moveMultiplier": 0.5,
         "steeringEnabled": true,
+        "reachableCheckIgnoreStartTile": false,
         "isTrainingLevel": false,
         "isHardTrainingLevel": false,
         "isPredefinedCardsSelectable": false,
         "displayRestTime": false,
-        "maxPlayTime": 80.0,
-        "functionDisableMask": "NONE",
-        "configBlackBoard": [
-            {
-                "key": "default_pos_x",
-                "value": 6.0,
-                "valueStr": null
-            },
-            {
-                "key": "default_pos_y",
-                "value": 4.7,
-                "valueStr": null
-            },
-            {
-                "key": "default_size",
-                "value": 0.93,
-                "valueStr": null
-            },
-            {
-                "key": "enemy_pos_x",
-                "value": 25.0,
-                "valueStr": null
-            },
-            {
-                "key": "enemy_pos_y",
-                "value": 4.7,
-                "valueStr": null
-            },
-            {
-                "key": "enemy_size",
-                "value": 0.93,
-                "valueStr": null
-            },
-            {
-                "key": "enemy_place_rect",
-                "value": 0.0,
-                "valueStr": "((14,7),(18,13))"
-            },
-            {
-                "key": "battle_pos_x",
-                "value": 8.0,
-                "valueStr": null
-            },
-            {
-                "key": "battle_pos_y",
-                "value": 5.68,
-                "valueStr": null
-            },
-            {
-                "key": "battle_size",
-                "value": 0.82,
-                "valueStr": null
-            },
-            {
-                "key": "move_time",
-                "value": 0.25,
-                "valueStr": null
-            },
-            {
-                "key": "coin_panel_pos",
-                "value": 0.0,
-                "valueStr": "(7,0)"
-            },
-            {
-                "key": "left_prepare_camera_param",
-                "value": 0.0,
-                "valueStr": "(-4.67,0.3,-2.46,1)"
-            },
-            {
-                "key": "left_shop_camera_param",
-                "value": 0.0,
-                "valueStr": "(-4.83,-1.75,-3.77,1)"
-            },
-            {
-                "key": "left_battle_camera_param",
-                "value": 0.0,
-                "valueStr": "(-4,1.91,-0.6,1)"
-            },
-            {
-                "key": "right_battle_camera_param",
-                "value": 0.0,
-                "valueStr": "(4,1.91,-0.6,1)"
-            },
-            {
-                "key": "mid_battle_camera_param",
-                "value": 0.0,
-                "valueStr": "(0,0,-4.22,1)"
-            },
-            {
-                "key": "left_boss_prepare_camera_param",
-                "value": 0.0,
-                "valueStr": "(-4.67,-6.68,-2.46,1)"
-            },
-            {
-                "key": "left_boss_shop_camera_param",
-                "value": 0.0,
-                "valueStr": "(-4.83,-8.73,-3.77,1)"
-            },
-            {
-                "key": "left_boss_battle_camera_param",
-                "value": 0.0,
-                "valueStr": "(-4,-5.54,-0.6,1)"
-            },
-            {
-                "key": "right_boss_battle_camera_param",
-                "value": 0.0,
-                "valueStr": "(4,-5.54,-0.6,1)"
-            },
-            {
-                "key": "mid_boss_battle_camera_param",
-                "value": 0.0,
-                "valueStr": "(0,-7.95,-4.22,1)"
-            },
-            {
-                "key": "right_boss_prepare_camera_param",
-                "value": 0.0,
-                "valueStr": "(5.93,-6.68,-2.46,1)"
-            },
-            {
-                "key": "right_boss_shop_camera_param",
-                "value": 0.0,
-                "valueStr": "(5.83,-8.73,-3.77,1)"
-            },
-            {
-                "key": "leftNormal",
-                "value": 0.0,
-                "valueStr": "((6,0),(12,10))"
-            },
-            {
-                "key": "rightNormal",
-                "value": 0.0,
-                "valueStr": "((6,11),(12,20))"
-            },
-            {
-                "key": "leftBoss",
-                "value": 0.0,
-                "valueStr": "((0,0),(6,10))"
-            },
-            {
-                "key": "rightBoss",
-                "value": 0.0,
-                "valueStr": "((0,11),(6,20))"
-            },
-            {
-                "key": "enemy_camera_param",
-                "value": 0.0,
-                "valueStr": "(0,7.86,0.9,1)"
-            },
-            {
-                "key": "player_map_lr_boundary_col",
-                "value": 10.0,
-                "valueStr": null
-            },
-            {
-                "key": "player_map_lr_offset",
-                "value": 8.0,
-                "valueStr": null
-            },
-            {
-                "key": "player_map_ud_offset",
-                "value": 7.0,
-                "valueStr": null
-            }
-        ]
+        "maxPlayTime": 0.0,
+        "functionDisableMask": "CHARACTER_INFO",
+        "configBlackBoard": null
     },
     "levelId": null,
     "mapId": null,
-    "bgmEvent": "act1vautochess_shop",
+    "bgmEvent": "act1autochess_shop",
     "environmentSe": null,
     "mapData": {
         "map": [
@@ -4518,7 +4358,208 @@
     ],
     "branches": null,
     "predefines": {
-        "characterInsts": [],
+        "characterInsts": [
+            {
+                "position": {
+                    "row": 10,
+                    "col": 2
+                },
+                "direction": "RIGHT",
+                "hidden": true,
+                "alias": "char_605_cmedic#1",
+                "uniEquipIds": null,
+                "showSpIllust": false,
+                "masterInfos": null,
+                "inst": {
+                    "characterKey": "char_605_cmedic",
+                    "level": 55,
+                    "phase": "PHASE_1",
+                    "favorPoint": 0,
+                    "potentialRank": 0
+                },
+                "skillIndex": 1,
+                "mainSkillLvl": 7,
+                "skinId": "",
+                "tmplId": null,
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
+            },
+            {
+                "position": {
+                    "row": 10,
+                    "col": 10
+                },
+                "direction": "RIGHT",
+                "hidden": true,
+                "alias": "char_605_cmedic#2_multi_only",
+                "uniEquipIds": null,
+                "showSpIllust": false,
+                "masterInfos": null,
+                "inst": {
+                    "characterKey": "char_605_cmedic",
+                    "level": 55,
+                    "phase": "PHASE_1",
+                    "favorPoint": 0,
+                    "potentialRank": 0
+                },
+                "skillIndex": 1,
+                "mainSkillLvl": 7,
+                "skinId": null,
+                "tmplId": null,
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
+            },
+            {
+                "position": {
+                    "row": 3,
+                    "col": 2
+                },
+                "direction": "RIGHT",
+                "hidden": true,
+                "alias": "char_605_cmedic#3",
+                "uniEquipIds": null,
+                "showSpIllust": false,
+                "masterInfos": null,
+                "inst": {
+                    "characterKey": "char_605_cmedic",
+                    "level": 55,
+                    "phase": "PHASE_1",
+                    "favorPoint": 0,
+                    "potentialRank": 0
+                },
+                "skillIndex": 1,
+                "mainSkillLvl": 7,
+                "skinId": null,
+                "tmplId": null,
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
+            },
+            {
+                "position": {
+                    "row": 3,
+                    "col": 18
+                },
+                "direction": "LEFT",
+                "hidden": true,
+                "alias": "char_605_cmedic#4_multi_only",
+                "uniEquipIds": null,
+                "showSpIllust": false,
+                "masterInfos": null,
+                "inst": {
+                    "characterKey": "char_605_cmedic",
+                    "level": 55,
+                    "phase": "PHASE_1",
+                    "favorPoint": 0,
+                    "potentialRank": 0
+                },
+                "skillIndex": 1,
+                "mainSkillLvl": 7,
+                "skinId": null,
+                "tmplId": null,
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
+            },
+            {
+                "position": {
+                    "row": 10,
+                    "col": 2
+                },
+                "direction": "RIGHT",
+                "hidden": true,
+                "alias": "char_613_acmedc#1",
+                "uniEquipIds": null,
+                "showSpIllust": false,
+                "masterInfos": null,
+                "inst": {
+                    "characterKey": "char_613_acmedc",
+                    "level": 60,
+                    "phase": "PHASE_2",
+                    "favorPoint": 0,
+                    "potentialRank": 0
+                },
+                "skillIndex": 2,
+                "mainSkillLvl": 10,
+                "skinId": "",
+                "tmplId": null,
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
+            },
+            {
+                "position": {
+                    "row": 10,
+                    "col": 10
+                },
+                "direction": "RIGHT",
+                "hidden": true,
+                "alias": "char_613_acmedc#2_multi_only",
+                "uniEquipIds": null,
+                "showSpIllust": false,
+                "masterInfos": null,
+                "inst": {
+                    "characterKey": "char_613_acmedc",
+                    "level": 60,
+                    "phase": "PHASE_2",
+                    "favorPoint": 0,
+                    "potentialRank": 0
+                },
+                "skillIndex": 2,
+                "mainSkillLvl": 10,
+                "skinId": null,
+                "tmplId": null,
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
+            },
+            {
+                "position": {
+                    "row": 3,
+                    "col": 2
+                },
+                "direction": "RIGHT",
+                "hidden": true,
+                "alias": "char_613_acmedc#3",
+                "uniEquipIds": null,
+                "showSpIllust": false,
+                "masterInfos": null,
+                "inst": {
+                    "characterKey": "char_613_acmedc",
+                    "level": 60,
+                    "phase": "PHASE_2",
+                    "favorPoint": 0,
+                    "potentialRank": 0
+                },
+                "skillIndex": 2,
+                "mainSkillLvl": 10,
+                "skinId": null,
+                "tmplId": null,
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
+            },
+            {
+                "position": {
+                    "row": 3,
+                    "col": 18
+                },
+                "direction": "LEFT",
+                "hidden": true,
+                "alias": "char_613_acmedc#4_multi_only",
+                "uniEquipIds": null,
+                "showSpIllust": false,
+                "masterInfos": null,
+                "inst": {
+                    "characterKey": "char_613_acmedc",
+                    "level": 60,
+                    "phase": "PHASE_2",
+                    "favorPoint": 0,
+                    "potentialRank": 0
+                },
+                "skillIndex": 2,
+                "mainSkillLvl": 10,
+                "skinId": "",
+                "tmplId": null,
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
+            }
+        ],
         "tokenInsts": [
             {
                 "position": {
