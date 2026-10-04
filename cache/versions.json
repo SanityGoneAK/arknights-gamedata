@@ -9,19 +9,14 @@
     "client": "36.7.21",
     "folders": {}
   },
-  "KR": {
-    "resource": "26-09-28-08-03-35_2dcf61",
+  "JP": {
+    "resource": "26-09-23-08-40-55_870b9d",
     "client": "36.7.22",
     "folders": {}
   },
   "CN": {
     "resource": "26-09-22-07-47-20_6c71fa",
     "client": "2.7.71",
-    "folders": {}
-  },
-  "JP": {
-    "resource": "26-09-23-08-40-55_870b9d",
-    "client": "36.7.22",
     "folders": {}
   }
 }
