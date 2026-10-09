@@ -7,12 +7,13 @@
         "costIncreaseTime": 1.0,
         "moveMultiplier": 0.5,
         "steeringEnabled": true,
+        "reachableCheckIgnoreStartTile": false,
         "isTrainingLevel": false,
         "isHardTrainingLevel": false,
         "isPredefinedCardsSelectable": false,
         "displayRestTime": false,
-        "maxPlayTime": 0.0,
-        "functionDisableMask": -1082130432,
+        "maxPlayTime": -1.0,
+        "functionDisableMask": "NONE",
         "configBlackBoard": null
     },
     "levelId": null,
@@ -1008,44 +1009,7 @@
         "layerRects": null
     },
     "tilesDisallowToLocate": [],
-    "runes": [
-        {
-            "difficultyMask": "FOUR_STAR",
-            "key": "global_token_cnt_add",
-            "professionMask": 1023,
-            "buildableMask": "ALL",
-            "blackboard": [
-                {
-                    "key": "value",
-                    "value": -2.0,
-                    "valueStr": null
-                }
-            ]
-        },
-        {
-            "difficultyMask": "FOUR_STAR",
-            "key": "enemy_attribute_mul",
-            "professionMask": 1023,
-            "buildableMask": "ALL",
-            "blackboard": [
-                {
-                    "key": "atk",
-                    "value": 1.3,
-                    "valueStr": null
-                },
-                {
-                    "key": "def",
-                    "value": 1.2,
-                    "valueStr": null
-                },
-                {
-                    "key": "max_hp",
-                    "value": 1.4,
-                    "valueStr": null
-                }
-            ]
-        }
-    ],
+    "runes": null,
     "optionalRunes": null,
     "globalBuffs": null,
     "routes": [
