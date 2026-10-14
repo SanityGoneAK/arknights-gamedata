@@ -7,11 +7,12 @@
         "costIncreaseTime": 1.0,
         "moveMultiplier": 0.5,
         "steeringEnabled": true,
+        "reachableCheckIgnoreStartTile": false,
         "isTrainingLevel": false,
         "isHardTrainingLevel": false,
         "isPredefinedCardsSelectable": false,
         "displayRestTime": false,
-        "maxPlayTime": -1.0,
+        "maxPlayTime": 0.0,
         "functionDisableMask": "NONE",
         "configBlackBoard": null
     },
@@ -7252,7 +7253,8 @@
                         "value": 0.0,
                         "valueStr": "bmbcar"
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -7282,7 +7284,8 @@
                         "value": 0.0,
                         "valueStr": "bmbcar1"
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -7312,7 +7315,8 @@
                         "value": 0.0,
                         "valueStr": "bmbcar2"
                     }
-                ]
+                ],
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -7342,7 +7346,8 @@
                         "value": 0.0,
                         "valueStr": "bldore_dfello"
                     }
-                ]
+                ],
+                "overrideTalents": null
             }
         ],
         "characterCards": [],
