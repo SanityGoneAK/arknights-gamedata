@@ -7,24 +7,14 @@
         "costIncreaseTime": 1.0,
         "moveMultiplier": 0.5,
         "steeringEnabled": true,
+        "reachableCheckIgnoreStartTile": false,
         "isTrainingLevel": false,
         "isHardTrainingLevel": false,
-        "isPredefinedCardsSelectable": false,
-        "displayRestTime": true,
-        "maxPlayTime": 420.0,
-        "functionDisableMask": "NONE",
-        "configBlackBoard": [
-            {
-                "key": "dialog_before_battle",
-                "value": 0.0,
-                "valueStr": "Obt/Tutorial/Level/main_16-16"
-            },
-            {
-                "key": "dialog_after_battle",
-                "value": 0.0,
-                "valueStr": ""
-            }
-        ]
+        "isPredefinedCardsSelectable": true,
+        "displayRestTime": false,
+        "maxPlayTime": 0.0,
+        "functionDisableMask": "CHARACTER_INFO",
+        "configBlackBoard": null
     },
     "levelId": null,
     "mapId": null,
@@ -7387,7 +7377,9 @@
                     "attractImmune": {
                         "m_defined": false,
                         "m_value": false
-                    }
+                    },
+                    "teleportImmune": null,
+                    "groundBoundImmune": null
                 },
                 "applyWay": {
                     "m_defined": false,
@@ -7573,7 +7565,9 @@
                     "attractImmune": {
                         "m_defined": false,
                         "m_value": false
-                    }
+                    },
+                    "teleportImmune": null,
+                    "groundBoundImmune": null
                 },
                 "applyWay": {
                     "m_defined": false,
@@ -7765,7 +7759,9 @@
                     "attractImmune": {
                         "m_defined": false,
                         "m_value": false
-                    }
+                    },
+                    "teleportImmune": null,
+                    "groundBoundImmune": null
                 },
                 "applyWay": {
                     "m_defined": false,
@@ -9961,7 +9957,8 @@
                 "mainSkillLvl": 1,
                 "skinId": "",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -9985,7 +9982,8 @@
                 "mainSkillLvl": 1,
                 "skinId": "",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -10009,7 +10007,8 @@
                 "mainSkillLvl": 1,
                 "skinId": "",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -10033,7 +10032,8 @@
                 "mainSkillLvl": 1,
                 "skinId": "",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -10057,7 +10057,8 @@
                 "mainSkillLvl": 1,
                 "skinId": "",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -10081,7 +10082,8 @@
                 "mainSkillLvl": 1,
                 "skinId": "",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             },
             {
                 "position": {
@@ -10105,7 +10107,8 @@
                 "mainSkillLvl": 1,
                 "skinId": "",
                 "tmplId": null,
-                "overrideSkillBlackboard": null
+                "overrideSkillBlackboard": null,
+                "overrideTalents": null
             }
         ],
         "characterCards": [],
