@@ -7,12 +7,13 @@
         "costIncreaseTime": 1.0,
         "moveMultiplier": 0.5,
         "steeringEnabled": true,
+        "reachableCheckIgnoreStartTile": false,
         "isTrainingLevel": false,
         "isHardTrainingLevel": false,
         "isPredefinedCardsSelectable": false,
         "displayRestTime": false,
-        "maxPlayTime": 0.0,
-        "functionDisableMask": -1082130432,
+        "maxPlayTime": -1.0,
+        "functionDisableMask": "NONE",
         "configBlackBoard": null
     },
     "levelId": null,
@@ -2093,6 +2094,10 @@
                         "m_defined": false,
                         "m_value": 0.0
                     },
+                    "blockVolume": {
+                        "m_defined": false,
+                        "m_value": -1
+                    },
                     "stunImmune": {
                         "m_defined": false,
                         "m_value": false
@@ -2298,6 +2303,10 @@
                     "epBreakRecoverSpeed": {
                         "m_defined": false,
                         "m_value": 0.0
+                    },
+                    "blockVolume": {
+                        "m_defined": false,
+                        "m_value": -1
                     },
                     "stunImmune": {
                         "m_defined": false,

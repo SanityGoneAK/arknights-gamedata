@@ -7,13 +7,25 @@
         "costIncreaseTime": 1.0,
         "moveMultiplier": 0.5,
         "steeringEnabled": true,
+        "reachableCheckIgnoreStartTile": false,
         "isTrainingLevel": false,
         "isHardTrainingLevel": false,
         "isPredefinedCardsSelectable": false,
         "displayRestTime": false,
-        "maxPlayTime": 0.0,
-        "functionDisableMask": -1082130432,
-        "configBlackBoard": null
+        "maxPlayTime": -1.0,
+        "functionDisableMask": "NONE",
+        "configBlackBoard": [
+            {
+                "key": "dialog_before_battle",
+                "value": 0.0,
+                "valueStr": "Obt/Tutorial/Level/main_14-10_a"
+            },
+            {
+                "key": "dialog_after_battle",
+                "value": 0.0,
+                "valueStr": "Obt/Tutorial/Level/main_14-10_b"
+            }
+        ]
     },
     "levelId": null,
     "mapId": null,
@@ -4234,6 +4246,10 @@
                         "m_defined": false,
                         "m_value": 0.0
                     },
+                    "blockVolume": {
+                        "m_defined": false,
+                        "m_value": -1
+                    },
                     "stunImmune": {
                         "m_defined": false,
                         "m_value": false
@@ -4434,6 +4450,10 @@
                         "m_defined": false,
                         "m_value": 0.0
                     },
+                    "blockVolume": {
+                        "m_defined": false,
+                        "m_value": -1
+                    },
                     "stunImmune": {
                         "m_defined": false,
                         "m_value": false
@@ -4627,6 +4647,10 @@
                     "epBreakRecoverSpeed": {
                         "m_defined": false,
                         "m_value": 0.0
+                    },
+                    "blockVolume": {
+                        "m_defined": false,
+                        "m_value": -1
                     },
                     "stunImmune": {
                         "m_defined": false,

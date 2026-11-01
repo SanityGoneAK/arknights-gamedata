@@ -511,7 +511,7 @@
                 "effects": null
             },
             {
-                "tileKey": "tile_end_dqq",
+                "tileKey": "tile_end",
                 "heightType": "LOWLAND",
                 "buildableType": "NONE",
                 "passableMask": "ALL",
@@ -860,7 +860,7 @@
         "effects": null,
         "layerRects": null
     },
-    "tilesDisallowToLocate": [],
+    "tilesDisallowToLocate": null,
     "runes": null,
     "optionalRunes": null,
     "globalBuffs": [
@@ -1829,6 +1829,10 @@
                         "m_defined": false,
                         "m_value": 0.0
                     },
+                    "blockVolume": {
+                        "m_defined": false,
+                        "m_value": -1
+                    },
                     "stunImmune": {
                         "m_defined": false,
                         "m_value": false
@@ -2016,6 +2020,10 @@
                     "epBreakRecoverSpeed": {
                         "m_defined": false,
                         "m_value": 0.0
+                    },
+                    "blockVolume": {
+                        "m_defined": false,
+                        "m_value": -1
                     },
                     "stunImmune": {
                         "m_defined": false,
@@ -2205,6 +2213,10 @@
                         "m_defined": false,
                         "m_value": 0.0
                     },
+                    "blockVolume": {
+                        "m_defined": false,
+                        "m_value": -1
+                    },
                     "stunImmune": {
                         "m_defined": false,
                         "m_value": false
@@ -2392,6 +2404,10 @@
                     "epBreakRecoverSpeed": {
                         "m_defined": false,
                         "m_value": 0.0
+                    },
+                    "blockVolume": {
+                        "m_defined": false,
+                        "m_value": -1
                     },
                     "stunImmune": {
                         "m_defined": false,
@@ -2581,6 +2597,10 @@
                         "m_defined": false,
                         "m_value": 0.0
                     },
+                    "blockVolume": {
+                        "m_defined": false,
+                        "m_value": -1
+                    },
                     "stunImmune": {
                         "m_defined": false,
                         "m_value": false
@@ -2768,6 +2788,10 @@
                     "epBreakRecoverSpeed": {
                         "m_defined": false,
                         "m_value": 0.0
+                    },
+                    "blockVolume": {
+                        "m_defined": false,
+                        "m_value": -1
                     },
                     "stunImmune": {
                         "m_defined": false,
@@ -3059,7 +3083,7 @@
                             "randomSpawnGroupPackKey": "a1",
                             "randomType": "ALWAYS",
                             "refreshType": "ALWAYS",
-                            "weight": 100,
+                            "weight": 0,
                             "dontBlockWave": false,
                             "forceBlockWaveInBranch": false
                         },
@@ -3080,7 +3104,7 @@
                             "randomSpawnGroupPackKey": "a1",
                             "randomType": "ALWAYS",
                             "refreshType": "ALWAYS",
-                            "weight": 100,
+                            "weight": 0,
                             "dontBlockWave": false,
                             "forceBlockWaveInBranch": false
                         },
