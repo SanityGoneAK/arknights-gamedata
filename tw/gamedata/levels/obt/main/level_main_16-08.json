@@ -7,11 +7,12 @@
         "costIncreaseTime": 99999.0,
         "moveMultiplier": 0.5,
         "steeringEnabled": true,
-        "isTrainingLevel": true,
+        "reachableCheckIgnoreStartTile": true,
+        "isTrainingLevel": false,
         "isHardTrainingLevel": false,
         "isPredefinedCardsSelectable": false,
         "displayRestTime": false,
-        "maxPlayTime": -1.0,
+        "maxPlayTime": 0.0,
         "functionDisableMask": "NONE",
         "configBlackBoard": null
     },
@@ -3197,7 +3198,9 @@
                     "attractImmune": {
                         "m_defined": false,
                         "m_value": false
-                    }
+                    },
+                    "teleportImmune": null,
+                    "groundBoundImmune": null
                 },
                 "applyWay": {
                     "m_defined": false,
@@ -3389,7 +3392,9 @@
                     "attractImmune": {
                         "m_defined": false,
                         "m_value": false
-                    }
+                    },
+                    "teleportImmune": null,
+                    "groundBoundImmune": null
                 },
                 "applyWay": {
                     "m_defined": false,
@@ -3569,7 +3574,9 @@
                     "attractImmune": {
                         "m_defined": false,
                         "m_value": false
-                    }
+                    },
+                    "teleportImmune": null,
+                    "groundBoundImmune": null
                 },
                 "applyWay": {
                     "m_defined": false,
@@ -3749,7 +3756,9 @@
                     "attractImmune": {
                         "m_defined": true,
                         "m_value": false
-                    }
+                    },
+                    "teleportImmune": null,
+                    "groundBoundImmune": null
                 },
                 "applyWay": {
                     "m_defined": true,
