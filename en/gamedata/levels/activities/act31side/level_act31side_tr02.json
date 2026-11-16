@@ -1320,6 +1320,10 @@
                         "m_defined": false,
                         "m_value": 0.0
                     },
+                    "blockVolume": {
+                        "m_defined": true,
+                        "m_value": -15728383
+                    },
                     "stunImmune": {
                         "m_defined": true,
                         "m_value": true
@@ -1341,8 +1345,8 @@
                         "m_value": true
                     },
                     "disarmedCombatImmune": {
-                        "m_defined": true,
-                        "m_value": true
+                        "m_defined": false,
+                        "m_value": false
                     },
                     "fearedImmune": {
                         "m_defined": false,
@@ -1352,10 +1356,7 @@
                         "m_defined": false,
                         "m_value": false
                     },
-                    "attractImmune": {
-                        "m_defined": false,
-                        "m_value": false
-                    },
+                    "attractImmune": null,
                     "teleportImmune": null,
                     "groundBoundImmune": null
                 },
@@ -1538,6 +1539,10 @@
                         "m_defined": false,
                         "m_value": 0.0
                     },
+                    "blockVolume": {
+                        "m_defined": true,
+                        "m_value": -98434815
+                    },
                     "stunImmune": {
                         "m_defined": true,
                         "m_value": true
@@ -1559,8 +1564,8 @@
                         "m_value": true
                     },
                     "disarmedCombatImmune": {
-                        "m_defined": true,
-                        "m_value": true
+                        "m_defined": false,
+                        "m_value": false
                     },
                     "fearedImmune": {
                         "m_defined": false,
@@ -1570,10 +1575,7 @@
                         "m_defined": false,
                         "m_value": false
                     },
-                    "attractImmune": {
-                        "m_defined": false,
-                        "m_value": false
-                    },
+                    "attractImmune": null,
                     "teleportImmune": null,
                     "groundBoundImmune": null
                 },

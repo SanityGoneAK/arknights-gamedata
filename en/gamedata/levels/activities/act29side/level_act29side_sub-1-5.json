@@ -5641,6 +5641,10 @@
                         "m_defined": false,
                         "m_value": 0.0
                     },
+                    "blockVolume": {
+                        "m_defined": true,
+                        "m_value": -9043711
+                    },
                     "stunImmune": {
                         "m_defined": true,
                         "m_value": true
@@ -5658,8 +5662,8 @@
                         "m_value": true
                     },
                     "levitateImmune": {
-                        "m_defined": true,
-                        "m_value": true
+                        "m_defined": false,
+                        "m_value": false
                     },
                     "disarmedCombatImmune": {
                         "m_defined": false,
@@ -5673,10 +5677,7 @@
                         "m_defined": false,
                         "m_value": false
                     },
-                    "attractImmune": {
-                        "m_defined": false,
-                        "m_value": false
-                    },
+                    "attractImmune": null,
                     "teleportImmune": null,
                     "groundBoundImmune": null
                 },
