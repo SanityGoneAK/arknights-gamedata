@@ -19449,6 +19449,10 @@
                         "m_defined": false,
                         "m_value": 0.0
                     },
+                    "blockVolume": {
+                        "m_defined": false,
+                        "m_value": 0
+                    },
                     "stunImmune": {
                         "m_defined": false,
                         "m_value": false
@@ -19481,10 +19485,7 @@
                         "m_defined": false,
                         "m_value": false
                     },
-                    "attractImmune": {
-                        "m_defined": false,
-                        "m_value": false
-                    },
+                    "attractImmune": null,
                     "teleportImmune": null,
                     "groundBoundImmune": null
                 },
@@ -19631,6 +19632,10 @@
                         "m_defined": false,
                         "m_value": 0.0
                     },
+                    "blockVolume": {
+                        "m_defined": false,
+                        "m_value": 0
+                    },
                     "stunImmune": {
                         "m_defined": false,
                         "m_value": false
@@ -19663,10 +19668,7 @@
                         "m_defined": false,
                         "m_value": false
                     },
-                    "attractImmune": {
-                        "m_defined": false,
-                        "m_value": false
-                    },
+                    "attractImmune": null,
                     "teleportImmune": null,
                     "groundBoundImmune": null
                 },
@@ -19813,6 +19815,10 @@
                         "m_defined": false,
                         "m_value": 0.0
                     },
+                    "blockVolume": {
+                        "m_defined": false,
+                        "m_value": 0
+                    },
                     "stunImmune": {
                         "m_defined": false,
                         "m_value": false
@@ -19845,10 +19851,7 @@
                         "m_defined": false,
                         "m_value": false
                     },
-                    "attractImmune": {
-                        "m_defined": false,
-                        "m_value": false
-                    },
+                    "attractImmune": null,
                     "teleportImmune": null,
                     "groundBoundImmune": null
                 },
@@ -19995,6 +19998,10 @@
                         "m_defined": false,
                         "m_value": 0.0
                     },
+                    "blockVolume": {
+                        "m_defined": false,
+                        "m_value": 0
+                    },
                     "stunImmune": {
                         "m_defined": false,
                         "m_value": false
@@ -20027,10 +20034,7 @@
                         "m_defined": false,
                         "m_value": false
                     },
-                    "attractImmune": {
-                        "m_defined": false,
-                        "m_value": false
-                    },
+                    "attractImmune": null,
                     "teleportImmune": null,
                     "groundBoundImmune": null
                 },
@@ -20177,6 +20181,10 @@
                         "m_defined": false,
                         "m_value": 0.0
                     },
+                    "blockVolume": {
+                        "m_defined": false,
+                        "m_value": 0
+                    },
                     "stunImmune": {
                         "m_defined": false,
                         "m_value": false
@@ -20209,10 +20217,7 @@
                         "m_defined": false,
                         "m_value": false
                     },
-                    "attractImmune": {
-                        "m_defined": false,
-                        "m_value": false
-                    },
+                    "attractImmune": null,
                     "teleportImmune": null,
                     "groundBoundImmune": null
                 },
@@ -20359,6 +20364,10 @@
                         "m_defined": false,
                         "m_value": 0.0
                     },
+                    "blockVolume": {
+                        "m_defined": false,
+                        "m_value": 0
+                    },
                     "stunImmune": {
                         "m_defined": false,
                         "m_value": false
@@ -20391,10 +20400,7 @@
                         "m_defined": false,
                         "m_value": false
                     },
-                    "attractImmune": {
-                        "m_defined": false,
-                        "m_value": false
-                    },
+                    "attractImmune": null,
                     "teleportImmune": null,
                     "groundBoundImmune": null
                 },
@@ -20541,6 +20547,10 @@
                         "m_defined": false,
                         "m_value": 0.0
                     },
+                    "blockVolume": {
+                        "m_defined": false,
+                        "m_value": 0
+                    },
                     "stunImmune": {
                         "m_defined": false,
                         "m_value": false
@@ -20573,10 +20583,7 @@
                         "m_defined": false,
                         "m_value": false
                     },
-                    "attractImmune": {
-                        "m_defined": false,
-                        "m_value": false
-                    },
+                    "attractImmune": null,
                     "teleportImmune": null,
                     "groundBoundImmune": null
                 },
@@ -20723,6 +20730,10 @@
                         "m_defined": false,
                         "m_value": 0.0
                     },
+                    "blockVolume": {
+                        "m_defined": false,
+                        "m_value": 0
+                    },
                     "stunImmune": {
                         "m_defined": false,
                         "m_value": false
@@ -20755,10 +20766,7 @@
                         "m_defined": false,
                         "m_value": false
                     },
-                    "attractImmune": {
-                        "m_defined": false,
-                        "m_value": false
-                    },
+                    "attractImmune": null,
                     "teleportImmune": null,
                     "groundBoundImmune": null
                 },
@@ -20905,6 +20913,10 @@
                         "m_defined": false,
                         "m_value": 0.0
                     },
+                    "blockVolume": {
+                        "m_defined": false,
+                        "m_value": 0
+                    },
                     "stunImmune": {
                         "m_defined": false,
                         "m_value": false
@@ -20937,10 +20949,7 @@
                         "m_defined": false,
                         "m_value": false
                     },
-                    "attractImmune": {
-                        "m_defined": false,
-                        "m_value": false
-                    },
+                    "attractImmune": null,
                     "teleportImmune": null,
                     "groundBoundImmune": null
                 },
@@ -21099,6 +21108,10 @@
                         "m_defined": false,
                         "m_value": 0.0
                     },
+                    "blockVolume": {
+                        "m_defined": false,
+                        "m_value": 0
+                    },
                     "stunImmune": {
                         "m_defined": false,
                         "m_value": false
@@ -21131,10 +21144,7 @@
                         "m_defined": false,
                         "m_value": false
                     },
-                    "attractImmune": {
-                        "m_defined": false,
-                        "m_value": false
-                    },
+                    "attractImmune": null,
                     "teleportImmune": null,
                     "groundBoundImmune": null
                 },
@@ -21287,6 +21297,10 @@
                         "m_defined": false,
                         "m_value": 0.0
                     },
+                    "blockVolume": {
+                        "m_defined": false,
+                        "m_value": 0
+                    },
                     "stunImmune": {
                         "m_defined": false,
                         "m_value": false
@@ -21319,10 +21333,7 @@
                         "m_defined": false,
                         "m_value": false
                     },
-                    "attractImmune": {
-                        "m_defined": false,
-                        "m_value": false
-                    },
+                    "attractImmune": null,
                     "teleportImmune": null,
                     "groundBoundImmune": null
                 },
@@ -21475,6 +21486,10 @@
                         "m_defined": false,
                         "m_value": 0.0
                     },
+                    "blockVolume": {
+                        "m_defined": false,
+                        "m_value": 0
+                    },
                     "stunImmune": {
                         "m_defined": false,
                         "m_value": false
@@ -21507,10 +21522,7 @@
                         "m_defined": false,
                         "m_value": false
                     },
-                    "attractImmune": {
-                        "m_defined": false,
-                        "m_value": false
-                    },
+                    "attractImmune": null,
                     "teleportImmune": null,
                     "groundBoundImmune": null
                 },
@@ -21657,6 +21669,10 @@
                         "m_defined": false,
                         "m_value": 0.0
                     },
+                    "blockVolume": {
+                        "m_defined": false,
+                        "m_value": 0
+                    },
                     "stunImmune": {
                         "m_defined": false,
                         "m_value": false
@@ -21689,10 +21705,7 @@
                         "m_defined": false,
                         "m_value": false
                     },
-                    "attractImmune": {
-                        "m_defined": false,
-                        "m_value": false
-                    },
+                    "attractImmune": null,
                     "teleportImmune": null,
                     "groundBoundImmune": null
                 },
@@ -21839,6 +21852,10 @@
                         "m_defined": false,
                         "m_value": 0.0
                     },
+                    "blockVolume": {
+                        "m_defined": false,
+                        "m_value": 0
+                    },
                     "stunImmune": {
                         "m_defined": false,
                         "m_value": false
@@ -21871,10 +21888,7 @@
                         "m_defined": false,
                         "m_value": false
                     },
-                    "attractImmune": {
-                        "m_defined": false,
-                        "m_value": false
-                    },
+                    "attractImmune": null,
                     "teleportImmune": null,
                     "groundBoundImmune": null
                 },
@@ -22021,6 +22035,10 @@
                         "m_defined": false,
                         "m_value": 0.0
                     },
+                    "blockVolume": {
+                        "m_defined": false,
+                        "m_value": 0
+                    },
                     "stunImmune": {
                         "m_defined": false,
                         "m_value": false
@@ -22053,10 +22071,7 @@
                         "m_defined": false,
                         "m_value": false
                     },
-                    "attractImmune": {
-                        "m_defined": false,
-                        "m_value": false
-                    },
+                    "attractImmune": null,
                     "teleportImmune": null,
                     "groundBoundImmune": null
                 },
@@ -22203,6 +22218,10 @@
                         "m_defined": false,
                         "m_value": 0.0
                     },
+                    "blockVolume": {
+                        "m_defined": false,
+                        "m_value": 0
+                    },
                     "stunImmune": {
                         "m_defined": false,
                         "m_value": false
@@ -22235,10 +22254,7 @@
                         "m_defined": false,
                         "m_value": false
                     },
-                    "attractImmune": {
-                        "m_defined": false,
-                        "m_value": false
-                    },
+                    "attractImmune": null,
                     "teleportImmune": null,
                     "groundBoundImmune": null
                 },
@@ -22385,6 +22401,10 @@
                         "m_defined": false,
                         "m_value": 0.0
                     },
+                    "blockVolume": {
+                        "m_defined": false,
+                        "m_value": 0
+                    },
                     "stunImmune": {
                         "m_defined": false,
                         "m_value": false
@@ -22417,10 +22437,7 @@
                         "m_defined": false,
                         "m_value": false
                     },
-                    "attractImmune": {
-                        "m_defined": false,
-                        "m_value": false
-                    },
+                    "attractImmune": null,
                     "teleportImmune": null,
                     "groundBoundImmune": null
                 },
@@ -22567,6 +22584,10 @@
                         "m_defined": false,
                         "m_value": 0.0
                     },
+                    "blockVolume": {
+                        "m_defined": false,
+                        "m_value": 0
+                    },
                     "stunImmune": {
                         "m_defined": false,
                         "m_value": false
@@ -22599,10 +22620,7 @@
                         "m_defined": false,
                         "m_value": false
                     },
-                    "attractImmune": {
-                        "m_defined": false,
-                        "m_value": false
-                    },
+                    "attractImmune": null,
                     "teleportImmune": null,
                     "groundBoundImmune": null
                 },
@@ -22761,6 +22779,10 @@
                         "m_defined": false,
                         "m_value": 0.0
                     },
+                    "blockVolume": {
+                        "m_defined": false,
+                        "m_value": 0
+                    },
                     "stunImmune": {
                         "m_defined": false,
                         "m_value": false
@@ -22793,10 +22815,7 @@
                         "m_defined": false,
                         "m_value": false
                     },
-                    "attractImmune": {
-                        "m_defined": false,
-                        "m_value": false
-                    },
+                    "attractImmune": null,
                     "teleportImmune": null,
                     "groundBoundImmune": null
                 },
