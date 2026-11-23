@@ -4774,6 +4774,10 @@
                         "m_defined": false,
                         "m_value": 0.0
                     },
+                    "blockVolume": {
+                        "m_defined": true,
+                        "m_value": -11534079
+                    },
                     "stunImmune": {
                         "m_defined": true,
                         "m_value": true
@@ -4799,17 +4803,14 @@
                         "m_value": true
                     },
                     "fearedImmune": {
-                        "m_defined": true,
-                        "m_value": true
+                        "m_defined": false,
+                        "m_value": false
                     },
                     "palsyImmune": {
                         "m_defined": false,
                         "m_value": false
                     },
-                    "attractImmune": {
-                        "m_defined": false,
-                        "m_value": false
-                    },
+                    "attractImmune": null,
                     "teleportImmune": null,
                     "groundBoundImmune": null
                 },
