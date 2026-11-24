@@ -399114,6 +399114,3660 @@
         ]
     },
     {
+        "Key": "enemy_4060_mulinm",
+        "Value": [
+            {
+                "level": 0,
+                "enemyData": {
+                    "name": {
+                        "m_defined": true,
+                        "m_value": "Straight Line Club Shooter"
+                    },
+                    "description": {
+                        "m_defined": true,
+                        "m_value": "Straight Line Club's forward with a more powerful shot; only kicks the ball in a horizontal straight line."
+                    },
+                    "prefabKey": {
+                        "m_defined": true,
+                        "m_value": "enemy_4060_mulinm"
+                    },
+                    "attributes": {
+                        "maxHp": {
+                            "m_defined": true,
+                            "m_value": 18000
+                        },
+                        "atk": {
+                            "m_defined": true,
+                            "m_value": 800
+                        },
+                        "def": {
+                            "m_defined": true,
+                            "m_value": 1000
+                        },
+                        "magicResistance": {
+                            "m_defined": true,
+                            "m_value": 40.0
+                        },
+                        "cost": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "blockCnt": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "moveSpeed": {
+                            "m_defined": true,
+                            "m_value": 1.0
+                        },
+                        "attackSpeed": {
+                            "m_defined": true,
+                            "m_value": 100.0
+                        },
+                        "baseAttackTime": {
+                            "m_defined": true,
+                            "m_value": 2.5
+                        },
+                        "respawnTime": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "hpRecoveryPerSec": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "spRecoveryPerSec": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "maxDeployCount": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "massLevel": {
+                            "m_defined": true,
+                            "m_value": 0
+                        },
+                        "baseForceLevel": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "tauntLevel": {
+                            "m_defined": true,
+                            "m_value": 0
+                        },
+                        "epDamageResistance": {
+                            "m_defined": true,
+                            "m_value": 0.0
+                        },
+                        "epResistance": {
+                            "m_defined": true,
+                            "m_value": 0.0
+                        },
+                        "damageHitratePhysical": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "damageHitrateMagical": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "epBreakRecoverSpeed": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "blockVolume": {
+                            "m_defined": true,
+                            "m_value": 0
+                        },
+                        "stunImmune": {
+                            "m_defined": true,
+                            "m_value": true
+                        },
+                        "silenceImmune": {
+                            "m_defined": true,
+                            "m_value": false
+                        },
+                        "sleepImmune": {
+                            "m_defined": true,
+                            "m_value": false
+                        },
+                        "frozenImmune": {
+                            "m_defined": true,
+                            "m_value": false
+                        },
+                        "levitateImmune": {
+                            "m_defined": true,
+                            "m_value": false
+                        },
+                        "disarmedCombatImmune": {
+                            "m_defined": true,
+                            "m_value": false
+                        },
+                        "fearedImmune": {
+                            "m_defined": true,
+                            "m_value": false
+                        },
+                        "palsyImmune": {
+                            "m_defined": true,
+                            "m_value": false
+                        },
+                        "attractImmune": null,
+                        "teleportImmune": null,
+                        "groundBoundImmune": null
+                    },
+                    "applyWay": {
+                        "m_defined": true,
+                        "m_value": "MELEE"
+                    },
+                    "motion": {
+                        "m_defined": true,
+                        "m_value": "WALK"
+                    },
+                    "enemyTags": {
+                        "m_defined": true,
+                        "m_value": null
+                    },
+                    "lifePointReduce": {
+                        "m_defined": true,
+                        "m_value": 1
+                    },
+                    "levelType": {
+                        "m_defined": true,
+                        "m_value": "ELITE"
+                    },
+                    "rangeRadius": {
+                        "m_defined": true,
+                        "m_value": -1.0
+                    },
+                    "numOfExtraDrops": {
+                        "m_defined": true,
+                        "m_value": 0
+                    },
+                    "viewRadius": {
+                        "m_defined": false,
+                        "m_value": 0.0
+                    },
+                    "notCountInTotal": {
+                        "m_defined": false,
+                        "m_value": false
+                    },
+                    "talentBlackboard": [
+                        {
+                            "key": "Reborn.duration",
+                            "value": 20.0,
+                            "valueStr": null
+                        },
+                        {
+                            "key": "football.passing_force",
+                            "value": 1.35,
+                            "valueStr": null
+                        },
+                        {
+                            "key": "football.slapshot_force",
+                            "value": 1.5,
+                            "valueStr": null
+                        },
+                        {
+                            "key": "searchBall.range_radius",
+                            "value": 1.5,
+                            "valueStr": null
+                        }
+                    ],
+                    "skills": [
+                        {
+                            "prefabKey": "slapshot",
+                            "priority": 0,
+                            "cooldown": 2.0,
+                            "initCooldown": 0.0,
+                            "spCost": 0,
+                            "blackboard": [
+                                {
+                                    "key": "duration",
+                                    "value": 3.0,
+                                    "valueStr": null
+                                }
+                            ]
+                        },
+                        {
+                            "prefabKey": "passtheball",
+                            "priority": 0,
+                            "cooldown": 2.0,
+                            "initCooldown": 0.0,
+                            "spCost": 0,
+                            "blackboard": [
+                                {
+                                    "key": "duration",
+                                    "value": 3.0,
+                                    "valueStr": null
+                                }
+                            ]
+                        }
+                    ],
+                    "spData": null
+                }
+            },
+            {
+                "level": 1,
+                "enemyData": {
+                    "name": {
+                        "m_defined": false,
+                        "m_value": "直球队击球手"
+                    },
+                    "description": {
+                        "m_defined": false,
+                        "m_value": "直球队的前锋，射门力度更大，只会按照直线方向踢球"
+                    },
+                    "prefabKey": {
+                        "m_defined": false,
+                        "m_value": "enemy_4060_mulinm"
+                    },
+                    "attributes": {
+                        "maxHp": {
+                            "m_defined": true,
+                            "m_value": 25000
+                        },
+                        "atk": {
+                            "m_defined": true,
+                            "m_value": 800
+                        },
+                        "def": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "magicResistance": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "cost": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "blockCnt": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "moveSpeed": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "attackSpeed": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "baseAttackTime": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "respawnTime": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "hpRecoveryPerSec": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "spRecoveryPerSec": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "maxDeployCount": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "massLevel": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "baseForceLevel": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "tauntLevel": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "epDamageResistance": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "epResistance": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "damageHitratePhysical": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "damageHitrateMagical": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "epBreakRecoverSpeed": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "blockVolume": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "stunImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "silenceImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "sleepImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "frozenImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "levitateImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "disarmedCombatImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "fearedImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "palsyImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "attractImmune": null,
+                        "teleportImmune": null,
+                        "groundBoundImmune": null
+                    },
+                    "applyWay": {
+                        "m_defined": false,
+                        "m_value": "NONE"
+                    },
+                    "motion": {
+                        "m_defined": false,
+                        "m_value": "WALK"
+                    },
+                    "enemyTags": {
+                        "m_defined": false,
+                        "m_value": null
+                    },
+                    "lifePointReduce": {
+                        "m_defined": false,
+                        "m_value": 0
+                    },
+                    "levelType": {
+                        "m_defined": false,
+                        "m_value": "NORMAL"
+                    },
+                    "rangeRadius": {
+                        "m_defined": false,
+                        "m_value": 0.0
+                    },
+                    "numOfExtraDrops": {
+                        "m_defined": false,
+                        "m_value": 0
+                    },
+                    "viewRadius": {
+                        "m_defined": false,
+                        "m_value": 0.0
+                    },
+                    "notCountInTotal": {
+                        "m_defined": false,
+                        "m_value": false
+                    },
+                    "talentBlackboard": null,
+                    "skills": null,
+                    "spData": null
+                }
+            }
+        ]
+    },
+    {
+        "Key": "enemy_4060_mulinm_2",
+        "Value": [
+            {
+                "level": 0,
+                "enemyData": {
+                    "name": {
+                        "m_defined": true,
+                        "m_value": "Straight Line Club Determined Shooter"
+                    },
+                    "description": {
+                        "m_defined": true,
+                        "m_value": "Straight Line Club's forward with a more powerful shot; only kicks the ball in a horizontal straight line."
+                    },
+                    "prefabKey": {
+                        "m_defined": true,
+                        "m_value": "enemy_4060_mulinm_2"
+                    },
+                    "attributes": {
+                        "maxHp": {
+                            "m_defined": true,
+                            "m_value": 22000
+                        },
+                        "atk": {
+                            "m_defined": true,
+                            "m_value": 900
+                        },
+                        "def": {
+                            "m_defined": true,
+                            "m_value": 1100
+                        },
+                        "magicResistance": {
+                            "m_defined": true,
+                            "m_value": 40.0
+                        },
+                        "cost": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "blockCnt": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "moveSpeed": {
+                            "m_defined": true,
+                            "m_value": 1.0
+                        },
+                        "attackSpeed": {
+                            "m_defined": true,
+                            "m_value": 100.0
+                        },
+                        "baseAttackTime": {
+                            "m_defined": true,
+                            "m_value": 2.5
+                        },
+                        "respawnTime": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "hpRecoveryPerSec": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "spRecoveryPerSec": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "maxDeployCount": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "massLevel": {
+                            "m_defined": true,
+                            "m_value": 0
+                        },
+                        "baseForceLevel": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "tauntLevel": {
+                            "m_defined": true,
+                            "m_value": 0
+                        },
+                        "epDamageResistance": {
+                            "m_defined": true,
+                            "m_value": 0.0
+                        },
+                        "epResistance": {
+                            "m_defined": true,
+                            "m_value": 0.0
+                        },
+                        "damageHitratePhysical": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "damageHitrateMagical": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "epBreakRecoverSpeed": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "blockVolume": {
+                            "m_defined": true,
+                            "m_value": 0
+                        },
+                        "stunImmune": {
+                            "m_defined": true,
+                            "m_value": true
+                        },
+                        "silenceImmune": {
+                            "m_defined": true,
+                            "m_value": false
+                        },
+                        "sleepImmune": {
+                            "m_defined": true,
+                            "m_value": false
+                        },
+                        "frozenImmune": {
+                            "m_defined": true,
+                            "m_value": false
+                        },
+                        "levitateImmune": {
+                            "m_defined": true,
+                            "m_value": false
+                        },
+                        "disarmedCombatImmune": {
+                            "m_defined": true,
+                            "m_value": false
+                        },
+                        "fearedImmune": {
+                            "m_defined": true,
+                            "m_value": false
+                        },
+                        "palsyImmune": {
+                            "m_defined": true,
+                            "m_value": false
+                        },
+                        "attractImmune": null,
+                        "teleportImmune": null,
+                        "groundBoundImmune": null
+                    },
+                    "applyWay": {
+                        "m_defined": true,
+                        "m_value": "MELEE"
+                    },
+                    "motion": {
+                        "m_defined": true,
+                        "m_value": "WALK"
+                    },
+                    "enemyTags": {
+                        "m_defined": true,
+                        "m_value": null
+                    },
+                    "lifePointReduce": {
+                        "m_defined": true,
+                        "m_value": 1
+                    },
+                    "levelType": {
+                        "m_defined": true,
+                        "m_value": "ELITE"
+                    },
+                    "rangeRadius": {
+                        "m_defined": true,
+                        "m_value": -1.0
+                    },
+                    "numOfExtraDrops": {
+                        "m_defined": true,
+                        "m_value": 0
+                    },
+                    "viewRadius": {
+                        "m_defined": false,
+                        "m_value": 0.0
+                    },
+                    "notCountInTotal": {
+                        "m_defined": false,
+                        "m_value": false
+                    },
+                    "talentBlackboard": [
+                        {
+                            "key": "Reborn.duration",
+                            "value": 20.0,
+                            "valueStr": null
+                        },
+                        {
+                            "key": "football.passing_force",
+                            "value": 1.45,
+                            "valueStr": null
+                        },
+                        {
+                            "key": "football.slapshot_force",
+                            "value": 1.5,
+                            "valueStr": null
+                        },
+                        {
+                            "key": "searchBall.range_radius",
+                            "value": 1.5,
+                            "valueStr": null
+                        }
+                    ],
+                    "skills": [
+                        {
+                            "prefabKey": "slapshot",
+                            "priority": 0,
+                            "cooldown": 2.0,
+                            "initCooldown": 0.0,
+                            "spCost": 0,
+                            "blackboard": [
+                                {
+                                    "key": "duration",
+                                    "value": 3.0,
+                                    "valueStr": null
+                                }
+                            ]
+                        },
+                        {
+                            "prefabKey": "passtheball",
+                            "priority": 0,
+                            "cooldown": 2.0,
+                            "initCooldown": 0.0,
+                            "spCost": 0,
+                            "blackboard": [
+                                {
+                                    "key": "duration",
+                                    "value": 3.0,
+                                    "valueStr": null
+                                }
+                            ]
+                        }
+                    ],
+                    "spData": null
+                }
+            },
+            {
+                "level": 1,
+                "enemyData": {
+                    "name": {
+                        "m_defined": false,
+                        "m_value": "直球队坚定击球手"
+                    },
+                    "description": {
+                        "m_defined": false,
+                        "m_value": "直球队的前锋，射门力度更大，只会按照直线方向踢球"
+                    },
+                    "prefabKey": {
+                        "m_defined": false,
+                        "m_value": "enemy_4060_mulinm_2"
+                    },
+                    "attributes": {
+                        "maxHp": {
+                            "m_defined": true,
+                            "m_value": 32000
+                        },
+                        "atk": {
+                            "m_defined": true,
+                            "m_value": 1000
+                        },
+                        "def": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "magicResistance": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "cost": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "blockCnt": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "moveSpeed": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "attackSpeed": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "baseAttackTime": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "respawnTime": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "hpRecoveryPerSec": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "spRecoveryPerSec": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "maxDeployCount": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "massLevel": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "baseForceLevel": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "tauntLevel": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "epDamageResistance": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "epResistance": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "damageHitratePhysical": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "damageHitrateMagical": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "epBreakRecoverSpeed": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "blockVolume": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "stunImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "silenceImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "sleepImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "frozenImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "levitateImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "disarmedCombatImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "fearedImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "palsyImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "attractImmune": null,
+                        "teleportImmune": null,
+                        "groundBoundImmune": null
+                    },
+                    "applyWay": {
+                        "m_defined": false,
+                        "m_value": "NONE"
+                    },
+                    "motion": {
+                        "m_defined": false,
+                        "m_value": "WALK"
+                    },
+                    "enemyTags": {
+                        "m_defined": false,
+                        "m_value": null
+                    },
+                    "lifePointReduce": {
+                        "m_defined": false,
+                        "m_value": 0
+                    },
+                    "levelType": {
+                        "m_defined": false,
+                        "m_value": "NORMAL"
+                    },
+                    "rangeRadius": {
+                        "m_defined": false,
+                        "m_value": 0.0
+                    },
+                    "numOfExtraDrops": {
+                        "m_defined": false,
+                        "m_value": 0
+                    },
+                    "viewRadius": {
+                        "m_defined": false,
+                        "m_value": 0.0
+                    },
+                    "notCountInTotal": {
+                        "m_defined": false,
+                        "m_value": false
+                    },
+                    "talentBlackboard": null,
+                    "skills": null,
+                    "spData": null
+                }
+            }
+        ]
+    },
+    {
+        "Key": "enemy_4061_mulinb",
+        "Value": [
+            {
+                "level": 0,
+                "enemyData": {
+                    "name": {
+                        "m_defined": true,
+                        "m_value": "Straight Line Club Goalie"
+                    },
+                    "description": {
+                        "m_defined": true,
+                        "m_value": "Straight Line Club's goalie with a more powerful kickoff; only kicks the ball in a horizontal straight line."
+                    },
+                    "prefabKey": {
+                        "m_defined": true,
+                        "m_value": "enemy_4061_mulinb"
+                    },
+                    "attributes": {
+                        "maxHp": {
+                            "m_defined": true,
+                            "m_value": 25000
+                        },
+                        "atk": {
+                            "m_defined": true,
+                            "m_value": 1200
+                        },
+                        "def": {
+                            "m_defined": true,
+                            "m_value": 1200
+                        },
+                        "magicResistance": {
+                            "m_defined": true,
+                            "m_value": 50.0
+                        },
+                        "cost": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "blockCnt": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "moveSpeed": {
+                            "m_defined": true,
+                            "m_value": 1.6
+                        },
+                        "attackSpeed": {
+                            "m_defined": true,
+                            "m_value": 100.0
+                        },
+                        "baseAttackTime": {
+                            "m_defined": true,
+                            "m_value": 3.0
+                        },
+                        "respawnTime": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "hpRecoveryPerSec": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "spRecoveryPerSec": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "maxDeployCount": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "massLevel": {
+                            "m_defined": true,
+                            "m_value": 3
+                        },
+                        "baseForceLevel": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "tauntLevel": {
+                            "m_defined": true,
+                            "m_value": 0
+                        },
+                        "epDamageResistance": {
+                            "m_defined": true,
+                            "m_value": 0.0
+                        },
+                        "epResistance": {
+                            "m_defined": true,
+                            "m_value": 0.0
+                        },
+                        "damageHitratePhysical": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "damageHitrateMagical": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "epBreakRecoverSpeed": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "blockVolume": {
+                            "m_defined": true,
+                            "m_value": 0
+                        },
+                        "stunImmune": {
+                            "m_defined": true,
+                            "m_value": true
+                        },
+                        "silenceImmune": {
+                            "m_defined": true,
+                            "m_value": false
+                        },
+                        "sleepImmune": {
+                            "m_defined": true,
+                            "m_value": false
+                        },
+                        "frozenImmune": {
+                            "m_defined": true,
+                            "m_value": false
+                        },
+                        "levitateImmune": {
+                            "m_defined": true,
+                            "m_value": false
+                        },
+                        "disarmedCombatImmune": {
+                            "m_defined": true,
+                            "m_value": false
+                        },
+                        "fearedImmune": {
+                            "m_defined": true,
+                            "m_value": false
+                        },
+                        "palsyImmune": {
+                            "m_defined": true,
+                            "m_value": false
+                        },
+                        "attractImmune": null,
+                        "teleportImmune": null,
+                        "groundBoundImmune": null
+                    },
+                    "applyWay": {
+                        "m_defined": true,
+                        "m_value": "MELEE"
+                    },
+                    "motion": {
+                        "m_defined": true,
+                        "m_value": "WALK"
+                    },
+                    "enemyTags": {
+                        "m_defined": true,
+                        "m_value": null
+                    },
+                    "lifePointReduce": {
+                        "m_defined": true,
+                        "m_value": 1
+                    },
+                    "levelType": {
+                        "m_defined": true,
+                        "m_value": "ELITE"
+                    },
+                    "rangeRadius": {
+                        "m_defined": true,
+                        "m_value": -1.0
+                    },
+                    "numOfExtraDrops": {
+                        "m_defined": true,
+                        "m_value": 0
+                    },
+                    "viewRadius": {
+                        "m_defined": false,
+                        "m_value": 0.0
+                    },
+                    "notCountInTotal": {
+                        "m_defined": false,
+                        "m_value": false
+                    },
+                    "talentBlackboard": [
+                        {
+                            "key": "Reborn.duration",
+                            "value": 20.0,
+                            "valueStr": null
+                        },
+                        {
+                            "key": "football.clearance_force",
+                            "value": 1.6,
+                            "valueStr": null
+                        },
+                        {
+                            "key": "football.tile_col_end",
+                            "value": 9.0,
+                            "valueStr": null
+                        },
+                        {
+                            "key": "football.defence",
+                            "value": 0.5,
+                            "valueStr": null
+                        },
+                        {
+                            "key": "searchBall.range_radius",
+                            "value": 2.5,
+                            "valueStr": null
+                        }
+                    ],
+                    "skills": [
+                        {
+                            "prefabKey": "slapshot",
+                            "priority": 0,
+                            "cooldown": 0.0,
+                            "initCooldown": 0.0,
+                            "spCost": 0,
+                            "blackboard": []
+                        },
+                        {
+                            "prefabKey": "clearance",
+                            "priority": 0,
+                            "cooldown": 0.0,
+                            "initCooldown": 0.0,
+                            "spCost": 0,
+                            "blackboard": null
+                        }
+                    ],
+                    "spData": null
+                }
+            },
+            {
+                "level": 1,
+                "enemyData": {
+                    "name": {
+                        "m_defined": false,
+                        "m_value": "直球队守门员"
+                    },
+                    "description": {
+                        "m_defined": false,
+                        "m_value": "直球队的守门员，开球力度更大，只会按照直线方向开球"
+                    },
+                    "prefabKey": {
+                        "m_defined": false,
+                        "m_value": "enemy_4061_mulinb"
+                    },
+                    "attributes": {
+                        "maxHp": {
+                            "m_defined": true,
+                            "m_value": 35000
+                        },
+                        "atk": {
+                            "m_defined": true,
+                            "m_value": 1400
+                        },
+                        "def": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "magicResistance": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "cost": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "blockCnt": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "moveSpeed": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "attackSpeed": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "baseAttackTime": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "respawnTime": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "hpRecoveryPerSec": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "spRecoveryPerSec": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "maxDeployCount": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "massLevel": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "baseForceLevel": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "tauntLevel": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "epDamageResistance": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "epResistance": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "damageHitratePhysical": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "damageHitrateMagical": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "epBreakRecoverSpeed": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "blockVolume": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "stunImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "silenceImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "sleepImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "frozenImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "levitateImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "disarmedCombatImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "fearedImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "palsyImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "attractImmune": null,
+                        "teleportImmune": null,
+                        "groundBoundImmune": null
+                    },
+                    "applyWay": {
+                        "m_defined": false,
+                        "m_value": "NONE"
+                    },
+                    "motion": {
+                        "m_defined": false,
+                        "m_value": "WALK"
+                    },
+                    "enemyTags": {
+                        "m_defined": false,
+                        "m_value": null
+                    },
+                    "lifePointReduce": {
+                        "m_defined": false,
+                        "m_value": 0
+                    },
+                    "levelType": {
+                        "m_defined": false,
+                        "m_value": "NORMAL"
+                    },
+                    "rangeRadius": {
+                        "m_defined": false,
+                        "m_value": 0.0
+                    },
+                    "numOfExtraDrops": {
+                        "m_defined": false,
+                        "m_value": 0
+                    },
+                    "viewRadius": {
+                        "m_defined": false,
+                        "m_value": 0.0
+                    },
+                    "notCountInTotal": {
+                        "m_defined": false,
+                        "m_value": false
+                    },
+                    "talentBlackboard": null,
+                    "skills": null,
+                    "spData": null
+                }
+            }
+        ]
+    },
+    {
+        "Key": "enemy_4061_mulinb_2",
+        "Value": [
+            {
+                "level": 0,
+                "enemyData": {
+                    "name": {
+                        "m_defined": true,
+                        "m_value": "Straight Line Club Determined Goalie"
+                    },
+                    "description": {
+                        "m_defined": true,
+                        "m_value": "Straight Line Club's goalie with a more powerful kickoff; only kicks the ball in a horizontal straight line."
+                    },
+                    "prefabKey": {
+                        "m_defined": true,
+                        "m_value": "enemy_4061_mulinb_2"
+                    },
+                    "attributes": {
+                        "maxHp": {
+                            "m_defined": true,
+                            "m_value": 30000
+                        },
+                        "atk": {
+                            "m_defined": true,
+                            "m_value": 1400
+                        },
+                        "def": {
+                            "m_defined": true,
+                            "m_value": 1300
+                        },
+                        "magicResistance": {
+                            "m_defined": true,
+                            "m_value": 50.0
+                        },
+                        "cost": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "blockCnt": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "moveSpeed": {
+                            "m_defined": true,
+                            "m_value": 1.6
+                        },
+                        "attackSpeed": {
+                            "m_defined": true,
+                            "m_value": 100.0
+                        },
+                        "baseAttackTime": {
+                            "m_defined": true,
+                            "m_value": 3.0
+                        },
+                        "respawnTime": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "hpRecoveryPerSec": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "spRecoveryPerSec": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "maxDeployCount": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "massLevel": {
+                            "m_defined": true,
+                            "m_value": 3
+                        },
+                        "baseForceLevel": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "tauntLevel": {
+                            "m_defined": true,
+                            "m_value": 0
+                        },
+                        "epDamageResistance": {
+                            "m_defined": true,
+                            "m_value": 0.0
+                        },
+                        "epResistance": {
+                            "m_defined": true,
+                            "m_value": 0.0
+                        },
+                        "damageHitratePhysical": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "damageHitrateMagical": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "epBreakRecoverSpeed": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "blockVolume": {
+                            "m_defined": true,
+                            "m_value": 0
+                        },
+                        "stunImmune": {
+                            "m_defined": true,
+                            "m_value": true
+                        },
+                        "silenceImmune": {
+                            "m_defined": true,
+                            "m_value": false
+                        },
+                        "sleepImmune": {
+                            "m_defined": true,
+                            "m_value": false
+                        },
+                        "frozenImmune": {
+                            "m_defined": true,
+                            "m_value": false
+                        },
+                        "levitateImmune": {
+                            "m_defined": true,
+                            "m_value": false
+                        },
+                        "disarmedCombatImmune": {
+                            "m_defined": true,
+                            "m_value": false
+                        },
+                        "fearedImmune": {
+                            "m_defined": true,
+                            "m_value": false
+                        },
+                        "palsyImmune": {
+                            "m_defined": true,
+                            "m_value": false
+                        },
+                        "attractImmune": null,
+                        "teleportImmune": null,
+                        "groundBoundImmune": null
+                    },
+                    "applyWay": {
+                        "m_defined": true,
+                        "m_value": "MELEE"
+                    },
+                    "motion": {
+                        "m_defined": true,
+                        "m_value": "WALK"
+                    },
+                    "enemyTags": {
+                        "m_defined": true,
+                        "m_value": null
+                    },
+                    "lifePointReduce": {
+                        "m_defined": true,
+                        "m_value": 1
+                    },
+                    "levelType": {
+                        "m_defined": true,
+                        "m_value": "ELITE"
+                    },
+                    "rangeRadius": {
+                        "m_defined": true,
+                        "m_value": -1.0
+                    },
+                    "numOfExtraDrops": {
+                        "m_defined": true,
+                        "m_value": 0
+                    },
+                    "viewRadius": {
+                        "m_defined": false,
+                        "m_value": 0.0
+                    },
+                    "notCountInTotal": {
+                        "m_defined": false,
+                        "m_value": false
+                    },
+                    "talentBlackboard": [
+                        {
+                            "key": "Reborn.duration",
+                            "value": 20.0,
+                            "valueStr": null
+                        },
+                        {
+                            "key": "football.clearance_force",
+                            "value": 1.6,
+                            "valueStr": null
+                        },
+                        {
+                            "key": "football.tile_col_end",
+                            "value": 9.0,
+                            "valueStr": null
+                        },
+                        {
+                            "key": "football.defence",
+                            "value": 0.5,
+                            "valueStr": null
+                        },
+                        {
+                            "key": "searchBall.range_radius",
+                            "value": 2.5,
+                            "valueStr": null
+                        }
+                    ],
+                    "skills": [
+                        {
+                            "prefabKey": "slapshot",
+                            "priority": 0,
+                            "cooldown": 0.0,
+                            "initCooldown": 0.0,
+                            "spCost": 0,
+                            "blackboard": []
+                        },
+                        {
+                            "prefabKey": "clearance",
+                            "priority": 0,
+                            "cooldown": 0.0,
+                            "initCooldown": 0.0,
+                            "spCost": 0,
+                            "blackboard": null
+                        }
+                    ],
+                    "spData": null
+                }
+            },
+            {
+                "level": 1,
+                "enemyData": {
+                    "name": {
+                        "m_defined": false,
+                        "m_value": "直球队坚定守门员"
+                    },
+                    "description": {
+                        "m_defined": false,
+                        "m_value": "直球队的守门员，开球力度更大，只会按照直线方向开球"
+                    },
+                    "prefabKey": {
+                        "m_defined": false,
+                        "m_value": "enemy_4061_mulinb_2"
+                    },
+                    "attributes": {
+                        "maxHp": {
+                            "m_defined": true,
+                            "m_value": 40000
+                        },
+                        "atk": {
+                            "m_defined": true,
+                            "m_value": 1600
+                        },
+                        "def": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "magicResistance": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "cost": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "blockCnt": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "moveSpeed": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "attackSpeed": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "baseAttackTime": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "respawnTime": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "hpRecoveryPerSec": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "spRecoveryPerSec": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "maxDeployCount": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "massLevel": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "baseForceLevel": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "tauntLevel": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "epDamageResistance": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "epResistance": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "damageHitratePhysical": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "damageHitrateMagical": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "epBreakRecoverSpeed": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "blockVolume": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "stunImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "silenceImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "sleepImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "frozenImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "levitateImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "disarmedCombatImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "fearedImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "palsyImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "attractImmune": null,
+                        "teleportImmune": null,
+                        "groundBoundImmune": null
+                    },
+                    "applyWay": {
+                        "m_defined": false,
+                        "m_value": "NONE"
+                    },
+                    "motion": {
+                        "m_defined": false,
+                        "m_value": "WALK"
+                    },
+                    "enemyTags": {
+                        "m_defined": false,
+                        "m_value": null
+                    },
+                    "lifePointReduce": {
+                        "m_defined": false,
+                        "m_value": 0
+                    },
+                    "levelType": {
+                        "m_defined": false,
+                        "m_value": "NORMAL"
+                    },
+                    "rangeRadius": {
+                        "m_defined": false,
+                        "m_value": 0.0
+                    },
+                    "numOfExtraDrops": {
+                        "m_defined": false,
+                        "m_value": 0
+                    },
+                    "viewRadius": {
+                        "m_defined": false,
+                        "m_value": 0.0
+                    },
+                    "notCountInTotal": {
+                        "m_defined": false,
+                        "m_value": false
+                    },
+                    "talentBlackboard": null,
+                    "skills": null,
+                    "spData": null
+                }
+            }
+        ]
+    },
+    {
+        "Key": "enemy_4062_muling",
+        "Value": [
+            {
+                "level": 0,
+                "enemyData": {
+                    "name": {
+                        "m_defined": true,
+                        "m_value": "Straight Line Club Hitter"
+                    },
+                    "description": {
+                        "m_defined": true,
+                        "m_value": "Limited vision does not compromise their ability to play; attacks nearby opponents."
+                    },
+                    "prefabKey": {
+                        "m_defined": true,
+                        "m_value": "enemy_4062_muling"
+                    },
+                    "attributes": {
+                        "maxHp": {
+                            "m_defined": true,
+                            "m_value": 15000
+                        },
+                        "atk": {
+                            "m_defined": true,
+                            "m_value": 1000
+                        },
+                        "def": {
+                            "m_defined": true,
+                            "m_value": 900
+                        },
+                        "magicResistance": {
+                            "m_defined": true,
+                            "m_value": 40.0
+                        },
+                        "cost": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "blockCnt": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "moveSpeed": {
+                            "m_defined": true,
+                            "m_value": 1.0
+                        },
+                        "attackSpeed": {
+                            "m_defined": true,
+                            "m_value": 100.0
+                        },
+                        "baseAttackTime": {
+                            "m_defined": true,
+                            "m_value": 2.0
+                        },
+                        "respawnTime": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "hpRecoveryPerSec": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "spRecoveryPerSec": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "maxDeployCount": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "massLevel": {
+                            "m_defined": true,
+                            "m_value": 0
+                        },
+                        "baseForceLevel": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "tauntLevel": {
+                            "m_defined": true,
+                            "m_value": 0
+                        },
+                        "epDamageResistance": {
+                            "m_defined": true,
+                            "m_value": 0.0
+                        },
+                        "epResistance": {
+                            "m_defined": true,
+                            "m_value": 0.0
+                        },
+                        "damageHitratePhysical": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "damageHitrateMagical": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "epBreakRecoverSpeed": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "blockVolume": {
+                            "m_defined": true,
+                            "m_value": 0
+                        },
+                        "stunImmune": {
+                            "m_defined": true,
+                            "m_value": true
+                        },
+                        "silenceImmune": {
+                            "m_defined": true,
+                            "m_value": false
+                        },
+                        "sleepImmune": {
+                            "m_defined": true,
+                            "m_value": false
+                        },
+                        "frozenImmune": {
+                            "m_defined": true,
+                            "m_value": false
+                        },
+                        "levitateImmune": {
+                            "m_defined": true,
+                            "m_value": false
+                        },
+                        "disarmedCombatImmune": {
+                            "m_defined": true,
+                            "m_value": false
+                        },
+                        "fearedImmune": {
+                            "m_defined": true,
+                            "m_value": false
+                        },
+                        "palsyImmune": {
+                            "m_defined": true,
+                            "m_value": false
+                        },
+                        "attractImmune": null,
+                        "teleportImmune": null,
+                        "groundBoundImmune": null
+                    },
+                    "applyWay": {
+                        "m_defined": true,
+                        "m_value": "MELEE"
+                    },
+                    "motion": {
+                        "m_defined": true,
+                        "m_value": "WALK"
+                    },
+                    "enemyTags": {
+                        "m_defined": true,
+                        "m_value": null
+                    },
+                    "lifePointReduce": {
+                        "m_defined": true,
+                        "m_value": 1
+                    },
+                    "levelType": {
+                        "m_defined": true,
+                        "m_value": "ELITE"
+                    },
+                    "rangeRadius": {
+                        "m_defined": true,
+                        "m_value": -1.0
+                    },
+                    "numOfExtraDrops": {
+                        "m_defined": true,
+                        "m_value": 0
+                    },
+                    "viewRadius": {
+                        "m_defined": false,
+                        "m_value": 0.0
+                    },
+                    "notCountInTotal": {
+                        "m_defined": false,
+                        "m_value": false
+                    },
+                    "talentBlackboard": [
+                        {
+                            "key": "Reborn.duration",
+                            "value": 20.0,
+                            "valueStr": null
+                        },
+                        {
+                            "key": "searchtarget.range_radius",
+                            "value": 0.7,
+                            "valueStr": null
+                        }
+                    ],
+                    "skills": null,
+                    "spData": null
+                }
+            },
+            {
+                "level": 1,
+                "enemyData": {
+                    "name": {
+                        "m_defined": false,
+                        "m_value": null
+                    },
+                    "description": {
+                        "m_defined": false,
+                        "m_value": null
+                    },
+                    "prefabKey": {
+                        "m_defined": false,
+                        "m_value": null
+                    },
+                    "attributes": {
+                        "maxHp": {
+                            "m_defined": true,
+                            "m_value": 25000
+                        },
+                        "atk": {
+                            "m_defined": true,
+                            "m_value": 1400
+                        },
+                        "def": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "magicResistance": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "cost": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "blockCnt": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "moveSpeed": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "attackSpeed": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "baseAttackTime": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "respawnTime": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "hpRecoveryPerSec": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "spRecoveryPerSec": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "maxDeployCount": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "massLevel": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "baseForceLevel": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "tauntLevel": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "epDamageResistance": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "epResistance": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "damageHitratePhysical": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "damageHitrateMagical": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "epBreakRecoverSpeed": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "blockVolume": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "stunImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "silenceImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "sleepImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "frozenImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "levitateImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "disarmedCombatImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "fearedImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "palsyImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "attractImmune": null,
+                        "teleportImmune": null,
+                        "groundBoundImmune": null
+                    },
+                    "applyWay": {
+                        "m_defined": false,
+                        "m_value": "NONE"
+                    },
+                    "motion": {
+                        "m_defined": false,
+                        "m_value": "WALK"
+                    },
+                    "enemyTags": {
+                        "m_defined": false,
+                        "m_value": null
+                    },
+                    "lifePointReduce": {
+                        "m_defined": false,
+                        "m_value": 0
+                    },
+                    "levelType": {
+                        "m_defined": false,
+                        "m_value": "NORMAL"
+                    },
+                    "rangeRadius": {
+                        "m_defined": false,
+                        "m_value": 0.0
+                    },
+                    "numOfExtraDrops": {
+                        "m_defined": false,
+                        "m_value": 0
+                    },
+                    "viewRadius": {
+                        "m_defined": false,
+                        "m_value": 0.0
+                    },
+                    "notCountInTotal": {
+                        "m_defined": false,
+                        "m_value": false
+                    },
+                    "talentBlackboard": null,
+                    "skills": null,
+                    "spData": null
+                }
+            }
+        ]
+    },
+    {
+        "Key": "enemy_4062_muling_2",
+        "Value": [
+            {
+                "level": 0,
+                "enemyData": {
+                    "name": {
+                        "m_defined": true,
+                        "m_value": "Straight Line Club Determined Hitter"
+                    },
+                    "description": {
+                        "m_defined": true,
+                        "m_value": "Limited vision does not compromise their ability to play; attacks nearby opponents."
+                    },
+                    "prefabKey": {
+                        "m_defined": true,
+                        "m_value": "enemy_4062_muling_2"
+                    },
+                    "attributes": {
+                        "maxHp": {
+                            "m_defined": true,
+                            "m_value": 18000
+                        },
+                        "atk": {
+                            "m_defined": true,
+                            "m_value": 1100
+                        },
+                        "def": {
+                            "m_defined": true,
+                            "m_value": 1200
+                        },
+                        "magicResistance": {
+                            "m_defined": true,
+                            "m_value": 40.0
+                        },
+                        "cost": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "blockCnt": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "moveSpeed": {
+                            "m_defined": true,
+                            "m_value": 1.0
+                        },
+                        "attackSpeed": {
+                            "m_defined": true,
+                            "m_value": 100.0
+                        },
+                        "baseAttackTime": {
+                            "m_defined": true,
+                            "m_value": 2.0
+                        },
+                        "respawnTime": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "hpRecoveryPerSec": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "spRecoveryPerSec": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "maxDeployCount": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "massLevel": {
+                            "m_defined": true,
+                            "m_value": 0
+                        },
+                        "baseForceLevel": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "tauntLevel": {
+                            "m_defined": true,
+                            "m_value": 0
+                        },
+                        "epDamageResistance": {
+                            "m_defined": true,
+                            "m_value": 0.0
+                        },
+                        "epResistance": {
+                            "m_defined": true,
+                            "m_value": 0.0
+                        },
+                        "damageHitratePhysical": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "damageHitrateMagical": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "epBreakRecoverSpeed": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "blockVolume": {
+                            "m_defined": true,
+                            "m_value": 0
+                        },
+                        "stunImmune": {
+                            "m_defined": true,
+                            "m_value": true
+                        },
+                        "silenceImmune": {
+                            "m_defined": true,
+                            "m_value": false
+                        },
+                        "sleepImmune": {
+                            "m_defined": true,
+                            "m_value": false
+                        },
+                        "frozenImmune": {
+                            "m_defined": true,
+                            "m_value": false
+                        },
+                        "levitateImmune": {
+                            "m_defined": true,
+                            "m_value": false
+                        },
+                        "disarmedCombatImmune": {
+                            "m_defined": true,
+                            "m_value": false
+                        },
+                        "fearedImmune": {
+                            "m_defined": true,
+                            "m_value": false
+                        },
+                        "palsyImmune": {
+                            "m_defined": true,
+                            "m_value": false
+                        },
+                        "attractImmune": null,
+                        "teleportImmune": null,
+                        "groundBoundImmune": null
+                    },
+                    "applyWay": {
+                        "m_defined": true,
+                        "m_value": "MELEE"
+                    },
+                    "motion": {
+                        "m_defined": true,
+                        "m_value": "WALK"
+                    },
+                    "enemyTags": {
+                        "m_defined": true,
+                        "m_value": null
+                    },
+                    "lifePointReduce": {
+                        "m_defined": true,
+                        "m_value": 1
+                    },
+                    "levelType": {
+                        "m_defined": true,
+                        "m_value": "ELITE"
+                    },
+                    "rangeRadius": {
+                        "m_defined": true,
+                        "m_value": -1.0
+                    },
+                    "numOfExtraDrops": {
+                        "m_defined": true,
+                        "m_value": 0
+                    },
+                    "viewRadius": {
+                        "m_defined": false,
+                        "m_value": 0.0
+                    },
+                    "notCountInTotal": {
+                        "m_defined": false,
+                        "m_value": false
+                    },
+                    "talentBlackboard": [
+                        {
+                            "key": "Reborn.duration",
+                            "value": 20.0,
+                            "valueStr": null
+                        },
+                        {
+                            "key": "searchtarget.range_radius",
+                            "value": 0.7,
+                            "valueStr": null
+                        }
+                    ],
+                    "skills": null,
+                    "spData": null
+                }
+            },
+            {
+                "level": 1,
+                "enemyData": {
+                    "name": {
+                        "m_defined": false,
+                        "m_value": null
+                    },
+                    "description": {
+                        "m_defined": false,
+                        "m_value": null
+                    },
+                    "prefabKey": {
+                        "m_defined": false,
+                        "m_value": null
+                    },
+                    "attributes": {
+                        "maxHp": {
+                            "m_defined": true,
+                            "m_value": 30000
+                        },
+                        "atk": {
+                            "m_defined": true,
+                            "m_value": 1600
+                        },
+                        "def": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "magicResistance": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "cost": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "blockCnt": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "moveSpeed": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "attackSpeed": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "baseAttackTime": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "respawnTime": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "hpRecoveryPerSec": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "spRecoveryPerSec": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "maxDeployCount": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "massLevel": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "baseForceLevel": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "tauntLevel": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "epDamageResistance": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "epResistance": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "damageHitratePhysical": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "damageHitrateMagical": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "epBreakRecoverSpeed": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "blockVolume": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "stunImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "silenceImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "sleepImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "frozenImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "levitateImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "disarmedCombatImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "fearedImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "palsyImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "attractImmune": null,
+                        "teleportImmune": null,
+                        "groundBoundImmune": null
+                    },
+                    "applyWay": {
+                        "m_defined": false,
+                        "m_value": "NONE"
+                    },
+                    "motion": {
+                        "m_defined": false,
+                        "m_value": "WALK"
+                    },
+                    "enemyTags": {
+                        "m_defined": false,
+                        "m_value": null
+                    },
+                    "lifePointReduce": {
+                        "m_defined": false,
+                        "m_value": 0
+                    },
+                    "levelType": {
+                        "m_defined": false,
+                        "m_value": "NORMAL"
+                    },
+                    "rangeRadius": {
+                        "m_defined": false,
+                        "m_value": 0.0
+                    },
+                    "numOfExtraDrops": {
+                        "m_defined": false,
+                        "m_value": 0
+                    },
+                    "viewRadius": {
+                        "m_defined": false,
+                        "m_value": 0.0
+                    },
+                    "notCountInTotal": {
+                        "m_defined": false,
+                        "m_value": false
+                    },
+                    "talentBlackboard": null,
+                    "skills": null,
+                    "spData": null
+                }
+            }
+        ]
+    },
+    {
+        "Key": "enemy_4063_muflyb",
+        "Value": [
+            {
+                "level": 0,
+                "enemyData": {
+                    "name": {
+                        "m_defined": true,
+                        "m_value": "Floating Charged Ball"
+                    },
+                    "description": {
+                        "m_defined": true,
+                        "m_value": "Temporarily gains <@eb.key>Flying</> when kicked."
+                    },
+                    "prefabKey": {
+                        "m_defined": true,
+                        "m_value": "enemy_4063_muflyb"
+                    },
+                    "attributes": {
+                        "maxHp": {
+                            "m_defined": true,
+                            "m_value": 1000
+                        },
+                        "atk": {
+                            "m_defined": true,
+                            "m_value": 10000
+                        },
+                        "def": {
+                            "m_defined": true,
+                            "m_value": 0
+                        },
+                        "magicResistance": {
+                            "m_defined": true,
+                            "m_value": 0.0
+                        },
+                        "cost": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "blockCnt": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "moveSpeed": {
+                            "m_defined": true,
+                            "m_value": 1.0
+                        },
+                        "attackSpeed": {
+                            "m_defined": true,
+                            "m_value": 100.0
+                        },
+                        "baseAttackTime": {
+                            "m_defined": true,
+                            "m_value": 1.0
+                        },
+                        "respawnTime": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "hpRecoveryPerSec": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "spRecoveryPerSec": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "maxDeployCount": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "massLevel": {
+                            "m_defined": true,
+                            "m_value": 1
+                        },
+                        "baseForceLevel": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "tauntLevel": {
+                            "m_defined": true,
+                            "m_value": 2
+                        },
+                        "epDamageResistance": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "epResistance": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "damageHitratePhysical": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "damageHitrateMagical": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "epBreakRecoverSpeed": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "blockVolume": {
+                            "m_defined": true,
+                            "m_value": 0
+                        },
+                        "stunImmune": {
+                            "m_defined": true,
+                            "m_value": false
+                        },
+                        "silenceImmune": {
+                            "m_defined": true,
+                            "m_value": false
+                        },
+                        "sleepImmune": {
+                            "m_defined": true,
+                            "m_value": false
+                        },
+                        "frozenImmune": {
+                            "m_defined": true,
+                            "m_value": true
+                        },
+                        "levitateImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "disarmedCombatImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "fearedImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "palsyImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "attractImmune": null,
+                        "teleportImmune": null,
+                        "groundBoundImmune": null
+                    },
+                    "applyWay": {
+                        "m_defined": true,
+                        "m_value": "NONE"
+                    },
+                    "motion": {
+                        "m_defined": true,
+                        "m_value": "WALK"
+                    },
+                    "enemyTags": {
+                        "m_defined": true,
+                        "m_value": []
+                    },
+                    "lifePointReduce": {
+                        "m_defined": true,
+                        "m_value": 1
+                    },
+                    "levelType": {
+                        "m_defined": true,
+                        "m_value": "ELITE"
+                    },
+                    "rangeRadius": {
+                        "m_defined": true,
+                        "m_value": -1.0
+                    },
+                    "numOfExtraDrops": {
+                        "m_defined": true,
+                        "m_value": 0
+                    },
+                    "viewRadius": {
+                        "m_defined": false,
+                        "m_value": 0.0
+                    },
+                    "notCountInTotal": {
+                        "m_defined": false,
+                        "m_value": false
+                    },
+                    "talentBlackboard": [
+                        {
+                            "key": "aura.block_cnt",
+                            "value": 3.0,
+                            "valueStr": null
+                        },
+                        {
+                            "key": "physic.friction_factor",
+                            "value": 0.4,
+                            "valueStr": null
+                        },
+                        {
+                            "key": "physic.restitution_factor",
+                            "value": 1.0,
+                            "valueStr": null
+                        },
+                        {
+                            "key": "physic.value",
+                            "value": 5000.0,
+                            "valueStr": null
+                        },
+                        {
+                            "key": "physic.force",
+                            "value": 400.0,
+                            "valueStr": null
+                        },
+                        {
+                            "key": "flyBySpeed.min_speed",
+                            "value": 0.8,
+                            "valueStr": null
+                        },
+                        {
+                            "key": "flyBySpeed.max_speed",
+                            "value": 5.0,
+                            "valueStr": null
+                        },
+                        {
+                            "key": "flyBySpeed.max_height",
+                            "value": 2.0,
+                            "valueStr": null
+                        }
+                    ],
+                    "skills": null,
+                    "spData": {
+                        "spType": "INCREASE_WHEN_ATTACK",
+                        "maxSp": 2,
+                        "initSp": 0,
+                        "increment": 1.0
+                    }
+                }
+            },
+            {
+                "level": 1,
+                "enemyData": {
+                    "name": {
+                        "m_defined": false,
+                        "m_value": null
+                    },
+                    "description": {
+                        "m_defined": false,
+                        "m_value": null
+                    },
+                    "prefabKey": {
+                        "m_defined": false,
+                        "m_value": null
+                    },
+                    "attributes": {
+                        "maxHp": {
+                            "m_defined": false,
+                            "m_value": 80000
+                        },
+                        "atk": {
+                            "m_defined": false,
+                            "m_value": 2250
+                        },
+                        "def": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "magicResistance": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "cost": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "blockCnt": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "moveSpeed": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "attackSpeed": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "baseAttackTime": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "respawnTime": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "hpRecoveryPerSec": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "spRecoveryPerSec": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "maxDeployCount": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "massLevel": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "baseForceLevel": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "tauntLevel": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "epDamageResistance": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "epResistance": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "damageHitratePhysical": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "damageHitrateMagical": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "epBreakRecoverSpeed": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "blockVolume": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "stunImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "silenceImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "sleepImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "frozenImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "levitateImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "disarmedCombatImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "fearedImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "palsyImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "attractImmune": null,
+                        "teleportImmune": null,
+                        "groundBoundImmune": null
+                    },
+                    "applyWay": {
+                        "m_defined": false,
+                        "m_value": "NONE"
+                    },
+                    "motion": {
+                        "m_defined": false,
+                        "m_value": "WALK"
+                    },
+                    "enemyTags": {
+                        "m_defined": false,
+                        "m_value": null
+                    },
+                    "lifePointReduce": {
+                        "m_defined": false,
+                        "m_value": 0
+                    },
+                    "levelType": {
+                        "m_defined": false,
+                        "m_value": "NORMAL"
+                    },
+                    "rangeRadius": {
+                        "m_defined": false,
+                        "m_value": 0.0
+                    },
+                    "numOfExtraDrops": {
+                        "m_defined": false,
+                        "m_value": 0
+                    },
+                    "viewRadius": {
+                        "m_defined": false,
+                        "m_value": 0.0
+                    },
+                    "notCountInTotal": {
+                        "m_defined": false,
+                        "m_value": false
+                    },
+                    "talentBlackboard": null,
+                    "skills": [
+                        {
+                            "prefabKey": "slapshot",
+                            "priority": 0,
+                            "cooldown": 0.0,
+                            "initCooldown": 0.0,
+                            "spCost": 0,
+                            "blackboard": []
+                        },
+                        {
+                            "prefabKey": "clearance",
+                            "priority": 0,
+                            "cooldown": 20.0,
+                            "initCooldown": 20.0,
+                            "spCost": 0,
+                            "blackboard": []
+                        }
+                    ],
+                    "spData": null
+                }
+            }
+        ]
+    },
+    {
+        "Key": "enemy_4064_mupenb",
+        "Value": [
+            {
+                "level": 0,
+                "enemyData": {
+                    "name": {
+                        "m_defined": true,
+                        "m_value": "Decisive Moment Ball"
+                    },
+                    "description": {
+                        "m_defined": true,
+                        "m_value": "Penalty Shootout Ball"
+                    },
+                    "prefabKey": {
+                        "m_defined": true,
+                        "m_value": "enemy_4064_mupenb"
+                    },
+                    "attributes": {
+                        "maxHp": {
+                            "m_defined": true,
+                            "m_value": 1000
+                        },
+                        "atk": {
+                            "m_defined": true,
+                            "m_value": 10000
+                        },
+                        "def": {
+                            "m_defined": true,
+                            "m_value": 0
+                        },
+                        "magicResistance": {
+                            "m_defined": true,
+                            "m_value": 0.0
+                        },
+                        "cost": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "blockCnt": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "moveSpeed": {
+                            "m_defined": true,
+                            "m_value": 1.0
+                        },
+                        "attackSpeed": {
+                            "m_defined": true,
+                            "m_value": 100.0
+                        },
+                        "baseAttackTime": {
+                            "m_defined": true,
+                            "m_value": 1.0
+                        },
+                        "respawnTime": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "hpRecoveryPerSec": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "spRecoveryPerSec": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "maxDeployCount": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "massLevel": {
+                            "m_defined": true,
+                            "m_value": 1
+                        },
+                        "baseForceLevel": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "tauntLevel": {
+                            "m_defined": true,
+                            "m_value": 2
+                        },
+                        "epDamageResistance": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "epResistance": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "damageHitratePhysical": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "damageHitrateMagical": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "epBreakRecoverSpeed": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "blockVolume": {
+                            "m_defined": true,
+                            "m_value": 0
+                        },
+                        "stunImmune": {
+                            "m_defined": true,
+                            "m_value": false
+                        },
+                        "silenceImmune": {
+                            "m_defined": true,
+                            "m_value": false
+                        },
+                        "sleepImmune": {
+                            "m_defined": true,
+                            "m_value": false
+                        },
+                        "frozenImmune": {
+                            "m_defined": true,
+                            "m_value": true
+                        },
+                        "levitateImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "disarmedCombatImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "fearedImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "palsyImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "attractImmune": null,
+                        "teleportImmune": null,
+                        "groundBoundImmune": null
+                    },
+                    "applyWay": {
+                        "m_defined": true,
+                        "m_value": "NONE"
+                    },
+                    "motion": {
+                        "m_defined": true,
+                        "m_value": "WALK"
+                    },
+                    "enemyTags": {
+                        "m_defined": true,
+                        "m_value": []
+                    },
+                    "lifePointReduce": {
+                        "m_defined": true,
+                        "m_value": 1
+                    },
+                    "levelType": {
+                        "m_defined": true,
+                        "m_value": "ELITE"
+                    },
+                    "rangeRadius": {
+                        "m_defined": true,
+                        "m_value": -1.0
+                    },
+                    "numOfExtraDrops": {
+                        "m_defined": true,
+                        "m_value": 0
+                    },
+                    "viewRadius": {
+                        "m_defined": false,
+                        "m_value": 0.0
+                    },
+                    "notCountInTotal": {
+                        "m_defined": false,
+                        "m_value": false
+                    },
+                    "talentBlackboard": [
+                        {
+                            "key": "aura.block_cnt",
+                            "value": 4.0,
+                            "valueStr": null
+                        },
+                        {
+                            "key": "physic.friction_factor",
+                            "value": 0.2,
+                            "valueStr": null
+                        },
+                        {
+                            "key": "physic.restitution_factor",
+                            "value": 1.0,
+                            "valueStr": null
+                        },
+                        {
+                            "key": "physic.value",
+                            "value": 500.0,
+                            "valueStr": null
+                        },
+                        {
+                            "key": "physic.force",
+                            "value": 600.0,
+                            "valueStr": null
+                        }
+                    ],
+                    "skills": [
+                        {
+                            "prefabKey": "Countdown",
+                            "priority": 0,
+                            "cooldown": 9999.0,
+                            "initCooldown": 0.0,
+                            "spCost": 0,
+                            "blackboard": null
+                        }
+                    ],
+                    "spData": {
+                        "spType": "INCREASE_WHEN_ATTACK",
+                        "maxSp": 2,
+                        "initSp": 0,
+                        "increment": 1.0
+                    }
+                }
+            },
+            {
+                "level": 1,
+                "enemyData": {
+                    "name": {
+                        "m_defined": false,
+                        "m_value": null
+                    },
+                    "description": {
+                        "m_defined": false,
+                        "m_value": null
+                    },
+                    "prefabKey": {
+                        "m_defined": false,
+                        "m_value": null
+                    },
+                    "attributes": {
+                        "maxHp": {
+                            "m_defined": false,
+                            "m_value": 80000
+                        },
+                        "atk": {
+                            "m_defined": false,
+                            "m_value": 2250
+                        },
+                        "def": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "magicResistance": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "cost": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "blockCnt": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "moveSpeed": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "attackSpeed": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "baseAttackTime": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "respawnTime": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "hpRecoveryPerSec": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "spRecoveryPerSec": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "maxDeployCount": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "massLevel": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "baseForceLevel": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "tauntLevel": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "epDamageResistance": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "epResistance": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "damageHitratePhysical": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "damageHitrateMagical": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "epBreakRecoverSpeed": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "blockVolume": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "stunImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "silenceImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "sleepImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "frozenImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "levitateImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "disarmedCombatImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "fearedImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "palsyImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "attractImmune": null,
+                        "teleportImmune": null,
+                        "groundBoundImmune": null
+                    },
+                    "applyWay": {
+                        "m_defined": false,
+                        "m_value": "NONE"
+                    },
+                    "motion": {
+                        "m_defined": false,
+                        "m_value": "WALK"
+                    },
+                    "enemyTags": {
+                        "m_defined": false,
+                        "m_value": null
+                    },
+                    "lifePointReduce": {
+                        "m_defined": false,
+                        "m_value": 0
+                    },
+                    "levelType": {
+                        "m_defined": false,
+                        "m_value": "NORMAL"
+                    },
+                    "rangeRadius": {
+                        "m_defined": false,
+                        "m_value": 0.0
+                    },
+                    "numOfExtraDrops": {
+                        "m_defined": false,
+                        "m_value": 0
+                    },
+                    "viewRadius": {
+                        "m_defined": false,
+                        "m_value": 0.0
+                    },
+                    "notCountInTotal": {
+                        "m_defined": false,
+                        "m_value": false
+                    },
+                    "talentBlackboard": null,
+                    "skills": [
+                        {
+                            "prefabKey": "slapshot",
+                            "priority": 0,
+                            "cooldown": 0.0,
+                            "initCooldown": 0.0,
+                            "spCost": 0,
+                            "blackboard": []
+                        },
+                        {
+                            "prefabKey": "clearance",
+                            "priority": 0,
+                            "cooldown": 20.0,
+                            "initCooldown": 20.0,
+                            "spCost": 0,
+                            "blackboard": []
+                        }
+                    ],
+                    "spData": null
+                }
+            }
+        ]
+    },
+    {
+        "Key": "enemy_4067_mucycl",
+        "Value": [
+            {
+                "level": 0,
+                "enemyData": {
+                    "name": {
+                        "m_defined": true,
+                        "m_value": "Tornado"
+                    },
+                    "description": {
+                        "m_defined": true,
+                        "m_value": "Tornadoes appear on the Twister Field, impeding play."
+                    },
+                    "prefabKey": {
+                        "m_defined": true,
+                        "m_value": "enemy_4067_mucycl"
+                    },
+                    "attributes": {
+                        "maxHp": {
+                            "m_defined": true,
+                            "m_value": 1000
+                        },
+                        "atk": {
+                            "m_defined": true,
+                            "m_value": 10000
+                        },
+                        "def": {
+                            "m_defined": true,
+                            "m_value": 0
+                        },
+                        "magicResistance": {
+                            "m_defined": true,
+                            "m_value": 0.0
+                        },
+                        "cost": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "blockCnt": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "moveSpeed": {
+                            "m_defined": true,
+                            "m_value": 1.0
+                        },
+                        "attackSpeed": {
+                            "m_defined": true,
+                            "m_value": 100.0
+                        },
+                        "baseAttackTime": {
+                            "m_defined": true,
+                            "m_value": 1.0
+                        },
+                        "respawnTime": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "hpRecoveryPerSec": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "spRecoveryPerSec": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "maxDeployCount": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "massLevel": {
+                            "m_defined": true,
+                            "m_value": 1
+                        },
+                        "baseForceLevel": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "tauntLevel": {
+                            "m_defined": true,
+                            "m_value": 2
+                        },
+                        "epDamageResistance": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "epResistance": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "damageHitratePhysical": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "damageHitrateMagical": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "epBreakRecoverSpeed": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "blockVolume": {
+                            "m_defined": true,
+                            "m_value": -1387527935
+                        },
+                        "stunImmune": {
+                            "m_defined": true,
+                            "m_value": true
+                        },
+                        "silenceImmune": {
+                            "m_defined": true,
+                            "m_value": true
+                        },
+                        "sleepImmune": {
+                            "m_defined": true,
+                            "m_value": true
+                        },
+                        "frozenImmune": {
+                            "m_defined": true,
+                            "m_value": true
+                        },
+                        "levitateImmune": {
+                            "m_defined": true,
+                            "m_value": true
+                        },
+                        "disarmedCombatImmune": {
+                            "m_defined": true,
+                            "m_value": true
+                        },
+                        "fearedImmune": {
+                            "m_defined": true,
+                            "m_value": true
+                        },
+                        "palsyImmune": {
+                            "m_defined": true,
+                            "m_value": true
+                        },
+                        "attractImmune": null,
+                        "teleportImmune": null,
+                        "groundBoundImmune": null
+                    },
+                    "applyWay": {
+                        "m_defined": true,
+                        "m_value": "NONE"
+                    },
+                    "motion": {
+                        "m_defined": true,
+                        "m_value": "FLY"
+                    },
+                    "enemyTags": {
+                        "m_defined": true,
+                        "m_value": []
+                    },
+                    "lifePointReduce": {
+                        "m_defined": true,
+                        "m_value": 0
+                    },
+                    "levelType": {
+                        "m_defined": true,
+                        "m_value": "NORMAL"
+                    },
+                    "rangeRadius": {
+                        "m_defined": true,
+                        "m_value": -1.0
+                    },
+                    "numOfExtraDrops": {
+                        "m_defined": true,
+                        "m_value": 0
+                    },
+                    "viewRadius": {
+                        "m_defined": false,
+                        "m_value": 0.0
+                    },
+                    "notCountInTotal": {
+                        "m_defined": false,
+                        "m_value": false
+                    },
+                    "talentBlackboard": [
+                        {
+                            "key": "Passive.radius",
+                            "value": 1.2,
+                            "valueStr": null
+                        }
+                    ],
+                    "skills": null,
+                    "spData": null
+                }
+            },
+            {
+                "level": 1,
+                "enemyData": {
+                    "name": {
+                        "m_defined": false,
+                        "m_value": null
+                    },
+                    "description": {
+                        "m_defined": false,
+                        "m_value": null
+                    },
+                    "prefabKey": {
+                        "m_defined": false,
+                        "m_value": null
+                    },
+                    "attributes": {
+                        "maxHp": {
+                            "m_defined": false,
+                            "m_value": 80000
+                        },
+                        "atk": {
+                            "m_defined": false,
+                            "m_value": 2250
+                        },
+                        "def": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "magicResistance": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "cost": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "blockCnt": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "moveSpeed": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "attackSpeed": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "baseAttackTime": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "respawnTime": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "hpRecoveryPerSec": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "spRecoveryPerSec": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "maxDeployCount": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "massLevel": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "baseForceLevel": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "tauntLevel": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "epDamageResistance": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "epResistance": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "damageHitratePhysical": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "damageHitrateMagical": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "epBreakRecoverSpeed": {
+                            "m_defined": false,
+                            "m_value": 0.0
+                        },
+                        "blockVolume": {
+                            "m_defined": false,
+                            "m_value": 0
+                        },
+                        "stunImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "silenceImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "sleepImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "frozenImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "levitateImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "disarmedCombatImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "fearedImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "palsyImmune": {
+                            "m_defined": false,
+                            "m_value": false
+                        },
+                        "attractImmune": null,
+                        "teleportImmune": null,
+                        "groundBoundImmune": null
+                    },
+                    "applyWay": {
+                        "m_defined": false,
+                        "m_value": "NONE"
+                    },
+                    "motion": {
+                        "m_defined": false,
+                        "m_value": "WALK"
+                    },
+                    "enemyTags": {
+                        "m_defined": false,
+                        "m_value": null
+                    },
+                    "lifePointReduce": {
+                        "m_defined": false,
+                        "m_value": 0
+                    },
+                    "levelType": {
+                        "m_defined": false,
+                        "m_value": "NORMAL"
+                    },
+                    "rangeRadius": {
+                        "m_defined": false,
+                        "m_value": 0.0
+                    },
+                    "numOfExtraDrops": {
+                        "m_defined": false,
+                        "m_value": 0
+                    },
+                    "viewRadius": {
+                        "m_defined": false,
+                        "m_value": 0.0
+                    },
+                    "notCountInTotal": {
+                        "m_defined": false,
+                        "m_value": false
+                    },
+                    "talentBlackboard": null,
+                    "skills": [
+                        {
+                            "prefabKey": "slapshot",
+                            "priority": 0,
+                            "cooldown": 0.0,
+                            "initCooldown": 0.0,
+                            "spCost": 0,
+                            "blackboard": []
+                        },
+                        {
+                            "prefabKey": "clearance",
+                            "priority": 0,
+                            "cooldown": 20.0,
+                            "initCooldown": 20.0,
+                            "spCost": 0,
+                            "blackboard": []
+                        }
+                    ],
+                    "spData": null
+                }
+            }
+        ]
+    },
+    {
         "Key": "enemy_5001_lazdfd",
         "Value": [
             {
@@ -410059,7 +413713,7 @@
                         },
                         "blockVolume": {
                             "m_defined": true,
-                            "m_value": 1107034369
+                            "m_value": 270532865
                         },
                         "stunImmune": {
                             "m_defined": true,
@@ -411811,7 +415465,7 @@
                         },
                         "blockVolume": {
                             "m_defined": true,
-                            "m_value": 651034881
+                            "m_value": -185466623
                         },
                         "stunImmune": {
                             "m_defined": true,
@@ -412015,7 +415669,7 @@
                         },
                         "blockVolume": {
                             "m_defined": true,
-                            "m_value": 590741761
+                            "m_value": -245759743
                         },
                         "stunImmune": {
                             "m_defined": true,
@@ -412810,7 +416464,7 @@
                         },
                         "blockVolume": {
                             "m_defined": true,
-                            "m_value": 332529921
+                            "m_value": -503971583
                         },
                         "stunImmune": {
                             "m_defined": true,
@@ -414021,7 +417675,7 @@
                         },
                         "blockVolume": {
                             "m_defined": false,
-                            "m_value": -436160511
+                            "m_value": -439428095
                         },
                         "stunImmune": {
                             "m_defined": false,
@@ -414220,7 +417874,7 @@
                         },
                         "blockVolume": {
                             "m_defined": false,
-                            "m_value": -436342783
+                            "m_value": -439610367
                         },
                         "stunImmune": {
                             "m_defined": false,
@@ -414421,7 +418075,7 @@
                         },
                         "blockVolume": {
                             "m_defined": true,
-                            "m_value": -78774015
+                            "m_value": -915275519
                         },
                         "stunImmune": {
                             "m_defined": true,
@@ -415499,7 +419153,7 @@
                         },
                         "blockVolume": {
                             "m_defined": true,
-                            "m_value": -384827135
+                            "m_value": -1221328639
                         },
                         "stunImmune": {
                             "m_defined": true,
@@ -415715,7 +419369,7 @@
                         },
                         "blockVolume": {
                             "m_defined": true,
-                            "m_value": -445120255
+                            "m_value": -1281621759
                         },
                         "stunImmune": {
                             "m_defined": true,
@@ -415909,7 +419563,7 @@
                         },
                         "blockVolume": {
                             "m_defined": true,
-                            "m_value": -497286911
+                            "m_value": -1333788415
                         },
                         "stunImmune": {
                             "m_defined": true,
@@ -416306,7 +419960,7 @@
                         },
                         "blockVolume": {
                             "m_defined": true,
-                            "m_value": -607387391
+                            "m_value": -1443888895
                         },
                         "stunImmune": {
                             "m_defined": true,
@@ -417648,7 +421302,7 @@
                         },
                         "blockVolume": {
                             "m_defined": true,
-                            "m_value": -979762943
+                            "m_value": -1816264447
                         },
                         "stunImmune": {
                             "m_defined": true,
@@ -417916,7 +421570,7 @@
                         },
                         "blockVolume": {
                             "m_defined": true,
-                            "m_value": -1065484031
+                            "m_value": -1901985535
                         },
                         "stunImmune": {
                             "m_defined": true,
@@ -418455,7 +422109,7 @@
                         },
                         "blockVolume": {
                             "m_defined": true,
-                            "m_value": -1242824447
+                            "m_value": -2079325951
                         },
                         "stunImmune": {
                             "m_defined": true,
@@ -418723,7 +422377,7 @@
                         },
                         "blockVolume": {
                             "m_defined": false,
-                            "m_value": -441418751
+                            "m_value": -444686335
                         },
                         "stunImmune": {
                             "m_defined": false,
@@ -419168,7 +422822,7 @@
                         },
                         "blockVolume": {
                             "m_defined": true,
-                            "m_value": -1450966783
+                            "m_value": 2007499009
                         },
                         "stunImmune": {
                             "m_defined": true,
@@ -419354,7 +423008,7 @@
                         },
                         "blockVolume": {
                             "m_defined": true,
-                            "m_value": -1495793407
+                            "m_value": 1962672385
                         },
                         "stunImmune": {
                             "m_defined": true,
@@ -420090,7 +423744,7 @@
                         },
                         "blockVolume": {
                             "m_defined": true,
-                            "m_value": -1729887999
+                            "m_value": 1728577793
                         },
                         "stunImmune": {
                             "m_defined": true,
@@ -420575,7 +424229,7 @@
                         },
                         "blockVolume": {
                             "m_defined": true,
-                            "m_value": -1876688639
+                            "m_value": 1581777153
                         },
                         "stunImmune": {
                             "m_defined": true,
@@ -421558,7 +425212,7 @@
                         },
                         "blockVolume": {
                             "m_defined": true,
-                            "m_value": 2102657281
+                            "m_value": 1266155777
                         },
                         "stunImmune": {
                             "m_defined": true,
@@ -421752,7 +425406,7 @@
                         },
                         "blockVolume": {
                             "m_defined": true,
-                            "m_value": 2054816001
+                            "m_value": 1218314497
                         },
                         "stunImmune": {
                             "m_defined": true,
@@ -426132,7 +429786,7 @@
                         },
                         "blockVolume": {
                             "m_defined": true,
-                            "m_value": 891289857
+                            "m_value": 54788353
                         },
                         "stunImmune": {
                             "m_defined": true,
@@ -426378,7 +430032,7 @@
                         },
                         "blockVolume": {
                             "m_defined": true,
-                            "m_value": 811073793
+                            "m_value": -25427711
                         },
                         "stunImmune": {
                             "m_defined": true,
@@ -428521,7 +432175,7 @@
                         },
                         "blockVolume": {
                             "m_defined": true,
-                            "m_value": 242221313
+                            "m_value": -594280191
                         },
                         "stunImmune": {
                             "m_defined": true,
@@ -430143,7 +433797,7 @@
                         },
                         "blockVolume": {
                             "m_defined": true,
-                            "m_value": -233832191
+                            "m_value": -1070333695
                         },
                         "stunImmune": {
                             "m_defined": true,
@@ -430396,7 +434050,7 @@
                         },
                         "blockVolume": {
                             "m_defined": true,
-                            "m_value": -309591807
+                            "m_value": -1146093311
                         },
                         "stunImmune": {
                             "m_defined": true,
@@ -430657,7 +434311,7 @@
                         },
                         "blockVolume": {
                             "m_defined": true,
-                            "m_value": -391118591
+                            "m_value": -1227620095
                         },
                         "stunImmune": {
                             "m_defined": true,
@@ -435034,7 +438688,7 @@
                         },
                         "blockVolume": {
                             "m_defined": true,
-                            "m_value": -1523842815
+                            "m_value": 1934622977
                         },
                         "stunImmune": {
                             "m_defined": false,
@@ -436053,7 +439707,7 @@
                         },
                         "blockVolume": {
                             "m_defined": true,
-                            "m_value": -1783365375
+                            "m_value": 1675100417
                         },
                         "stunImmune": {
                             "m_defined": true,
@@ -436581,7 +440235,7 @@
                         },
                         "blockVolume": {
                             "m_defined": true,
-                            "m_value": -1951399679
+                            "m_value": 1507066113
                         },
                         "stunImmune": {
                             "m_defined": true,
@@ -437841,7 +441495,7 @@
                         },
                         "blockVolume": {
                             "m_defined": true,
-                            "m_value": 1928593665
+                            "m_value": 1092092161
                         },
                         "stunImmune": {
                             "m_defined": true,
@@ -439929,7 +443583,7 @@
                         },
                         "blockVolume": {
                             "m_defined": true,
-                            "m_value": 1285947649
+                            "m_value": 449446145
                         },
                         "stunImmune": {
                             "m_defined": true,
@@ -441256,7 +444910,7 @@
                         },
                         "blockVolume": {
                             "m_defined": true,
-                            "m_value": 846070017
+                            "m_value": 9568513
                         },
                         "stunImmune": {
                             "m_defined": true,
@@ -441523,7 +445177,7 @@
                         },
                         "blockVolume": {
                             "m_defined": true,
-                            "m_value": 749863169
+                            "m_value": -86638335
                         },
                         "stunImmune": {
                             "m_defined": true,
@@ -458980,7 +462634,7 @@
                         },
                         "blockVolume": {
                             "m_defined": true,
-                            "m_value": 944242945
+                            "m_value": 107741441
                         },
                         "stunImmune": {
                             "m_defined": true,
@@ -459237,7 +462891,7 @@
                         },
                         "blockVolume": {
                             "m_defined": true,
-                            "m_value": 860881153
+                            "m_value": 24379649
                         },
                         "stunImmune": {
                             "m_defined": true,
@@ -459515,7 +463169,7 @@
                         },
                         "blockVolume": {
                             "m_defined": true,
-                            "m_value": 765460737
+                            "m_value": -71040767
                         },
                         "stunImmune": {
                             "m_defined": true,
@@ -459813,7 +463467,7 @@
                         },
                         "blockVolume": {
                             "m_defined": true,
-                            "m_value": 659816705
+                            "m_value": -176684799
                         },
                         "stunImmune": {
                             "m_defined": true,
@@ -460010,7 +463664,7 @@
                         },
                         "blockVolume": {
                             "m_defined": true,
-                            "m_value": 615252225
+                            "m_value": -221249279
                         },
                         "stunImmune": {
                             "m_defined": true,
@@ -460202,7 +463856,7 @@
                         },
                         "blockVolume": {
                             "m_defined": true,
-                            "m_value": 573047041
+                            "m_value": -263454463
                         },
                         "stunImmune": {
                             "m_defined": true,
@@ -460442,7 +464096,7 @@
                         },
                         "blockVolume": {
                             "m_defined": true,
-                            "m_value": 506462465
+                            "m_value": -330039039
                         },
                         "stunImmune": {
                             "m_defined": true,
@@ -461100,7 +464754,7 @@
                         },
                         "blockVolume": {
                             "m_defined": true,
-                            "m_value": 341836033
+                            "m_value": -494665471
                         },
                         "stunImmune": {
                             "m_defined": true,
@@ -461419,7 +465073,7 @@
                         },
                         "blockVolume": {
                             "m_defined": true,
-                            "m_value": 224133377
+                            "m_value": -612368127
                         },
                         "stunImmune": {
                             "m_defined": true,
@@ -461758,7 +465412,7 @@
                         },
                         "blockVolume": {
                             "m_defined": true,
-                            "m_value": 93323521
+                            "m_value": -743177983
                         },
                         "stunImmune": {
                             "m_defined": true,
@@ -462147,7 +465801,7 @@
                         },
                         "blockVolume": {
                             "m_defined": true,
-                            "m_value": -66846463
+                            "m_value": -903347967
                         },
                         "stunImmune": {
                             "m_defined": true,
@@ -462666,7 +466320,7 @@
                         },
                         "blockVolume": {
                             "m_defined": true,
-                            "m_value": -240254719
+                            "m_value": -1076756223
                         },
                         "stunImmune": {
                             "m_defined": true,
@@ -462944,7 +466598,7 @@
                         },
                         "blockVolume": {
                             "m_defined": true,
-                            "m_value": -332791551
+                            "m_value": -1169293055
                         },
                         "stunImmune": {
                             "m_defined": true,
@@ -463301,7 +466955,7 @@
                         },
                         "blockVolume": {
                             "m_defined": true,
-                            "m_value": -469106431
+                            "m_value": -1305607935
                         },
                         "stunImmune": {
                             "m_defined": true,
@@ -464924,7 +468578,7 @@
                         },
                         "blockVolume": {
                             "m_defined": true,
-                            "m_value": -1081081599
+                            "m_value": -1917583103
                         },
                         "stunImmune": {
                             "m_defined": true,
@@ -469707,7 +473361,7 @@
                         },
                         "blockVolume": {
                             "m_defined": true,
-                            "m_value": 1744830721
+                            "m_value": 908329217
                         },
                         "stunImmune": {
                             "m_defined": true,
@@ -469944,7 +473598,7 @@
                         },
                         "blockVolume": {
                             "m_defined": true,
-                            "m_value": 1673789697
+                            "m_value": 837288193
                         },
                         "stunImmune": {
                             "m_defined": true,
@@ -470194,7 +473848,7 @@
                         },
                         "blockVolume": {
                             "m_defined": false,
-                            "m_value": -497072127
+                            "m_value": -500339711
                         },
                         "stunImmune": {
                             "m_defined": true,
@@ -470430,7 +474084,7 @@
                         },
                         "blockVolume": {
                             "m_defined": false,
-                            "m_value": -497358847
+                            "m_value": -500626431
                         },
                         "stunImmune": {
                             "m_defined": true,
@@ -470666,7 +474320,7 @@
                         },
                         "blockVolume": {
                             "m_defined": true,
-                            "m_value": 1452802305
+                            "m_value": 616300801
                         },
                         "stunImmune": {
                             "m_defined": true,
@@ -470884,7 +474538,7 @@
                         },
                         "blockVolume": {
                             "m_defined": true,
-                            "m_value": 1399324929
+                            "m_value": 562823425
                         },
                         "stunImmune": {
                             "m_defined": true,
@@ -471122,7 +474776,7 @@
                         },
                         "blockVolume": {
                             "m_defined": true,
-                            "m_value": 1324613889
+                            "m_value": 488112385
                         },
                         "stunImmune": {
                             "m_defined": true,
@@ -472060,7 +475714,7 @@
                         },
                         "blockVolume": {
                             "m_defined": true,
-                            "m_value": 1063518465
+                            "m_value": 227016961
                         },
                         "stunImmune": {
                             "m_defined": true,
@@ -472299,7 +475953,7 @@
                         },
                         "blockVolume": {
                             "m_defined": true,
-                            "m_value": 993788161
+                            "m_value": 157286657
                         },
                         "stunImmune": {
                             "m_defined": true,
@@ -472538,7 +476192,7 @@
                         },
                         "blockVolume": {
                             "m_defined": true,
-                            "m_value": 924057857
+                            "m_value": 87556353
                         },
                         "stunImmune": {
                             "m_defined": true,
@@ -473524,7 +477178,7 @@
                         },
                         "blockVolume": {
                             "m_defined": true,
-                            "m_value": 643301633
+                            "m_value": -193199871
                         },
                         "stunImmune": {
                             "m_defined": true,
